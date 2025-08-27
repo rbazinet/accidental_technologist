@@ -1,6 +1,6 @@
 ---
 id: 1626
-title: 'Discover DevUtils.app &#8211; Toolbox for Developers'
+title: 'Discover DevUtils.app - Toolbox for Developers'
 date: '2021-04-19T10:15:42-04:00'
 author: 'Rob Bazinet'
 layout: post

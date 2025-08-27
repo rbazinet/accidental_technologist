@@ -1,6 +1,6 @@
 ---
 id: 1755
-title: 'It has certainly been a long time&#8230;'
+title: 'It has certainly been a long time...'
 date: '2023-03-27T11:20:35-04:00'
 author: 'Rob Bazinet'
 layout: post
