@@ -1,6 +1,6 @@
 ---
 id: 250
-title: 'ASP.NET MVC Framework Preview 2 &#8211; Changes for the Better'
+title: 'ASP.NET MVC Framework Preview 2 - Changes for the Better'
 date: '2008-03-17T14:50:00-04:00'
 author: 'Rob Bazinet'
 layout: post

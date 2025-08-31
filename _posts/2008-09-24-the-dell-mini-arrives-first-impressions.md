@@ -1,6 +1,6 @@
 ---
 id: 312
-title: 'The Dell Mini Arrives &#8211; First Impressions'
+title: 'The Dell Mini Arrives - First Impressions'
 date: '2008-09-24T12:47:47-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 129
-title: 'InfoQ &#8211; First Article is Published'
+title: 'InfoQ - First Article is Published'
 date: '2007-08-15T14:58:00-04:00'
 author: 'Rob Bazinet'
 layout: post

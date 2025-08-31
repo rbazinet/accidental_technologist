@@ -1,6 +1,6 @@
 ---
 id: 331
-title: '2008 &#8211; Another Year Gone By'
+title: '2008 - Another Year Gone By'
 date: '2008-12-31T12:40:27-05:00'
 author: 'Rob Bazinet'
 layout: post

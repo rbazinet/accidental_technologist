@@ -1,6 +1,6 @@
 ---
 id: 208
-title: 'Instant Rails 2.0 Update, Instant Rails 2.0 Lite Coming&#8230;'
+title: 'Instant Rails 2.0 Update, Instant Rails 2.0 Lite Coming...'
 date: '2008-01-11T17:57:00-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -40,7 +40,7 @@ Instant Rails 2.0 Lite will include the following:
 - RubyGems
 - Rake
 - Capistrano
-- CookBook Sample Application with Rails 2.0.2 &amp; SQLite3 support.
+- CookBook Sample Application with Rails 2.0.2 & SQLite3 support.
 
 I hope this makes some users happy. The standard version of Instant Rails 2.0 will remain the same, supported and updated. I think two versions will cover more users and the new version will have a smaller, lighter footprint. When will this happen? Well, not sure yet but I would like to get the leg work done of the next couple weeks and posted in early February. I am being conservative, if I can make it happen sooner, I will.
 

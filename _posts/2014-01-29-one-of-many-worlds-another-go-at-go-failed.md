@@ -1,6 +1,6 @@
 ---
 id: 965
-title: 'One of Many Worlds: Another go at Go &#8230; failed!'
+title: 'One of Many Worlds: Another go at Go ... failed!'
 date: '2014-01-29T06:15:54-05:00'
 author: 'Rob Bazinet'
 layout: post
