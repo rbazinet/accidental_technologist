@@ -1,6 +1,6 @@
 ---
 id: 143
-title: 'Ruby Makes You a Better Person &#8211; Scott Bellware'
+title: 'Ruby Makes You a Better Person - Scott Bellware'
 date: '2007-09-10T08:57:00-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 132
-title: 'Public Hotfix Patch Available for VS 2005 F5 Debugging Performance Issue with ASP.NET &#8211; ScottGu&#8217;s Blog'
+title: 'Public Hotfix Patch Available for VS 2005 F5 Debugging Performance Issue with ASP.NET - ScottGu's Blog'
 date: '2007-08-21T10:54:00-04:00'
 author: 'Rob Bazinet'
 layout: post

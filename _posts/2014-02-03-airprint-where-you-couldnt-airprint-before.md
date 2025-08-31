@@ -1,6 +1,6 @@
 ---
 id: 974
-title: 'AirPrint Where You Couldn&#8217;t AirPrint Before'
+title: 'AirPrint Where You Couldn't AirPrint Before'
 date: '2014-02-03T09:00:40-05:00'
 author: 'Rob Bazinet'
 layout: post

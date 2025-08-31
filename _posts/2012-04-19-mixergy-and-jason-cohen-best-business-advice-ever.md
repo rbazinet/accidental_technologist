@@ -1,6 +1,6 @@
 ---
 id: 710
-title: 'Mixergy and Jason Cohen &#8211; Best Business Advice Ever'
+title: 'Mixergy and Jason Cohen - Best Business Advice Ever'
 date: '2012-04-19T09:00:45-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 113
-title: 'Subversion Bridge Coming&#8230;'
+title: 'Subversion Bridge Coming...'
 date: '2007-06-20T17:48:00-04:00'
 author: 'Rob Bazinet'
 layout: post

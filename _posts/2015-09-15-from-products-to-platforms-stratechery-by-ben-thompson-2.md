@@ -1,6 +1,6 @@
 ---
 id: 1076
-title: 'From Products to Platforms &#8211; Stratechery by Ben Thompson'
+title: 'From Products to Platforms - Stratechery by Ben Thompson'
 date: '2015-09-15T09:12:18-04:00'
 author: 'Rob Bazinet'
 layout: post

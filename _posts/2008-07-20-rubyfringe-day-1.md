@@ -1,6 +1,6 @@
 ---
 id: 292
-title: 'RubyFringe &#8211; Day 1'
+title: 'RubyFringe - Day 1'
 date: '2008-07-20T00:40:00-04:00'
 author: 'Rob Bazinet'
 layout: post

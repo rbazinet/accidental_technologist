@@ -1,6 +1,6 @@
 ---
 id: 75
-title: 'Guy Kawasaki&#8217;s The Top Ten Lies of Engineers'
+title: 'Guy Kawasaki's The Top Ten Lies of Engineers'
 date: '2006-05-02T10:41:00-04:00'
 author: 'Rob Bazinet'
 layout: post

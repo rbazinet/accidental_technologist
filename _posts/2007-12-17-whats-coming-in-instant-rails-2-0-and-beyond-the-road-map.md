@@ -1,6 +1,6 @@
 ---
 id: 190
-title: 'What&#8217;s Coming in Instant Rails 2.0 and Beyond &#8211; The Road Map'
+title: 'What's Coming in Instant Rails 2.0 and Beyond - The Road Map'
 date: '2007-12-17T18:32:00-05:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 60
-title: 'New discovery &#8211; ObjectView Magazine'
+title: 'New discovery - ObjectView Magazine'
 date: '2006-03-03T08:47:00-05:00'
 author: 'Rob Bazinet'
 layout: post

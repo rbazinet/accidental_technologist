@@ -1,6 +1,6 @@
 ---
 id: 1260
-title: 'When You Can&#8217;t Check a Checkbox using Capybara'
+title: 'When You Can't Check a Checkbox using Capybara'
 date: '2018-12-05T09:00:55-05:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 119
-title: 'ELMAH &#8211; Google Code'
+title: 'ELMAH - Google Code'
 date: '2007-07-10T09:27:00-04:00'
 author: 'Rob Bazinet'
 layout: post

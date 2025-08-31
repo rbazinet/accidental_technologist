@@ -1,6 +1,6 @@
 ---
 id: 208
-title: 'Instant Rails 2.0 Update, Instant Rails 2.0 Lite Coming&#8230;'
+title: 'Instant Rails 2.0 Update, Instant Rails 2.0 Lite Coming...'
 date: '2008-01-11T17:57:00-05:00'
 author: 'Rob Bazinet'
 layout: post

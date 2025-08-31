@@ -1,6 +1,6 @@
 ---
 id: 1122
-title: 'Tip: Save Typing &#8216;bundle exec&#8217;'
+title: 'Tip: Save Typing 'bundle exec''
 date: '2017-02-17T09:55:55-05:00'
 author: 'Rob Bazinet'
 layout: post
