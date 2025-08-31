@@ -60,6 +60,9 @@ defaults:
 lang: en_US
 locale: en_US
 
+# Timezone configuration
+timezone: America/New_York
+
 # Build settings
 theme: minima
 plugins:
