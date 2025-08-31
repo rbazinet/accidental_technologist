@@ -1,6 +1,6 @@
 ---
 id: 1007
-title: 'Apple iPad Air 2 - The iPad for Which I Have Been Waiting'
+title: 'Apple iPad Air 2 &#8211; The iPad for Which I Have Been Waiting'
 date: '2014-10-24T11:56:16-04:00'
 author: 'Rob Bazinet'
 layout: post

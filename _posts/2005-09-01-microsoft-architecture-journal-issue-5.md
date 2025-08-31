@@ -1,6 +1,6 @@
 ---
 id: 19
-title: 'Microsoft Architecture Journal - Issue 5'
+title: 'Microsoft Architecture Journal &#8211; Issue 5'
 date: '2005-09-01T11:25:00-04:00'
 author: 'Rob Bazinet'
 layout: post

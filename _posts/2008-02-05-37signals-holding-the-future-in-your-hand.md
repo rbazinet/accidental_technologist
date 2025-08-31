@@ -1,6 +1,6 @@
 ---
 id: 226
-title: '37Signals - Holding the future in your hand'
+title: '37Signals &#8211; Holding the future in your hand'
 date: '2008-02-05T19:33:00-05:00'
 author: 'Rob Bazinet'
 layout: post

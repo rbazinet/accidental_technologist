@@ -1,6 +1,6 @@
 ---
 id: 38
-title: 'Roland Weigelt's GhostDoc v1.9.2'
+title: 'Roland Weigelt&#8217;s GhostDoc v1.9.2'
 date: '2005-12-16T19:39:00-05:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 161
-title: 'Chris Bowen's Blog : Major Visual Studio 2008 Announcements Today'
+title: 'Chris Bowen&#8217;s Blog : Major Visual Studio 2008 Announcements Today'
 date: '2007-11-05T19:15:00-05:00'
 author: 'Rob Bazinet'
 layout: post

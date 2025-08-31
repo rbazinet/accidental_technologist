@@ -1,6 +1,6 @@
 ---
 id: 167
-title: 'ASP.NET MVC Framework - Demo App by Scott Guthrie vs. MonoRail and ASPView'
+title: 'ASP.NET MVC Framework &#8211; Demo App by Scott Guthrie vs. MonoRail and ASPView'
 date: '2007-11-14T15:39:00-05:00'
 author: 'Rob Bazinet'
 layout: post

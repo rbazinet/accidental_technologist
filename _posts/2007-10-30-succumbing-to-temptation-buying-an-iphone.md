@@ -1,6 +1,6 @@
 ---
 id: 157
-title: 'Succumbing to temptation - Buying an iPhone'
+title: 'Succumbing to temptation &#8211; Buying an iPhone'
 date: '2007-10-30T19:19:00-04:00'
 author: 'Rob Bazinet'
 layout: post

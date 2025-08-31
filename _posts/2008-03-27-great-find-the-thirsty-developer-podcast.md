@@ -1,6 +1,6 @@
 ---
 id: 253
-title: 'Great find - The Thirsty Developer Podcast'
+title: 'Great find &#8211; The Thirsty Developer Podcast'
 date: '2008-03-27T09:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post

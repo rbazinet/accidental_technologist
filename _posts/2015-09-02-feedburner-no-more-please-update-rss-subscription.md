@@ -1,6 +1,6 @@
 ---
 id: 1068
-title: 'FeedBurner No More - Please Update RSS Subscription'
+title: 'FeedBurner No More &#8211; Please Update RSS Subscription'
 date: '2015-09-02T15:10:30-04:00'
 author: 'Rob Bazinet'
 layout: post

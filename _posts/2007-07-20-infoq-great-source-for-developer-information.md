@@ -1,6 +1,6 @@
 ---
 id: 122
-title: 'InfoQ - Great Source for Developer Information'
+title: 'InfoQ &#8211; Great Source for Developer Information'
 date: '2007-07-20T13:03:00-04:00'
 author: 'Rob Bazinet'
 layout: post

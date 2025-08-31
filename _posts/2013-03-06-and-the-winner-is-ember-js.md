@@ -1,6 +1,6 @@
 ---
 id: 901
-title: 'And the Winner is...Ember.js'
+title: 'And the Winner is&#8230;Ember.js'
 date: '2013-03-06T09:00:41-05:00'
 author: 'Rob Bazinet'
 layout: post

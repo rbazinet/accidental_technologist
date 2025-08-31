@@ -1,6 +1,6 @@
 ---
 id: 125
-title: 'Skyscrapr - Your Introduction to Architecture'
+title: 'Skyscrapr &#8211; Your Introduction to Architecture'
 date: '2007-07-31T15:16:00-04:00'
 author: 'Rob Bazinet'
 layout: post

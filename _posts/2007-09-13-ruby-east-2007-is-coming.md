@@ -1,6 +1,6 @@
 ---
 id: 144
-title: 'Ruby East 2007 is Coming...'
+title: 'Ruby East 2007 is Coming&#8230;'
 date: '2007-09-13T15:51:00-04:00'
 author: 'Rob Bazinet'
 layout: post
