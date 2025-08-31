@@ -1,6 +1,6 @@
 ---
 id: 871
-title: 'Work Hard, Work Smart and Don&#8217;t Play the Lottery'
+title: "Work Hard, Work Smart and Don't Play the Lottery"
 date: '2012-11-20T09:00:53-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -18,9 +18,8 @@ tags:
     - 'App Store'
     - Apple
     - iOS
-    - mobile
+    - mobile'
 ---
-
 ![Helpful apps](/assets/img/2012/11/helpful_apps.jpg "helpful_apps.jpg")
 
 The New York Times had a great article this past weekend titled?[As Boom Lures App Creators, Tough Part Is Making a Living](http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?smid=tw-share&_r=0). ?As the title indicates, the life of a mobile developer is not often the glamor we hear about. ?The million-dollar jackpots are few and far between and are more difficult now than in the early days of the Apple App Store.
@@ -49,4 +48,4 @@ This is an example of a solution to a real problem, making the life of doctors b
 
 An organization like echoBase has iOS client software and some generic server piece which opens the doors to using other clients as well. ?Anything from Android and Windows RT to web and rich Windows Desktop apps. ?
 
-The Apple App Store is very different today than it was in 2009 but it still holds great value to the people who are smart and don't try to play the app lottery.?
+The Apple App Store is very different today than it was in 2009 but it still holds great value to the people who are smart and don't try to play the app lottery.?"

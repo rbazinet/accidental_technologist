@@ -46,9 +46,9 @@ VSNet2008CmdHere.INF
 HKLM,%UDHERE%,DisplayName,,"%VSNet2008CmdHereName%"
 HKLM,%UDHERE%,UninstallString,,"rundll32.exe syssetup.dll,SetupInfObjectInstallAction DefaultUninstall 132 %17%\VSNet2008CmdHere.inf"
 HKCR,Directory\Shell\VSNet2008CmdHere,,,"%VSNet2008CmdHereAccel%"
-HKCR,Directory\Shell\VSNet2008CmdHere\command,,,"%11%\cmd.exe /k cd ""%1"" && ""D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\vsvars32.bat"""
+HKCR,Directory\Shell\VSNet2008CmdHere\command,,,"%11%\cmd.exe /k cd ""%1"" && ""D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\vsvars32.bat""
 HKCR,Drive\Shell\VSNet2008CmdHere,,,"%VSNet2008CmdHereAccel%"
-HKCR,Drive\Shell\VSNet2008CmdHere\command,,,"%11%\cmd.exe /k cd ""%1"""
+HKCR,Drive\Shell\VSNet2008CmdHere\command,,,"%11%\cmd.exe /k cd ""%1""
 [Strings]
 VSNet2008CmdHereName="VS.NET 2008 Command Prompt Here PowerToy"
 VSNet2008CmdHereAccel="VS.NET &2008 CMD Prompt Here"

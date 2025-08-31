@@ -1,6 +1,6 @@
 ---
 id: 984
-title: 'Welcome Swift, I&#8217;ve Been Waiting For You'
+title: "Welcome Swift, I've Been Waiting For You"
 date: '2014-06-13T09:45:30-04:00'
 author: 'Rob Bazinet'
 layout: post
@@ -11,9 +11,8 @@ dsq_thread_id:
 categories:
     - Swift
 tags:
-    - swift
+    - swift'
 ---
-
 ![Swift hero](/assets/img/2014/06/swift-hero.png "swift-hero.png")
 
 I haven?t blogged here in a while, sometimes life seems to get in the way.
@@ -58,4 +57,4 @@ If you want to play with Swift be aware that you will need the Xcode 6 beta.
 
 I am devouring the Swift documentation and WWDC presentations. ?Over the next few months I will be blogging about it, now that I have a good reason to blog. ?
 
-I will not be [migrating any Objective-C code bases to Swift](https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/buildingcocoaapps/Migration.html)?I don?t see the point. ?I will be writing sample code and creating a new application with only Swift and plan to document the process.
+I will not be [migrating any Objective-C code bases to Swift](https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/buildingcocoaapps/Migration.html)?I don?t see the point. ?I will be writing sample code and creating a new application with only Swift and plan to document the process."

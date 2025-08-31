@@ -1,6 +1,6 @@
 ---
 id: 1122
-title: 'Tip: Save Typing &#8216;bundle exec&#8217;'
+title: "Tip: Save Typing 'bundle exec'"
 date: '2017-02-17T09:55:55-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -12,9 +12,8 @@ categories:
     - Tips
 tags:
     - 'Ruby on Rails'
-    - Tips
+    - Tips'
 ---
-
 If you're a Ruby on Rails developer, you probably type the words *bundle exec* numerous times a day. I finally got tired of it and decided to do something about it. In the context of keeping it simple, I use the 'alias' command and add to my .profile. I know there are more Rails recommended ways of solving this problem via binstubs but I rather not use that approach. My solution is simple, add an alias to my .profile like this:
 
 ```
@@ -29,4 +28,4 @@ bundle exec rspec
 be rspec
 ```
 
- The 'alias' command is super useful and has many applications to help remove repetitive typing tasks.
+ The 'alias' command is super useful and has many applications to help remove repetitive typing tasks."

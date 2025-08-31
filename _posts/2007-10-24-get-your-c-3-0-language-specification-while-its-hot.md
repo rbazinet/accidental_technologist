@@ -1,6 +1,6 @@
 ---
 id: 154
-title: 'Get your C# 3.0 Language Specification while it&#8217;s hot.'
+title: "Get your C# 3.0 Language Specification while it's hot."
 date: '2007-10-24T12:32:00-04:00'
 author: 'Rob Bazinet'
 layout: post
@@ -9,9 +9,8 @@ permalink: /c/get-your-c-3-0-language-specification-while-its-hot/
 categories:
     - 'C#'
 ---
-
 [Fabrice posted](http://weblogs.asp.net/fmarguerie/archive/2007/10/24/c-3-0-and-vb-net-9-0-language-specifications.aspx) about the recently released language specification for C# 3.0 and VB.NET 9.0.
 
 The C# spec contains 519 pages, yikes...is our language getting a bit bloated?
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [C#](http://technorati.com/tags/C#), [VB.NET](http://technorati.com/tags/VB.NET), [Microsoft](http://technorati.com/tags/Microsoft)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [C#](http://technorati.com/tags/C#), [VB.NET](http://technorati.com/tags/VB.NET), [Microsoft](http://technorati.com/tags/Microsoft)</div>"

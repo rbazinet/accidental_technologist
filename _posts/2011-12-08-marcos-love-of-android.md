@@ -1,6 +1,6 @@
 ---
 id: 681
-title: 'Marco&#8217;s Love of Android'
+title: "Marco's Love of Android"
 date: '2011-12-08T09:01:34-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -16,9 +16,8 @@ tags:
     - Android
     - Apple
     - Google
-    - iOS
+    - iOS'
 ---
-
 I have been following an interesting discussion between the [Shifty Jelly](http://shiftyjelly.wordpress.com/) folks and [Marco Arment](http://www.marco.org/) of Instapaper regarding the merits of developing for iOS versus Android and whether it's worth the developer's time (read money) creating for the platform.
 
 [Eric Schmidt spoke recently](http://news.cnet.com/8301-30685_3-57338276-264/googles-schmidt-android-leads-the-iphone/?part=rss&subj=crave&tag=readMore) at Le Web where he said developers, like it or not, will target Android. ?As someone who writes iOS applications, it seemed like an arrogant statement and [Marco had his thoughts](http://www.marco.org/2011/12/07/eric-schmidt-android-leads-the-iphone), which seem reasonable to me:
@@ -46,4 +45,4 @@ Who is making money selling their Android applications today? ?Please leave a co
 
 The dialog is worth the read and is food for thought. ?It's interesting how, since neither allows comments on their blogs, they are forced to trade shots in this way.
 
-?
+?"
