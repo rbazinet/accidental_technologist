@@ -27,6 +27,39 @@ url: "https://accidentaltechnologist.com/" # the base hostname & protocol for yo
 twitter_username: rbazinet
 github_username:  rbazinet
 
+# SEO Settings
+author:
+  name: Rob Bazinet
+  email: rbazinet@accidentaltechnologist.com
+  twitter: rbazinet
+
+# Social media and OpenGraph
+social:
+  name: Rob Bazinet
+  links:
+    - https://twitter.com/rbazinet
+    - https://github.com/rbazinet
+    - https://accidentaltechnologist.com
+
+# Default SEO settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Rob Bazinet"
+      image: /assets/img/default-post-image.png  # Add a default image if you have one
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Additional SEO
+lang: en_US
+locale: en_US
+
 # Build settings
 theme: minima
 plugins:
@@ -61,3 +94,7 @@ jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
     id: G-V8GPSLGQH0          # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+paginate: 10
+paginate_path: "/page:num/"
+      

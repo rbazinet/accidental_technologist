@@ -1,0 +1,97 @@
+---
+layout: default
+title: "Home"
+description: "Musings about Entrepreneurship, Technology and Software Development by Rob Bazinet"
+image: /assets/img/site-logo.png
+---
+
+<div class="home">
+  <h1 class="page-heading">Posts</h1>
+  
+  <!-- Search -->
+  <div class="search-container">
+    <input type="text" id="search-input" placeholder="Search posts..." />
+    <ul id="results-container"></ul>
+  </div>
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">&laquo; Previous</a>
+    {% endif %}
+
+    {% assign current_page = paginator.page %}
+    {% assign total_pages = paginator.total_pages %}
+    
+    <!-- Show first page -->
+    {% if current_page > 3 %}
+      <a href="{{ '/' | relative_url }}">1</a>
+      {% if current_page > 4 %}
+        <span class="gap">…</span>
+      {% endif %}
+    {% endif %}
+    
+    <!-- Show pages around current page -->
+    {% assign start_page = current_page | minus: 2 %}
+    {% assign end_page = current_page | plus: 2 %}
+    {% if start_page < 1 %}{% assign start_page = 1 %}{% endif %}
+    {% if end_page > total_pages %}{% assign end_page = total_pages %}{% endif %}
+    
+    {% for page in (start_page..end_page) %}
+      {% if page == current_page %}
+        <span class="current">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | relative_url }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+    
+    <!-- Show last page -->
+    {% assign show_last_threshold = total_pages | minus: 2 %}
+    {% assign show_gap_threshold = total_pages | minus: 3 %}
+    {% if current_page < show_last_threshold %}
+      {% if current_page < show_gap_threshold %}
+        <span class="gap">…</span>
+      {% endif %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', total_pages }}">{{ total_pages }}</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next &raquo;</a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+
+<!-- Simple Jekyll Search -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('Search script loading...');
+    
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<li><a href="{url}">{title}</a> <span class="search-date">({date})</span></li>',
+      noResultsText: 'No results found',
+      limit: 10,
+      fuzzy: false
+    });
+    
+    console.log('Search initialized');
+  });
+</script>
