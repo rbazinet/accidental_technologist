@@ -1,6 +1,6 @@
 ---
 id: 137
-title: 'ADO.NET Team Releases Entity Framework Beta 2 &#038; the 1st Entity Framework Tools CTP'
+title: 'ADO.NET Team Releases Entity Framework Beta 2 & the 1st Entity Framework Tools CTP'
 date: '2007-08-27T22:14:00-04:00'
 author: 'Rob Bazinet'
 layout: post

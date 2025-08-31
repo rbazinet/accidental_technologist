@@ -1,6 +1,6 @@
 ---
 id: 1043
-title: 'Product + Support &#8211; Hiten Shaw'
+title: 'Product + Support - Hiten Shaw'
 date: '2015-04-30T09:10:05-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 984
-title: 'Welcome Swift, I&#8217;ve Been Waiting For You'
+title: 'Welcome Swift, I've Been Waiting For You'
 date: '2014-06-13T09:45:30-04:00'
 author: 'Rob Bazinet'
 layout: post

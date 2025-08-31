@@ -1,6 +1,6 @@
 ---
 id: 74
-title: 'Architects Who Don&#8217;t Write Code Are Powerpoint Architects'
+title: 'Architects Who Don't Write Code Are Powerpoint Architects'
 date: '2006-04-27T10:21:00-04:00'
 author: 'Rob Bazinet'
 layout: post

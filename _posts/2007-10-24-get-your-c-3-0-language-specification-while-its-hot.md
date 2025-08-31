@@ -1,6 +1,6 @@
 ---
 id: 154
-title: 'Get your C# 3.0 Language Specification while it&#8217;s hot.'
+title: 'Get your C# 3.0 Language Specification while it's hot.'
 date: '2007-10-24T12:32:00-04:00'
 author: 'Rob Bazinet'
 layout: post

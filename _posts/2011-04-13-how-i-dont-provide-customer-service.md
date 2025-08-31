@@ -1,6 +1,6 @@
 ---
 id: 649
-title: 'How I Don&#8217;t Provide Customer Service'
+title: 'How I Don't Provide Customer Service'
 date: '2011-04-13T11:01:39-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 242
-title: 'Apple&#8217;s Time Capsule Cometh'
+title: 'Apple's Time Capsule Cometh'
 date: '2008-02-29T09:40:00-05:00'
 author: 'Rob Bazinet'
 layout: post

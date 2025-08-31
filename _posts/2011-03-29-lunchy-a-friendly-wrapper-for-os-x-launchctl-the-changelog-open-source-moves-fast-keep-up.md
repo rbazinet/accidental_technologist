@@ -1,6 +1,6 @@
 ---
 id: 628
-title: 'lunchy: A friendly wrapper for OS X launchctl &#8211; The Changelog'
+title: 'lunchy: A friendly wrapper for OS X launchctl - The Changelog'
 date: '2011-03-29T11:52:22-04:00'
 author: 'Rob Bazinet'
 layout: post

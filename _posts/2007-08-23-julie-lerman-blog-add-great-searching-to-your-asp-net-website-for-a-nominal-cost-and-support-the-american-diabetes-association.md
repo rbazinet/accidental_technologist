@@ -1,6 +1,6 @@
 ---
 id: 135
-title: 'Julie Lerman Blog &#8211; Add great searching to your ASP.NET website for a nominal cost and support the American Diabetes Association'
+title: 'Julie Lerman Blog - Add great searching to your ASP.NET website for a nominal cost and support the American Diabetes Association'
 date: '2007-08-23T16:36:00-04:00'
 author: 'Rob Bazinet'
 layout: post

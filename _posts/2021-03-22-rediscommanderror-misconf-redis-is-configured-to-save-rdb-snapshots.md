@@ -1,6 +1,6 @@
 ---
 id: 1584
-title: 'Redis::CommandError &#8211; MISCONF Redis is configured to save RDB snapshots'
+title: 'Redis::CommandError - MISCONF Redis is configured to save RDB snapshots'
 date: '2021-03-22T09:11:36-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 392
-title: 'Moving Forward and the Acquisition of Expens&#8217;d'
+title: 'Moving Forward and the Acquisition of Expens'd'
 date: '2010-02-17T09:00:00-05:00'
 author: 'Rob Bazinet'
 layout: post

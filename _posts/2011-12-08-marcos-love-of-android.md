@@ -1,6 +1,6 @@
 ---
 id: 681
-title: 'Marco&#8217;s Love of Android'
+title: 'Marco's Love of Android'
 date: '2011-12-08T09:01:34-05:00'
 author: 'Rob Bazinet'
 layout: post

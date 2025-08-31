@@ -1,6 +1,6 @@
 ---
 id: 1055
-title: 'CODE Keyboard &#8211; The Best Mac Keyboard'
+title: 'CODE Keyboard - The Best Mac Keyboard'
 date: '2015-05-20T09:00:38-04:00'
 author: 'Rob Bazinet'
 layout: post
