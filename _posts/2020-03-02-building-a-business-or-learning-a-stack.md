@@ -1,6 +1,6 @@
 ---
 id: 1454
-title: '&#8220;Are you building a business or learning a stack?&#8221;'
+title: 'Are you building a business or learning a stack?'
 date: '2020-03-02T11:00:08-05:00'
 author: 'Rob Bazinet'
 layout: post

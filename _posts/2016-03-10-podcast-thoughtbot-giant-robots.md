@@ -1,6 +1,6 @@
 ---
 id: 1103
-title: 'Podcast: Thoughtbot &#8211; Giant Robots'
+title: 'Podcast: Thoughtbot - Giant Robots'
 date: '2016-03-10T08:16:25-05:00'
 author: 'Rob Bazinet'
 layout: post

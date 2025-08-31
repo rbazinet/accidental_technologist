@@ -1,6 +1,6 @@
 ---
 id: 1185
-title: 'ABC Family &#8211; Terrible User Experience from a Company Who Should Know Better'
+title: 'ABC Family - Terrible User Experience from a Company Who Should Know Better'
 date: '2018-01-19T07:01:33-05:00'
 author: 'Rob Bazinet'
 layout: post
