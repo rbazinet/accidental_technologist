@@ -1,6 +1,6 @@
 ---
 id: 190
-title: 'What&#8217;s Coming in Instant Rails 2.0 and Beyond &#8211; The Road Map'
+title: "What's Coming in Instant Rails 2.0 and Beyond - The Road Map"
 date: '2007-12-17T18:32:00-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -11,7 +11,6 @@ dsq_thread_id:
 categories:
     - 'Instant Rails'
 ---
-
 Since I [took over](http://rbazinet.wordpress.com/2007/12/13/instant-rails-lives-on/) the [Instant Rails](http://instantrails.rubyforge.org/wiki/wiki.pl) project a short time ago I have been working on learning the structure of the project and figuring out what to put in the next release and beyond. The next release will be Instant Rails 2.0. The reason for the jump is primarily because [Ruby on Rails](http://www.rubyonrails.org) itself has jumped to be 2.0, so why not keep it parallel.
 
 #### **Instant Rails 1.7 Components**
@@ -65,4 +64,4 @@ Since I [took over](http://rbazinet.wordpress.com/2007/12/13/instant-rails-lives
 > rails -d mysql myapp
 > ```
 
- Should SQLite3 be included in the next release of Instant Rails now that SQLite3 is the default database? I tend to think this would be the right thing to do but features like phpMyAdmin become a bit irrelevant being a MySQL tool. I have found a tool called [SQLiteManager](http://sourceforge.net/projects/sqlitemanager/) which is a web-based admin tool for SQLite3 databases. Anyone familiar with it? It appears to be a bit dated. I am planning at looking to upgrade to Ruby 1.9 when available as well as at upgrading to the latest version of MySQL and Apache, but these will have to wait a bit since they work great just the way they are today. The sample Typo 2.6 installation could use an upgrade to Typo 4.x as well. I would like to continue to hear what people would like to see, please email me at \[rbazinet\] at \[gmail.com\] or reply to this post. Technorati Tags: [Instant Rails](http://technorati.com/tags/Instant%20Rails),[Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails)
+ Should SQLite3 be included in the next release of Instant Rails now that SQLite3 is the default database? I tend to think this would be the right thing to do but features like phpMyAdmin become a bit irrelevant being a MySQL tool. I have found a tool called [SQLiteManager](http://sourceforge.net/projects/sqlitemanager/) which is a web-based admin tool for SQLite3 databases. Anyone familiar with it? It appears to be a bit dated. I am planning at looking to upgrade to Ruby 1.9 when available as well as at upgrading to the latest version of MySQL and Apache, but these will have to wait a bit since they work great just the way they are today. The sample Typo 2.6 installation could use an upgrade to Typo 4.x as well. I would like to continue to hear what people would like to see, please email me at \[rbazinet\] at \[gmail.com\] or reply to this post. Technorati Tags: [Instant Rails](http://technorati.com/tags/Instant%20Rails),[Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails)"

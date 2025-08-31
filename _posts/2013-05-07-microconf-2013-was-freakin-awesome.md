@@ -1,6 +1,6 @@
 ---
 id: 913
-title: 'MicroConf 2013 was Freakin&#8217; Awesome'
+title: "MicroConf 2013 was Freakin' Awesome"
 date: '2013-05-07T10:08:25-04:00'
 author: 'Rob Bazinet'
 layout: post
@@ -17,9 +17,8 @@ categories:
 tags:
     - bootstrapping
     - conference
-    - microconf
+    - microconf'
 ---
-
 ![250px Welcome to fabulous las vegas sign](/assets/img/2013/05/250px-Welcome_to_fabulous_las_vegas_sign.jpg "250px-Welcome_to_fabulous_las_vegas_sign.jpg")
 
 I had the opportunity to attend this years rendition of [MicroConf](http://www.microconf.com/) in Las Vegas, NV, run by [Rob Walling](http://www.softwarebyrob.com/) and [Mike Tabor](http://www.singlefounder.com/) and attended by many great people. All I can say, I will be back next year.
@@ -82,4 +81,4 @@ Some attendees wrote up their take or takeaways from the conference as well:?
 
 I'm sure this list is far from exhaustive, but you get the idea. ??
 
-The bottom line for me is this was a great conference that I will be back for next year. ?I walked away from this event with more excitement and to-dos for my business than ever before. ?If you didn't attend this year, you should next year?\*after\* I have my ticket in hand.
+The bottom line for me is this was a great conference that I will be back for next year. ?I walked away from this event with more excitement and to-dos for my business than ever before. ?If you didn't attend this year, you should next year?\*after\* I have my ticket in hand."

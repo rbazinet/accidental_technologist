@@ -1,6 +1,6 @@
 ---
 id: 1260
-title: 'When You Can&#8217;t Check a Checkbox using Capybara'
+title: "When You Can't Check a Checkbox using Capybara"
 date: '2018-12-05T09:00:55-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -12,9 +12,8 @@ tags:
     - capybara
     - rspec
     - 'Ruby on Rails'
-    - tests
+    - tests'
 ---
-
 In my last post I [documented an issue I was having using Capybara](http://accidentaltechnologist.com/ruby-on-rails/fixing-staleelementreferenceerror-when-using-capybara/) on a client’s Ruby on Rails application with a ReactJS frontend. I wanted to share another issue I came across during my feature testing escapades.
 
 # The Problem
@@ -31,4 +30,4 @@ check “English”
 check(“English", allow_label_click: true)
 ```
 
- I hope someone finds this valuable and will save them some time and hair pulling.
+ I hope someone finds this valuable and will save them some time and hair pulling."

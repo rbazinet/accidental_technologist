@@ -1,6 +1,6 @@
 ---
 id: 392
-title: 'Moving Forward and the Acquisition of Expens&#8217;d'
+title: "Moving Forward and the Acquisition of Expens'd"
 date: '2010-02-17T09:00:00-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -9,9 +9,8 @@ permalink: /general/moving-forward-and-the-acquisition-of-expensd/
 dsq_thread_id:
     - '95969137'
 categories:
-    - General
+    - General'
 ---
-
 I mentioned my lofty goals for 2010 in a [previous blog post](http://accidentaltechnologist.com/general/2010-the-year-ahead/). One of the goals is moving some efforts from freelancing work to products which can happen in a couple of ways; either by developing products yourself or by acquisition. Acquisition is how we are introducing the first product in our company.
 
 [![logo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MovingForwardandtheAcquisitionofExpensd_E31E/logo_5.png "logo")](http://expensd.com/)
@@ -34,4 +33,4 @@ I see many great things that can be done in this market. Things that can make th
 
 Readers can follow what is happening with [Expens’d on my company blog](http://blog.stillriversoftware.com/) which will be updated as new features come out. Thank you and stay tuned.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:ff7a9369-8b75-42de-8c5b-c8009dbe57ef" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [expensd](http://technorati.com/tags/expensd),[expense tracking](http://technorati.com/tags/expense+tracking),[still river software](http://technorati.com/tags/still+river+software)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:ff7a9369-8b75-42de-8c5b-c8009dbe57ef" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [expensd](http://technorati.com/tags/expensd),[expense tracking](http://technorati.com/tags/expense+tracking),[still river software](http://technorati.com/tags/still+river+software)</div>"

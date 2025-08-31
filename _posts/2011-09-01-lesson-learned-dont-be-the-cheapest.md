@@ -1,6 +1,6 @@
 ---
 id: 671
-title: 'Lesson Learned : Don&#8217;t Be The Cheapest'
+title: "Lesson Learned : Don't Be The Cheapest"
 date: '2011-09-01T11:15:17-04:00'
 author: 'Rob Bazinet'
 layout: post
@@ -12,9 +12,8 @@ categories:
     - Apple
 tags:
     - Apple
-    - macmall
+    - macmall'
 ---
-
 My new MacBook Air 13" has finally arrived and is a gorgeous example of Apple's design, but this is not about design.
 
 [I documented my horrendous dealings with MacMall](http://accidentaltechnologist.com/apple/macmall-winner-of-the-worst-customer-service-on-the-planet-award/) and the amount of time wasted before finally giving them the boot once and for all. ?I won't go into the painful details of that ordeal but wanted to share my experience with Apple.
@@ -35,4 +34,4 @@ It's really easy and natural to simply chose something based on price but someti
 
 Apple doesn't play into the retail game, they charge a price they want and don't discount it. ?They balance this will providing good, reliable service.
 
-Lesson learned.
+Lesson learned."

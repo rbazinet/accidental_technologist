@@ -1,6 +1,6 @@
 ---
 id: 974
-title: 'AirPrint Where You Couldn&#8217;t AirPrint Before'
+title: "AirPrint Where You Couldn't AirPrint Before"
 date: '2014-02-03T09:00:40-05:00'
 author: 'Rob Bazinet'
 layout: post
@@ -15,9 +15,8 @@ tags:
     - Apple
     - handyprint
     - iPad
-    - mac
+    - mac'
 ---
-
 Our household has several iPads and iPhones. I use my iPad all the time to surf the web, reply to emails and view my Twitter stream, among other things. ?Occasionally I find it would be nice to print from the iPad, since it has AirPrint and all, but our Canon MX860 printer doesn?t support AirPrint.
 
 Enter [handyPrint](http://www.netputing.com/applications/handyprint-v5/)?.
@@ -38,4 +37,4 @@ Printing from the iPad is simple. ?While you?re in the application you want to p
 
 Select the printer and that?s it. ?handyPrinter works seamless.
 
-Thanks to [Eric Davis](https://twitter.com/edavis10) for pointing it out on Twitter.?
+Thanks to [Eric Davis](https://twitter.com/edavis10) for pointing it out on Twitter.?"
