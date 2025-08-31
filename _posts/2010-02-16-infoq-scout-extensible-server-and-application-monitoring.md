@@ -1,6 +1,6 @@
 ---
 id: 395
-title: 'InfoQ: Scout - Extensible Server and Application Monitoring'
+title: 'InfoQ: Scout &#8211; Extensible Server and Application Monitoring'
 date: '2010-02-16T08:19:50-05:00'
 author: 'Rob Bazinet'
 layout: post

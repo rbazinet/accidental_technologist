@@ -1,6 +1,6 @@
 ---
 id: 252
-title: 'ASP.NET MVC Source Code Now Available - ScottGu's Blog'
+title: 'ASP.NET MVC Source Code Now Available &#8211; ScottGu&#8217;s Blog'
 date: '2008-03-21T16:34:00-04:00'
 author: 'Rob Bazinet'
 layout: post

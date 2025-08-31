@@ -1,6 +1,6 @@
 ---
 id: 362
-title: 'InfoQ Interview with Jeremy McAnally - Ruby in Practice'
+title: 'InfoQ Interview with Jeremy McAnally &#8211; Ruby in Practice'
 date: '2009-06-03T12:14:00-04:00'
 author: 'Rob Bazinet'
 layout: post

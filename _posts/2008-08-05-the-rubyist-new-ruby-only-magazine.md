@@ -1,6 +1,6 @@
 ---
 id: 298
-title: 'The Rubyist - New Ruby-only Magazine'
+title: 'The Rubyist &#8211; New Ruby-only Magazine'
 date: '2008-08-05T13:47:10-04:00'
 author: 'Rob Bazinet'
 layout: post

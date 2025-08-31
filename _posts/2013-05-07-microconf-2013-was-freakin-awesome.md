@@ -1,6 +1,6 @@
 ---
 id: 913
-title: 'MicroConf 2013 was Freakin' Awesome'
+title: 'MicroConf 2013 was Freakin&#8217; Awesome'
 date: '2013-05-07T10:08:25-04:00'
 author: 'Rob Bazinet'
 layout: post

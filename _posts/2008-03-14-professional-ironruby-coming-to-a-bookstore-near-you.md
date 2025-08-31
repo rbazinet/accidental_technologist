@@ -1,6 +1,6 @@
 ---
 id: 247
-title: 'Professional IronRuby - Coming to a bookstore near you'
+title: 'Professional IronRuby &#8211; Coming to a bookstore near you'
 date: '2008-03-14T15:12:00-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 197
-title: 'Ruby 1.9 Released - Should you use it today?'
+title: 'Ruby 1.9 Released &#8211; Should you use it today?'
 date: '2007-12-30T01:40:00-05:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 206
-title: 'MacHeist - 11 Mac Applications at a Great Price for Charity'
+title: 'MacHeist &#8211; 11 Mac Applications at a Great Price for Charity'
 date: '2008-01-11T12:49:00-05:00'
 author: 'Rob Bazinet'
 layout: post

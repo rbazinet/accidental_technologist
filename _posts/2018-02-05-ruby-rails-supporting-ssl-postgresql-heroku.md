@@ -1,6 +1,6 @@
 ---
 id: 1189
-title: 'Ruby on Rails - Supporting SSL for PostgreSQL on Heroku'
+title: 'Ruby on Rails &#8211; Supporting SSL for PostgreSQL on Heroku'
 date: '2018-02-05T09:20:27-05:00'
 author: 'Rob Bazinet'
 layout: post

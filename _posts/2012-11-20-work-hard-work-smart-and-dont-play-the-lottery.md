@@ -1,6 +1,6 @@
 ---
 id: 871
-title: 'Work Hard, Work Smart and Don't Play the Lottery'
+title: 'Work Hard, Work Smart and Don&#8217;t Play the Lottery'
 date: '2012-11-20T09:00:53-05:00'
 author: 'Rob Bazinet'
 layout: post

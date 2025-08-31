@@ -1,6 +1,6 @@
 ---
 id: 964
-title: 'What He Said - Tim Bray ? Software in 2014'
+title: 'What He Said &#8211; Tim Bray ? Software in 2014'
 date: '2014-01-09T10:27:27-05:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1110
-title: 'Don't Treat Your Customers Like Adobe Treats Theirs'
+title: 'Don&#8217;t Treat Your Customers Like Adobe Treats Theirs'
 date: '2016-04-12T14:36:12-04:00'
 author: 'Rob Bazinet'
 layout: post

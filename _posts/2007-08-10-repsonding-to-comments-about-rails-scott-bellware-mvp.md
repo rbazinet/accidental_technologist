@@ -1,6 +1,6 @@
 ---
 id: 128
-title: 'Repsonding to Comments About Rails - Scott Bellware [MVP]'
+title: 'Repsonding to Comments About Rails &#8211; Scott Bellware [MVP]'
 date: '2007-08-10T12:42:00-04:00'
 author: 'Rob Bazinet'
 layout: post

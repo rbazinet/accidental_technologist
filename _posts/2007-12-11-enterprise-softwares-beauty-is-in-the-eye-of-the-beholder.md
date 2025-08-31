@@ -1,6 +1,6 @@
 ---
 id: 185
-title: 'Enterprise Software's Beauty is in the Eye of the Beholder'
+title: 'Enterprise Software&#8217;s Beauty is in the Eye of the Beholder'
 date: '2007-12-11T15:02:00-05:00'
 author: 'Rob Bazinet'
 layout: post

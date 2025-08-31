@@ -1,6 +1,6 @@
 ---
 id: 7
-title: 'Ajax.NET and HtmlControls, Request Cache, Namespace Mappings,...'
+title: 'Ajax.NET and HtmlControls, Request Cache, Namespace Mappings,&#8230;'
 date: '2005-06-03T06:07:00-04:00'
 author: 'Rob Bazinet'
 layout: post

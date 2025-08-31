@@ -1,6 +1,6 @@
 ---
 id: 169
-title: 'Somasegar's WebLog : Visual Studio 2008 and .NET Framework 3.5 shipped!'
+title: 'Somasegar&#8217;s WebLog : Visual Studio 2008 and .NET Framework 3.5 shipped!'
 date: '2007-11-19T14:05:00-05:00'
 author: 'Rob Bazinet'
 layout: post

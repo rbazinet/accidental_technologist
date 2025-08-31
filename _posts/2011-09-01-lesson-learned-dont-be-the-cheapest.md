@@ -1,6 +1,6 @@
 ---
 id: 671
-title: 'Lesson Learned : Don't Be The Cheapest'
+title: 'Lesson Learned : Don&#8217;t Be The Cheapest'
 date: '2011-09-01T11:15:17-04:00'
 author: 'Rob Bazinet'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1060
-title: 'A Laptop for Writers - and Developers'
+title: 'A Laptop for Writers &#8211; and Developers'
 date: '2015-06-26T09:38:37-04:00'
 author: 'Rob Bazinet'
 layout: post
