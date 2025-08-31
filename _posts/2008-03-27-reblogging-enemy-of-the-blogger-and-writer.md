@@ -1,6 +1,6 @@
 ---
 id: 254
-title: 'Reblogging &#8211; Enemy of the Blogger and Writer'
+title: 'Reblogging - Enemy of the Blogger and Writer'
 date: '2008-03-27T11:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post

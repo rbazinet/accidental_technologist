@@ -1,6 +1,6 @@
 ---
 id: 211
-title: 'Apple MacBook Air &#8211; Why Would I Want One?'
+title: 'Apple MacBook Air - Why Would I Want One?'
 date: '2008-01-17T14:09:00-05:00'
 author: 'Rob Bazinet'
 layout: post

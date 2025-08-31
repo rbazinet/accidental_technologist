@@ -1,6 +1,6 @@
 ---
 id: 588
-title: 'Running a Lifestyle Business &#8211; Tom Rossi Interview on Mixergy'
+title: 'Running a Lifestyle Business - Tom Rossi Interview on Mixergy'
 date: '2011-01-07T09:14:33-05:00'
 author: 'Rob Bazinet'
 layout: post

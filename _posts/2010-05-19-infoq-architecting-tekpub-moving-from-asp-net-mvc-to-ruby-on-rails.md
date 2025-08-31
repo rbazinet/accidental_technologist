@@ -1,6 +1,6 @@
 ---
 id: 422
-title: 'InfoQ: Architecting TekPub &#8211; Moving from ASP.NET MVC to Ruby on Rails'
+title: 'InfoQ: Architecting TekPub - Moving from ASP.NET MVC to Ruby on Rails'
 date: '2010-05-19T12:20:08-04:00'
 author: 'Rob Bazinet'
 layout: post

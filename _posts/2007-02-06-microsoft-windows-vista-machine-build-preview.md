@@ -1,6 +1,6 @@
 ---
 id: 106
-title: 'Microsoft Windows Vista Machine Build &#8211; Preview'
+title: 'Microsoft Windows Vista Machine Build - Preview'
 date: '2007-02-06T15:56:00-05:00'
 author: 'Rob Bazinet'
 layout: post

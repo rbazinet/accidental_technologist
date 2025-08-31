@@ -1,6 +1,6 @@
 ---
 id: 68
-title: 'RubyCLR &#8211; Ruby meets .NET'
+title: 'RubyCLR - Ruby meets .NET'
 date: '2006-03-30T16:26:00-05:00'
 author: 'Rob Bazinet'
 layout: post
