@@ -59,6 +59,7 @@ defaults:
 # Additional SEO
 lang: en_US
 locale: en_US
+canonical_url: true
 
 # Timezone configuration
 timezone: America/New_York
