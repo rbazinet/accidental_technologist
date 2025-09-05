@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*?share=
+Disallow: /*&share=
+Disallow: /*?nb=
+Disallow: /*&nb=
+Disallow: /*/feed/
+Allow: /
+
+Sitemap: https://accidentaltechnologist.com/sitemap.xml
