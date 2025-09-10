@@ -40,6 +40,80 @@
   }
 }
 
+// Post list improvements
+.post-list {
+  .post-preview {
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #e1e4e8;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+  
+  .post-header {
+    margin-bottom: 1em;
+    
+    .post-title {
+      margin-bottom: 0.5em;
+      font-size: 1.5em;
+      line-height: 1.3;
+      
+      a {
+        text-decoration: none;
+        color: inherit;
+        
+        &:hover {
+          color: #0366d6;
+          text-decoration: underline;
+        }
+      }
+    }
+    
+    .post-meta {
+      color: #6a737d;
+      font-size: 0.9em;
+      margin: 0;
+    }
+  }
+  
+  .post-excerpt {
+    color: #24292f;
+    line-height: 1.6;
+    margin-bottom: 1em;
+    font-size: 1.05em;
+  }
+  
+  .post-footer {
+    .read-more {
+      color: #0366d6;
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95em;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// Wider content container
+.wrapper {
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+  
+  @media screen and (max-width: 800px) {
+    max-width: calc(800px - (30px));
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
 // Search styles
 .search-container {
   margin: 2em 0;

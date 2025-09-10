@@ -14,16 +14,33 @@ image: /assets/img/site-logo.png
     <ul id="results-container"></ul>
   </div>
 
-  <ul class="post-list">
+  <div class="post-list">
     {% for post in paginator.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+      <article class="post-preview">
+        <header class="post-header">
+          <h2 class="post-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+          <p class="post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            {% if post.author %} • {{ post.author }}{% endif %}
+          </p>
+        </header>
+        
+        <div class="post-excerpt">
+          {% if post.excerpt %}
+            {{ post.excerpt | strip_html | truncatewords: 50 }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords: 50 }}
+          {% endif %}
+        </div>
+        
+        <div class="post-footer">
+          <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        </div>
+      </article>
     {% endfor %}
-  </ul>
+  </div>
 
   <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}
