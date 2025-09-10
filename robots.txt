@@ -1,6 +1,12 @@
 User-agent: *
 Allow: /
 
+# Disallow non-existent WordPress legacy paths
+Disallow: /tag/
+Disallow: /category/
+Disallow: /author/
+Disallow: /*/attachment/
+
 # Disallow crawling of URLs with tracking parameters
 Disallow: /*?share=
 Disallow: /*&share=
