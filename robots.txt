@@ -44,5 +44,13 @@ Disallow: /*&buffer=
 # Disallow feed URLs
 Disallow: /*/feed/
 Disallow: /feed/
+Disallow: /tag/*/feed/
+Disallow: /category/*/feed/
+
+# Disallow image and asset files
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
 
 Sitemap: https://accidentaltechnologist.com/sitemap.xml
