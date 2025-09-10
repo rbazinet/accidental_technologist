@@ -27,10 +27,12 @@ For anyone who received this notice from Heroku:
 > - host
 > - port
 
- But, what can be changed include sslmode. ```
+ But, what can be changed include sslmode:
+
+```yaml
 production:
- sslmode: require (disable|allow|prefer|require)
- pool: 15
+  sslmode: require # (disable|allow|prefer|require)
+  pool: 15
 ```
 
  I decided it would be helpful to reach out to Heroku to understand their guidance with regard to their notice. Their response: > If you're using the pg gem, the default sslmode setting (and for libpq, the library that underpins it), is prefer this means that should the server have SSL support, it will be used when the connection is established. This means there should be no action required, though if you wish, it's worth a test with spinning up a staging environment with a non-legacy Postgres instance.

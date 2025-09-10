@@ -30,4 +30,77 @@
 
   </body>
 
+  <!-- Code block copy functionality -->
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Add copy buttons to all code blocks (only outer containers)
+    const codeBlocks = document.querySelectorAll('div.highlight');
+    
+    codeBlocks.forEach(function(codeBlock) {
+      // Skip if button already exists
+      if (codeBlock.querySelector('.code-copy-btn')) {
+        return;
+      }
+      
+      // Create copy button
+      const copyBtn = document.createElement('button');
+      copyBtn.className = 'code-copy-btn';
+      copyBtn.textContent = 'Copy';
+      copyBtn.setAttribute('aria-label', 'Copy code to clipboard');
+      
+      // Add click event
+      copyBtn.addEventListener('click', function() {
+        // Get the code text (exclude line numbers if present)
+        const codeElement = codeBlock.querySelector('code');
+        if (!codeElement) return;
+        
+        const codeText = codeElement.textContent || codeElement.innerText;
+        
+        // Copy to clipboard
+        navigator.clipboard.writeText(codeText).then(function() {
+          // Show success feedback
+          copyBtn.textContent = 'Copied!';
+          copyBtn.classList.add('copied');
+          
+          // Reset after 2 seconds
+          setTimeout(function() {
+            copyBtn.textContent = 'Copy';
+            copyBtn.classList.remove('copied');
+          }, 2000);
+        }).catch(function(err) {
+          // Fallback for older browsers
+          console.error('Failed to copy: ', err);
+          
+          // Try the old-school way
+          const textArea = document.createElement('textarea');
+          textArea.value = codeText;
+          document.body.appendChild(textArea);
+          textArea.select();
+          
+          try {
+            document.execCommand('copy');
+            copyBtn.textContent = 'Copied!';
+            copyBtn.classList.add('copied');
+            
+            setTimeout(function() {
+              copyBtn.textContent = 'Copy';
+              copyBtn.classList.remove('copied');
+            }, 2000);
+          } catch (e) {
+            copyBtn.textContent = 'Failed';
+            setTimeout(function() {
+              copyBtn.textContent = 'Copy';
+            }, 2000);
+          }
+          
+          document.body.removeChild(textArea);
+        });
+      });
+      
+      // Add button to code block
+      codeBlock.appendChild(copyBtn);
+    });
+  });
+  </script>
+
 </html>
