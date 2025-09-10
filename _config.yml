@@ -96,6 +96,15 @@ plugins:
 # Google Analytics
 google_analytics: G-V8GPSLGQH0
 
+# Syntax highlighting
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    line_numbers: false
+
 paginate: 10
 paginate_path: "/page:num/"
       

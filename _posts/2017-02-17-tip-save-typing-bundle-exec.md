@@ -14,18 +14,24 @@ tags:
     - 'Ruby on Rails'
     - Tips'
 ---
-If you're a Ruby on Rails developer, you probably type the words *bundle exec* numerous times a day. I finally got tired of it and decided to do something about it. In the context of keeping it simple, I use the 'alias' command and add to my .profile. I know there are more Rails recommended ways of solving this problem via binstubs but I rather not use that approach. My solution is simple, add an alias to my .profile like this:
+If you're a Ruby on Rails developer, you probably type the words *bundle exec* numerous times a day. I finally got tired of it and decided to do something about it. In the context of keeping it simple, I use the 'alias' command and add to my .profile. I know there are more Rails recommended ways of solving this problem via binstubs but I rather not use that approach. 
 
-```
+My solution is simple, add an alias to my .profile like this:
+
+```bash
 alias be='bundle exec '
 ```
 
- Keen observers will notice the trailing space after the command. This space allows for [alias chaining](http://en.wikipedia.org/wiki/Alias_(command)#Chaining) and can be helpful. The resulting shortcut allows this: ```
+Keen observers will notice the trailing space after the command. This space allows for [alias chaining](http://en.wikipedia.org/wiki/Alias_(command)#Chaining) and can be helpful. The resulting shortcut allows this:
+
+```bash
 bundle exec rspec
 ```
 
- To this: ```
+To this:
+
+```bash
 be rspec
 ```
 
- The 'alias' command is super useful and has many applications to help remove repetitive typing tasks."
+The 'alias' command is super useful and has many applications to help remove repetitive typing tasks.

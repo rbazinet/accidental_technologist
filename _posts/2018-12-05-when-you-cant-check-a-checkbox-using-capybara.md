@@ -18,16 +18,24 @@ In my last post I [documented an issue I was having using Capybara](http://accid
 
 # The Problem
 
- During my recent feature testing project I had a form which has a checkbox on it. The checkbox had a label with it. Did I mention this is a ReactJS frontend? I’m not sure if this is specific to ReactJS, but I suspect it isn’t. I think other frontend JavaScript frameworks may exhibit the same problem. The Ruby code for my feature test is dead simple: ```
-check “English”
+During my recent feature testing project I had a form which has a checkbox on it. The checkbox had a label with it. Did I mention this is a ReactJS frontend? I'm not sure if this is specific to ReactJS, but I suspect it isn't. I think other frontend JavaScript frameworks may exhibit the same problem. The Ruby code for my feature test is dead simple:
+
+```ruby
+check "English"
 ```
 
- That’s it. The test should run and when it finds the checkbox with a label of English, the checkbox should be checked. But, it doesn’t work. After many attempts at making this work and more Google searches than I can remember..I ended up at the [Capybara mailing list](https://groups.google.com/forum/#!forum/ruby-capybara). # The Solution
+That's it. The test should run and when it finds the checkbox with a label of English, the checkbox should be checked. But, it doesn't work. After many attempts at making this work and more Google searches than I can remember..I ended up at the [Capybara mailing list](https://groups.google.com/forum/#!forum/ruby-capybara).
 
- Thomas Walpole was kind enough to reply with his thoughts on the matter: > 99.9% sure your checkbox isn't actually visible on the screen. What you're describing as the "checkbox" is probably an image (probably added via CSS pseudo elements) being shown in place of the actual checkbox input element to ensure the same styling across different browsers. If the checkbox has a label element correctly attached to it you can use `check('whatever', allow\_label\_click: true)` - [https://www.rubydoc.info/ github/jnicklas/capybara/ Capybara/Node/Actions#check- instance\_method](<https://www.rubydoc.info/%20github/jnicklas/capybara/ Capybara/Node/Actions#check- instance_method>) - to tell Capybara to click the label element instead of the hidden checkbox input to toggle state. If you don't have an associated label then you'll need to find whatever element is actually visible on the page and click it instead.
+# The Solution
 
- Changing my test to include this for the checkbox, worked perfectly. ```
-check(“English", allow_label_click: true)
+Thomas Walpole was kind enough to reply with his thoughts on the matter:
+
+> 99.9% sure your checkbox isn't actually visible on the screen. What you're describing as the "checkbox" is probably an image (probably added via CSS pseudo elements) being shown in place of the actual checkbox input element to ensure the same styling across different browsers. If the checkbox has a label element correctly attached to it you can use `check('whatever', allow_label_click: true)` - [https://www.rubydoc.info/github/jnicklas/capybara/Capybara/Node/Actions#check-instance_method](https://www.rubydoc.info/github/jnicklas/capybara/Capybara/Node/Actions#check-instance_method) - to tell Capybara to click the label element instead of the hidden checkbox input to toggle state. If you don't have an associated label then you'll need to find whatever element is actually visible on the page and click it instead.
+
+Changing my test to include this for the checkbox, worked perfectly:
+
+```ruby
+check("English", allow_label_click: true)
 ```
 
  I hope someone finds this valuable and will save them some time and hair pulling."

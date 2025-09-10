@@ -16,7 +16,7 @@ tags:
 
 I’ve been spending an extended period of time lately writing Feature specs for a Ruby on Rails project using Capybara. Overall it’s been a fun project to work on but I had run into a few issues along the way. One in particular is the StaleElementReferenceError exception that get thrown when you are trying to find an element on your page that you know is there but Selenium can no longer find. The error appears to be a timing issue between the page loaded in the browser, it being rendered and Capybara and Selenium trying to find the element. After much trial and error, along with many Google searches, I found no solutions that were reasonable. Even though many people had the same problem. The solution was pretty simple actually. I added a rescue to my test and simply slept for 1 second and retry the failure. I admit, this seems like a hack but it works and that's all I really cared about at the time. I see no ill effects from this, no measurable delay.
 
-```
+```ruby
 RSpec.feature "Listings", type: :feature, js: true do
   scenario "can edit common area - step 3" do
     begin

@@ -20,7 +20,7 @@ I’ve been using with [rbenv](https://github.com/rbenv/rbenv) to manage install
 
 When performing the usual command to install Ruby with rbenv, I started getting this message:
 
-```
+```bash
 ~ $ rbenv install 2.6.7
 Downloading ruby-2.6.7.tar.bz2...
 -> https://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.7.tar.bz2
@@ -56,7 +56,7 @@ I tried several of the suggestions found from those issues and none of the solut
 
 I decided to turn to my friends on Twitter to see if anyone had faced this issue. Twitter never lets me down and [Robby Russell of Planet Argon](https://www.planetargon.com/about/robby-russell) came through, suggesting installing Ruby with these CFLAGS:
 
-```
+```bash
 CFLAGS="-Wno-error=implicit-function-declaration" rbenv install 2.6.7
 ```
 

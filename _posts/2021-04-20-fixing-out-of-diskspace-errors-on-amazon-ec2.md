@@ -28,7 +28,7 @@ This particular application is provisioned on Amazon EC2. Hatchbox provisions to
 
 I am running an a t2.micro instance which does not have a lot of space but I didn’t expect to run out so soon. I ssh’d into the server and ran a check of disk space with the
 
-```
+```bash
 df -h
 ```
 
@@ -90,7 +90,7 @@ This shows my partition *after* the upgrade had been done. The disk size showed 
 
 We need to extend the partition so we can use it in the next step. From a terminal window of your EC2 instance.
 
-```
+```bash
 sudo growpart /dev/xvda1 1
 ```
 
@@ -100,11 +100,11 @@ The 1 at the end indicates the partition to be expanded.
 
 Since the filesystem of the drive I am targeting is ext4, I use the command:
 
-```
+```bash
 sudo resize2fs /dev/root
 ```
 
-Once this command completes running another df -h shows our partition is expanded and we no longer receive errors when trying to deploy to Hatchbox. This issue is not unique to Hatchbox and will solve this problem for any method used to deploy to your Amazon EC2 instance.
+Once this command completes running another `df -h` shows our partition is expanded and we no longer receive errors when trying to deploy to Hatchbox. This issue is not unique to Hatchbox and will solve this problem for any method used to deploy to your Amazon EC2 instance.
 
 ## Conclusion
 
