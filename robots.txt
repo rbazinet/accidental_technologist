@@ -53,4 +53,11 @@ Disallow: /*.jpg$
 Disallow: /*.jpeg$
 Disallow: /*.gif$
 
+# Disallow malformed pagination URLs
+Disallow: /page[0-9]*/
+Disallow: /*/[0-9]*$
+
+# Disallow URLs with embedded parameters that cause errors
+Disallow: /*utm_source=feedburner*
+
 Sitemap: https://accidentaltechnologist.com/sitemap.xml
