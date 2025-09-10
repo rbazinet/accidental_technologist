@@ -69,7 +69,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-analytics
   - jekyll-compose
   - jekyll-paginate
   - jekyll-sitemap
@@ -94,10 +93,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-V8GPSLGQH0          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+# Google Analytics
+google_analytics: G-V8GPSLGQH0
 
 paginate: 10
 paginate_path: "/page:num/"

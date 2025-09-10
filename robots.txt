@@ -1,9 +1,42 @@
 User-agent: *
+Allow: /
+
+# Disallow crawling of URLs with tracking parameters
 Disallow: /*?share=
 Disallow: /*&share=
+Disallow: /*?shared=
+Disallow: /*&shared=
+Disallow: /*?utm_source=
+Disallow: /*&utm_source=
+Disallow: /*?utm_medium=
+Disallow: /*&utm_medium=
+Disallow: /*?utm_campaign=
+Disallow: /*&utm_campaign=
 Disallow: /*?nb=
 Disallow: /*&nb=
+Disallow: /*?msg=
+Disallow: /*&msg=
+Disallow: /*?cat=
+Disallow: /*&cat=
+Disallow: /*?p=
+Disallow: /*&p=
+Disallow: /*?fbclid=
+Disallow: /*&fbclid=
+Disallow: /*?ref=
+Disallow: /*&ref=
+Disallow: /*?ak_action=
+Disallow: /*&ak_action=
+Disallow: /*?wptouch_switch=
+Disallow: /*&wptouch_switch=
+Disallow: /*?hmsr=
+Disallow: /*&hmsr=
+Disallow: /*?source=
+Disallow: /*&source=
+Disallow: /*?buffer=
+Disallow: /*&buffer=
+
+# Disallow feed URLs
 Disallow: /*/feed/
-Allow: /
+Disallow: /feed/
 
 Sitemap: https://accidentaltechnologist.com/sitemap.xml
