@@ -20,47 +20,47 @@ Do you want to write web applications but don't want to use [Ruby on Rails](http
 
  More information about Merb can be found at <http://merbivore.com/>. ### Camping
 
- Camping is a microframework which is less than 4K and has its own HTML markup-type language implemented in Ruby. An except from the CampingShortSample from the Camping web site: > ```ruby
-> require 'camping'
-> Camping.goes :HomePage
-> 
-> module HomePage::Controllers
->   # The root slash shows the `index' view.
->   class Index < R '/'
->     def get
->       render :index
->     end
->   end
-> 
->   # Any other page name gets sent to the view
->   # of the same name.
->   #
->   # /index -> Views#index
->   # /sample -> Views#sample
->   #
->   class Page < R '/(\w+)'
->     def get(page_name)
->       render page_name
->     end
->   end
-> end
-> ```
+ Camping is a microframework which is less than 4K and has its own HTML markup-type language implemented in Ruby. An except from the CampingShortSample from the Camping web site: ```ruby
+require 'camping'
+Camping.goes :HomePage
+
+module HomePage::Controllers
+  # The root slash shows the `index' view.
+  class Index < R '/'
+    def get
+      render :index
+    end
+  end
+
+  # Any other page name gets sent to the view
+  # of the same name.
+  #
+  # /index -> Views#index
+  # /sample -> Views#sample
+  #
+  class Page < R '/(\w+)'
+    def get(page_name)
+      render page_name
+    end
+  end
+end
+```
 
  More information about Camping can be found at <http://code.whytheluckystiff.net/camping/>. ### Ramaze
 
- I wasn't aware of this framework until recently. It is an MVC framework with all the elements to create complete Ruby web applications. The typical "Hello World" application below is very simple. > ```ruby
-> require 'rubygems'
-> require 'ramaze'
-> 
-> class MainController < Ramaze::Controller
->   def index
->     'Hello, World!'
->   end
-> end
-> 
-> # Run using mongrel on http://localhost:7000/
-> Ramaze.start :adapter => :mongrel, :port => 7000
-> ```
+ I wasn't aware of this framework until recently. It is an MVC framework with all the elements to create complete Ruby web applications. The typical "Hello World" application below is very simple. ```ruby
+require 'rubygems'
+require 'ramaze'
+
+class MainController < Ramaze::Controller
+  def index
+    'Hello, World!'
+  end
+end
+
+# Run using mongrel on http://localhost:7000/
+Ramaze.start :adapter => :mongrel, :port => 7000
+```
 
  The Ramaze web site describes Ramaze as: > Ramaze is a simple, light, and modular open-source web-framework written in Ruby, similar in spirit to [Rails](http://www.rubyonrails.org/), [Camping](http://camping.rubyforge.org/files/README.html) and [merb](http://merbivore.com/).
 

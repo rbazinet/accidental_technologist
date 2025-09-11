@@ -28,14 +28,13 @@ Technologies created by Microsoft only seem to make it to market if they are com
 
 **LINQ to SQL** – In my opinion, a real clumsy attempt to give a way to access almost anything by a query language implemented in C# or VB.NET. You can see by example that no one should have to write these things all day:
 
-> ```
-> 
+> ```csharp
 > var q =
-> from c in db.Customers
-> where c.City == "London"
-> select c;
+>     from c in db.Customers
+>     where c.City == "London"
+>     select c;
 > foreach (Customer c in q)
-> Console.WriteLine(c.CompanyName);
+>     Console.WriteLine(c.CompanyName);
 > ```
 
 **Entity Framework** – Oh please. I have only given this technology a cursory look and just have to shake my head in disbelief that Microsoft would create such a mess of complexity, but they do complexity best.
