@@ -23,7 +23,7 @@ The only solution I could reliably make work was to open up Activity Monitor and
 
 It turned out this was a bug reported to the development team and is a [confirmed issue](https://github.com/37signals/pow/issues/99). ?The cause of the problem is determined to be the dns resolver, ndns. ? ?A pre-release version, 0.4.0-pre is reported to resolve the issue. ?Install it with the command:
 
- ```
+```bash
 curl get.pow.cx | VERSION=0.4.0-pre sh
 ```
 

@@ -24,10 +24,15 @@ I recently found myself needing to use [TinyURL](http://tinyurl.com/) on a clien
 
 This is a simple Ruby class to use TinyURL. ?Note: this depends on [HTTParty](https://github.com/jnunemaker/httparty), so add to your project.
 
-```
-```
-class Tinyurl <br></br>
-```  include HTTParty <br></br>  base_uri 'tinyurl.com' <br></br><br></br>  def shorten(url) <br></br>    self.class.get("/api-create.php?url=#{url}") <br></br>  end <br></br>end 
+```ruby
+class Tinyurl
+  include HTTParty
+  base_uri 'tinyurl.com'
+
+  def shorten(url)
+    self.class.get("/api-create.php?url=#{url}")
+  end
+end
 ```
 
 You can find the [Gist on Github](https://gist.github.com/rbazinet/5721055). Hopefully you find this code useful. Enjoy!

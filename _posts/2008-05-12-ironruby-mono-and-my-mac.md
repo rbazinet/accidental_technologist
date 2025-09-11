@@ -30,8 +30,7 @@ I followed much of [Seo Sanghyeon's brief tutorial](http://sparcs.kaist.ac.kr/%7
 
 The IronRuby team is constantly make changes to the source and not all revisions are compatible with this built process. I am sure as we get closer to release there will be more stable base of code. For right now we are on Revision 100, so the Subversion command to get the source looks like this:
 
-> ```
-> 
+> ```bash
 > svn co -r 100 http://ironruby.rubyforge.org/svn/trunk ironruby
 > ```
 
@@ -39,36 +38,31 @@ The IronRuby team is constantly make changes to the source and not all revisions
 
 The build process is where it gets a little tricky to make sure everything is lined up. The first thing is changing to the directory where IronRuby source is located:
 
-> ```
-> 
+> ```bash
 > cd ironruby
 > ```
 
 A patch needs to be applied for Rake to work properly. The patch can be found on [Seo's web site here](http://sparcs.kaist.ac.kr/~tinuviel/download/IronRuby/patch-mono-r100), notice it is build revision specific and new ones will likely be available. Next up run Patch:
 
-> ```
-> 
+> ```bash
 > patch -p0 < patch-mono-r100
 > ```
 
 The next step was the key to my success, telling the Mono compiler where the needed libraries are located. The build would never work without it.
 
-> ```
-> 
-> export PKG_CONFIG_PATH=<span class="str">"/Library/Frameworks/Mono.framework/Libraries/pkgconfig/"</span>
+> ```bash
+> export PKG_CONFIG_PATH="/Library/Frameworks/Mono.framework/Libraries/pkgconfig/"
 > ```
 
 This export I put in my ~/.bash\_profile file and closed and reopened my Terminial window. Next, run Rake:
 
-> ```
-> 
+> ```bash
 > rake compile mono=1
 > ```
 
 If all goes well the build will succeed, with likely some warnings, and you can run IronRuby:
 
-> ```
-> 
+> ```bash
 > mono build/mono_debug/ir.exe
 > ```
 

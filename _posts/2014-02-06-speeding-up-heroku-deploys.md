@@ -20,32 +20,29 @@ Anyone who deploys their Rails 3.x or 4.x utilizing the asset pipeline and doesn
 
 I searched around a bit and found a great article on how to shave some time off my Heroku deployments. ?[Alex MacCaw has a nice write up about the process](http://blog.alexmaccaw.com/faster-deploys):
 
-> If you?re using Heroku, the first step is enabling a Memcache addon. I?ve gone with the?`<span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">memcachier</span>`?service, as they?ve got a generous free plan (which is all we need at this stage).
+> If you're using Heroku, the first step is enabling a Memcache addon. I've gone with the `memcachier` service, as they've got a generous free plan (which is all we need at this stage).
 > 
->  ```
-> <span class="pln" style="padding-left: 0px; padding-right: 0px;">heroku addons</span><span class="pun" style="color: #666600;">:</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">add memcachier</span><span class="pun" style="color: #666600;">:</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">dev</span>
+> ```bash
+> heroku addons:add memcachier:dev
 > ```
 > 
-> Then we need to make sure the environmental variables are available to your app during the pre-compilation stage. Usually this isn?t the case on Heroku, but they?ve got a new labs feature called?`<span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">user</span><span class="pun" style="color: #666600;">-</span><span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">env</span><span class="pun" style="color: #666600;">-</span><span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">compile</span>`?which will do the trick.
+> Then we need to make sure the environmental variables are available to your app during the pre-compilation stage. Usually this isn't the case on Heroku, but they've got a new labs feature called `user-env-compile` which will do the trick.
 > 
->  ```
-> <span class="pln" style="padding-left: 0px; padding-right: 0px;">heroku labs</span><span class="pun" style="color: #666600;">:</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">enable user</span><span class="pun" style="color: #666600;">-</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">env</span><span class="pun" style="color: #666600;">-</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">compile</span>
+> ```bash
+> heroku labs:enable user-env-compile
 > ```
 > 
-> Next you?ll need to add the?`<span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">dalli</span>`?and?`<span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">memcachier</span>`?gems to your Gemfile. Finally, the last step is to configure Sprockets.
+> Next you'll need to add the `dalli` and `memcachier` gems to your Gemfile. Finally, the last step is to configure Sprockets.
 
 Since I am using Rails:
 
 > ## With Rails
 > 
-> With Rails, just configure the assets cache store in`<span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">config</span><span class="pun" style="color: #666600;">/</span><span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">environments</span><span class="pun" style="color: #666600;">/</span><span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">production</span><span class="pun" style="color: #666600;">.</span><span class="pln" style="color: #000000; padding-left: 0px; padding-right: 0px;">rb</span>`.
+> With Rails, just configure the assets cache store in `config/environments/production.rb`.
 > 
->  ```
-> <span class="pln" style="padding-left: 0px; padding-right: 0px;">config</span><span class="pun" style="color: #666600;">.</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">assets</span><span class="pun" style="color: #666600;">.</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">cache_store </span><span class="pun" style="color: #666600;">=</span><span class="pun" style="color: #666600;">:</span><span class="pln" style="padding-left: 0px; padding-right: 0px;">dalli_store</span>
+> ```ruby
+> config.assets.cache_store = :dalli_store
 > ```
-> 
-> <div><span class="pln" style="padding-left: 0px; padding-right: 0px;">  
-> </span></div>
 
 ### And the time savings would be?.
 

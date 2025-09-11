@@ -22,16 +22,24 @@ The list of What's New with this release is long. The major ones which will inte
 
 > This is where the bulk of the action for 2.0 has gone. We?ve got a slew of improvements to the RESTful lifestyle. First, we?ve dropped the semicolon for custom methods instead of the regular slash. So `/people/1;edit` is now `/people/1/edit`. We?ve also added the namespace feature to routing resources that makes it really easy to confine things like admin interfaces:
 > 
-> ```
-> map.namespace(:admin) do |admin| admin.resources :products, :collection => { :inventory => :get }, :member => { :duplicate => :post }, :has_many => [ :tags, :images, :variants ] end
+> ```ruby
+> map.namespace(:admin) do |admin|
+>   admin.resources :products,
+>     :collection => { :inventory => :get },
+>     :member => { :duplicate => :post },
+>     :has_many => [ :tags, :images, :variants ]
+> end
 > ```
 > 
 > Which will give you named routes like inventory\_admin\_products\_url and admin\_product\_tags\_url. To keep track of this named routes proliferation, we?ve added the ?rake routes? task, which will list all the named routes created by routes.rb.
 > 
 > We?ve also instigated a new convention that all resource-based controllers will be plural by default. This allows a single resource to be mapped in multiple contexts and still refer to the same controller. Example:
 > 
-> ```
->  # /avatars/45 => AvatarsController#show map.resources :avatars # /people/5/avatar => AvatarsController#show map.resources :people, :has_one => :avatar 
+> ```ruby
+> # /avatars/45 => AvatarsController#show
+> map.resources :avatars
+> # /people/5/avatar => AvatarsController#show
+> map.resources :people, :has_one => :avatar
 > ```
 
 - **Action Pack: Multiview**
@@ -50,16 +58,39 @@ The list of What's New with this release is long. The major ones which will inte
 
 > Piggy-backing off the new drive for resources are a number of simplifications for controller and view methods that deal with URLs. We?ve added a number of conventions for turning model classes into resource routes on the fly. Examples:
 > 
-> ```
->  # person is a Person object, which by convention will # be mapped to person_url for lookup redirect_to(person) link_to(person.name, person) form_for(person) 
+> ```ruby
+> # person is a Person object, which by convention will
+> # be mapped to person_url for lookup
+> redirect_to(person)
+> link_to(person.name, person)
+> form_for(person)
 > ```
 
 - **Action Pack: HTTP Loving**
 
 > As you might have gathered, Action Pack in Rails 2.0 is all about getting closer with HTTP and all its glory. Resources, multiple representations, but there?s more. We?ve added a new module to work with HTTP Basic Authentication, which turns out to be a great way to do API authentication over SSL. It?s terribly simple to use. Here?s an example (there are more in ActionController::HttpAuthentication):
 > 
-> ```
->  class PostsController < ApplicationController USER_NAME, PASSWORD = "dhh", "secret" before_filter :authenticate, :except => [ :index ] def index render :text => "Everyone can see me!" end def edit render :text => "I'm only accessible if you know the password" end private def authenticate authenticate_or_request_with_http_basic do |user_name, password| user_name == USER_NAME && password == PASSWORD end end end 
+> ```ruby
+> class PostsController < ApplicationController
+>   USER_NAME, PASSWORD = "dhh", "secret"
+> 
+>   before_filter :authenticate, :except => [ :index ]
+> 
+>   def index
+>     render :text => "Everyone can see me!"
+>   end
+> 
+>   def edit
+>     render :text => "I'm only accessible if you know the password"
+>   end
+> 
+> private
+>   def authenticate
+>     authenticate_or_request_with_http_basic do |user_name, password|
+>       user_name == USER_NAME && password == PASSWORD
+>     end
+>   end
+> end
 > ```
 > 
 > We?ve also made it much easier to structure your JavaScript and stylesheet files in logical units without getting clobbered by the HTTP overhead of requesting a bazillion files. Using javascript\_include\_tag(:all, :cache =&gt; true) will turn public/javascripts/.js into a single public/javascripts/all.js file in production, while still keeping the files separate in development, so you can work iteratively without clearing the cache.
@@ -78,8 +109,15 @@ The list of What's New with this release is long. The major ones which will inte
 
 > Lots of common exceptions would do better to be rescued at a shared level rather than per action. This has always been possible by overwriting rescue\_action\_in\_public, but then you had to roll out your own case statement and call super. Bah. So now we have a class level macro called rescue\_from, which you can use to declaratively point certain exceptions to a given action. Example:
 > 
-> ```
->  class PostsController < ApplicationController rescue_from User::NotAuthorized, :with => :deny_access protected def deny_access ... end end 
+> ```ruby
+> class PostsController < ApplicationController
+>   rescue_from User::NotAuthorized, :with => :deny_access
+> 
+> protected
+>   def deny_access
+>     ...
+>   end
+> end
 > ```
 
 - **Action Pack: Cookie store sessions**
@@ -108,22 +146,41 @@ The list of What's New with this release is long. The major ones which will inte
 
 > There?s a new alternative format for declaring migrations in a slightly more efficient format. Before you?d write:
 > 
-> ```
-> create_table :people do |t| t.column, "account_id", :integer t.column, "first_name", :string, :null => false t.column, "last_name", :string, :null => false t.column, "description", :text t.column, "created_at", :datetime t.column, "updated_at", :datetime end
+> ```ruby
+> create_table :people do |t|
+>   t.column "account_id", :integer
+>   t.column "first_name", :string, :null => false
+>   t.column "last_name", :string, :null => false
+>   t.column "description", :text
+>   t.column "created_at", :datetime
+>   t.column "updated_at", :datetime
+> end
 > ```
 > 
 > Now you can write:
 > 
-> ```
-> create_table :people do |t| t.integer :account_id t.string :first_name, :last_name, :null => false t.text :description t.timestamps end
+> ```ruby
+> create_table :people do |t|
+>   t.integer :account_id
+>   t.string :first_name, :last_name, :null => false
+>   t.text :description
+>   t.timestamps
+> end
 > ```
 
 - **Active Record: Foxy fixtures**
 
 > Having to relate fixtures through the ids of their primary keys is no fun. That?s been addressed now and you can write fixtures like this:
 > 
-> ```
->  # sellers.yml shopify: name: Shopify # products.yml pimp_cup: seller: shopify name: Pimp cup 
+> ```yaml
+> # sellers.yml
+> shopify:
+>   name: Shopify
+> 
+> # products.yml
+> pimp_cup:
+>   seller: shopify
+>   name: Pimp cup
 > ```
 > 
 > As you can see, it?s no longer necessary to declare the ids of the fixtures and instead of using seller\_id to refer to the relationship, you just use seller and the name of the fixture.
@@ -174,7 +231,7 @@ If you have existing Rails applications and want to upgrade to Rails 2.0, moving
 
 I was able to upgrade my primary development system with the simple command:
 
-> ```
+> ```bash
 > gem install rails --include-dependencies
 > ```
 

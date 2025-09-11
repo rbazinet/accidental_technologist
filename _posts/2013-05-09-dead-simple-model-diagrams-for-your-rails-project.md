@@ -32,21 +32,23 @@ A bit of searching around the web for a Ruby-specific tool lead me to a gem name
 
 The gem relies on GraphViz to do it's drawing magic. ?There are a multitude of ways to install it, I used Homebrew:
 
-```
+```bash
 brew install graphviz
 ```
 
 Add the gem to your development group in your Gemfile:
 
-```
-group :development do<br></br> ?gem 'rails-erd'<br></br>end
+```ruby
+group :development do
+  gem 'rails-erd'
+end
 ```
 
 Don't forget to run the bundle command.
 
 When everything is install, from the root of your Rails project simple run:
 
-```
+```bash
 rake erd
 ```
 

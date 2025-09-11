@@ -60,7 +60,9 @@ Since I [took over](http://rbazinet.wordpress.com/2007/12/13/instant-rails-lives
 - SubVersion
 - SQLite3
  
- Developers should take a look at the [release notes for Ruby 1.8.6-26](http://rubyforge.org/frs/shownotes.php?group_id=167&release_id=17128), which includes updates which provide support for running Rails applications under IIS7. The important components are FastCGI and ruby-fcgi. It should also be noted that Rails 2.0.2 uses SQLite3 as its default database and therefore when creating Rails applications under Instant Rails, the command looks like this: > ```
+ Developers should take a look at the [release notes for Ruby 1.8.6-26](http://rubyforge.org/frs/shownotes.php?group_id=167&release_id=17128), which includes updates which provide support for running Rails applications under IIS7. The important components are FastCGI and ruby-fcgi. It should also be noted that Rails 2.0.2 uses SQLite3 as its default database and therefore when creating Rails applications under Instant Rails, the command looks like this: 
+
+> ```bash
 > rails -d mysql myapp
 > ```
 

@@ -24,7 +24,7 @@ The installation on Windows was really straight forward. The main thing is to do
 
 Now that SQLite3 is installed, just install the gem:
 
-> ```
+> ```bash
 > gem install sqlite3-ruby
 > ```
 
@@ -36,14 +36,19 @@ Upgrading my Rails installation was a breeze on my MacBook Pro, after upgrading 
 
 I found an older version of SQLite3, here:
 
-> ```
+> ```bash
 > /usr/local/bin/sqlite3
 > ```
 
 There are several ways to update software like this on the Mac and using [MacPorts](http://www.macports.org/) seems to be a popular way to do it, but I chose to install from source. I have a Source directory in my home folder on my Mac and I simply start everything from there. So, to install I did the following:
 
-> ```
-> $ curl -O http://www.sqlite.org/sqlite-3.5.4.tar.gz $ tar xzf sqlite-3.5.4.tar.gz $ cd sqlite-3.5.4 $ ./configure --prefix=/usr/local $ make $ sudo make install
+> ```bash
+> $ curl -O http://www.sqlite.org/sqlite-3.5.4.tar.gz
+> $ tar xzf sqlite-3.5.4.tar.gz
+> $ cd sqlite-3.5.4
+> $ ./configure --prefix=/usr/local
+> $ make
+> $ sudo make install
 > ```
 
 After working with Windows systems for most of my professional career I chuckle at how cryptic the commands are in Unix-like environments. Maybe this is to keep the barrier to entry high.
@@ -52,7 +57,7 @@ Using the "which sqlite3" command should reveal the same location as the origina
 
 The last step to is to install the Ruby driver for SQLite3, accomplished with:
 
-> ```
+> ```bash
 > $ sudo gem install sqlite3-ruby
 > ```
 

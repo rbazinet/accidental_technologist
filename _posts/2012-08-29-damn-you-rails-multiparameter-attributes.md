@@ -44,11 +44,21 @@ The goal here is to end up with and expiration date in a virtual attribute on my
 
 NOTE: if you try this look at the parameter values for each component of your date to make sure choose the right values. ?I have changed the default order of the date select on the form.
 
-` params[:user][:membership_attributes][:expiration_date]=Date.new(<br></br> params[:user][:membership_attributes][:"expiration_date(1i)"].to_i,<br></br> params[:user][:membership_attributes][:"expiration_date(2i)"].to_i,<br></br> params[:user][:membership_attributes][:"expiration_date(3i)"].to_i)<br></br>`
+```ruby
+params[:user][:membership_attributes][:expiration_date] = Date.new(
+  params[:user][:membership_attributes][:"expiration_date(1i)"].to_i,
+  params[:user][:membership_attributes][:"expiration_date(2i)"].to_i,
+  params[:user][:membership_attributes][:"expiration_date(3i)"].to_i
+)
+```
 
 Now remove the individual date components from the parameter hash:
 
-`params[:user][:membership_attributes].delete(:"expiration_date(1i)")<br></br> params[:user][:membership_attributes].delete(:"expiration_date(2i)")<br></br> params[:user][:membership_attributes].delete(:"expiration_date(3i)") `
+```ruby
+params[:user][:membership_attributes].delete(:"expiration_date(1i)")
+params[:user][:membership_attributes].delete(:"expiration_date(2i)")
+params[:user][:membership_attributes].delete(:"expiration_date(3i)")
+```
 
 In my case this is strictly for a Ruby Date type in Rails but the problem and solution is the same with a Ruby DateTime type. ?The date and time are broken down more, having 4i and 5i representing the time.
 

@@ -16,7 +16,7 @@ categories:
 
 The new command file looks like this:
 
-```
+```ini
 ;
 ; "CMD Prompt Here" PowerToy
 ;

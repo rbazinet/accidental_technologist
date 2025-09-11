@@ -31,25 +31,26 @@ Ruby on Rails has made the life of the web developer much more pleasurable over 
 
 Installing Pow is pretty easy and shown on the [Pow web site](http://pow.cx/) but for those not interested in heading over there you can open up a terminal session and enter the following:
 
-```
+```bash
 $ curl get.pow.cx | sh
 ```
 
 Each application has to have a symlink defined. ?The Pow web site says to:
 
-```
-$ cd ~/.pow$ ln -s /path/to/my/app
+```bash
+$ cd ~/.pow
+$ ln -s /path/to/my/app
 ```
 
 When I setup Expens'd to use Pow setting up the symlink this way didn't work for me. ?I had to add the application name after the path, like this:
 
-```
+```bash
 $ ln -s ~/rails_apps/expensd expensd
 ```
 
 Since Expens'd is currently a Rails 2.3 application, a config.ru file is needed and placed in the application root folder. ?The file should contain the following:
 
-```
+```ruby
 # RAILS_ROOT/config.ru
 require "config/environment"
 use Rails::Rack::LogTailer
@@ -65,21 +66,21 @@ Your mileage may vary. ?Once the symlink is done heading to the browser you can 
 
 One of the first things I wondered about when using Pow was a need to restart the "server" when I make changes to a routes.rb file. ?It turns out we treat this the same way we restart Passenger.
 
-```
-$ [APP_ROOT]/touch tmp/restart.txt
+```bash
+$ touch tmp/restart.txt
 ```
 
 ### Log File Monitoring
 
 Using Pow provides us with the typical development.log file in the \[APP\_ROOT\]/log directory. ?Keeping an eye on the log can be done from a terminal window.
 
-```
-$ [APP_ROOT]/tail -f log/development.log
+```bash
+$ tail -f log/development.log
 ```
 
 This provides ?a nice way to see what's going on. ?There is also a raw log file produced from Pow that gives some additional details.
 
-```
+```bash
 $ tail -f ~/Library/Logs/Pow/access.log
 ```
 
@@ -87,7 +88,7 @@ $ tail -f ~/Library/Logs/Pow/access.log
 
 When I setup Pow on my Mac Pro it all worked perfectly from the get-go but on my MacBook Pro I ran into a problem when I tried to browse a URL served by Pow such as expensd.dev. ?DNS seemed to think I wanted to go to the Internet to find the site and I received a 404 error when I tried. ? ?The problem was known and is [outlined on Rob Conery's site](http://wekeroad.com/post/4430429941/fixing-the-dev-resolution-on-snow-leopard-for-pow). ?The first part of the solution involved running the scutil to see if .dev resolver was being used:
 
-```
+```bash
 $ scutil --dns
 ```
 
@@ -106,7 +107,7 @@ I don't know if Pow uses the same port all the time, so that may change. ?The ke
 
 I think Pow is pretty awe some just as it is but it seems someone has stepped up to make it even better with a [gem named Powder](https://github.com/Rodreegez/powder). ?I haven't had the chance to play around with this tool yet but a [blog post by one of it's creators](http://logicalfriday.com/2011/05/25/powder-making-pow-even-easier/) says they wanted to make Pow "ridiculously easy". ?The commands supported help make Pow that much easier:
 
-```
+```bash
 $ powder applog
 => tail the log of the current app
 

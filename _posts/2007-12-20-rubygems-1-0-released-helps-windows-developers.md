@@ -46,7 +46,7 @@ The great folks at the RubyGems project have released RubyGems 1.0. This release
 
 It's pretty simple to update your current RubyGems installation, simply type:
 
-> ```
+> ```bash
 > gem update --system
 > ```
 

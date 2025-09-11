@@ -22,34 +22,56 @@ The first thing I did was download the Ruby 1.9 source from Ruby-Lang, [ftp.ruby
 
 Opening up a Terminal window and changing to that directory will get things started. Now to setup the build to not overwrite my installed version 1.8.6 of Ruby, I created a directory called ruby19 in my home directory.
 
-> ```
-> $ autoconf $ ./configure --prefix=/Users/rbazinet/ruby19 $ make
+> ```bash
+> $ autoconf
+> $ ./configure --prefix=/Users/rbazinet/ruby19
+> $ make
 > ```
 
 Of course nothing always works as planned. During the build I received the following error:
 
-> ```
-> compiling readlinegcc -I. -I../../.ext/include/i686-darwin8.11.1 -I../.././include -I../.././ext/readline -DRUBY_EXTCONF_H=\"extconf.h\" -fno-common -g -O2 -pipe -fno-common -o readline.o -c readline.c readline.c: In function 'filename_completion_proc_call': readline.c:659: error: 'filename_completion_function' undeclared (first use in this function) readline.c:659: error: (Each undeclared identifier is reported only once readline.c:659: error: for each function it appears in.) readline.c:659: warning: assignment makes pointer from integer without a cast readline.c: In function 'username_completion_proc_call': readline.c:684: error: 'username_completion_function' undeclared (first use in this function) readline.c:684: warning: assignment makes pointer from integer without a cast make[1]: *** [readline.o] Error 1 make: *** [all] Error 1
+> ```bash
+> compiling readline
+> gcc -I. -I../../.ext/include/i686-darwin8.11.1 -I../.././include -I../.././ext/readline -DRUBY_EXTCONF_H=\"extconf.h\" -fno-common -g -O2 -pipe -fno-common -o readline.o -c readline.c
+> readline.c: In function 'filename_completion_proc_call':
+> readline.c:659: error: 'filename_completion_function' undeclared (first use in this function)
+> readline.c:659: error: (Each undeclared identifier is reported only once
+> readline.c:659: error: for each function it appears in.)
+> readline.c:659: warning: assignment makes pointer from integer without a cast
+> readline.c: In function 'username_completion_proc_call':
+> readline.c:684: error: 'username_completion_function' undeclared (first use in this function)
+> readline.c:684: warning: assignment makes pointer from integer without a cast
+> make[1]: *** [readline.o] Error 1
+> make: *** [all] Error 1
 > ```
 
 It appears readline is the problem here and needs to be updated. After a bit of searching around the net I can across some information about this and determine readline needs to be updated to readline 5.2.
 
 Readline can be [downloaded from Gnu.org](http://ftp.gnu.org/gnu/readline/). I created a directory in my standard Source folder called readline-5.2 and then performed a build:
 
-> ```
-> $ cd /User/rbazinet/Source/readline-5.2 $ ./configure --prefix=/usr/local $ make $ sudo make install
+> ```bash
+> $ cd /User/rbazinet/Source/readline-5.2
+> $ ./configure --prefix=/usr/local
+> $ make
+> $ sudo make install
 > ```
 
 Now with Readline 5.2 installed I tried the Ruby 1.9 build again, this time indicating the location of my new Readline installation:
 
-> ```
-> $ autoconf $ ./configure --prefix=/Users/rbazinet/ruby19 --with-readline-dir=/usr/local $ make $ make install
+> ```bash
+> $ autoconf
+> $ ./configure --prefix=/Users/rbazinet/ruby19 --with-readline-dir=/usr/local
+> $ make
+> $ make install
 > ```
 
 Changing to our new Ruby 1.9 installation directory:
 
-> ```
-> $ cd /Users/rbazinet/ruby19/bin $ ./ruby -v ruby 1.9.0 (2007-12-25 revision 14709) [i686-darwin8.11.1] $ 
+> ```bash
+> $ cd /Users/rbazinet/ruby19/bin
+> $ ./ruby -v
+> ruby 1.9.0 (2007-12-25 revision 14709) [i686-darwin8.11.1]
+> $
 > ```
 
 Success!

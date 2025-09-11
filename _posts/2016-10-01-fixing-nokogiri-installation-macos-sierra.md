@@ -18,8 +18,9 @@ Nokogiri seems to be the source of many problems on my Mac and after upgrading t
 
 ## Problem
 
- You may get an error similar to: ```
+You may get an error similar to:
 
+```bash
 ERROR: Error installing nokogiri:
 ERROR: Failed to build gem native extension.
 
@@ -36,22 +37,34 @@ checking for iconv... yes
 IMPORTANT NOTICE:
 
 Building Nokogiri with a packaged version of libxml2-2.9.4.
-
-
 ```
 
- Suggesting using system libraries with: ```
+Suggesting using system libraries with:
+
+```bash
 gem install nokogiri -- --use-system-libraries
 ```
 
- Which leads to other less than helpful suggestions. ## Solution
+Which leads to other less than helpful suggestions.
 
- It seems after the macOS upgrade and moving to Xcode 8.0, command line tools were not installed. I was able to get Nokogiri installed by first installing the Xcode command line tools: ```
+## Solution
+
+It seems after the macOS upgrade and moving to Xcode 8.0, command line tools were not installed. I was able to get Nokogiri installed by first installing the Xcode command line tools:
+
+```bash
 xcode-select --install
 ```
 
- Then install Nokogiri using the system libraries: ```
-gem install nokogiri -- --use-system-libraries
+And then installing Nokogiri with:
+
+```bash
+gem install nokogiri
 ```
 
- I hope this helps someone trying to solve a problem that seems should have been solved better by now.
+This should resolve the installation issues. If you still have problems, try:
+
+```bash
+sudo gem install nokogiri -v '1.6.8' -- --use-system-libraries --with-xml2-include=/usr/include/libxml2 --with-xml2-lib=/usr/lib/
+```
+
+Hope this helps!

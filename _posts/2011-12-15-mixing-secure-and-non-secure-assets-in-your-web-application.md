@@ -40,7 +40,7 @@ I decided to do what every self-respected web developer does when facing a probl
 
 Dan points out a URL like this:
 
- ```
+```html
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 ```
 
@@ -48,7 +48,7 @@ Will cause Mixed Content warnings when included from a secure page. ?Some of the
 
 What works is both elegant and simple; two qualities that make my day. ?Referencing your CDN-based assets this way is only a slight change:
 
- ```
+```html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 ```
 

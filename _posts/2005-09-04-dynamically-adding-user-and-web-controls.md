@@ -18,7 +18,7 @@ Much of the time these controls are dropped on a form much like using a server c
 
 **Dynamically adding a web control:**
 
-<div>```
+<div>```csharp
         public class WebForm1 : System.Web.UI.Page
 ```
 
@@ -97,7 +97,7 @@ Much of the time these controls are dropped on a form much like using a server c
 </div>  
 **Dynamically adding a user control:**
 
-<div><div>```
+<div><div>```csharp
         private void Page_Init(object sender, System.EventArgs e)
 ```
 

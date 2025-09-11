@@ -30,8 +30,12 @@ As part of my setup I use [Autotest](https://github.com/seattlerb/zentest) so my
 
 Opening up my .autotest configuration file and adding the following:
 
- ```
-Autotest.add_hook :initialize do |at|<br></br> ?at.add_mapping(/test\/models\/.*\.rb/) do |_, m|<br></br> ??at.files_matching %r%^test/(models)/.*\.rb$%<br></br> ?end<br></br>end 
+```ruby
+Autotest.add_hook :initialize do |at|
+  at.add_mapping(/test\/models\/.*\.rb/) do |_, m|
+    at.files_matching %r%^test/(models)/.*\.rb$%
+  end
+end
 ```
 
 After restarting autotest, my unit tests are now being tested. ?I hope this saves someone some time.

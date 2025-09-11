@@ -19,19 +19,25 @@ tags:
 
 I ran into an interesting problem recently after updating my installation of [Homebrew](http://mxcl.github.com/homebrew/) on my Mac Pro. ? Starting with the update command, which ran successfully:
 
-```
+```bash
 $ brew update
 ```
 
- I then attempted to update my redis installation to the latest: ```
+I then attempted to update my redis installation to the latest:
+
+```bash
 $ brew upgrade redis
 ```
 
- I was greeted with this message: ```
+I was greeted with this message:
+
+```
 Error: undefined local variable or method `brew_install' for main:Object
 ```
 
- Trying several things on my own to no avail, led me to a Google search result pointing out a known issue and solution. ?It appears there is an issue with a brew\_upgrade.rb artifact being left behind after a brew update. ?The following commands from the [Homebrew wiki](https://github.com/mxcl/homebrew/wiki/Common-Issues) fix the problem: ```
+Trying several things on my own to no avail, led me to a Google search result pointing out a known issue and solution. It appears there is an issue with a brew_upgrade.rb artifact being left behind after a brew update. The following commands from the [Homebrew wiki](https://github.com/mxcl/homebrew/wiki/Common-Issues) fix the problem:
+
+```bash
 $ cd $(brew --prefix)/Library/Contributions/examples
 $ git clean -n # if this doesn't list anything that you want to keep, then
 $ git clean -f # this will remove untracked files

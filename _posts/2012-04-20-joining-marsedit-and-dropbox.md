@@ -32,33 +32,33 @@ Without further ado, follow these steps. ?I assume you know how to open a termin
 
 2\. Find local MarsEdit drafts on your main system - A bit of spelunking reveals where they live in:
 
-```
+```bash
 ~/Library/Application Support/MarsEdit/LocalDrafts
 ```
 
 3\. Create folder for drafts in Dropbox.
 
-```
+```bash
 mkdir ~/Dropbox/Library
 ```
 
-```
+```bash
 mkdir ~/Dropbox/Library/MarsEdit
 ```
 
 4\. Move the local drafts from the main computer to Dropbox, enter these two commands:
 
-```
+```bash
 cd ~/Library/Application\ Support/MarsEdit
 ```
 
-```
+```bash
 mv LocalDrafts ~/Dropbox/Library/MarsEdit/LocalDrafts
 ```
 
-5\. Now let's fool MarsEdit into thinking nothing has changed. ?Symlink the old name to the new location.
+5. Now let's fool MarsEdit into thinking nothing has changed. Symlink the old name to the new location.
 
-```
+```bash
 ln -s ~/Dropbox/Library/MarsEdit/LocalDrafts ./LocalDrafts
 ```
 
@@ -66,13 +66,13 @@ Now, on each of the other machines start with step 6.
 
 6\. Remove the local draft folder (if it's not empty and delete you will lose data).
 
-```
+```bash
 rm -rf ~/Library/Application\ Support/MarsEdit/LocalDrafts
 ```
 
-7\. Time to fool MarsEdit here too.?Symlink the old name to the new location.
+7. Time to fool MarsEdit here too. Symlink the old name to the new location.
 
-```
+```bash
 ln -s ~/Dropbox/Library/MarsEdit/LocalDrafts ./LocalDrafts
 ```
 

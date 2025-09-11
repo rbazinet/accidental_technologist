@@ -28,38 +28,50 @@ I ran into a situation where the pg gem would not install because it could not f
 
 The error can come up when running a `bundle install` or just a straight `gem install pg` from the command line. The resulting error may look something like this:
 
-```
-Installing pg (0.17.0) with native extensions <br></br>Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension<br></br>.<br></br>.<br></br>.<br></br>.<br></br>An error occurred while installing pg (0.17.0), and Bundler cannot continue.<br></br>Make sure that `gem install pg -v ?0.17.0'` succeeds before bundling.
+```bash
+Installing pg (0.17.0) with native extensions
+Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension
+.
+.
+.
+.
+An error occurred while installing pg (0.17.0), and Bundler cannot continue.
+Make sure that `gem install pg -v '0.17.0'` succeeds before bundling.
 ```
 
 ### The Solution
 
 I already mentioned the problem is the gem install not finding pg\_config during installation. ?So let?s find it.
 
-1\. First, find where pg\_config is located. ?Run this command from a terminal window:  
-which pg\_config
+1. First, find where pg_config is located. Run this command from a terminal window:
+
+```bash
+which pg_config
+```
 
 Should display something like this:
 
-```
+```bash
 /Applications/Postgres.app/Contents/MacOS/bin/pg_config
 ```
 
 2\. You can tell RubyGems where your pg\_config file is located:
 
-```
+```bash
 gem install pg -- --with-pg-config='PATH_TO_YOUR_PG_CONFIG'
 ```
 
-For example, pg\_config is here on my system:
+For example, pg_config is here on my system:
 
-```
+```bash
 /Applications/Postgres.app/Contents/MacOS/bin/pg_config
 ```
 
 So I would install the gem this way:
 
-`gem install pg -- --with-pg-config='/Applications/Postgres.app/Contents/MacOS/bin/pg_config'`
+```bash
+gem install pg -- --with-pg-config='/Applications/Postgres.app/Contents/MacOS/bin/pg_config'
+```
 
 The pg gem should now install. I hope this helps.
 

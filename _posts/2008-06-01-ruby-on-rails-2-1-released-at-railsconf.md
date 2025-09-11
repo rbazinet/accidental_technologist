@@ -32,7 +32,7 @@ One of the announcements I thought might be coming at the event was the release 
 > 
 > As always, you can install with:
 > 
-> ```
+> ```bash
 > gem install rails
 > ```
 > 

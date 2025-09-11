@@ -43,8 +43,17 @@ It is also made available for hard-core Ruby developers to learn what's new and 
 
 Users should install Ruby 1.9 as a secondary Ruby install, not an install over the top of your production Ruby 1.8.x or whatever. Dave Thomas gives a nice tutorial on the subject:
 
-> ```
-> $ autoconf $ ./configure --prefix=/Users/dave/ruby19 $ make $ make install Then, I just add /Users/dave/ruby19/bin to my path, and I'm using my nicely sandboxed version of Ruby 1.9. $ PATH=/Users/dave/ruby19/bin:$PATH$ ruby -v ruby 1.9.0 (2007-12-26 revision 0) [i686-darwin8.11.1]
+> ```bash
+> $ autoconf
+> $ ./configure --prefix=/Users/dave/ruby19
+> $ make
+> $ make install
+> 
+> Then, I just add /Users/dave/ruby19/bin to my path, and I'm using my nicely sandboxed version of Ruby 1.9.
+> 
+> $ PATH=/Users/dave/ruby19/bin:$PATH
+> $ ruby -v
+> ruby 1.9.0 (2007-12-26 revision 0) [i686-darwin8.11.1]
 > ```
 
 This method will give you a sandbox or Ruby 1.9 to write code with and explore.

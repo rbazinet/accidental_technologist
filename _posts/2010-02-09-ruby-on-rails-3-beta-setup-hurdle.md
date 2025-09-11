@@ -30,29 +30,26 @@ Ryan Bates has a great intro to setting up Rails 3 with RVM in his latest Railsc
 
 I decided to use Ruby 1.8.7 for initial testing. There are a bunch of gem dependencies when working with Rails 3, as you might expect. There is a gem called rails3b which installs the necessary dependencies in one swoop. These two command should do the trick:
 
-> ```
-> 
-> gem install rails3b
-> gem install arel --pre
-> ```
+```bash
+gem install rails3b
+gem install arel --pre
+```
 
 After these commands finished and I closed and reopened my terminal prompt, a quick rails command gave me the following error:
 
-> ```
-> 
-> /usr/local/lib/ruby/site_ruby/1.8/rubygems.rb:827:in `report_activate_error': Could not find RubyGem rails (>= 0) (Gem::LoadError)
-> from /usr/local/lib/ruby/site_ruby/1.8/rubygems.rb:261:in `activate'
-> from /usr/local/lib/ruby/site_ruby/1.8/rubygems.rb:68:in `gem'
-> from /usr/local/bin/rails:18
-> ```
+```
+/usr/local/lib/ruby/site_ruby/1.8/rubygems.rb:827:in `report_activate_error': Could not find RubyGem rails (>= 0) (Gem::LoadError)
+from /usr/local/lib/ruby/site_ruby/1.8/rubygems.rb:261:in `activate'
+from /usr/local/lib/ruby/site_ruby/1.8/rubygems.rb:68:in `gem'
+from /usr/local/bin/rails:18
+```
 
 Some Googling did not return any usable results from anyone with this error. I really didn't expect anything, things are just too new. Thinking back to another way to install Rails 3, I decided to try this instead:
 
-> ```
-> 
-> gem install tzinfo builder memcache-client rack rack-test rack-mount erubis mail text-format thor bundler i18n
-> gem install rails --pre
-> ```
+```bash
+gem install tzinfo builder memcache-client rack rack-test rack-mount erubis mail text-format thor bundler i18n
+gem install rails --pre
+```
 
 After running these two gem commands the new rails command works as expected. I'm not really clear what the difference was which fixed the rails command, but I don't know if I need to.
 
