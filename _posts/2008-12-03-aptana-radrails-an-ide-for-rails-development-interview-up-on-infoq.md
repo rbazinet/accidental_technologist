@@ -10,7 +10,7 @@ categories:
     - Ruby
 ---
 
-[![AptanaRadRails](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AptanaRadRailsAnIDEforRailsDevelopmentin_E77E/AptanaRadRails_thumb.png "AptanaRadRails")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AptanaRadRailsAnIDEforRailsDevelopmentin_E77E/AptanaRadRails_2.png)
+[![AptanaRadRails](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AptanaRadRailsAnIDEforRailsDevelopmentin_E77E/AptanaRadRails_thumb.png "AptanaRadRails")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AptanaRadRailsAnIDEforRailsDevelopmentin_E77E/AptanaRadRails_2.png)
 
 I had been working on an interview with Javier Ramirez, author of [Aptana RadRails, An IDE for Rails Development](http://www.packtpub.com/aptana-rapid-rails-development/book). It was a good interview as Javier really knows his [Aptana RadRails](http://www.aptana.com/rails/). It was eye-opening for me because I had not looked at the Aptana RadRails development environment in a long time and it has come a long way since becoming part of Aptana. It is worth checking out for sure.
 

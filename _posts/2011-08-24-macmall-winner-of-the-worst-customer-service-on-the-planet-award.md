@@ -4,7 +4,7 @@ title: 'MacMall : Winner of the Worst Customer Service on the Planet Award'
 date: '2011-08-24T09:00:35-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=669'
+guid: 'https://accidentaltechnologist.com/?p=669'
 permalink: /apple/macmall-winner-of-the-worst-customer-service-on-the-planet-award/
 dsq_thread_id:
     - '394672252'

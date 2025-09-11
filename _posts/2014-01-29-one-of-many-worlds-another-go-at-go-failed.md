@@ -4,7 +4,7 @@ title: 'One of Many Worlds: Another go at Go ... failed!'
 date: '2014-01-29T06:15:54-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=965'
+guid: 'https://accidentaltechnologist.com/?p=965'
 permalink: /go/one-of-many-worlds-another-go-at-go-failed/
 dsq_thread_id:
     - '2190081952'

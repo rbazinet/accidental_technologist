@@ -4,7 +4,7 @@ title: 'How Not To Provide Customer Support'
 date: '2014-01-31T10:42:30-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=971'
+guid: 'https://accidentaltechnologist.com/?p=971'
 permalink: /entrepreneurship/how-not-to-provide-customer-support/
 dsq_thread_id:
     - '2200634764'

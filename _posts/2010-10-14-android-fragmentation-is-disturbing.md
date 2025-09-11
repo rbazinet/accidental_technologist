@@ -4,7 +4,7 @@ title: 'Android Fragmentation is Disturbing'
 date: '2010-10-14T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/technology/android-fragmentation-is-disturbing/'
+guid: 'https://accidentaltechnologist.com/technology/android-fragmentation-is-disturbing/'
 permalink: /technology/android-fragmentation-is-disturbing/
 dsq_thread_id:
     - '156134531'

@@ -4,7 +4,7 @@ title: 'Ratings or No Ratings, It Could be Time for A Change to Apple App Store 
 date: '2013-12-16T17:03:58-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=957'
+guid: 'https://accidentaltechnologist.com/?p=957'
 permalink: /apple/ratings-or-no-ratings-it-could-be-time-for-a-change-to-apple-app-store-rating-system/
 dsq_thread_id:
     - '2054945497'

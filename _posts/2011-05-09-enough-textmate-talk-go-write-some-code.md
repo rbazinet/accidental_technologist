@@ -4,7 +4,7 @@ title: 'Enough TextMate Talk, Go Write Some Code'
 date: '2011-05-09T12:19:59-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=655'
+guid: 'https://accidentaltechnologist.com/?p=655'
 permalink: /programming/enough-textmate-talk-go-write-some-code/
 dsq_thread_id:
     - '299332529'

@@ -4,7 +4,7 @@ title: 'Get Your Mobile Development Chops On'
 date: '2011-04-15T15:32:08-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=652'
+guid: 'https://accidentaltechnologist.com/?p=652'
 permalink: /mobile/get-your-mobile-development-chops-on/
 dsq_thread_id:
     - '280418718'

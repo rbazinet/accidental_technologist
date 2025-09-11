@@ -14,7 +14,7 @@ categories:
 
 I wonder who designed the user experience at [Orbitz](http://www.orbitz.com/)? I cannot imagine the design meeting which resulted with this checkbox on their flight search page:
 
-[![Orbitz](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhoHerePrefersNonStopFlights_CAE2/Orbitz_thumb.png "Orbitz")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhoHerePrefersNonStopFlights_CAE2/Orbitz_2.png)
+[![Orbitz](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhoHerePrefersNonStopFlights_CAE2/Orbitz_thumb.png "Orbitz")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhoHerePrefersNonStopFlights_CAE2/Orbitz_2.png)
 
 Does anyone look at that checkbox and decide they don?t want a non-stop flight? No, I would love for this flight to take as long as humanly possible.
 

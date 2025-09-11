@@ -4,7 +4,7 @@ title: 'Design Lessons from the Apple Store'
 date: '2010-07-01T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=438'
+guid: 'https://accidentaltechnologist.com/?p=438'
 permalink: /business/taking-lessons-from-the-apple-store/
 jd_tweet_this:
     - 'yes'

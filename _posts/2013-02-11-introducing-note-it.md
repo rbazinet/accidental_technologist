@@ -4,7 +4,7 @@ title: 'Introducing Note-It'
 date: '2013-02-11T11:30:01-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=893'
+guid: 'https://accidentaltechnologist.com/?p=893'
 permalink: /apple/introducing-note-it/
 wpgplus_message:
     - ''

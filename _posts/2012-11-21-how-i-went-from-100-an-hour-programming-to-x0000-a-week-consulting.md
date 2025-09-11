@@ -4,7 +4,7 @@ title: 'How I went from $100-an-hour programming to $X0,000-a-week consulting.'
 date: '2012-11-21T09:00:59-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=873'
+guid: 'https://accidentaltechnologist.com/?p=873'
 permalink: /business/how-i-went-from-100-an-hour-programming-to-x0000-a-week-consulting/
 wpgplus_message:
     - ''

@@ -12,13 +12,13 @@ categories:
     - Technology
 ---
 
-[![chrome_logo_sm](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/chrome_logo_sm_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/chrome_logo_sm_2.jpg)
+[![chrome_logo_sm](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/chrome_logo_sm_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/chrome_logo_sm_2.jpg)
 
 Google seems to have surprised us again with the announcement and release of their lightweight browser named [Google Chrome](http://www.google.com/chrome/intl/en/features.html). The idea of yet another browser seems like a waste of resources, but I wanted to give it a try.
 
 The [download from the Google Chrome website](http://www.google.com/chrome/?hl=en) was fast and the installation was really quick. When the installation finished after a brief wait, it imported by Firefox bookmarks and browsing history for my use later. The browser loads very fast and reveals a pretty simple user interface, which is part of the design goal from what I understand.
 
-[![GoogleChrome](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/GoogleChrome_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/GoogleChrome_2.jpg)
+[![GoogleChrome](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/GoogleChrome_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeFirstImpressions_1085B/GoogleChrome_2.jpg)
 
 My initial thoughts about the UI, I like the way the address bar is inside each tab which seems a bit more intuitive. It seems Google is trying to step back and think out-of-the-box about how a browser should act and I applaud them for this. I can say this is a clean UI with no bells and whistles getting in the way.
 

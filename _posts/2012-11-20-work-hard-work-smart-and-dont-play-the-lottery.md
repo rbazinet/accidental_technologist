@@ -4,7 +4,7 @@ title: "Work Hard, Work Smart and Don't Play the Lottery"
 date: '2012-11-20T09:00:53-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=871'
+guid: 'https://accidentaltechnologist.com/?p=871'
 permalink: /apple/work-hard-work-smart-and-dont-play-the-lottery/
 wpgplus_message:
     - ''

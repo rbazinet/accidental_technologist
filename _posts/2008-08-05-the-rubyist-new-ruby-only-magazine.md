@@ -16,7 +16,7 @@ The Rubyist is described as:
 
 > A technical magazine focused on technical content and the happenings in the world of Ruby, Rails, Merb, and anything else related to our favorite programming language.
 
-[![therubyist](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheRubyist_BCC7/therubyist_3.jpg)](http://magcloud.com/browse/Magazine/2284)
+[![therubyist](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheRubyist_BCC7/therubyist_3.jpg)](http://magcloud.com/browse/Magazine/2284)
 
 The first issue is August 2008 and features:
 

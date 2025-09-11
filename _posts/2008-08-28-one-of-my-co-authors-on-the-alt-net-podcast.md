@@ -10,7 +10,7 @@ categories:
     - IronRuby
 ---
 
-[![IronRuby](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Checkoutoneofmywritingpartner.NETPodcast_EA42/IronRuby_thumb.png)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Checkoutoneofmywritingpartner.NETPodcast_EA42/IronRuby_2.png) Just a quick note, one of people I am writing the [Professional IronRuby book](http://www.amazon.com/gp/product/0470377089?ie=UTF8&tag=netmusing-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470377089) with, [Aaron Junod](http://rubydoes.net/), was on the ALT.NET Podcast recently talking about [The State of IronRuby](http://altnetpodcast.com/episodes/9-state-of-ironruby). Aaron and [Michael Letterle](http://blog.prokrams.com/) talk with Mike Moore about:
+[![IronRuby](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Checkoutoneofmywritingpartner.NETPodcast_EA42/IronRuby_thumb.png)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Checkoutoneofmywritingpartner.NETPodcast_EA42/IronRuby_2.png) Just a quick note, one of people I am writing the [Professional IronRuby book](http://www.amazon.com/gp/product/0470377089?ie=UTF8&tag=netmusing-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470377089) with, [Aaron Junod](http://rubydoes.net/), was on the ALT.NET Podcast recently talking about [The State of IronRuby](http://altnetpodcast.com/episodes/9-state-of-ironruby). Aaron and [Michael Letterle](http://blog.prokrams.com/) talk with Mike Moore about:
 
 > - [Why Ruby?](http://ruby-doc.org/whyruby)
 > - [Dynamic Typing](http://c2.com/cgi/wiki?DynamicTyping)

@@ -30,15 +30,15 @@ Pragmatic is providing three types of downloadable formats now; PDF, epub (iPhon
 
 Stanza loads up and lets you use gestures to move through the book, selecting the Table of Contents lets you choose which chapter to view. Going from page-to-page is easy too with just a flick across the iPhone screen. I was really amazed how good the quality of the text is:
 
-[![IMG_0004](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0004_thumb.png "IMG_0004")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0004.png)
+[![IMG_0004](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0004_thumb.png "IMG_0004")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0004.png)
 
 You can see the nice crisp letters on the white background are easy on the eyes. Images also show very well:
 
-[![IMG_0005](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0005_thumb.png "IMG_0005")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0005.png)
+[![IMG_0005](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0005_thumb.png "IMG_0005")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0005.png)
 
 One area I was concerned about was view code. As you can see, code looks good too:
 
-[![IMG_0006](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0006_thumb.png "IMG_0006")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0006.png)
+[![IMG_0006](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0006_thumb.png "IMG_0006")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ExperiencingPragmaticProgrammersontheiPh_A6C9/IMG_0006.png)
 
 Granted, the need to scroll may be annoying to some but it is acceptable to me. The main goal for me it to actually read the text and not really focus on the code. I don?t know how this would be with pages of complex Objective-C here but time will tell.
 

@@ -4,14 +4,14 @@ title: 'InfoQ: DataMapper Turns the Big 1.0'
 date: '2010-07-22T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/infoq/infoq-datamapper-turns-the-big-1-0/'
+guid: 'https://accidentaltechnologist.com/infoq/infoq-datamapper-turns-the-big-1-0/'
 permalink: /infoq/infoq-datamapper-turns-the-big-1-0/
 jd_tweet_this:
     - 'yes'
 wp_jd_bitly:
     - 'http://bit.ly/ap0ySM'
 wp_jd_target:
-    - 'http://accidentaltechnologist.com/infoq/infoq-datamapper-turns-the-big-1-0/'
+    - 'https://accidentaltechnologist.com/infoq/infoq-datamapper-turns-the-big-1-0/'
 dsq_thread_id:
     - '120833075'
 categories:
@@ -23,7 +23,7 @@ tags:
     - 'Ruby on Rails'
 ---
 
-[Since my visit to RailsConf in June](http://accidentaltechnologist.com/ruby-on-rails/railsconf-2010/) I have been pursuing various topics to write about for InfoQ. I have been particularly interested in [DataMapper](http://datamapper.org/) and the fact that [version 1.0 has been released](http://datamapper.org/articles/datamapper-100-released.html).
+[Since my visit to RailsConf in June](https://accidentaltechnologist.com/ruby-on-rails/railsconf-2010/) I have been pursuing various topics to write about for InfoQ. I have been particularly interested in [DataMapper](http://datamapper.org/) and the fact that [version 1.0 has been released](http://datamapper.org/articles/datamapper-100-released.html).
 
 I had the chance to talk with [Dan Kubb](http://github.com/dkubb/), the lead on the project, about version 1.0 and it went out this morning on InfoQ, titled [DataMapper Reaches 1.0 Milestone](http://www.infoq.com/news/2010/07/datamapper-1.0). It was interesting to see the details of this project while thinking how Rails uses ActiveRecord.
 

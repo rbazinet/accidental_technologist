@@ -4,7 +4,7 @@ title: 'PalettePro AppDiction Review'
 date: '2012-06-13T09:00:32-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=740'
+guid: 'https://accidentaltechnologist.com/?p=740'
 permalink: /mobile/palettepro-appdiction-review/
 redirect:
     - 'http://appdictions.com/palettepro-app-review'

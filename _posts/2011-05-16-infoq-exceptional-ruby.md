@@ -4,7 +4,7 @@ title: 'InfoQ: Exceptional Ruby'
 date: '2011-05-16T09:04:52-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=659'
+guid: 'https://accidentaltechnologist.com/?p=659'
 permalink: /infoq/infoq-exceptional-ruby/
 dsq_thread_id:
     - '305113479'

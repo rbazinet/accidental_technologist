@@ -10,7 +10,7 @@ categories:
     - General
 ---
 
-[![RubyFringeCrowd](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AttendingConferences_7720/RubyFringeCrowd_3.jpg) ](http://rubyfringe.com/)
+[![RubyFringeCrowd](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AttendingConferences_7720/RubyFringeCrowd_3.jpg) ](http://rubyfringe.com/)
 
 Miles Burke has a really [great article on the SitePoint web site](http://www.sitepoint.com/blogs/2008/09/23/why-you-should-attend-two-conferences-a-year/) about attending conferences and the reasons to do so.
 

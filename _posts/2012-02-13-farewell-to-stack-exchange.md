@@ -4,7 +4,7 @@ title: 'Farewell to Stack Exchange'
 date: '2012-02-13T09:15:05-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=694'
+guid: 'https://accidentaltechnologist.com/?p=694'
 permalink: /business/farewell-to-stack-exchange/
 redirect:
     - 'http://www.codinghorror.com/blog/2012/02/farewell-stack-exchange.html'
@@ -20,7 +20,7 @@ tags:
     - 'steve jobs'
 ---
 
-I [posted recently](http://accidentaltechnologist.com/business/less-is-more-enjoying-startup-life/) about having priorities straight in your profession and Jeff Atwood, founder of Stack Exchange, comes to the realization as well.
+I [posted recently](https://accidentaltechnologist.com/business/less-is-more-enjoying-startup-life/) about having priorities straight in your profession and Jeff Atwood, founder of Stack Exchange, comes to the realization as well.
 
 > Startup life is hard on families. We just welcomed two new members into our family, and running as fast as you can isn't sustainible for parents of multiple small children. The death of Steve Jobs, and his subsequent posthumous biography, highlighted the risks for a lot of folks.
 

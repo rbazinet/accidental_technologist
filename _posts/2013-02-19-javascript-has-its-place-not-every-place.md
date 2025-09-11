@@ -4,7 +4,7 @@ title: 'JavaScript Has Its Place, But Not Every Place'
 date: '2013-02-19T09:30:37-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=898'
+guid: 'https://accidentaltechnologist.com/?p=898'
 permalink: /javascript/javascript-has-its-place-not-every-place/
 wpgplus_message:
     - ''

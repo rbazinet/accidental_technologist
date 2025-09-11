@@ -4,7 +4,7 @@ title: 'InfoQ: Meet the Goliath of Ruby Application Servers'
 date: '2011-03-21T08:00:40-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=611'
+guid: 'https://accidentaltechnologist.com/?p=611'
 permalink: /infoq/infoq-meet-the-goliath-of-ruby-application-servers/
 s2mail:
     - 'yes'

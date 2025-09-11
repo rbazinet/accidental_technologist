@@ -4,7 +4,7 @@ title: 'Free Ultimately Always Has a Price'
 date: '2013-03-14T09:59:07-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=909'
+guid: 'https://accidentaltechnologist.com/?p=909'
 permalink: /entrepreneurship/free-ultimately-always-has-a-price/
 wpgplus_message:
     - ''

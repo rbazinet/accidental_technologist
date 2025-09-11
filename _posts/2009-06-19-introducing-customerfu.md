@@ -12,7 +12,7 @@ categories:
     - CustomerFu
 ---
 
-[![CustomerFu-logo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/CustomerFu-logo_thumb.jpg "CustomerFu-logo")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/CustomerFu-logo_2.jpg)
+[![CustomerFu-logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/CustomerFu-logo_thumb.jpg "CustomerFu-logo")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/CustomerFu-logo_2.jpg)
 
 I have been spending a lot of my free time lately working on a new web application that I wanted to announce today, [CustomerFu](http://customerfu.com). CustomerFu is:
 
@@ -24,17 +24,17 @@ CustomerFu can be used by many different types of industries, for example, the r
 
 ### Dashboard
 
-[![cf_dashboard_sm](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_dashboard_sm_thumb.jpg "cf_dashboard_sm")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_dashboard_sm_2.jpg)
+[![cf_dashboard_sm](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_dashboard_sm_thumb.jpg "cf_dashboard_sm")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_dashboard_sm_2.jpg)
 
 Users of CustomerFu have a centralized dashboard to track complaints coming in from each branch.
 
 ### Reporting
 
-[![cf_reports_sm](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_reports_sm_thumb.jpg "cf_reports_sm")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_reports_sm_2.jpg)
+[![cf_reports_sm](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_reports_sm_thumb.jpg "cf_reports_sm")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_reports_sm_2.jpg)
 
 ### Easy Administration
 
-[![cf_categories_sm](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_categories_sm_thumb.jpg "cf_categories_sm")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_categories_sm_2.jpg)
+[![cf_categories_sm](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_categories_sm_thumb.jpg "cf_categories_sm")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_categories_sm_2.jpg)
 
 Please email me at <rbazinet@customerfu.com> with questions or more details. Free accounts are available on the [CustomerFu.com](http://customerfu.com/) web site.
 

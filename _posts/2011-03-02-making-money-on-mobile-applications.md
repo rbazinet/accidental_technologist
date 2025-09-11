@@ -4,7 +4,7 @@ title: 'Making Money on Mobile Applications'
 date: '2011-03-02T09:00:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=607'
+guid: 'https://accidentaltechnologist.com/?p=607'
 permalink: /mobile/making-money-on-mobile-applications/
 dsq_thread_id:
     - '243638459'

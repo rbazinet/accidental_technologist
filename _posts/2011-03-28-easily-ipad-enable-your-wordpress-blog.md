@@ -4,7 +4,7 @@ title: 'Easily iPad Enable Your WordPress Blog'
 date: '2011-03-28T09:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=625'
+guid: 'https://accidentaltechnologist.com/?p=625'
 permalink: /mobile/easily-ipad-enable-your-wordpress-blog/
 s2mail:
     - 'yes'

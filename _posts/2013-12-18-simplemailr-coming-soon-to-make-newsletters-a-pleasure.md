@@ -4,7 +4,7 @@ title: 'SimpleMailr Coming Soon to Make Email Newsletters a Pleasure'
 date: '2013-12-18T09:00:48-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=960'
+guid: 'https://accidentaltechnologist.com/?p=960'
 permalink: /entrepreneurship/simplemailr-coming-soon-to-make-newsletters-a-pleasure/
 dsq_thread_id:
     - '2058570495'

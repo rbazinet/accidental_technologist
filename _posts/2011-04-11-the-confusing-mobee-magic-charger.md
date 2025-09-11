@@ -4,7 +4,7 @@ title: 'The Confusing Mobee Magic Charger'
 date: '2011-04-11T11:28:23-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=644'
+guid: 'https://accidentaltechnologist.com/?p=644'
 permalink: /apple/the-confusing-mobee-magic-charger/
 dsq_thread_id:
     - '276793789'

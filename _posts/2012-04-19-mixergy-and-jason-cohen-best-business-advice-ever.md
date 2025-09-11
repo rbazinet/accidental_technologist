@@ -4,7 +4,7 @@ title: 'Mixergy and Jason Cohen - Best Business Advice Ever'
 date: '2012-04-19T09:00:45-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=710'
+guid: 'https://accidentaltechnologist.com/?p=710'
 permalink: /entrepreneurship/mixergy-and-jason-cohen-best-business-advice-ever/
 dsq_thread_id:
     - '656149449'

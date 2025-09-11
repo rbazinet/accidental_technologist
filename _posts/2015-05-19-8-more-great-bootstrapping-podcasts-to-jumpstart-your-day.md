@@ -4,7 +4,7 @@ title: '8 More Great Bootstrapping Podcasts to Jumpstart Your Day'
 date: '2015-05-19T09:00:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1050'
+guid: 'https://accidentaltechnologist.com/?p=1050'
 permalink: /bootstrapping/8-more-great-bootstrapping-podcasts-to-jumpstart-your-day/
 dsq_thread_id:
     - '3776682132'
@@ -18,7 +18,7 @@ tags:
     - startups
 ---
 
-![bootstrapping podcasts](/assets/img/2015/05/podcast.jpg "podcast.jpg") I listen to a lot of bootstrapping podcasts throughout the year, trying new ones and retiring those that stop producing new episodes or I lose interest. I wrote up a list a while ago about bootstrapping, [7 Great Bootstrapping Podcasts to Jumpstart Your Business Today](http://accidentaltechnologist.com/entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your-business-today), and thought it was time for an update. ## 8 Great Bootstrapping Podcasts
+![bootstrapping podcasts](/assets/img/2015/05/podcast.jpg "podcast.jpg") I listen to a lot of bootstrapping podcasts throughout the year, trying new ones and retiring those that stop producing new episodes or I lose interest. I wrote up a list a while ago about bootstrapping, [7 Great Bootstrapping Podcasts to Jumpstart Your Business Today](https://accidentaltechnologist.com/entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your-business-today), and thought it was time for an update. ## 8 Great Bootstrapping Podcasts
 
  I?m not including any bootstrapping podcasts from my previous list, only ones I?ve discovered and listen to on a regular basis today. The old list still includes some favorites so you should check that list out too. This list is not me pulling together a quick list but is curated since the last list. I have probably reduced 50 podcasts down to this final 8. ?I hope you find some new gems here. ### ConversionAid
 

@@ -4,7 +4,7 @@ title: 'Maybe You Are Doing Too Much Test Driven Development'
 date: '2012-12-11T12:21:20-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=880'
+guid: 'https://accidentaltechnologist.com/?p=880'
 permalink: /programming/maybe-you-are-doing-too-much-test-driven-development/
 wpgplus_message:
     - ''

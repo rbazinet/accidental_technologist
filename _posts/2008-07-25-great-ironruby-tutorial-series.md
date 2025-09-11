@@ -12,7 +12,7 @@ categories:
     - IronRuby
 ---
 
-[![IronRuby](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatIronRubyTutorialSeries_CC71/IronRuby_thumb.png)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatIronRubyTutorialSeries_CC71/IronRuby_2.png)
+[![IronRuby](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatIronRubyTutorialSeries_CC71/IronRuby_thumb.png)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatIronRubyTutorialSeries_CC71/IronRuby_2.png)
 
 I have been doing a lot of C# development over the years and it has been my primary language since the days of C and C++ coding. I started working with Ruby for the past couple years doing personal projects and some client work too. It was an experience to learn Ruby after so long with C-type languages.
 

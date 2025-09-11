@@ -4,7 +4,7 @@ title: 'Reading List'
 date: '2015-04-24T12:01:19-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1028'
+guid: 'https://accidentaltechnologist.com/?p=1028'
 permalink: /entrepreneurship/reading-list/
 link:
     - 'http://expensiveproblem.com/readinglist'

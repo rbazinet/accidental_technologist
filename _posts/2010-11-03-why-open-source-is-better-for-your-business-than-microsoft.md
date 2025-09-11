@@ -4,7 +4,7 @@ title: 'Why Open Source is Better for Your Business than Microsoft'
 date: '2010-11-03T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/technology/why-open-source-is-better-for-your-business-than-microsoft/'
+guid: 'https://accidentaltechnologist.com/technology/why-open-source-is-better-for-your-business-than-microsoft/'
 permalink: /technology/why-open-source-is-better-for-your-business-than-microsoft/
 s2mail:
     - 'yes'

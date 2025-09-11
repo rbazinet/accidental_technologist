@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-[![ubuntulogo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/ubuntulogo_thumb.png "ubuntulogo")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/ubuntulogo_2.png) I ordered a Dell Mini 910 as soon as Dell announced they were ready and [I was impressed with it right away](http://accidentaltechnologist.com/technology/the-dell-mini-arrives-first-impressions/). The one I ordered came with Windows XP because Dell did not offer Ubuntu with much RAM or SSD storage.
+[![ubuntulogo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/ubuntulogo_thumb.png "ubuntulogo")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/ubuntulogo_2.png) I ordered a Dell Mini 910 as soon as Dell announced they were ready and [I was impressed with it right away](https://accidentaltechnologist.com/technology/the-dell-mini-arrives-first-impressions/). The one I ordered came with Windows XP because Dell did not offer Ubuntu with much RAM or SSD storage.
 
 After working with this netbook for a month or so I decided I really wanted something a bit more..well, non-Microsoft. I debated about putting Apple OSX on it as some folks have reported as being able to do but there was also problems reported with this as well. So I decided to put the recently released Ubuntu 8.10 on it.
 
@@ -99,7 +99,7 @@ This sounded like it would fit the need perfectly. I wanted to install Ubuntu 8.
 
 Creation of the bootable USB Ubuntu installation really could not be easier. UNetbootin is a standalone utility which when run lets the user select from any support distribution flavor and version. The target USB key is also selected and after pressing OK the distribution is downloaded, unarchived, the USB key formatted and the distribution copied to the USB key and made bootable. All of this is handled for the user.
 
-[![UNetbootin](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/UNetbootin_thumb.jpg "UNetbootin")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/UNetbootin_2.jpg)
+[![UNetbootin](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/UNetbootin_thumb.jpg "UNetbootin")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InstallingUbuntu8.10ontheDellMini_9059/UNetbootin_2.jpg)
 
 ### Installing Ubuntu on the Dell Mini
 

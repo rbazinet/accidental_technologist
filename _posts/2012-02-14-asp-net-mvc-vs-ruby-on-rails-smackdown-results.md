@@ -4,7 +4,7 @@ title: 'ASP.Net MVC vs Ruby on Rails Smackdown Results'
 date: '2012-02-14T11:43:47-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=696'
+guid: 'https://accidentaltechnologist.com/?p=696'
 permalink: /ruby-on-rails/asp-net-mvc-vs-ruby-on-rails-smackdown-results/
 redirect:
     - 'http://redlinesoftware.com/blog/2012/01/26/asp-dot-net-mvc-vs-ruby-on-rails-smackdown-results/'

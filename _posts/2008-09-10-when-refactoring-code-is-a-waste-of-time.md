@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![WasteButton](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhenRefactoringCodeisaWasteofTime_132D3/WasteButton_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhenRefactoringCodeisaWasteofTime_132D3/WasteButton_2.jpg) We hear this all the time, a developer going in and finding some code someone else wrote and they start hacking at it to make it look more like their coding style than the original and they label it "refactored"
+[![WasteButton](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhenRefactoringCodeisaWasteofTime_132D3/WasteButton_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WhenRefactoringCodeisaWasteofTime_132D3/WasteButton_2.jpg) We hear this all the time, a developer going in and finding some code someone else wrote and they start hacking at it to make it look more like their coding style than the original and they label it "refactored"
 
 Sometimes we need to look at someone else's code or even our own to resolve a bug and at times it is necessary or efficient to rewrite part of the code to better assist in solving the problem. This brings client value, a bug has been fixed.
 

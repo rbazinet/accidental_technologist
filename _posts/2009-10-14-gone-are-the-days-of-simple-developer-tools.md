@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![originalfox](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GonearetheDaysofSimpleDeveloperTools_D1B7/originalfox_thumb.gif "originalfox")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GonearetheDaysofSimpleDeveloperTools_D1B7/originalfox_2.gif) I read with interest a post by Ted Neward titled ["Agile is treating the symptoms, not the disease"](http://blogs.tedneward.com/2009/10/12/quotAgile+Is+Treating+The+Symptoms+Not+The+Diseasequot.aspx). I will leave you to read the post in its entirety but point out Ted is paraphrasing a talk he attended with the speaker saying:
+[![originalfox](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GonearetheDaysofSimpleDeveloperTools_D1B7/originalfox_thumb.gif "originalfox")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GonearetheDaysofSimpleDeveloperTools_D1B7/originalfox_2.gif) I read with interest a post by Ted Neward titled ["Agile is treating the symptoms, not the disease"](http://blogs.tedneward.com/2009/10/12/quotAgile+Is+Treating+The+Symptoms+Not+The+Diseasequot.aspx). I will leave you to read the post in its entirety but point out Ted is paraphrasing a talk he attended with the speaker saying:
 
 > Keeping track of all the stuff Microsoft is releasing is hard work: LINQ, EF, Silverlight, ASP.NET MVC, Enterprise Library, Azure, Prism, Sparkle, MEF, WCF, WF, WPF, InfoCard, CardSpace, the list goes on and on, and frankly, nobody (and I mean nobody) can track it all.
 

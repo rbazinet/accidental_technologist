@@ -12,7 +12,7 @@ categories:
     - InfoQ
 ---
 
-[![black2_cover150](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewTheWellGroundedRubyist_871E/black2_cover150_3.jpg "black2_cover150")](http://www.manning.com/black2/)
+[![black2_cover150](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewTheWellGroundedRubyist_871E/black2_cover150_3.jpg "black2_cover150")](http://www.manning.com/black2/)
 
 I recently had the opportunity to review a copy of [David A. Black?s](http://dablog.rubypal.com/) new book, [The Well-Grounded Rubyist](http://www.manning.com/black2/). I interviewed David for InfoQ, [which is now live on the site](http://www.infoq.com/articles/interview-david-black). Please take a moment to give the interview a read, I think it was pretty insightful.
 

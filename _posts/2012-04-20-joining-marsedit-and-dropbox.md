@@ -4,7 +4,7 @@ title: 'Joining MarsEdit and Dropbox'
 date: '2012-04-20T09:00:12-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=713'
+guid: 'https://accidentaltechnologist.com/?p=713'
 permalink: /technology/joining-marsedit-and-dropbox/
 dsq_thread_id:
     - '657468127'

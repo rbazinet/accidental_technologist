@@ -4,7 +4,7 @@ title: 'A Laptop for Writers - and Developers'
 date: '2015-06-26T09:38:37-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1060'
+guid: 'https://accidentaltechnologist.com/?p=1060'
 permalink: /apple/a-laptop-for-writers-and-developers/
 link:
     - 'http://mattgemmell.com/a-laptop-for-writers/'

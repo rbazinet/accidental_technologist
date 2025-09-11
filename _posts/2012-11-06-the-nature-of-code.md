@@ -4,7 +4,7 @@ title: 'The Nature of Code'
 date: '2012-11-06T11:00:36-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=856'
+guid: 'https://accidentaltechnologist.com/?p=856'
 permalink: /book-reviews/the-nature-of-code/
 wpgplus_message:
     - ''

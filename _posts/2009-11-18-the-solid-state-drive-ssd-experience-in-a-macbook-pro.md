@@ -12,7 +12,7 @@ categories:
     - Apple
 ---
 
-I [recently purchased](http://accidentaltechnologist.com/apple/new-laptop-purchase-harder-than-expected/) a late model 2009 Apple MacBook Pro which came with a 500G 5400 RPM drive. After many years of using a laptop on a daily basis I quickly came to realize that one of the biggest factors in laptop performance was a slow hard drive. I think Apple ships their laptops with 5400 rpm drives because the average user would never know the difference and it helps keep the heat down and the laptop quiet.
+I [recently purchased](https://accidentaltechnologist.com/apple/new-laptop-purchase-harder-than-expected/) a late model 2009 Apple MacBook Pro which came with a 500G 5400 RPM drive. After many years of using a laptop on a daily basis I quickly came to realize that one of the biggest factors in laptop performance was a slow hard drive. I think Apple ships their laptops with 5400 rpm drives because the average user would never know the difference and it helps keep the heat down and the laptop quiet.
 
 I upgraded my last MacBook Pro to a 7200 rpm drive not long after having it and noticed a great speed improvement but also a pretty significant amount of heat being transferred through the aluminum body when the drive was working over time. I wanted to avoid that this time.
 
@@ -22,7 +22,7 @@ I decided to pursue a Solid-State Drive (SSD) as they are really fast compared t
 
 I purchased the [Intel SSDSA2MH160G2C1 X25M from ZipZoomfly.com](http://www.zipzoomfly.com/jsp/ProductDetail.jsp?ProductCode=10010793&ps=homain2), who had the best prices at the time.
 
-[![IMG_1225](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingtoSolidStateDriveSSDinaMacBookP_895E/IMG_1225_thumb.jpg "IMG_1225")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingtoSolidStateDriveSSDinaMacBookP_895E/IMG_1225.jpg)
+[![IMG_1225](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingtoSolidStateDriveSSDinaMacBookP_895E/IMG_1225_thumb.jpg "IMG_1225")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingtoSolidStateDriveSSDinaMacBookP_895E/IMG_1225.jpg)
 
 There are no real deals out there right now since these drives are in such demand. It is hard enough finding them in-stock, never mind a great deal.
 

@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-[![successful_freelancing](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Freelancing_A123/successful_freelancing_thumb.jpg "successful_freelancing")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Freelancing_A123/successful_freelancing_2.jpg) I have been doing freelance consulting work for the past several years, mostly for .NET applications but over the past year I seem to be doing more Ruby on Rails applications. I enjoy the Ruby community more that the .NET community, not sure why but maybe because they seem more laid back.
+[![successful_freelancing](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Freelancing_A123/successful_freelancing_thumb.jpg "successful_freelancing")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Freelancing_A123/successful_freelancing_2.jpg) I have been doing freelance consulting work for the past several years, mostly for .NET applications but over the past year I seem to be doing more Ruby on Rails applications. I enjoy the Ruby community more that the .NET community, not sure why but maybe because they seem more laid back.
 
 Recently I have been getting more involved in some iPhone development work and learning a bit about the iPhone and Mac development community, yet a different group of folks. This post is not about the various communities but what each type of community expects from either freelancers or someone looking for a job in general.
 

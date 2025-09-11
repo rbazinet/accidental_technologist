@@ -4,7 +4,7 @@ title: 'Digging the Gold from the Apple App Store'
 date: '2013-10-02T09:04:52-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=951'
+guid: 'https://accidentaltechnologist.com/?p=951'
 permalink: /apple/digging-the-gold-from-the-apple-app-store/
 dsq_thread_id:
     - '1817543259'

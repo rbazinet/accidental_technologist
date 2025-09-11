@@ -4,7 +4,7 @@ title: 'What He Said - Tim Bray ? Software in 2014'
 date: '2014-01-09T10:27:27-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=964'
+guid: 'https://accidentaltechnologist.com/?p=964'
 permalink: /programming/what-he-said-tim-bray-%c2%b7-software-in-2014/
 dsq_thread_id:
     - '2102617590'

@@ -48,7 +48,7 @@ I ordered an [Acer Aspire Easystore H340 from NewEgg](http://www.newegg.com/Prod
  
 Upon receiving, the setup was pretty easy. Client software gets loaded on each system (not the Mac) and are backed-up nightly. The Acer can even wake-up shutdown clients to back them up. Pretty slick.
 
-[![IMG_1182](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DontForgettoBackupDaily_978B/IMG_1182_thumb.jpg "IMG_1182")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DontForgettoBackupDaily_978B/IMG_1182.jpg)
+[![IMG_1182](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DontForgettoBackupDaily_978B/IMG_1182_thumb.jpg "IMG_1182")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DontForgettoBackupDaily_978B/IMG_1182.jpg)
 
 Backing up with the Mac is a bit different, with no native client. I again use SuperDuper (licensed) to attach to the Acer and create a bootable image which can be updated on a schedule basis from SuperDuper. [A nice tutorial on how to be able to attach a client Mac to a Windows Home Server](http://www.mediasmartserver.net/forums/viewtopic.php?f=19&t=3576) is available.
 

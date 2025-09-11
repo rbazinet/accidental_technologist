@@ -56,7 +56,7 @@ This is not a tutorial on how to use LightSpeed but how I am using the tool. I a
 
 LightSpeed comes with a [really nice designer](http://www.mindscape.co.nz/products/lightspeed/features/designer.aspx) which allowed me to pick and choose various tables I wanted to use in my application. Notice how the designer picks up the existing relationships from the database:
 
-[![LightSpeedDiagram](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingMindscapeLightSpeed_E9F3/LightSpeedDiagram_thumb.png "LightSpeedDiagram")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingMindscapeLightSpeed_E9F3/LightSpeedDiagram_2.png)
+[![LightSpeedDiagram](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingMindscapeLightSpeed_E9F3/LightSpeedDiagram_thumb.png "LightSpeedDiagram")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingMindscapeLightSpeed_E9F3/LightSpeedDiagram_2.png)
 
 Once the designer is saved it quickly creates some very clean C# to represent the schema in code. A few entries in the web.config and everything is ready to write some code. Mindscape has a nice [Getting Started screencast](http://www.mindscape.co.nz/products/lightspeed/screencasts/gettingstarted.aspx) which shows how easy it is to go from zero to code. The screencast is just over 11 minutes long and is enough to get up and running.
 

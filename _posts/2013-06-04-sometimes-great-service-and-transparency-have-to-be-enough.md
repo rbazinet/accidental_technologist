@@ -4,7 +4,7 @@ title: 'Sometimes Great Service and Transparency Have to Be Enough'
 date: '2013-06-04T09:00:15-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=926'
+guid: 'https://accidentaltechnologist.com/?p=926'
 permalink: /entrepreneurship/sometimes-great-service-and-transparency-have-to-be-enough/
 wpgplus_message:
     - ''

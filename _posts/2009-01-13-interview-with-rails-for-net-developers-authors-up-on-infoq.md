@@ -10,7 +10,7 @@ categories:
     - InfoQ
 ---
 
-[![cerailn](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewwithRail.NETDevelopersuponInfoQ_71A7/cerailn_thumb.jpg "cerailn")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewwithRail.NETDevelopersuponInfoQ_71A7/cerailn_2.jpg) My role as Ruby Editor with [InfoQ](http://infoq.com) gives me the opportunity to learn about really new technologies and more importantly to meet some really cool people.
+[![cerailn](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewwithRail.NETDevelopersuponInfoQ_71A7/cerailn_thumb.jpg "cerailn")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewwithRail.NETDevelopersuponInfoQ_71A7/cerailn_2.jpg) My role as Ruby Editor with [InfoQ](http://infoq.com) gives me the opportunity to learn about really new technologies and more importantly to meet some really cool people.
 
 My [latest interview is up on InfoQ now](http://www.infoq.com/articles/rails-for-net-developers) which is a talk with [Jeff Cohen and Brian Eng](http://www.softiesonrails.com/), the authors of [Rails for .NET Developers](http://pragprog.com/titles/cerailn/rails-for-net-developers) published by the Pragmatic Programmers.
 

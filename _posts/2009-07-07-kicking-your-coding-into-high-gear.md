@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![kicking](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/kicking_thumb.jpg "kicking")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/kicking_2.jpg) I finished reading the great book by [Chad Fowler](http://chadfowler.com/), [The Passionate Programmer](http://www.pragprog.com/titles/cfcar2/the-passionate-programmer). This is a fantastic read and got me thinking about various aspects of my professional life. One of the best pieces of advice in the book which too few developers actually follow is from **Chapter 15: Practice, Practice, Practice**. The premise of the chapter is that developers should always be practicing their craft and honing it into a fine instrument. We don?t become a professional simply because we have a job, but by the attention we pay to our individual skills.
+[![kicking](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/kicking_thumb.jpg "kicking")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/kicking_2.jpg) I finished reading the great book by [Chad Fowler](http://chadfowler.com/), [The Passionate Programmer](http://www.pragprog.com/titles/cfcar2/the-passionate-programmer). This is a fantastic read and got me thinking about various aspects of my professional life. One of the best pieces of advice in the book which too few developers actually follow is from **Chapter 15: Practice, Practice, Practice**. The premise of the chapter is that developers should always be practicing their craft and honing it into a fine instrument. We don?t become a professional simply because we have a job, but by the attention we pay to our individual skills.
 
 It is common for a developer to go out and buy a book on a new programming language they want to learn and go through the book?s examples, only to come away feeling a bit empty. We as developers do not learn best this way, we learn by doing. When professionals are asked what they recommend in order for people to become proficient in a new programming language, they say create ?something?. Go out and pick an idea and create that application.
 
@@ -115,11 +115,11 @@ Each Kata is not only a different problem but each also teaches different aspect
 
 There are a total of 252 problems with a range of difficulty with all being mathematical or computer science in nature. These types of problems exercise our math skills along with our abilities to create algorithms. Each problem lists now many people solved each problem:
 
-[![ProjectEuler](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/ProjectEuler_thumb.jpg "ProjectEuler")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/ProjectEuler_2.jpg)
+[![ProjectEuler](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/ProjectEuler_thumb.jpg "ProjectEuler")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/ProjectEuler_2.jpg)
 
 Each problem has a very brief description or requirement, Problem #7 ? Find the 10001st prime:
 
-[![EulerProblem7](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/EulerProblem7_thumb.jpg "EulerProblem7")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/EulerProblem7_2.jpg)
+[![EulerProblem7](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/EulerProblem7_thumb.jpg "EulerProblem7")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/KickingYourCodingintoHighGear_9625/EulerProblem7_2.jpg)
 
 As you can see, you won?t be mired in requirements but only a simple and brief description of the problem at hand. These problems seem to take longer than the others as they are more involved but worth it.
 

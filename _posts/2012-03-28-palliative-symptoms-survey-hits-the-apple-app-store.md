@@ -4,7 +4,7 @@ title: 'Palliative Symptoms Survey Hits the Apple App Store'
 date: '2012-03-28T09:54:47-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=707'
+guid: 'https://accidentaltechnologist.com/?p=707'
 permalink: /ruby-on-rails/palliative-symptoms-survey-hits-the-apple-app-store/
 redirect:
     - 'http://blog.stillriversoftware.com/2012/03/28/palliative-symptoms-survey-hits-the-apple-app-store/'

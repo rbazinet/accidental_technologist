@@ -32,7 +32,7 @@ I have been on and off of the iPhone development bandwagon and with the iPad com
 
 Miguel de Icaza, creator of [Mono](http://www.mono-project.com/Main_Page) and the lead on Monotouch is clearly anticipating Apple will let developers use Monotouch and therefore C# to create iPhone and iPad apps as seen in a [recent tweet on Twitter](http://twitter.com/migueldeicaza/status/11836097616).
 
-[![monotouch](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AppleBecomingtheNewMicrosoft_8EC1/monotouch_thumb.png "monotouch")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AppleBecomingtheNewMicrosoft_8EC1/monotouch_2.png)
+[![monotouch](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AppleBecomingtheNewMicrosoft_8EC1/monotouch_thumb.png "monotouch")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AppleBecomingtheNewMicrosoft_8EC1/monotouch_2.png)
 
 We should be critical of Apple here and nip this now, before iPhone OS 4.0 comes out and we are forced to change programming languages to what Apple requires or be out of the game.
 

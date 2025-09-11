@@ -4,7 +4,7 @@ title: 'Vesper ? The First App for iOS 7'
 date: '2013-06-25T14:47:19-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=933'
+guid: 'https://accidentaltechnologist.com/?p=933'
 permalink: /apple/vesper-the-first-app-for-ios-7/
 wpgplus_message:
     - ''

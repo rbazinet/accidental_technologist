@@ -4,7 +4,7 @@ title: 'Blog Move to WPEngine'
 date: '2011-01-13T17:42:27-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/technology/blog-move-to-wpengine/'
+guid: 'https://accidentaltechnologist.com/technology/blog-move-to-wpengine/'
 permalink: /technology/blog-move-to-wpengine/
 dsq_thread_id:
     - '208736577'

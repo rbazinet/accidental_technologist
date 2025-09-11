@@ -4,7 +4,7 @@ title: 'Bootstrapping Your Ideas'
 date: '2010-07-07T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=455'
+guid: 'https://accidentaltechnologist.com/?p=455'
 permalink: /business/bootstrapping-your-ideas/
 jd_tweet_this:
     - 'yes'

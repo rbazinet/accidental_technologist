@@ -4,7 +4,7 @@ title: 'Mac Tip: Quick Switch Sound Output'
 date: '2015-08-12T09:41:53-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1064'
+guid: 'https://accidentaltechnologist.com/?p=1064'
 permalink: /mac/mac-tip-quick-switch-sound-output/
 dsq_thread_id:
     - '4025881273'

@@ -4,7 +4,7 @@ title: 'Interesting MobileMe Find My iPhone Behavior on iPhone 3GS'
 date: '2010-11-22T16:07:44-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/apple/interesting-mobileme-find-my-iphone-behavior-on-iphone-3gs/'
+guid: 'https://accidentaltechnologist.com/apple/interesting-mobileme-find-my-iphone-behavior-on-iphone-3gs/'
 permalink: /apple/interesting-mobileme-find-my-iphone-behavior-on-iphone-3gs/
 dsq_thread_id:
     - '177638013'

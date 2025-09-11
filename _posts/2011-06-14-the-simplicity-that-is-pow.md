@@ -4,7 +4,7 @@ title: 'The Simplicity that is Pow'
 date: '2011-06-14T09:00:09-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=660'
+guid: 'https://accidentaltechnologist.com/?p=660'
 permalink: /ruby-on-rails/the-simplicity-that-is-pow/
 s2mail:
     - 'yes'

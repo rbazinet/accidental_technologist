@@ -4,12 +4,12 @@ title: 'App Inventor for Android, VB Revisited'
 date: '2010-07-12T11:55:58-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/programming/app-inventor-for-android-vb-revisited/'
+guid: 'https://accidentaltechnologist.com/programming/app-inventor-for-android-vb-revisited/'
 permalink: /programming/app-inventor-for-android-vb-revisited/
 wp_jd_bitly:
     - 'http://bit.ly/aluMtD'
 wp_jd_target:
-    - 'http://accidentaltechnologist.com/programming/app-inventor-for-android-vb-revisited/'
+    - 'https://accidentaltechnologist.com/programming/app-inventor-for-android-vb-revisited/'
 jd_tweet_this:
     - 'yes'
 dsq_thread_id:

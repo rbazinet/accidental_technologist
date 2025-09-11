@@ -12,7 +12,7 @@ categories:
     - IronRuby
 ---
 
-[![ProIronRuby](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ProfessionalIronRuby_6D29/ProIronRuby_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ProfessionalIronRuby_6D29/ProIronRuby_2.jpg)
+[![ProIronRuby](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ProfessionalIronRuby_6D29/ProIronRuby_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ProfessionalIronRuby_6D29/ProIronRuby_2.jpg)
 
 it is official, [Professional IronRuby](http://www.amazon.com/Professional-IronRuby-Aaron-Junod/dp/0470377089) published by [Wrox/Wiley](http://www.wrox.com/WileyCDA/) is finally looking like it is a real thing. A fellow developer noticed this on the Amazon web site and passed on to me today. I was not even aware it was up yet.
 

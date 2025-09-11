@@ -20,7 +20,7 @@ So, just to give a little shout-out to the projects which trusted my code change
 
 ### Graffiti Extras
 
-[![GX_3](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MySmallAdditiontoGraffitiExtras1.2_711D/GX_3_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MySmallAdditiontoGraffitiExtras1.2_711D/GX_3_2.jpg)
+[![GX_3](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MySmallAdditiontoGraffitiExtras1.2_711D/GX_3_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MySmallAdditiontoGraffitiExtras1.2_711D/GX_3_2.jpg)
 
 [Graffiti Extras](http://www.codeplex.com/GraffitiExtras) has the largest number of plug-ins and was developed primarily by [Keyvan Nayyeri](http://nayyeri.net/blog/graffiti-extras-1.2-released/):
 

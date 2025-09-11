@@ -4,7 +4,7 @@ title: 'The Android Hubbub'
 date: '2011-03-31T15:00:39-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=634'
+guid: 'https://accidentaltechnologist.com/?p=634'
 permalink: /mobile/the-android-hubbub/
 dsq_thread_id:
     - '267830765'
@@ -20,7 +20,7 @@ tags:
 
 ![Images](/assets/img/2011/03/images.jpeg "images.jpeg")
 
-[I wrote a few months back about dumping the iPhone in favor of an Android phone running on Verizon](http://accidentaltechnologist.com/technology/droid-x-replaces-my-apple-iphone/), not because I didn't like the iPhone but because I despised AT&amp;T.
+[I wrote a few months back about dumping the iPhone in favor of an Android phone running on Verizon](https://accidentaltechnologist.com/technology/droid-x-replaces-my-apple-iphone/), not because I didn't like the iPhone but because I despised AT&amp;T.
 
 We hear a lot about how fast the adoption of Android is and how it is taking over as the #1 mobile operating system. ?Sure, when carriers are signing up to sell as many Android handsets as possible it's no wonder Google claims the adoption rate is so high. ?One thing the numbers don't take into account is quality, we need to remember that quantity does not equate to quality.
 

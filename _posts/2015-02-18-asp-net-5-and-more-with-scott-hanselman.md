@@ -4,7 +4,7 @@ title: 'ASP.NET 5 and More with Scott Hanselman'
 date: '2015-02-18T16:11:32-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1021'
+guid: 'https://accidentaltechnologist.com/?p=1021'
 permalink: /microsoft/asp-net-5-and-more-with-scott-hanselman/
 link:
     - 'http://msdevshow.com/2015/02/asp.net-5-and-more-with-scott-hanselman/'

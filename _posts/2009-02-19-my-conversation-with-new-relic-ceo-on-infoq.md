@@ -10,7 +10,7 @@ categories:
     - InfoQ
 ---
 
-[![New-Relic-logo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyConversationwithNewRelicCEOonInfoQ_1020C/New-Relic-logo_thumb.gif "New-Relic-logo")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyConversationwithNewRelicCEOonInfoQ_1020C/New-Relic-logo_2.gif) My recent interview with [New Relic](http://newrelic.com/) CEO, [Lewis Cirne is now up on InfoQ](http://www.infoq.com/news/2009/02/new-relic-rpm12). I met Lewis at act\_as\_conference and chatted about the new release of RPM 1.2 which gives our Rails applications some great insight.
+[![New-Relic-logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyConversationwithNewRelicCEOonInfoQ_1020C/New-Relic-logo_thumb.gif "New-Relic-logo")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyConversationwithNewRelicCEOonInfoQ_1020C/New-Relic-logo_2.gif) My recent interview with [New Relic](http://newrelic.com/) CEO, [Lewis Cirne is now up on InfoQ](http://www.infoq.com/news/2009/02/new-relic-rpm12). I met Lewis at act\_as\_conference and chatted about the new release of RPM 1.2 which gives our Rails applications some great insight.
 
 Please give it a read, I think it goes into some good detail what RPM can do for Rails developers. I am trying out the lite version in a personal project so I can give it a go for my client work.
 

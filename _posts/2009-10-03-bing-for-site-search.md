@@ -12,7 +12,7 @@ categories:
     - General
 ---
 
-[![bing-logo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BingforSiteSearch_DB7/bing-logo_thumb.jpg "bing-logo")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BingforSiteSearch_DB7/bing-logo_2.jpg)
+[![bing-logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BingforSiteSearch_DB7/bing-logo_thumb.jpg "bing-logo")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BingforSiteSearch_DB7/bing-logo_2.jpg)
 
 I have been using Microsoft Bing as my main search provider from both Internet Explorer and Firefox for a while now and I have to say it has been working really well. I was a bit skeptical at first, mainly because Microsoft search has lagged behind Google for so long.
 

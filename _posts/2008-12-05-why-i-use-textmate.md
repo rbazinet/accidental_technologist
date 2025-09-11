@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![textmate](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheTextEditorDilemma_D706/textmate_thumb.jpg "textmate")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheTextEditorDilemma_D706/textmate_2.jpg) I have been using [TextMate from MacroMates](http://macromates.com/) for the past couple years for Ruby and Rails development on the Mac, and very happy with it. I occasionally do Ruby work on Windows and have settled on [E Text Editor](http://www.e-texteditor.com/), which is basically a clone of TextMate, including its bundling capabilities. The features of both of these text editors has been beyond my needs and offer some really nice, simple features.
+[![textmate](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheTextEditorDilemma_D706/textmate_thumb.jpg "textmate")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheTextEditorDilemma_D706/textmate_2.jpg) I have been using [TextMate from MacroMates](http://macromates.com/) for the past couple years for Ruby and Rails development on the Mac, and very happy with it. I occasionally do Ruby work on Windows and have settled on [E Text Editor](http://www.e-texteditor.com/), which is basically a clone of TextMate, including its bundling capabilities. The features of both of these text editors has been beyond my needs and offer some really nice, simple features.
 
 There has been a bit of a holy war going on lately on the internet about developers moving away from TextMate and using Vim or Emacs. Granted, there is no TextMate for Linux but you can have your open-source operating system and text editor too. Don?t most Rails developers use TextMate anyway?
 

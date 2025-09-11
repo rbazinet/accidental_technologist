@@ -4,7 +4,7 @@ title: 'Minitest Not Running My Unit Tests'
 date: '2012-09-17T09:40:09-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=797'
+guid: 'https://accidentaltechnologist.com/?p=797'
 permalink: /ruby-on-rails/minitest-not-running-my-unit-tests/
 wpgplus_message:
     - ''

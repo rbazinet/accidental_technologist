@@ -4,7 +4,7 @@ title: Algorithms
 date: '2012-11-19T08:43:40-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=869'
+guid: 'https://accidentaltechnologist.com/?p=869'
 permalink: /technology/algorithms/
 wpgplus_message:
     - ''

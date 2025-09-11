@@ -4,7 +4,7 @@ title: 'Dear Android, More is not Necessarily Better'
 date: '2011-04-04T10:20:07-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=640'
+guid: 'https://accidentaltechnologist.com/?p=640'
 permalink: /mobile/dear-android-more-is-not-necessarily-better/
 s2mail:
     - 'yes'
@@ -21,7 +21,7 @@ tags:
     - mobile
 ---
 
-[Marco Arment had a great and timely post](http://www.marco.org/4295159845) about the future of Android over the weekend. ?It's timely because I had just gone through the whole iPhone on AT&amp;T to Android on Verizon to iPhone on Verizon journey and his words rang true. ?I had just [wrote about the experience](http://accidentaltechnologist.com/mobile/the-android-hubbub/) last week.
+[Marco Arment had a great and timely post](http://www.marco.org/4295159845) about the future of Android over the weekend. ?It's timely because I had just gone through the whole iPhone on AT&amp;T to Android on Verizon to iPhone on Verizon journey and his words rang true. ?I had just [wrote about the experience](https://accidentaltechnologist.com/mobile/the-android-hubbub/) last week.
 
 I had experienced the exact pain points Marco mentions:
 

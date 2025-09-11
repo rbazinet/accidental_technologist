@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-If you are a web developer, you know the pain that is Internet Explorer 6. You know how hard and tedious it is to add support for IE6 to your web application and maintain it once released.![ie6trash.png](http://accidentaltechnologist.com/files/media/image/ie6trash.png)
+If you are a web developer, you know the pain that is Internet Explorer 6. You know how hard and tedious it is to add support for IE6 to your web application and maintain it once released.![ie6trash.png](https://accidentaltechnologist.com/files/media/image/ie6trash.png)
 
 All of the recent browser improvements to Chrome, Safari and Firefox give developers the opportunity to create very rich browser-based applications leveraging HTML5 and JavaScript. The recent announcement from Apple that the new iPad will not support Adobe Flash say a lot, HTML5 is the future.
 

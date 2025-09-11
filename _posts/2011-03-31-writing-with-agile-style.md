@@ -4,7 +4,7 @@ title: 'Writing with Agile Style'
 date: '2011-03-31T09:00:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=631'
+guid: 'https://accidentaltechnologist.com/?p=631'
 permalink: /programming/writing-with-agile-style/
 dsq_thread_id:
     - '267559839'

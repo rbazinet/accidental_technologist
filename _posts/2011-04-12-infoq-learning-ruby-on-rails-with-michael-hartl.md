@@ -4,7 +4,7 @@ title: 'InfoQ: Learning Ruby on Rails with Michael Hartl'
 date: '2011-04-12T08:30:54-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=646'
+guid: 'https://accidentaltechnologist.com/?p=646'
 permalink: /infoq/infoq-learning-ruby-on-rails-with-michael-hartl/
 dsq_thread_id:
     - '277506005'

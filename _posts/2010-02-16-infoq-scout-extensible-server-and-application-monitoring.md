@@ -12,7 +12,7 @@ categories:
     - InfoQ
 ---
 
-[![Scout_large](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQScoutExtensibleServerMonitorUp_D3DE/Scout_large_thumb.png "Scout_large")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQScoutExtensibleServerMonitorUp_D3DE/Scout_large_2.png) It has certainly been a while since I published anything on InfoQ but I had the opportunity recently to talk about [Scout](http://scoutapp.com) with Andre Lewis, the co-founder of the company. The interview titled [Scout ? Extensible Server and Application Monitoring](http://www.infoq.com/articles/scout-extensible-monitoring) went up this morning.
+[![Scout_large](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQScoutExtensibleServerMonitorUp_D3DE/Scout_large_thumb.png "Scout_large")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQScoutExtensibleServerMonitorUp_D3DE/Scout_large_2.png) It has certainly been a while since I published anything on InfoQ but I had the opportunity recently to talk about [Scout](http://scoutapp.com) with Andre Lewis, the co-founder of the company. The interview titled [Scout ? Extensible Server and Application Monitoring](http://www.infoq.com/articles/scout-extensible-monitoring) went up this morning.
 
 I have had the opportunity to use Scout and witness the power of the application. One of the most impressive aspects I see is the [plugin system](http://scoutapp.com/info/plugin_anatomy). Scout offers a bunch of plugins, all open source. Developers can also freely develop their own plugins for their own purposes and are welcome to contribute them as open source. An all around win.
 

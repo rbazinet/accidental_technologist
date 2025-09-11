@@ -4,7 +4,7 @@ title: 'Great Companion eBook for Stanford iPhone Course'
 date: '2012-11-01T10:27:56-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=851'
+guid: 'https://accidentaltechnologist.com/?p=851'
 permalink: /iphone/great-companion-ebook-for-stanford-iphone-course/
 wpgplus_message:
     - ''

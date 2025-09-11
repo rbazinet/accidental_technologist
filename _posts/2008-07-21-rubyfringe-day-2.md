@@ -13,7 +13,7 @@ categories:
 ---
 
   
-![rf_attending.jpg](http://accidentaltechnologist.com/files/media/image/rf_attending.jpg)
+![rf_attending.jpg](https://accidentaltechnologist.com/files/media/image/rf_attending.jpg)
 
 Today was the second and final day of RubyFringe. I only had the opportunity to listen to a couple speakers today because I was busy all day interviewing some of the speakers from the conference for [InfoQ](http://www.infoq.com/).
 

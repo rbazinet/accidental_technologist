@@ -4,7 +4,7 @@ title: 'When Will Amazon Stop Running and Face Reality?'
 date: '2011-06-10T16:12:16-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=665'
+guid: 'https://accidentaltechnologist.com/?p=665'
 permalink: /general/when-will-amazon-stop-running-and-face-reality/
 dsq_thread_id:
     - '328070271'

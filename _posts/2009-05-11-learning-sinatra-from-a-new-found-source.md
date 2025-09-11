@@ -12,7 +12,7 @@ categories:
     - Ruby
 ---
 
-[![sinatra-logo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearnSinatrafromtheSourceFrameworkDocume_7A2E/sinatra-logo_thumb.jpg "sinatra-logo")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearnSinatrafromtheSourceFrameworkDocume_7A2E/sinatra-logo_2.jpg)
+[![sinatra-logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearnSinatrafromtheSourceFrameworkDocume_7A2E/sinatra-logo_thumb.jpg "sinatra-logo")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearnSinatrafromtheSourceFrameworkDocume_7A2E/sinatra-logo_2.jpg)
 
 [Sinatra](http://www.sinatrarb.com/) is a relatively new DSL written in Ruby for creating web applications. I only recently started working with Sinatra as an alternative to Ruby on Rails for the applications which are smaller and don’t need all the overhead of Rails.
 

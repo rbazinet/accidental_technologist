@@ -4,7 +4,7 @@ title: 'Feed Wrangler is My Go To RSS Reader Platform'
 date: '2013-06-27T14:22:31-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=937'
+guid: 'https://accidentaltechnologist.com/?p=937'
 permalink: /technology/feed-wrangler-is-my-go-to-rss-reader-platform/
 dsq_thread_id:
     - '1442480533'

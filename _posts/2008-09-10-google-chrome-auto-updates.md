@@ -16,11 +16,11 @@ I have been running the Google Chrome browser since it came out last week and I 
 
 One interesting thing I noticed yesterday was the version number of Chrome:
 
-[![ChromeInfo09092008](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09092008_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09092008_2.jpg)
+[![ChromeInfo09092008](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09092008_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09092008_2.jpg)
 
 Notice the version is 0.2.149.27 and the Official Build is 1583. Today I looked at the same About Google Chrome dialog and now see this:
 
-[![ChromeInfo09102008](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09102008_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09102008_2.jpg)
+[![ChromeInfo09102008](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09102008_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GoogleChromeAutoUpdates_99C6/ChromeInfo09102008_2.jpg)
 
 The version is now 0.2.149.29 and the Official Build is 1798. What is interesting about this is I was never asked me if I wanted a new version, Google just assumed I wanted it. I have gone through the dialogs and I cannot find a place where I can request to be asked before a new upgrade is installed.
 

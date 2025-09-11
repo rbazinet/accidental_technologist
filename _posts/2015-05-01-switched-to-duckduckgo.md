@@ -4,7 +4,7 @@ title: 'Switched to DuckDuckGo'
 date: '2015-05-01T11:34:24-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1045'
+guid: 'https://accidentaltechnologist.com/?p=1045'
 permalink: /technology/switched-to-duckduckgo/
 dsq_thread_id:
     - '3728299113'

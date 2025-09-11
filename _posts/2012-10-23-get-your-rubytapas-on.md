@@ -4,7 +4,7 @@ title: 'Get Your RubyTapas On'
 date: '2012-10-23T09:00:55-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=829'
+guid: 'https://accidentaltechnologist.com/?p=829'
 permalink: /ruby/get-your-rubytapas-on/
 wpgplus_message:
     - ''

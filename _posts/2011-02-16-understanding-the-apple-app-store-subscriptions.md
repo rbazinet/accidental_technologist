@@ -4,7 +4,7 @@ title: 'Understanding the Apple App Store Subscriptions'
 date: '2011-02-16T16:36:16-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=602'
+guid: 'https://accidentaltechnologist.com/?p=602'
 permalink: /apple/understanding-the-apple-app-store-subscriptions/
 dsq_thread_id:
     - '232199233'

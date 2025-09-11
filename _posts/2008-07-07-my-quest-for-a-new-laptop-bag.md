@@ -34,15 +34,15 @@ Choices like this are very personal and there are so many options for us to chos
 
 - Backpack
  
-[![targus-backpack](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/targus-backpack_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/targus-backpack_2.jpg)
+[![targus-backpack](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/targus-backpack_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/targus-backpack_2.jpg)
 
 - Messenger
  
-[![messenger-bag](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/messenger-bag_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/messenger-bag_2.jpg)
+[![messenger-bag](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/messenger-bag_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/messenger-bag_2.jpg)
 
 - Hybrid - Not really a backpack and not a messenger
  
-[![BoaSlimCaseM](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/BoaSlimCaseM_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/BoaSlimCaseM_2.jpg)
+[![BoaSlimCaseM](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/BoaSlimCaseM_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/BoaSlimCaseM_2.jpg)
 
 After looking at each style I weighed all of the pluses and minuses of each type, knowing the backpack was already out because of the size. The backpack does provide a lot of room but going to clients with a backpack gives the impression I am in high school and possibly late for my next class.
 
@@ -64,9 +64,9 @@ These very general requirements may seem like a given for all bags but putting t
 
 One review of this bag indicated his MacBook Pro barely fit in the bag and this was my #1 concern when I ordered it but upon putting the MBP in for the first time I was very relieved to see it fit with no trouble and have plenty of extra room around it.
 
-[![IMG_0719](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0719_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0719.jpg) [![IMG_0722](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0722_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0722.jpg) [![IMG_0730](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0730_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0730.jpg)
+[![IMG_0719](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0719_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0719.jpg) [![IMG_0722](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0722_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0722.jpg) [![IMG_0730](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0730_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0730.jpg)
 
- [![IMG_0725](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0725_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0725.jpg) [![IMG_0729](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0729_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0729.jpg) [![IMG_0717](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0717_thumb.jpg)](http://accidentaltechn
+ [![IMG_0725](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0725_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0725.jpg) [![IMG_0729](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0729_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0729.jpg) [![IMG_0717](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0717_thumb.jpg)](http://accidentaltechn
 ologist.com/files/media/image/WindowsLiveWriter/FindinganewLaptopBag_F01E/IMG_0717.jpg)
 
 I took a but of pictures of the Booq Slimcase with the MacBook Pro and other things I usually carry and you can see the bag is small yet holds everything I need. Once I put everything I wanted to put in my Slimcase and closed it up, it felt good. The bag is made out of some tough material and even with all of my stuff in the bag it did not bulge out and show any sign of deforming.

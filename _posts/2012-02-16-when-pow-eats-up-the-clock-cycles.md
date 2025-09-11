@@ -4,7 +4,7 @@ title: 'When Pow Eats Up the Clock Cycles'
 date: '2012-02-16T09:00:23-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=698'
+guid: 'https://accidentaltechnologist.com/?p=698'
 permalink: /ruby-on-rails/when-pow-eats-up-the-clock-cycles/
 s2mail:
     - 'yes'
@@ -17,7 +17,7 @@ tags:
     - 'Ruby on Rails'
 ---
 
-I have been a huge fan of [Pow](http://pow.cx/) to serve my Rails applications for development on my Mac. ?I [wrote my love for Pow a while back](http://accidentaltechnologist.com/ruby-on-rails/the-simplicity-that-is-pow/) and have been using it ever since, but all has not been a perfect experience along the way. ?After upgrading to the 0.3.2 version I started to have my applications appear to lock up in the browser and finally timing out.
+I have been a huge fan of [Pow](http://pow.cx/) to serve my Rails applications for development on my Mac. ?I [wrote my love for Pow a while back](https://accidentaltechnologist.com/ruby-on-rails/the-simplicity-that-is-pow/) and have been using it ever since, but all has not been a perfect experience along the way. ?After upgrading to the 0.3.2 version I started to have my applications appear to lock up in the browser and finally timing out.
 
 The only solution I could reliably make work was to open up Activity Monitor and kill the pow process manually. ?It worked..until the next time and I would have to do it again and again. ?It seemed like I was doing this many times a day.
 

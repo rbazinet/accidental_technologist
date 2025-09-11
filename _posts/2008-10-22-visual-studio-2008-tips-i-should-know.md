@@ -10,7 +10,7 @@ categories:
     - 'Visual Studio'
 ---
 
-[![VisualStudioThumb](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008TipsIdidntKnow_91D8/VisualStudioThumb_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008TipsIdidntKnow_91D8/VisualStudioThumb_2.jpg) Stephen Walther had a great, practical post recently on his blog with a [set of tips and tricks to help developers make better use of Visual Studio 2008](http://weblogs.asp.net/stephenwalther/archive/2008/10/21/essential-visual-studio-tips-amp-tricks-that-every-developer-should-know.aspx). I have to admit I didn't know many of these tips and wonder what else I might be missing. I will pay better attention to shortcuts as I run across them.
+[![VisualStudioThumb](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008TipsIdidntKnow_91D8/VisualStudioThumb_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008TipsIdidntKnow_91D8/VisualStudioThumb_2.jpg) Stephen Walther had a great, practical post recently on his blog with a [set of tips and tricks to help developers make better use of Visual Studio 2008](http://weblogs.asp.net/stephenwalther/archive/2008/10/21/essential-visual-studio-tips-amp-tricks-that-every-developer-should-know.aspx). I have to admit I didn't know many of these tips and wonder what else I might be missing. I will pay better attention to shortcuts as I run across them.
 
 Here is a summary of the tips, but check out Stephen's post to see them in action:
 

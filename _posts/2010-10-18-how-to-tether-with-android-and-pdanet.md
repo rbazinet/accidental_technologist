@@ -4,7 +4,7 @@ title: 'How-To Tether with Android and PDAnet'
 date: '2010-10-18T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=536'
+guid: 'https://accidentaltechnologist.com/?p=536'
 permalink: /technology/how-to-tether-with-android-and-pdanet/
 dsq_thread_id:
     - '158060889'

@@ -4,7 +4,7 @@ title: 'Talking about Building iOS Application on The Tablet Show Episode 85'
 date: '2013-05-20T09:10:42-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=922'
+guid: 'https://accidentaltechnologist.com/?p=922'
 permalink: /podcast/talking-about-building-ios-application-on-the-tablet-show-episode-85/
 wpgplus_message:
     - ''

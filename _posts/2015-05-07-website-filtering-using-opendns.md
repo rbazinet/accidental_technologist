@@ -4,7 +4,7 @@ title: 'Website Filtering Using OpenDNS'
 date: '2015-05-07T09:30:16-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1031'
+guid: 'https://accidentaltechnologist.com/?p=1031'
 permalink: /technology/website-filtering-using-opendns/
 dsq_thread_id:
     - '3744266298'

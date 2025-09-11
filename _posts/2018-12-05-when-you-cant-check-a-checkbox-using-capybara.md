@@ -14,7 +14,7 @@ tags:
     - 'Ruby on Rails'
     - tests'
 ---
-In my last post I [documented an issue I was having using Capybara](http://accidentaltechnologist.com/ruby-on-rails/fixing-staleelementreferenceerror-when-using-capybara/) on a client’s Ruby on Rails application with a ReactJS frontend. I wanted to share another issue I came across during my feature testing escapades.
+In my last post I [documented an issue I was having using Capybara](https://accidentaltechnologist.com/ruby-on-rails/fixing-staleelementreferenceerror-when-using-capybara/) on a client’s Ruby on Rails application with a ReactJS frontend. I wanted to share another issue I came across during my feature testing escapades.
 
 # The Problem
 

@@ -4,7 +4,7 @@ title: 'Google Obviously Loves Developers, When Will Apple?'
 date: '2013-05-23T09:00:37-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=924'
+guid: 'https://accidentaltechnologist.com/?p=924'
 permalink: /apple/google-obviously-loves-developers-when-will-apple/
 wpgplus_message:
     - ''

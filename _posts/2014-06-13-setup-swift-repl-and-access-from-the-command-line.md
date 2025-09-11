@@ -4,7 +4,7 @@ title: 'Setup Swift REPL and Access from the Command Line'
 date: '2014-06-13T13:05:42-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=987'
+guid: 'https://accidentaltechnologist.com/?p=987'
 permalink: /swift/setup-swift-repl-and-access-from-the-command-line/
 dsq_thread_id:
     - '2761683118'

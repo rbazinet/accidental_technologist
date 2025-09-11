@@ -4,7 +4,7 @@ title: 'Yep, paid apps are dead ? Tapity'
 date: '2013-10-03T11:46:14-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=952'
+guid: 'https://accidentaltechnologist.com/?p=952'
 permalink: /entrepreneurship/yep-paid-apps-are-dead-tapity/
 dsq_thread_id:
     - '1821215101'
@@ -16,7 +16,7 @@ tags:
     - Tapity
 ---
 
-Jeremy over at [Tapity](http://tapity.com/) had a great post yesterday talking about the [very same topic I blogged about](http://accidentaltechnologist.com/apple/digging-the-gold-from-the-apple-app-store/); paid apps. Tapity makes much of its living on paid applications like Languages, Grades and Hours and they face the reality.
+Jeremy over at [Tapity](http://tapity.com/) had a great post yesterday talking about the [very same topic I blogged about](https://accidentaltechnologist.com/apple/digging-the-gold-from-the-apple-app-store/); paid apps. Tapity makes much of its living on paid applications like Languages, Grades and Hours and they face the reality.
 
 [Yep, paid apps are dead ? Tapity](http://tapity.com/yep-paid-apps-are-dead/).
 

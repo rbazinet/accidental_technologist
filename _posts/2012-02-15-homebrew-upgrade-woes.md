@@ -4,7 +4,7 @@ title: 'Homebrew Upgrade Woes'
 date: '2012-02-15T11:35:42-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=697'
+guid: 'https://accidentaltechnologist.com/?p=697'
 permalink: /general/homebrew-upgrade-woes/
 s2mail:
     - 'yes'

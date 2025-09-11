@@ -4,7 +4,7 @@ title: "MicroConf 2013 was Freakin' Awesome"
 date: '2013-05-07T10:08:25-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=913'
+guid: 'https://accidentaltechnologist.com/?p=913'
 permalink: /entrepreneurship/microconf-2013-was-freakin-awesome/
 wpgplus_message:
     - ''

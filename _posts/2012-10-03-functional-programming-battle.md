@@ -4,7 +4,7 @@ title: 'Functional Programming Battle'
 date: '2012-10-03T09:11:20-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=811'
+guid: 'https://accidentaltechnologist.com/?p=811'
 permalink: /programming/functional-programming-battle/
 wpgplus_message:
     - ''

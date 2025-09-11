@@ -40,21 +40,21 @@ I had actually heard of Jungle Disk before but wasn't aware of its use. The soft
 
 The configuration menu is really intuitive in its tree view layout :
 
-[![JungleDiskConfiguration](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskConfiguration_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskConfiguration_2.jpg)
+[![JungleDiskConfiguration](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskConfiguration_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskConfiguration_2.jpg)
 
 Deciding what to backup looks like normal Windows Explorer :
 
-[![JungleDiskSelection](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskSelection_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskSelection_2.jpg)
+[![JungleDiskSelection](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskSelection_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskSelection_2.jpg)
 
 After selecting what I wanted to backup, the summary screen gives me a nice summary so I know how much will be backed up with this selection:
 
-[![JungleDiskBackup](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskBackup_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskBackup_2.jpg)
+[![JungleDiskBackup](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskBackup_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskBackup_2.jpg)
 
 There are many options with Jungle Disk including scheduling automated backups to setting Amazon S3 as just another drive on my system so I can simply drag and drop my selections.
 
 When actually firing off the backup the speed of the backup is dependent on my maximum upload speed, which for me is 512K. It will take over a day for me to backup everything but once it's done I just need to update my storage bucket. The user interface for the backup is very informative too:
 
-[![JungleDiskActivityMonitor](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskActivityMonitor_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskActivityMonitor_2.jpg)
+[![JungleDiskActivityMonitor](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskActivityMonitor_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingAmazonS3asaBackupSolution_13903/JungleDiskActivityMonitor_2.jpg)
 
 The failures that can be seen under Errors &amp; Warnings is nothing major other than me stopping the running backup job because I didn't want a problem with my Skype calls in the afternoon. I may not have had to stop the backup but wanted to be sure.
 

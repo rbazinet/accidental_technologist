@@ -18,7 +18,7 @@ My day job dictates most of my work be in .NET using C#, for the most part it wo
 require 'winforms'
 ```
 
- ```ruby
+```ruby
 class MainForm
   def initialize
     form = Form.new

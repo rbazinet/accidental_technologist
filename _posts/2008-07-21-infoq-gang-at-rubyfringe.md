@@ -16,7 +16,7 @@ categories:
 
 Here is the gang from [InfoQ](http://www.infoq.com) at the recent [RubyFringe](http://www.rubyfringe.com/) conference in Toronto with some additional folks:
 
-[![RubyFringeInfoQ](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQGangatRubyFringe_12DDE/RubyFringeInfoQ_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQGangatRubyFringe_12DDE/RubyFringeInfoQ_2.jpg)
+[![RubyFringeInfoQ](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQGangatRubyFringe_12DDE/RubyFringeInfoQ_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InfoQGangatRubyFringe_12DDE/RubyFringeInfoQ_2.jpg)
 
 From left to right - Werner Schuster (InfoQ), Tom Preston-Werner ([GitHub](http://www.github.com), Powerset), Floyd Marinescu (InfoQ), Joseph Hurtado (innocent bystander, photographer and Ruby fan), and myself.
 

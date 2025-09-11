@@ -4,7 +4,7 @@ title: 'Apple : Please Fix the App Store Search'
 date: '2010-10-29T15:22:45-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=553'
+guid: 'https://accidentaltechnologist.com/?p=553'
 permalink: /apple/apple-please-fix-the-app-store-search/
 dsq_thread_id:
     - '165382465'

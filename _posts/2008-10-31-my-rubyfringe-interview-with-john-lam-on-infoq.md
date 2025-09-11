@@ -10,7 +10,7 @@ categories:
     - Ruby
 ---
 
-[![JLam](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyRubyFringeInterviewwithJohnLamonInfoQ_F5EE/JLam_thumb.jpg "JLam")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyRubyFringeInterviewwithJohnLamonInfoQ_F5EE/JLam_2.jpg)
+[![JLam](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyRubyFringeInterviewwithJohnLamonInfoQ_F5EE/JLam_thumb.jpg "JLam")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MyRubyFringeInterviewwithJohnLamonInfoQ_F5EE/JLam_2.jpg)
 
 I attended [RubyFringe](http://rubyfringe.com/) this year in Toronto and had the chance to interview a few people, one being [John Lam](http://www.iunknown.com/) of Microsoft, to talk about IronRuby, Microsoft and Open Source and the general direction of the project.
 

@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-[![pain](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WindowsHomeServerPainPoint_9B8B/pain_thumb.jpg "pain")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WindowsHomeServerPainPoint_9B8B/pain_2.jpg) I [talked about my experiences with not having a solid backup strategy back at the end of August](http://accidentaltechnologist.com/technology/when-neglecting-backups-becomes-costly/). My solution included using a Microsoft Windows Home Server (WHS) system to handle backups for all of the computers on my home/office network. I wanted to give a bit of follow-up to the experience and explain a huge pain point I found.
+[![pain](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WindowsHomeServerPainPoint_9B8B/pain_thumb.jpg "pain")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/WindowsHomeServerPainPoint_9B8B/pain_2.jpg) I [talked about my experiences with not having a solid backup strategy back at the end of August](https://accidentaltechnologist.com/technology/when-neglecting-backups-becomes-costly/). My solution included using a Microsoft Windows Home Server (WHS) system to handle backups for all of the computers on my home/office network. I wanted to give a bit of follow-up to the experience and explain a huge pain point I found.
 
 ### Reflection
 

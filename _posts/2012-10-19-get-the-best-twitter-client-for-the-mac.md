@@ -4,7 +4,7 @@ title: 'Get the Best Twitter Client for the Mac'
 date: '2012-10-19T17:50:28-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=826'
+guid: 'https://accidentaltechnologist.com/?p=826'
 permalink: /apple/get-the-best-twitter-client-for-the-mac/
 wpgplus_message:
     - ''

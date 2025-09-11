@@ -12,7 +12,7 @@ categories:
     - Microsoft
 ---
 
-[![GoingCrazy](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/GoingCrazy_thumb.jpg "GoingCrazy")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/GoingCrazy_2.jpg) I have been working on a project recently which requires me to integrate with QuickBooks Online, in this case from a web application. I have had the pleasure (strong word) working with integrating with QuickBooks in various capacities in the past and although it is not trivial, it does work. I ran into an interesting problem recently with an error that baffled me.
+[![GoingCrazy](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/GoingCrazy_thumb.jpg "GoingCrazy")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/GoingCrazy_2.jpg) I have been working on a project recently which requires me to integrate with QuickBooks Online, in this case from a web application. I have had the pleasure (strong word) working with integrating with QuickBooks in various capacities in the past and although it is not trivial, it does work. I ran into an interesting problem recently with an error that baffled me.
 
 While attempting to connect to QuickBooks online from my ASP.NET C# application, I received the following COM Exception:
 
@@ -24,7 +24,7 @@ Searching the various Intuit Developer Forums led me nowhere. I was thinking it 
 
 The root of the problem was not really Windows 7 but the fact I am running 64-bit and Visual Studio 2008 defaults the Platform Target to ?Any CPU? when building a project. So selecting Project-&gt; {project name} Properties show the following dialog with Any CPU selected:
 
-[![ProjectBuildProperties](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/ProjectBuildProperties_thumb.png "ProjectBuildProperties")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/ProjectBuildProperties_2.png)
+[![ProjectBuildProperties](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/ProjectBuildProperties_thumb.png "ProjectBuildProperties")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheCrazy80040154COMClassFactoryError_A082/ProjectBuildProperties_2.png)
 
 By changing the choice of the Platform Target to x86 and rerunning my application, the creation of the session to QuickBooks Online works fine. The idea should have probably been more obvious to me, knowing the DLL?s from Intuit are 32-bit COM-based and the interop to my 64-bit operating system could cause some problems.
 

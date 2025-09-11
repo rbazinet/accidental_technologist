@@ -12,11 +12,11 @@ categories:
     - IronRuby
 ---
 
-[![Nails](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Nails_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Nails_2.jpg)
+[![Nails](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Nails_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Nails_2.jpg)
 
 **UPDATE:** I had the chance to talk with Ivan about IronNails. Please read the [interview over on InfoQ](http://www.infoq.com/news/2008/08/ironnails).
 
-As we see [IronRuby](http://www.ironruby.com) make progress within Microsoft, we are also seeing new projects pop-up as well. One such project I have noticed and wanted to share is [![Silverlight](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_2.jpg)[IronNails](http://flanders.co.nz/2008/08/07/ironnails-introduction/), created and [opensourced by Ivan Porto Carrero](http://github.com/casualjim/ironnails). IronNails brings IronRuby and [Silverlight](http://silverlight.net/default.aspx) together implementing an MVC pattern, much like [Ruby on Rails](http://www.rubyonrails.org).
+As we see [IronRuby](http://www.ironruby.com) make progress within Microsoft, we are also seeing new projects pop-up as well. One such project I have noticed and wanted to share is [![Silverlight](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_2.jpg)[IronNails](http://flanders.co.nz/2008/08/07/ironnails-introduction/), created and [opensourced by Ivan Porto Carrero](http://github.com/casualjim/ironnails). IronNails brings IronRuby and [Silverlight](http://silverlight.net/default.aspx) together implementing an MVC pattern, much like [Ruby on Rails](http://www.rubyonrails.org).
 
 > IronNails   
 > =========

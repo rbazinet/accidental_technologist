@@ -14,17 +14,17 @@ categories:
 
 No, I am not a spokesperson for [Balsamiq](http://balsamiq.com/) but rather a happy customer. In the unfortunate event you have not heard of [Balsamiq Mockups](http://balsamiq.com/products/mockups) and you develop software or design it, you are missing out. Balsamiq Mockups is a tool that allows developers to create mockups easily using a library of user interface components to help ease the pain of creating screens.
 
-[![mockups_fpa](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/mockups_fpa_thumb.jpg "mockups_fpa")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/mockups_fpa_2.jpg)
+[![mockups_fpa](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/mockups_fpa_thumb.jpg "mockups_fpa")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/mockups_fpa_2.jpg)
 
 ### Replaces Pad and Pen
 
 This is a great little tool which helps me develop screens and workflow for the software applications I create. I use this tool instead of the usual pad and pen to determine how a particular screen will look. A recent mockup of the administration screen for a Survey tool I?m creating:
 
-[![SurveyMockup](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup_thumb.png "SurveyMockup")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup_2.png)
+[![SurveyMockup](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup_thumb.png "SurveyMockup")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup_2.png)
 
 What makes this so nice is it appears similar to writing on a pad of graph paper with one key exception; I can determine the dimensions of my screen and how much space each component laid out on the screen will take up. This way, I \*know\* how everything will fit on screen or in the browser and won?t be surprised after the HTML/CSS is written.
 
-[![SurveyMockup-Dim](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup-Dim_thumb.png "SurveyMockup-Dim")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup-Dim_2.png)
+[![SurveyMockup-Dim](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup-Dim_thumb.png "SurveyMockup-Dim")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/SurveyMockup-Dim_2.png)
 
 I can toss aside my pen and paper and just use Mockups. I spend my time now dragging and dropping controls from the library and know exactly how much space I am taking up, keeping in mind the screen sizes of the target. I easily move controls around, remove them and customize their text. I cannot say enough about how much time this saves me. Instead of fretting over how bad I draw, I can not easily create what I need to get my work done.
 
@@ -32,7 +32,7 @@ I can toss aside my pen and paper and just use Mockups. I spend my time now drag
 
 Balsamiq Mockups is not a free-hand drawing tool, I could not use such a tool. Rather it contains a library of common user interface tools which you drag and drop to the grid surface. They tout 75 ready-to-use controls:
 
-[![balsamiq_controls](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/balsamiq_controls_thumb.jpg "balsamiq_controls")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/balsamiq_controls_2.jpg)
+[![balsamiq_controls](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/balsamiq_controls_thumb.jpg "balsamiq_controls")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IuseBalsamiqMockupsandSoShouldYou_900F/balsamiq_controls_2.jpg)
 
 I have yet to need any control in my interfaces that is not in this library. They even have layout components for iPhone applications.
 

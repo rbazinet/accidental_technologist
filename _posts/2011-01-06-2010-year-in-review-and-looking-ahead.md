@@ -4,7 +4,7 @@ title: '2010 Year in Review and Looking Ahead'
 date: '2011-01-06T08:41:24-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/technology/2010-year-in-review-and-looking-ahead/'
+guid: 'https://accidentaltechnologist.com/technology/2010-year-in-review-and-looking-ahead/'
 permalink: /entrepreneurship/2010-year-in-review-and-looking-ahead/
 dsq_thread_id:
     - '203960831'

@@ -16,7 +16,7 @@ categories:
 
 One of the things that really bugs me about Dell is their claimed support for Ubuntu Linux but fail at supporting Linux like they do with Windows XP and Vista. I found this recently sent going to the Dell support site for my Dell Mini 9 to try to download new BIOS updates. My Mini shipped with BIOS version A00, where A02 is out and A03 reported to be available from support, Windows only.
 
-[![DellMiniSupport](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniSupport_thumb_1.jpg "DellMiniSupport")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniSupport_4.jpg)
+[![DellMiniSupport](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniSupport_thumb_1.jpg "DellMiniSupport")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniSupport_4.jpg)
 
 Notice in the image above, there is not option for Ubuntu on the Dell Mini supported operating systems, even though Dell ships Ubuntu on their systems. I don?t know why this is the way it is, perhaps Linux is still too hard for the average user. I don?t know.
 
@@ -32,21 +32,21 @@ I have successfully updated my Dell Mini from BIOS A0 to A03, yes A03 which is n
 
 ### Creating a Bootable Device
 
-Well, this is probably the biggest sticking point on the Dell Mini. The Mini has no CDROM drive so we need to decide how to boot off of an alternative device. If you had an external hard drive or external CDROM drive you could probably use it, I don?t so I needed to figure out what to use. Just like [I explained in booting off of a USB key when installing Ubuntu on my Mini](http://accidentaltechnologist.com/technology/installing-ubuntu-8-10-on-the-dell-mini/), I will do the same but create a USB key with DOS on it.
+Well, this is probably the biggest sticking point on the Dell Mini. The Mini has no CDROM drive so we need to decide how to boot off of an alternative device. If you had an external hard drive or external CDROM drive you could probably use it, I don?t so I needed to figure out what to use. Just like [I explained in booting off of a USB key when installing Ubuntu on my Mini](https://accidentaltechnologist.com/technology/installing-ubuntu-8-10-on-the-dell-mini/), I will do the same but create a USB key with DOS on it.
 
 I found and used a handy tool that says it is from HP but I don?t know for sure. It is called the [HP USB Disk Storage Format Tool](http://www.bay-wolf.com/usbmemstick.htm). The web site gives good direction how to use it and even includes a link to a Windows 98 DOS image, which is just a text-only version of Windows 98, nothing graphical. The user interface is pretty intuitive for anyone with some prior experience formatting a floppy disk or hard drive:
 
-[![HPUSB-Tool](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/HPUSB-Tool_thumb.jpg "HPUSB-Tool")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/HPUSB-Tool_2.jpg)
+[![HPUSB-Tool](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/HPUSB-Tool_thumb.jpg "HPUSB-Tool")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/HPUSB-Tool_2.jpg)
 
 Only USB devices come up under the Device menu but be careful you don?t format the wrong drive.
 
 ### Acquiring an Updated BIOS Version
 
-Once the USB key contains a bootable DOS image, the next process is to find the Dell BIOS I am looking for, A03. I found a forum post from one of the resources I mentioned in a [previous post](http://accidentaltechnologist.com/technology/dell-mini-resources/) linking to a BIOS update someone put together. Check out the [original post](http://www.mydellmini.com/forum/bios-upgrade-utility-split-from-bios-upgrade-failure-topic--t1063s10.html) in the forum. You can download the BIOS files from [here](http://www.mydellmini.com/forum/download/file.php?id=218).
+Once the USB key contains a bootable DOS image, the next process is to find the Dell BIOS I am looking for, A03. I found a forum post from one of the resources I mentioned in a [previous post](https://accidentaltechnologist.com/technology/dell-mini-resources/) linking to a BIOS update someone put together. Check out the [original post](http://www.mydellmini.com/forum/bios-upgrade-utility-split-from-bios-upgrade-failure-topic--t1063s10.html) in the forum. You can download the BIOS files from [here](http://www.mydellmini.com/forum/download/file.php?id=218).
 
 I downloaded the flashBIOSv.2.rar file, extracted out the flashBIOSv.2.exe manually. The .EXE runs an HP utility that hung on my Vista 64 system, probably because it was 64-bit. The extracted archive contains several directories but only one we care about, the Dell folder. Opening that folder gave us a list of a small number of files:
 
-[![DellMiniBiosDir](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniBiosDir_thumb.jpg "DellMiniBiosDir")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniBiosDir_2.jpg)
+[![DellMiniBiosDir](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniBiosDir_thumb.jpg "DellMiniBiosDir")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DellMiniBIOSUpgradewithoutWindowsXPInsta_B4FA/DellMiniBiosDir_2.jpg)
 
 The idea now it to take and select all files here and copy to the root of your USB stick. Once this is done, that is all there is to it.
 

@@ -4,7 +4,7 @@ title: Podcatch.com
 date: '2015-04-29T09:00:20-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1037'
+guid: 'https://accidentaltechnologist.com/?p=1037'
 permalink: /podcast/podcatch-com/
 dsq_thread_id:
     - '3722470720'

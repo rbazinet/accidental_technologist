@@ -4,7 +4,7 @@ title: '7 Great iOS and Mac Developer Podcasts to Learn from Today'
 date: '2012-07-12T11:45:12-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=763'
+guid: 'https://accidentaltechnologist.com/?p=763'
 permalink: /objective-c-2/7-great-ios-and-mac-developer-podcasts-to-learn-from-today/
 dsq_thread_id:
     - '762230261'

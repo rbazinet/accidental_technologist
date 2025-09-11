@@ -12,7 +12,7 @@ categories:
     - Ruby
 ---
 
-[![voicesthatmatter](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatProfessionalRubyConferenceCoverage_1176C/voicesthatmatter_thumb.gif "voicesthatmatter")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatProfessionalRubyConferenceCoverage_1176C/voicesthatmatter_2.gif) I was supposed to be in Boston this week at the [Voices that Matter Professional Ruby Conference](http://www.voicesthatmatter.com/ruby2008/), but due to client obligations it looks like I will not be there but I have found some great coverage from Nick Quaranto of the Litany Against Fear blog.
+[![voicesthatmatter](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatProfessionalRubyConferenceCoverage_1176C/voicesthatmatter_thumb.gif "voicesthatmatter")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GreatProfessionalRubyConferenceCoverage_1176C/voicesthatmatter_2.gif) I was supposed to be in Boston this week at the [Voices that Matter Professional Ruby Conference](http://www.voicesthatmatter.com/ruby2008/), but due to client obligations it looks like I will not be there but I have found some great coverage from Nick Quaranto of the Litany Against Fear blog.
 
 [Nick?s Professional Ruby Conference Notes](http://litanyagainstfear.com/blog/2008/11/18/professional-ruby-conference-notes/) list each day?s events and details of each speaker. Here are links to his notes just from Tuesday:
 

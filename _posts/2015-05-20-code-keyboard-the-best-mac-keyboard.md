@@ -4,7 +4,7 @@ title: 'CODE Keyboard - The Best Mac Keyboard'
 date: '2015-05-20T09:00:38-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1055'
+guid: 'https://accidentaltechnologist.com/?p=1055'
 permalink: /technology/code-keyboard-the-best-mac-keyboard/
 dsq_thread_id:
     - '3774112180'

@@ -18,7 +18,7 @@ So I decided to look for a wireless headset. I started digging around Amazon?s w
 
 The decision came down to determining what other aspects of my current headset I might change, if I went with Plantronics. The only other real feature I would change is the size of the earphones, the Plantronics has much larger ones than the Logitech. The Plantronics also mutes the microphone when it is raised up, another really nice feature.
 
-[![audio995](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Plantronics.Audio995WirelessHeadsetRocks_96C2/audio995_thumb.jpg "audio995")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Plantronics.Audio995WirelessHeadsetRocks_96C2/audio995_2.jpg)
+[![audio995](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Plantronics.Audio995WirelessHeadsetRocks_96C2/audio995_thumb.jpg "audio995")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Plantronics.Audio995WirelessHeadsetRocks_96C2/audio995_2.jpg)
 
 So, I purchased the [Plantronics .Audio 995 Wireless USB Headset](http://www.plantronics.com/north_america/en_US/products/computer/multi-use-headsets/audio-995) from [Amazon.com](http://www.amazon.com/Plantronics-Audio-995-Wireless-Headset/dp/B001SEQN3U/ref=sr_1_1?ie=UTF8&qid=1248360875&sr=8-1). Beyond the features I mentioned I liked there is also a couple other nice ones like the range, 40?, longer than the Logitech.
 

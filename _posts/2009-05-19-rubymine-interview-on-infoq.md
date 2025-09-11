@@ -12,7 +12,7 @@ categories:
     - InfoQ
 ---
 
-[![RubyMineLogo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/RubyMineInterviewonInfoQ_9A7B/RubyMineLogo_3.jpg "RubyMineLogo")](http://www.jetbrains.com/ruby/)
+[![RubyMineLogo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/RubyMineInterviewonInfoQ_9A7B/RubyMineLogo_3.jpg "RubyMineLogo")](http://www.jetbrains.com/ruby/)
 
 I have to admit I have tried using various IDE?s to build Ruby on Rails applications, Aptana RadRails and NetBeans are two, yet have come back to TextMate each time. I can?t say any of what I have tried were particularly bad, actually they were pretty good, but seemed a bit hefty for the work at hand. Recently, [JetBrains released RubyMine 1.0](http://blogs.jetbrains.com/ruby/2009/04/meet-jetbrains-rubymine-10-—-a-brand-new-ide-for-ruby-and-rails/) as their entry into Ruby IDE?s. I started using it for a couple of Rails projects I have been working on and I have to say, I am impressed with it so far. I plan to write up a further review or result of my work later here and on InfoQ but I need to work with it a bit more.
 

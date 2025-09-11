@@ -20,19 +20,19 @@ I decided to start looking around for other companies looking for direct relatio
 
 So I posted a question to one of my favorite places, Twitter:
 
-[![TwitterPost](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/TwitterPost_thumb_3.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/TwitterPost_9.jpg)
+[![TwitterPost](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/TwitterPost_thumb_3.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/TwitterPost_9.jpg)
 
 I wanted to see if this was just something abnormal I had see or if in fact this was how it was. I did not get concrete answers but what I did get was interesting:
 
-[![Twitter2](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter2_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter2_2.jpg)
+[![Twitter2](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter2_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter2_2.jpg)
 
-[![twitter1](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/twitter1_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/twitter1_2.jpg)
+[![twitter1](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/twitter1_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/twitter1_2.jpg)
 
-[![Twitter3](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter3_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter3_2.jpg)
+[![Twitter3](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter3_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter3_2.jpg)
 
-[![Twitter4](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter4_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter4_2.jpg)
+[![Twitter4](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter4_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter4_2.jpg)
 
-[![Twitter5](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter5_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter5_2.jpg)
+[![Twitter5](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRatesNETRates_B102/Twitter5_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ObservationRailsConsultingRates.NETRates_B102/Twitter5_2.jpg)
 
 So, I wonder what others are seeing out in the consulting world. Do .NET consultants make more, on average, than a Rails developer?
 

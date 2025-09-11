@@ -4,7 +4,7 @@ title: 'One Night With Clojure Makes a Scala Guy Humble'
 date: '2012-08-23T09:00:52-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=786'
+guid: 'https://accidentaltechnologist.com/?p=786'
 permalink: /clojure/one-night-with-clojure-makes-a-scala-guy-humble/
 wpgplus_message:
     - ''

@@ -4,7 +4,7 @@ title: 'On the iPad Pro and the Constraints of iOS | carpeaqua'
 date: '2015-09-14T09:12:01-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1075'
+guid: 'https://accidentaltechnologist.com/?p=1075'
 permalink: /apple/on-the-ipad-pro-and-the-constraints-of-ios/
 link:
     - 'https://carpeaqua.com/on-the-ipad-pro-and-the-constraints-of-ios/'

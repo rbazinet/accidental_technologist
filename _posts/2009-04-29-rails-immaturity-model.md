@@ -22,7 +22,7 @@ Although I did not attend this conference it was widely known that Matt?s presen
 
 I have to admit when I heard of Matt?s presentation I just had to shake my head and wonder why he thought it was acceptable to use those images in what was supposed to be a respected presentation. The real issue here was not really Matt?s lack of judgment but the reaction by DHH.
 
- [![dhh-pr0n-is-great](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/RailsImmaturityModel_9130/dhh-pr0n-is-great_thumb.png "dhh-pr0n-is-great")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/RailsImmaturityModel_9130/dhh-pr0n-is-great_2.png)
+ [![dhh-pr0n-is-great](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/RailsImmaturityModel_9130/dhh-pr0n-is-great_thumb.png "dhh-pr0n-is-great")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/RailsImmaturityModel_9130/dhh-pr0n-is-great_2.png)
 
 He finds this totally acceptable and lauded it. DHH is the spokesperson for Rails, the poster-child if you will, and I would certainly expect better values from him. Sure, Rails is supposed to be edgy, but there has to be limits.
 

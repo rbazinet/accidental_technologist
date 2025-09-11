@@ -4,7 +4,7 @@ title: 'Impressions of the Google Nexus 7'
 date: '2012-08-22T09:35:21-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=785'
+guid: 'https://accidentaltechnologist.com/?p=785'
 permalink: /technology/impressions-of-the-google-nexus-7/
 wpgplus_message:
     - ''

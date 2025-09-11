@@ -4,7 +4,7 @@ title: 'Read Structure and Interpretation of Computer Programs for Free on the i
 date: '2012-08-24T16:04:44-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=788'
+guid: 'https://accidentaltechnologist.com/?p=788'
 permalink: /programming/read-structure-and-interpretation-of-computer-programs-for-free-on-the-ipad/
 wpgplus_message:
     - ''

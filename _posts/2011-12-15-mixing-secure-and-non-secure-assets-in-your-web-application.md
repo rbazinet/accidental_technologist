@@ -4,7 +4,7 @@ title: 'Mixing Secure and Non-Secure Assets in Your Web Application'
 date: '2011-12-15T09:00:14-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=680'
+guid: 'https://accidentaltechnologist.com/?p=680'
 permalink: /ruby-on-rails/mixing-secure-and-non-secure-assets-in-your-web-application/
 dsq_thread_id:
     - '505375474'

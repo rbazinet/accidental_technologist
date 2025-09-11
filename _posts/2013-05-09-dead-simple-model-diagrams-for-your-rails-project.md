@@ -4,7 +4,7 @@ title: 'Dead Simple Model Diagrams for Your Rails Project'
 date: '2013-05-09T16:25:51-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=917'
+guid: 'https://accidentaltechnologist.com/?p=917'
 permalink: /ruby-on-rails/dead-simple-model-diagrams-for-your-rails-project/
 wpgplus_message:
     - ''

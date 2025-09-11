@@ -4,7 +4,7 @@ title: 'Delete Large Numbers of Amazon S3 Files using Ruby'
 date: '2010-09-28T10:18:52-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/ruby/delete-large-numbers-of-amazon-s3-files-using-ruby/'
+guid: 'https://accidentaltechnologist.com/ruby/delete-large-numbers-of-amazon-s3-files-using-ruby/'
 permalink: /ruby/delete-large-numbers-of-amazon-s3-files-using-ruby/
 dsq_thread_id:
     - '148177048'

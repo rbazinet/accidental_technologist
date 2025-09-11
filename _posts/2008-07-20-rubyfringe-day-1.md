@@ -13,7 +13,7 @@ categories:
 ---
 
   
-![rf_attending.jpg](http://accidentaltechnologist.com/files/media/image/rf_attending.jpg)
+![rf_attending.jpg](https://accidentaltechnologist.com/files/media/image/rf_attending.jpg)
 
 Today was the first day of [RubyFringe](http://www.rubyfringe.com "RubyFringe") here in Toronto Canada. The conference put on by [Unspace](http://www.unspace.ca/) and they have done a great job. Last night we enjoyed a get-together at the [Amsterdam Brewery](http://www.amsterdambeer.com/) with free wine, beer and finger food. I think everyone had a great time.
 

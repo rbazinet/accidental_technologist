@@ -12,7 +12,7 @@ categories:
     - 'Ruby on Rails'
 ---
 
-[![aac_badge_xl](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conferenceDatesandVenueAnnounced_DD5C/aac_badge_xl_thumb.png "aac_badge_xl")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conferenceDatesandVenueAnnounced_DD5C/aac_badge_xl_2.png)
+[![aac_badge_xl](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conferenceDatesandVenueAnnounced_DD5C/aac_badge_xl_thumb.png "aac_badge_xl")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conferenceDatesandVenueAnnounced_DD5C/aac_badge_xl_2.png)
 
 The second annual [Acts As Conference 2009](http://www.actsasconference.com/), a regional Ruby conference, dates and venue has been announced. The event will take place February 6 &amp; 7, 2009 in Orlando Florida at the [Ramada Orlando Celebration Resort &amp; Convention Center](http://www.ramadaorlandocelebration.com), located near all things Disney. One of the best parts about the event is the cost?only $125.
 

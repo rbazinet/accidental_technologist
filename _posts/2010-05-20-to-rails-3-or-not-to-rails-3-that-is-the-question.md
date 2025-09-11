@@ -4,7 +4,7 @@ title: 'To Rails 3 or Not to Rails 3, That Is The Question'
 date: '2010-05-20T11:04:22-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/ruby-on-rails/to-rails-3-or-not-to-rails-3-that-is-the-question/'
+guid: 'https://accidentaltechnologist.com/ruby-on-rails/to-rails-3-or-not-to-rails-3-that-is-the-question/'
 permalink: /ruby-on-rails/to-rails-3-or-not-to-rails-3-that-is-the-question/
 wp_jd_clig:
     - 'http://cli.gs/eXmhZ'

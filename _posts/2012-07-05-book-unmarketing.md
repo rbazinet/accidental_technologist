@@ -4,7 +4,7 @@ title: 'Book: UnMarketing'
 date: '2012-07-05T11:08:05-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=755'
+guid: 'https://accidentaltechnologist.com/?p=755'
 permalink: /book-reviews/book-unmarketing/
 dsq_thread_id:
     - '752418230'

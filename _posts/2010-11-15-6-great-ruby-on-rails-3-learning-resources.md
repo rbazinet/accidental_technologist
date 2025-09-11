@@ -4,7 +4,7 @@ title: '6 Great Ruby on Rails 3 Learning Resources'
 date: '2010-11-15T09:00:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=570'
+guid: 'https://accidentaltechnologist.com/?p=570'
 permalink: /ruby-on-rails/6-great-ruby-on-rails-3-learning-resources/
 s2mail:
     - 'yes'
@@ -56,7 +56,7 @@ Michael covers a lot of great basic topics but also includes specific coverage o
 
 [![meet-rails-3-i](/assets/img/2010/11/meet-rails-3-i2.png "meet-rails-3-i")](http://peepcode.com/products/meet-rails-3-i)I always love the content put out by [PeepCode](http://peepcode.com/) and Geoffrey Grosenbach and his recent [Meet Rails 3 Part 01](http://peepcode.com/products/meet-rails-3-i) was no exception.
 
-This screen cast covers the beginning aspects of getting into Rails development both on Mac and Windows. I was pleasantly surprised to see my blog post [Running Rails 3 on Windows](http://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/) was used as a reference for users to setup and use Rails 3 on Windows.
+This screen cast covers the beginning aspects of getting into Rails development both on Mac and Windows. I was pleasantly surprised to see my blog post [Running Rails 3 on Windows](https://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/) was used as a reference for users to setup and use Rails 3 on Windows.
 
 PeepCode has been providing screencasts for a long time and is likely to the first to offer those covering Ruby on Rails.
 

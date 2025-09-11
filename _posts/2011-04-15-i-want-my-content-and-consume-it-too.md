@@ -4,7 +4,7 @@ title: 'I Want My Content and Consume it Too'
 date: '2011-04-15T14:06:23-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=651'
+guid: 'https://accidentaltechnologist.com/?p=651'
 permalink: /mobile/i-want-my-content-and-consume-it-too/
 dsq_thread_id:
     - '280360296'

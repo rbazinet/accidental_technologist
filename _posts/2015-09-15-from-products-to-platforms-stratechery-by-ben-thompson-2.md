@@ -4,7 +4,7 @@ title: 'From Products to Platforms - Stratechery by Ben Thompson'
 date: '2015-09-15T09:12:18-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1076'
+guid: 'https://accidentaltechnologist.com/?p=1076'
 permalink: /apple/from-products-to-platforms-stratechery-by-ben-thompson-2/
 link:
     - 'https://stratechery.com/2015/from-products-to-platforms/'

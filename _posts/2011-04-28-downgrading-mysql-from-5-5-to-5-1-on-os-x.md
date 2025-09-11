@@ -4,7 +4,7 @@ title: 'Downgrading MySQL from 5.5 to 5.1 on OS X'
 date: '2011-04-28T10:21:09-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=654'
+guid: 'https://accidentaltechnologist.com/?p=654'
 permalink: /technology/downgrading-mysql-from-5-5-to-5-1-on-os-x/
 dsq_thread_id:
     - '290521851'

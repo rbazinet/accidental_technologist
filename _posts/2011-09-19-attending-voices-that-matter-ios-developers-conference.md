@@ -4,7 +4,7 @@ title: 'Attending Voices That Matter : iOS Developers Conference'
 date: '2011-09-19T09:15:26-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=676'
+guid: 'https://accidentaltechnologist.com/?p=676'
 permalink: /infoq/attending-voices-that-matter-ios-developers-conference/
 s2mail:
     - 'yes'

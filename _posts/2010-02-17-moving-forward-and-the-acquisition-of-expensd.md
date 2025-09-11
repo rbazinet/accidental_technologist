@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
     - General'
 ---
-I mentioned my lofty goals for 2010 in a [previous blog post](http://accidentaltechnologist.com/general/2010-the-year-ahead/). One of the goals is moving some efforts from freelancing work to products which can happen in a couple of ways; either by developing products yourself or by acquisition. Acquisition is how we are introducing the first product in our company.
+I mentioned my lofty goals for 2010 in a [previous blog post](https://accidentaltechnologist.com/general/2010-the-year-ahead/). One of the goals is moving some efforts from freelancing work to products which can happen in a couple of ways; either by developing products yourself or by acquisition. Acquisition is how we are introducing the first product in our company.
 
-[![logo](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MovingForwardandtheAcquisitionofExpensd_E31E/logo_5.png "logo")](http://expensd.com/)
+[![logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MovingForwardandtheAcquisitionofExpensd_E31E/logo_5.png "logo")](http://expensd.com/)
 
 ### Why Expens’d?
 

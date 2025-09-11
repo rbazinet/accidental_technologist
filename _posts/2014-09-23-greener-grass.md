@@ -4,7 +4,7 @@ title: 'Greener grass'
 date: '2014-09-23T11:30:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1001'
+guid: 'https://accidentaltechnologist.com/?p=1001'
 permalink: /programming/greener-grass/
 dsq_thread_id:
     - '3046440738'

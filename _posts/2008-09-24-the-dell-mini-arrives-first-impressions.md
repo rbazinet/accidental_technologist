@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-[![295](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/295_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/295_2.jpg) I ordered a Dell Mini the day after they were announced and available to order. I had been looking for a small laptop for writing and remote work. Under consideration was the Asus models as well as the Acer Aspire One but when arriving at my local Best Buy and none of the models of the Acer were in stock, well I was out of luck.
+[![295](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/295_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/295_2.jpg) I ordered a Dell Mini the day after they were announced and available to order. I had been looking for a small laptop for writing and remote work. Under consideration was the Asus models as well as the Acer Aspire One but when arriving at my local Best Buy and none of the models of the Acer were in stock, well I was out of luck.
 
 The Dell Mini was announced the week after my disappointment with Best Buy so I figured I would order one since Dell has a reputation for producing pretty good products for the price.
 
@@ -34,7 +34,7 @@ My Dell Mini Inspiron 910 is configured the following way:
 
 I wanted to get the top-of-the-line features since the price was not much of an increase. The box the Mini comes in a box much smaller than I expected, which was cool. Below is a picture of the Mini next to my 15" MacBook Pro.
 
-[![Click for larger image](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0953_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0953.jpg)
+[![Click for larger image](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0953_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0953.jpg)
 
 ### Keyboard and Trackpad
 
@@ -42,7 +42,7 @@ The keyboard as with any of these mini notebooks is small but the keyboard here 
 
 You can see the keyboard here a bit:
 
-[![Click for larger image](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0957_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0957.jpg)
+[![Click for larger image](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0957_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniArrivesFirstImpressions_A0C1/IMG_0957.jpg)
 
 The trackpad is probably the best I have seen on these mini notebooks. I did not like the one on the Acer, this one is much more like what you expect in a Dell laptop.
 

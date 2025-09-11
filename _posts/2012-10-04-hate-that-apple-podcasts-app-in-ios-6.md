@@ -4,7 +4,7 @@ title: 'Hate that Apple Podcasts App in iOS 6?'
 date: '2012-10-04T09:00:57-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=814'
+guid: 'https://accidentaltechnologist.com/?p=814'
 permalink: /apple/hate-that-apple-podcasts-app-in-ios-6/
 wpgplus_message:
     - ''

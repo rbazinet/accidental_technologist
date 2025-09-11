@@ -4,7 +4,7 @@ title: 'Podcast: Thoughtbot - Giant Robots'
 date: '2016-03-10T08:16:25-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1103'
+guid: 'https://accidentaltechnologist.com/?p=1103'
 permalink: /podcast/podcast-thoughtbot-giant-robots/
 dsq_thread_id:
     - '4742003643'

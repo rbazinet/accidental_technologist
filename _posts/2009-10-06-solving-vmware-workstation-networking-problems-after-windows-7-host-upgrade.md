@@ -16,11 +16,11 @@ I have been running Windows Vista 64-bit as my main .NET development system for 
 
 I decided to upgrade my Vista host to the Windows 7 RTM, to get some of the niceties I have enjoyed while testing out Windows 7 in a VM. The upgrade went very smooth but only later did I realize there was a problem upon starting a couple of my client VM?s. I was greeted by this error:
 
-[![VMWare-Error](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMWare-Error_thumb.png "VMWare-Error")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMWare-Error_2.png)
+[![VMWare-Error](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMWare-Error_thumb.png "VMWare-Error")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMWare-Error_2.png)
 
 After a bit of searching the web I stumbled upon a blog post by Andreas Heil titled [Broken VMware Workstation Network Adapter](http://blog.aheil.de/2009/08/17/BrokenVMwareWorkstationNetworkAdapter.aspx), which described my problem and the solution almost completely. I won?t repeat his solution here, but it turned out Bridging was not enabled on my VMNet1 adapter. My virtual adapter looked liked this:
 
-[![VMNet1-Config](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMNet1-Config_thumb.png "VMNet1-Config")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMNet1-Config_2.png)
+[![VMNet1-Config](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMNet1-Config_thumb.png "VMNet1-Config")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SolvingVMWareWorkstationProblemsafterWin_965F/VMNet1-Config_2.png)
 
 Checking the box next to VMWare Bridge Protocol fixed the issue of not having network connectivity in all of the effected VM?s.
 

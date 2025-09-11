@@ -26,7 +26,7 @@ Over the years of creating websites for clients we initially used ASP.NET and C#
 > 
 > As a result it seemed obvious to survey the project technical leads and ask them about productivity - had ruby increased productivity and if so, by how much. I asked them to compare this to a mainstream (Java or .NET) project done in the most productive way they knew how.
 > 
-> [![rubyProductivityBar](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ReflectionsonRuby_9AEB/rubyProductivityBar_thumb.jpg "rubyProductivityBar")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ReflectionsonRuby_9AEB/rubyProductivityBar_2.jpg)
+> [![rubyProductivityBar](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ReflectionsonRuby_9AEB/rubyProductivityBar_thumb.jpg "rubyProductivityBar")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ReflectionsonRuby_9AEB/rubyProductivityBar_2.jpg)
 > 
 > You should take these result with some salt. After all there is no way we can objectively measure software productivity. These are just the subjective, qualitative assessments from the technical lead of each project. (I didn't get a response from all projects.) However they are still suggestive that there's a real productivity boost going on.
 

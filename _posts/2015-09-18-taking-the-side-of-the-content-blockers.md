@@ -4,7 +4,7 @@ title: 'Taking the Side of the Content Blockers'
 date: '2015-09-18T09:05:07-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1082'
+guid: 'https://accidentaltechnologist.com/?p=1082'
 permalink: /technology/taking-the-side-of-the-content-blockers/
 dsq_thread_id:
     - '4141644171'

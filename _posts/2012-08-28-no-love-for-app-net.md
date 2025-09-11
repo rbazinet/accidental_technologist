@@ -4,7 +4,7 @@ title: 'No Love for App.net'
 date: '2012-08-28T10:00:10-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=790'
+guid: 'https://accidentaltechnologist.com/?p=790'
 permalink: /technology/no-love-for-app-net/
 wpgplus_message:
     - ''
@@ -23,7 +23,7 @@ There has been a huge buzz around the Kickstarter project, [App.net](http://app.
 
 It's a valiant effort but that's all it really is. ?I think of this project is just designed to make a statement, one against Twitter. ?Sure, they raised some money but who from, folks angry with Twitter. ?It raised over $500K on Kickstarter, but as we all know money does not ensure success.
 
-I like Twitter, I don't agree with everything they do and [I certainly don't think they care about me or what I have to say](http://accidentaltechnologist.com/technology/tweet-less-blog-more-and-keep-your-content/) but nonetheless, they are were its happening these days in the social world I care about, way more important to me than Facebook. ?It's interesting to watch those people who backed App.net, come over to Twitter to claim their support for?App.net?on Twitter. ?It's comical, they pay $50 to someone who is anti-Twitter, yet they come to Twitter to waive their hands in support of the "other" platform.
+I like Twitter, I don't agree with everything they do and [I certainly don't think they care about me or what I have to say](https://accidentaltechnologist.com/technology/tweet-less-blog-more-and-keep-your-content/) but nonetheless, they are were its happening these days in the social world I care about, way more important to me than Facebook. ?It's interesting to watch those people who backed App.net, come over to Twitter to claim their support for?App.net?on Twitter. ?It's comical, they pay $50 to someone who is anti-Twitter, yet they come to Twitter to waive their hands in support of the "other" platform.
 
 This should say it all. ?If you want to be heard, you come to the place all the people who matter are hanging out.
 

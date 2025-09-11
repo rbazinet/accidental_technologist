@@ -28,7 +28,7 @@ Some searching around the web revealed a few suggestions ranging from making sur
 
 I finally came upon a [post by Brent Collier](http://acts-as-blogr.com/posts/-uninitialized-constant-userauthentication) of Intridea who had the same issue as I experienced. I had installed this plugin as I do with other plugins hosted on Github with the command `script/plugin install git://github.com/technoweenie/restful-authentication.git`. The plugin installed this way is a local git repository from the one stored on Github. Taken from Brent?s blog, the way the restful\_authentication plugin appears in the Github repository was the same as was appearing in mine:
 
-[![github-brent](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/StrangeRestful_AuthenticationPluginIssue_8DD3/github-brent_thumb.jpg "github-brent")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/StrangeRestful_AuthenticationPluginIssue_8DD3/github-brent_2.jpg)
+[![github-brent](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/StrangeRestful_AuthenticationPluginIssue_8DD3/github-brent_thumb.jpg "github-brent")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/StrangeRestful_AuthenticationPluginIssue_8DD3/github-brent_2.jpg)
 
 The solution I needed to do was a bit different than the one described by Brent but close.
 

@@ -4,7 +4,7 @@ title: 'Where Are We Without Community?'
 date: '2010-09-24T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/programming/where-are-we-without-community/'
+guid: 'https://accidentaltechnologist.com/programming/where-are-we-without-community/'
 permalink: /programming/where-are-we-without-community/
 s2mail:
     - 'yes'

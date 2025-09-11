@@ -4,7 +4,7 @@ title: '33 Great Resources to Get Started with Ember.js'
 date: '2013-03-07T09:00:35-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=904'
+guid: 'https://accidentaltechnologist.com/?p=904'
 permalink: /javascript/33-great-resources-get-started-emberjs/
 wpgplus_message:
     - ''
@@ -22,7 +22,7 @@ tags:
     - MVC
 ---
 
-![EmberJS logo](/assets/img/2013/03/EmberJS-logo.jpg "EmberJS-logo.jpg") I [mentioned yesterday](http://accidentaltechnologist.com/javascript/and-the-winner-is-ember-js/) that I have been exploring various JavaScript MVC frameworks for both client and internal projects. ?[Ember.js](http://emberjs.com/) is one of those frameworks. As part of my exploration, I have collected various resources on Ember.js and thought I'd share. ?This list is by no means exhaustive and I'm sure there are loads of other resources that I haven't discovered, add them to the comments and I will update this post. ## Getting Started with Ember.js
+![EmberJS logo](/assets/img/2013/03/EmberJS-logo.jpg "EmberJS-logo.jpg") I [mentioned yesterday](https://accidentaltechnologist.com/javascript/and-the-winner-is-ember-js/) that I have been exploring various JavaScript MVC frameworks for both client and internal projects. ?[Ember.js](http://emberjs.com/) is one of those frameworks. As part of my exploration, I have collected various resources on Ember.js and thought I'd share. ?This list is by no means exhaustive and I'm sure there are loads of other resources that I haven't discovered, add them to the comments and I will update this post. ## Getting Started with Ember.js
 
 - [The "Official" Ember.js Guides](http://emberjs.com/guides/)
 - [PeepCode - Fire Up Ember.js](https://peepcode.com/products/emberjs)

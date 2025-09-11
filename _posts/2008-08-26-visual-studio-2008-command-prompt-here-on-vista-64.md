@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![CommandPromptHere](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_thumb_2.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_6.jpg) One of the first things I do when setting up a new system is to add the ability to right click on any folder and have a new command prompt with all of the Visual Studio environment variables setup properly. I have used the one referenced by [Scott Hanselman for Visual Studio 2005](http://www.hanselman.com/blog/content/binary/vsnet2005cmdhere.inf) but with Visual Studio 2008 and Vista 64 installed I had to make a few tweaks to the file and making it available.
+[![CommandPromptHere](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_thumb_2.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_6.jpg) One of the first things I do when setting up a new system is to add the ability to right click on any folder and have a new command prompt with all of the Visual Studio environment variables setup properly. I have used the one referenced by [Scott Hanselman for Visual Studio 2005](http://www.hanselman.com/blog/content/binary/vsnet2005cmdhere.inf) but with Visual Studio 2008 and Vista 64 installed I had to make a few tweaks to the file and making it available.
 
 The new command file looks like this:
 
@@ -57,7 +57,7 @@ UDHERE="Software\Microsoft\Windows\CurrentVersion\Uninstall\VSNet2008CmdHere"
 
 The real changes were the new location of Visual Studio, in particular the fact that the location under <font face="Courier New">Program Files</font> is actually <font face="Courier New">Program Files (x86)</font>. It should be noted that my Visual Studio installation is on my D:, not the default of C:. This should be an easy change for anyone using this file.
 
-<div class="wlWriterSmartContent" id="scid:fb3a1972-4489-4e52-abe7-25a00bb07fdf:2cacd0f4-6ad0-4390-a31a-778fe9478eff" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Download the new INF - [vsnet2008cmdhere.inf](http://accidentaltechnologist.com/files/media/file/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/vsnet2008cmdhere_1.inf)
+<div class="wlWriterSmartContent" id="scid:fb3a1972-4489-4e52-abe7-25a00bb07fdf:2cacd0f4-6ad0-4390-a31a-778fe9478eff" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Download the new INF - [vsnet2008cmdhere.inf](https://accidentaltechnologist.com/files/media/file/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/vsnet2008cmdhere_1.inf)
 
 </div>I hope it helps out.
 

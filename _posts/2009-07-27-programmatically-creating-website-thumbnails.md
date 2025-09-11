@@ -14,7 +14,7 @@ categories:
 
 I have been working recently on a project which I am capturing links to web pages and need to display a thumbnail-size screen shot of the web page being linked. For example, if I have a link to the [Ruby on Rails web site](http://rubyonrails.org/), the thumbnail I need would look like this:
 
-[![rubyonrails_thumb](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DisplayingDynamicScreenShots_8E49/rubyonrails_thumb_thumb.jpg "rubyonrails_thumb")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DisplayingDynamicScreenShots_8E49/rubyonrails_thumb_2.jpg)
+[![rubyonrails_thumb](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DisplayingDynamicScreenShots_8E49/rubyonrails_thumb_thumb.jpg "rubyonrails_thumb")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DisplayingDynamicScreenShots_8E49/rubyonrails_thumb_2.jpg)
 
 This particular one is 202x152 pixels, just the size I need.
 

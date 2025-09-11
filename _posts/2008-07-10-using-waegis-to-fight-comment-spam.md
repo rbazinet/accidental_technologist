@@ -12,11 +12,11 @@ categories:
     - Technology
 ---
 
-[![NoSpam](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/NoSpam_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/NoSpam_2.jpg)
+[![NoSpam](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/NoSpam_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/NoSpam_2.jpg)
 
 I recently switched blogging software from Wordpress to [GraffitiCMS](http://graffiticms.com/), not because Wordpress was bad or anything but because I wanted the flexibility of hosting my own blog running on Windows.
 
-Graffiti does a good job of determining what is spam as far as comments or trackbacks goes but I still have to approve or delete those comments Graffiti thinks [![waegis-logo-beta-3_3](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/waegis-logo-beta-3_3_thumb.png)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/waegis-logo-beta-3_3_2.png)is spam. It is time consuming some days and I have been looking for something to help out - so enters [Waegis](http://waegis.com/) (pronounced veegis), developed by [Keyvan Nayyeri](http://nayyeri.net/).
+Graffiti does a good job of determining what is spam as far as comments or trackbacks goes but I still have to approve or delete those comments Graffiti thinks [![waegis-logo-beta-3_3](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/waegis-logo-beta-3_3_thumb.png)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/waegis-logo-beta-3_3_2.png)is spam. It is time consuming some days and I have been looking for something to help out - so enters [Waegis](http://waegis.com/) (pronounced veegis), developed by [Keyvan Nayyeri](http://nayyeri.net/).
 
 The Waegis web site lists the goals of the service:
 
@@ -30,7 +30,7 @@ Waegis supports both Free Accounts as well as [Commercial Accounts](http://waegi
 
 Installation consisted of a simple-to-install plug-in for Graffiti which will work in conjunction with Graffiti's spam filter. You just have to download the plugin, unzip and copy files to the bin folder of your Graffiti site. The Waegis plugin now appears in the Graffiti-Admin site with some simple settings:
 
-[![WaegisPluginConfig](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/WaegisPluginConfig_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/WaegisPluginConfig_2.jpg)
+[![WaegisPluginConfig](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/WaegisPluginConfig_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UsingWaegistoFightCommentSpam_1397E/WaegisPluginConfig_2.jpg)
 
 I get spam on a regular basis and only time will tell how well this system works, but I am hopeful. I have had the filter on for a few hours now and have yet to see spam come to my site. The service is in beta at the time of this writing.
 

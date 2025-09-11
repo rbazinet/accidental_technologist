@@ -4,7 +4,7 @@ title: 'Vesper Quickly Becoming a Valuable Case Study'
 date: '2013-07-01T10:00:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=939'
+guid: 'https://accidentaltechnologist.com/?p=939'
 permalink: /ios/vesper-quickly-becoming-a-valuable-case-study/
 dsq_thread_id:
     - '1454812080'

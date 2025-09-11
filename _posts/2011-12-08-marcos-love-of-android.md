@@ -4,7 +4,7 @@ title: "Marco's Love of Android"
 date: '2011-12-08T09:01:34-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=681'
+guid: 'https://accidentaltechnologist.com/?p=681'
 permalink: /mobile/marcos-love-of-android/
 dsq_thread_id:
     - '497639262'

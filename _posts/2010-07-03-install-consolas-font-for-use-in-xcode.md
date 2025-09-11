@@ -4,7 +4,7 @@ title: 'Install Consolas Font for Use in Xcode'
 date: '2010-07-03T14:24:03-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=453'
+guid: 'https://accidentaltechnologist.com/?p=453'
 permalink: /apple/install-consolas-font-for-use-in-xcode/
 dsq_thread_id:
     - '113866839'

@@ -4,7 +4,7 @@ title: 'Errors Installing the pg Gem When Using Heroku Postgres.app'
 date: '2013-12-19T09:14:34-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=961'
+guid: 'https://accidentaltechnologist.com/?p=961'
 permalink: /ruby-on-rails/errors-installing-the-pg-gem-when-using-heroku-postgres-app/
 dsq_thread_id:
     - '2060887786'

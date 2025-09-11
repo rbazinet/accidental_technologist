@@ -4,7 +4,7 @@ title: 'Running Rails 3 on Windows'
 date: '2010-09-01T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/'
+guid: 'https://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/'
 permalink: /ruby-on-rails/running-rails-3-on-windows/
 dsq_thread_id:
     - '136175907'

@@ -4,14 +4,14 @@ title: 'My Top 10 iPad Applications'
 date: '2010-07-16T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/apple/my-top-10-ipad-applications/'
+guid: 'https://accidentaltechnologist.com/apple/my-top-10-ipad-applications/'
 permalink: /apple/my-top-10-ipad-applications/
 jd_tweet_this:
     - 'yes'
 wp_jd_bitly:
     - 'http://bit.ly/aD0uhP'
 wp_jd_target:
-    - 'http://accidentaltechnologist.com/apple/my-top-10-ipad-applications/'
+    - 'https://accidentaltechnologist.com/apple/my-top-10-ipad-applications/'
 dsq_thread_id:
     - '118646082'
 categories:

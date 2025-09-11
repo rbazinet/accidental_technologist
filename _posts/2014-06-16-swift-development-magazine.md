@@ -4,7 +4,7 @@ title: 'Swift Development Magazine'
 date: '2014-06-16T09:00:07-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=988'
+guid: 'https://accidentaltechnologist.com/?p=988'
 permalink: /swift/swift-development-magazine/
 dsq_thread_id:
     - '2761793886'

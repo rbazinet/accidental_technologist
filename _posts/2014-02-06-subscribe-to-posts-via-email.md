@@ -4,7 +4,7 @@ title: 'Subscribe to Posts Via Email'
 date: '2014-02-06T09:31:22-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=978'
+guid: 'https://accidentaltechnologist.com/?p=978'
 permalink: /general/subscribe-to-posts-via-email/
 dsq_thread_id:
     - '2229509652'

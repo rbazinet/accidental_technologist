@@ -10,7 +10,7 @@ categories:
     - Hardware
 ---
 
-[![GSkill2g](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/GSkill2g_thumb.jpg "GSkill2g")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/GSkill2g_2.jpg)It seems when ordering from Dell, the Dell Mini memory options are limited to 1G RAM. I understand this is due to some licensing issues with Windows XP and the Dell Mini easily supports 2G of RAM. I decided to check out my favorites computer parts supplier, NewEgg and found the [G.Skill 2G 200-Pin DDR2 PC4200 memory stick for $23.99, including shipping](http://www.newegg.com/Product/Product.aspx?Item=N82E16820231146).
+[![GSkill2g](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/GSkill2g_thumb.jpg "GSkill2g")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/GSkill2g_2.jpg)It seems when ordering from Dell, the Dell Mini memory options are limited to 1G RAM. I understand this is due to some licensing issues with Windows XP and the Dell Mini easily supports 2G of RAM. I decided to check out my favorites computer parts supplier, NewEgg and found the [G.Skill 2G 200-Pin DDR2 PC4200 memory stick for $23.99, including shipping](http://www.newegg.com/Product/Product.aspx?Item=N82E16820231146).
 
 Installation was was pretty much a non-event;
 
@@ -22,7 +22,7 @@ Installation was was pretty much a non-event;
 - Reinstall the battery.
 - Boot up and verify in the BIOS, by pressing 2 on startup, that the new memory is recognized.
  
-[![DellMiniInsides](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/DellMiniInsides_thumb.jpg "DellMiniInsides")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/DellMiniInsides_2.jpg)
+[![DellMiniInsides](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/DellMiniInsides_thumb.jpg "DellMiniInsides")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TheDellMiniand2GRAM_A57C/DellMiniInsides_2.jpg)
 
 That?s all there is to it. When booting up into Ubuntu the new memory was recognized, nothing to configure there.
 

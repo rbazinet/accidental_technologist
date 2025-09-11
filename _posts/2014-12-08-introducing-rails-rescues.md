@@ -4,7 +4,7 @@ title: 'Introducing Rails Rescues'
 date: '2014-12-08T09:15:48-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1014'
+guid: 'https://accidentaltechnologist.com/?p=1014'
 permalink: /ruby-on-rails/introducing-rails-rescues/
 dsq_thread_id:
     - '3302564621'

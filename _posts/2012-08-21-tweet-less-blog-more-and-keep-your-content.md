@@ -4,7 +4,7 @@ title: 'Tweet Less, Blog More and Keep Your Content'
 date: '2012-08-21T09:28:52-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=782'
+guid: 'https://accidentaltechnologist.com/?p=782'
 permalink: /technology/tweet-less-blog-more-and-keep-your-content/
 wpgplus_message:
     - ''

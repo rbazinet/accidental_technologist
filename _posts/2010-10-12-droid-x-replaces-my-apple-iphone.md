@@ -4,7 +4,7 @@ title: 'Droid X Replaces My Apple iPhone'
 date: '2010-10-12T08:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=485'
+guid: 'https://accidentaltechnologist.com/?p=485'
 permalink: /technology/droid-x-replaces-my-apple-iphone/
 s2mail:
     - 'yes'

@@ -4,7 +4,7 @@ title: 'I Backed The Ruby 2.0 Walkthrough on Kickstarter and So Should You'
 date: '2012-11-09T08:26:17-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=861'
+guid: 'https://accidentaltechnologist.com/?p=861'
 permalink: /ruby/i-backed-the-ruby-2-0-walkthrough-on-kickstarter-and-so-should-you/
 wpgplus_message:
     - ''

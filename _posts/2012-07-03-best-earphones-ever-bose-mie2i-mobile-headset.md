@@ -4,7 +4,7 @@ title: 'Best Earphones Ever: Bose MIE2i Mobile Headset'
 date: '2012-07-03T10:48:54-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=751'
+guid: 'https://accidentaltechnologist.com/?p=751'
 permalink: /technology/best-earphones-ever-bose-mie2i-mobile-headset/
 dsq_thread_id:
     - '749674185'

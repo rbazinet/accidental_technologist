@@ -4,7 +4,7 @@ title: '7 Resources Every JavaScript Developer Should Know'
 date: '2012-03-13T12:09:59-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=693'
+guid: 'https://accidentaltechnologist.com/?p=693'
 permalink: /javascript/7-resources-every-javascript-developer-should-know/
 s2mail:
     - 'yes'

@@ -4,7 +4,7 @@ title: 'Apple iPad Air 2 - The iPad for Which I Have Been Waiting'
 date: '2014-10-24T11:56:16-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1007'
+guid: 'https://accidentaltechnologist.com/?p=1007'
 permalink: /apple/apple-ipad-air-2-the-ipad-for-which-i-have-been-waiting/
 dsq_thread_id:
     - '3151882313'

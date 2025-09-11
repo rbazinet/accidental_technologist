@@ -4,7 +4,7 @@ title: 'PalettePro - iOS Application for the Apple App Store'
 date: '2012-06-11T09:30:51-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=737'
+guid: 'https://accidentaltechnologist.com/?p=737'
 permalink: /mobile/palettepro-ios-application-for-the-apple-app-store/
 dsq_thread_id:
     - '721247776'

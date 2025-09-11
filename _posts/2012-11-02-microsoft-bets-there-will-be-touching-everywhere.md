@@ -4,7 +4,7 @@ title: 'Microsoft Bets There Will Be Touching Everywhere'
 date: '2012-11-02T10:00:34-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=854'
+guid: 'https://accidentaltechnologist.com/?p=854'
 permalink: /microsoft/microsoft-bets-there-will-be-touching-everywhere/
 wpgplus_message:
     - ''

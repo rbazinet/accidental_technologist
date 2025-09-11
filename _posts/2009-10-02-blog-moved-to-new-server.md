@@ -12,7 +12,7 @@ categories:
     - General
 ---
 
-[![server_racks](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BlogMovedtoNewServer_14DF4/server_racks_thumb.jpg "server_racks")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BlogMovedtoNewServer_14DF4/server_racks_2.jpg)
+[![server_racks](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BlogMovedtoNewServer_14DF4/server_racks_thumb.jpg "server_racks")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BlogMovedtoNewServer_14DF4/server_racks_2.jpg)
 
 Today I moved this blog to a new server to provide some expansion and additional speed. Please let me know in the comments or via email if you experience any broken links or other strange behavior. There should not be any issues.
 

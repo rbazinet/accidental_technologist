@@ -4,7 +4,7 @@ title: '7 Great Bootstrapping Podcasts to Jumpstart Your Business Today'
 date: '2013-05-16T09:00:52-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=920'
+guid: 'https://accidentaltechnologist.com/?p=920'
 permalink: /entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your-business-today/
 wpgplus_message:
     - ''

@@ -4,7 +4,7 @@ title: 'Running a Lifestyle Business - Tom Rossi Interview on Mixergy'
 date: '2011-01-07T09:14:33-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/entrepreneurship/running-a-lifestyle-business-tom-rossi-interview-on-mixergy/'
+guid: 'https://accidentaltechnologist.com/entrepreneurship/running-a-lifestyle-business-tom-rossi-interview-on-mixergy/'
 permalink: /entrepreneurship/running-a-lifestyle-business-tom-rossi-interview-on-mixergy/
 enclosure:
     - "http://mixergy-cdn.wistia.com/deliveries/e18ece284dcb166bd0cccbe1bbe7334cfbcda5be.bin\n312533346\nvideo/mp4\n"

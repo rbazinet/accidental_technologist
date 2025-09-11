@@ -4,7 +4,7 @@ title: 'iOS 7 and Seizing an Opportunity'
 date: '2013-06-13T09:18:13-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=931'
+guid: 'https://accidentaltechnologist.com/?p=931'
 permalink: /apple/ios-7-and-seizing-an-opportunity/
 wpgplus_message:
     - ''

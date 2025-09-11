@@ -4,7 +4,7 @@ title: 'InfoQ: Architecting TekPub - Moving from ASP.NET MVC to Ruby on Rails'
 date: '2010-05-19T12:20:08-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/infoq/infoq-architecting-tekpub-moving-from-asp-net-mvc-to-ruby-on-rails/'
+guid: 'https://accidentaltechnologist.com/infoq/infoq-architecting-tekpub-moving-from-asp-net-mvc-to-ruby-on-rails/'
 permalink: /infoq/infoq-architecting-tekpub-moving-from-asp-net-mvc-to-ruby-on-rails/
 wp_jd_clig:
     - 'http://cli.gs/632R9'

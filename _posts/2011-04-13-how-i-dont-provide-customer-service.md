@@ -4,7 +4,7 @@ title: 'How I Don''t Provide Customer Service'
 date: '2011-04-13T11:01:39-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=649'
+guid: 'https://accidentaltechnologist.com/?p=649'
 permalink: /business/how-i-dont-provide-customer-service/
 dsq_thread_id:
     - '278461447'
@@ -16,7 +16,7 @@ tags:
 ---
 I recently bought a Mobee Magic Charger to stop having to replace the batteries in my Apple Magic Mouse so often.
 
-I immediately had issues with the Magic Charger and figured I must have a possible defective unit because it should not work this way. [I wrote up a blog post about my issues](http://accidentaltechnologist.com/apple/the-confusing-mobee-magic-charger/) and submitted a support request to Mobee.
+I immediately had issues with the Magic Charger and figured I must have a possible defective unit because it should not work this way. [I wrote up a blog post about my issues](https://accidentaltechnologist.com/apple/the-confusing-mobee-magic-charger/) and submitted a support request to Mobee.
 
 You can see below the Mobee Support Form asks the right questions, clearly taking my name:
 

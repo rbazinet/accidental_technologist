@@ -18,7 +18,7 @@ I recently needed to create a local user account for a project which involved us
 
 You can see when I go to User Accounts the new account shows up. I expect the account to show up here :
 
-[![ManageUsersBefore](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/ManageUsersBefore_thumb.png "ManageUsersBefore")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/ManageUsersBefore_2.png)
+[![ManageUsersBefore](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/ManageUsersBefore_thumb.png "ManageUsersBefore")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/ManageUsersBefore_2.png)
 
 Everything works just fine but can be a bit of an annoyance when booting up and logging into Windows 7 where I have the option of logging into my regular account or my new econnect user account. I don?t want this behavior, I just want to be shown my normal enter password textbox as I am familiar. Since this is a service account and no on will ever log in to it, I don?t want the option of seeing it.
 
@@ -38,7 +38,7 @@ Once you have found the path in regedit the steps are pretty simple:
  
 It should look something like this:
 
-[![RegeditUserList](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/RegeditUserList_thumb.png "RegeditUserList")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/RegeditUserList_2.png)
+[![RegeditUserList](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/RegeditUserList_thumb.png "RegeditUserList")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HidingUserAccountsonWindows7_7397/RegeditUserList_2.png)
 
 You can repeat step 3 above for each user to hide.
 

@@ -4,7 +4,7 @@ title: 'Why Drobo when you can QNAP?'
 date: '2011-02-23T09:00:13-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=604'
+guid: 'https://accidentaltechnologist.com/?p=604'
 permalink: /hardware/why-drobo-when-you-can-qnap/
 dsq_thread_id:
     - '238235775'

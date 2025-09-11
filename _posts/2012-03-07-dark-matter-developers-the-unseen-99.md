@@ -4,7 +4,7 @@ title: 'Dark Matter Developers: The Unseen 99%'
 date: '2012-03-07T10:47:38-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=702'
+guid: 'https://accidentaltechnologist.com/?p=702'
 permalink: /programming/dark-matter-developers-the-unseen-99/
 redirect:
     - 'http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx'

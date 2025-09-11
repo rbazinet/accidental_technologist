@@ -4,7 +4,7 @@ title: 'Less is More, Enjoying Startup Life'
 date: '2012-02-10T09:00:29-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=690'
+guid: 'https://accidentaltechnologist.com/?p=690'
 permalink: /business/less-is-more-enjoying-startup-life/
 s2mail:
     - 'yes'

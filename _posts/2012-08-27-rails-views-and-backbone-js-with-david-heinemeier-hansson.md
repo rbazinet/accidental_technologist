@@ -4,7 +4,7 @@ title: 'Rails Views and Backbone.js with David Heinemeier Hansson'
 date: '2012-08-27T09:00:07-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=789'
+guid: 'https://accidentaltechnologist.com/?p=789'
 permalink: /ruby-on-rails/rails-views-and-backbone-js-with-david-heinemeier-hansson/
 wpgplus_message:
     - ''

@@ -4,7 +4,7 @@ title: 'Product + Support - Hiten Shaw'
 date: '2015-04-30T09:10:05-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1043'
+guid: 'https://accidentaltechnologist.com/?p=1043'
 permalink: /entrepreneurship/product-support-hiten-shaw/
 link:
     - 'http://productandsupport.com/hiten-shah/'

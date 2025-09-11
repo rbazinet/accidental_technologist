@@ -4,7 +4,7 @@ title: "Welcome Swift, I've Been Waiting For You"
 date: '2014-06-13T09:45:30-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=984'
+guid: 'https://accidentaltechnologist.com/?p=984'
 permalink: /swift/welcome-swift-ive-been-waiting-for-you/
 dsq_thread_id:
     - '2761188485'

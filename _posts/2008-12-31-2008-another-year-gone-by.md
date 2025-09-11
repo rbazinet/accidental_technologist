@@ -10,7 +10,7 @@ categories:
     - General
 ---
 
-[![2008](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AnotherYearGoneBy_A317/2008_thumb.jpg "2008")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AnotherYearGoneBy_A317/2008_2.jpg)
+[![2008](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AnotherYearGoneBy_A317/2008_thumb.jpg "2008")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AnotherYearGoneBy_A317/2008_2.jpg)
 
 This is my last post of the year and almost forgot to publish it.
 

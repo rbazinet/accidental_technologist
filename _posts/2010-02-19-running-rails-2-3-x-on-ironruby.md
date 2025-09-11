@@ -20,7 +20,7 @@ In case anyone does not know what IronRuby is, it is a project from [Microsoft t
 
 Installation of IronRuby is pretty straightforward using the [MSI installer from Microsoft available on Codeplex](http://ironruby.codeplex.com/releases/view/36931#DownloadId=105584). The installation is just like any Windows installer, follow the prompts and when complete IronRuby binaries should be in your path, something like C:\\Program Files\\IronRuby 0.9.4.0\\bin. Notice the version, 0.9.4, odd for a 1.0 RC2. The installation says the same:
 
-[![IronRubyRC2Install](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyRC2Install_thumb.png "IronRubyRC2Install")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyRC2Install_2.png)
+[![IronRubyRC2Install](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyRC2Install_thumb.png "IronRubyRC2Install")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyRC2Install_2.png)
 
 I installed IronRuby and looking at the directory of the IronRuby binaries, I see all commands are preceded by an ?i?. So for those familiar with Ruby-related commands we get igem, irake, iirb and etc, not a big deal but something that needs to be remembered. There is not a Ruby.exe either, but rather an ir.exe which we use to execute commands. Also note that RubyGems comes bundled with IronRuby, no need to install this ourselves, which is nice.
 
@@ -66,7 +66,7 @@ The server starts and loads up our little test application. Those of use used to
 
 If all things go well, popping open a browser and putting <http://localhost:3000> in your address bar should give you a running Rails application:
 
-[![IronRubyApp](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyApp_thumb.png "IronRubyApp")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyApp_2.png)
+[![IronRubyApp](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyApp_thumb.png "IronRubyApp")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/SettingUpIronRubytoRunRails2.3.x_E27C/IronRubyApp_2.png)
 
 Granted, it doesn?t do anything but it is a start and proves it loads. I created some models and controllers and the *ir script/generate* commands worked like a charm. All commands seemed to run as fast as, if not faster, than those in MRI 1.8.6.
 

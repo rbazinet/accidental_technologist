@@ -4,7 +4,7 @@ title: 'Use TinyURL from Ruby'
 date: '2013-06-06T14:30:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=928'
+guid: 'https://accidentaltechnologist.com/?p=928'
 permalink: /ruby/use-tinyurl-from-ruby/
 wpgplus_message:
     - ''

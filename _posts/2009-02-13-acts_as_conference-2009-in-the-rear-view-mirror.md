@@ -12,7 +12,7 @@ categories:
     - Ruby
 ---
 
-[![aac2009](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conference2009intheRearViewMirro_80D2/aac2009_thumb.jpg "aac2009")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conference2009intheRearViewMirro_80D2/aac2009.jpg)
+[![aac2009](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conference2009intheRearViewMirro_80D2/aac2009_thumb.jpg "aac2009")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/acts_as_conference2009intheRearViewMirro_80D2/aac2009.jpg)
 
 I attended the second annual [acts\_as\_conference 2009](http://www.actsasconference.com/) on February 6th and 7th and had such a great time. The conference was put on by Robert Dempsey and company from [Atlantic Dominion Solutions](http://www.adsdevshop.com/). The venue this year was different than last year, it was the [Ramada Orlando Celebration &amp; Convention Center](http://www.ramadaorlandocelebration.com/).
 

@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-[![WallOfComputers](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_2.jpg) The time has come for me to reconfigure my Windows Vista development system after it has been running very well for months. I lately upgraded my motherboard to an [ABit IP35 Pro](http://www.abit.com.tw/page/en/motherboard/motherboard_detail.php?pMODEL_NAME=IP35+Pro&fMTYPE=LGA775) to better support my new [Q9300 quad-core processor](http://www.newegg.com/Product/Product.aspx?Item=N82E16819115043) and upgraded my system memory to a total of 8GB. Since 32-bit Vista can't handle all this memory it was time to install 64-bit Vista and think about a better way to support my personal development and development I do for clients.
+[![WallOfComputers](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_2.jpg) The time has come for me to reconfigure my Windows Vista development system after it has been running very well for months. I lately upgraded my motherboard to an [ABit IP35 Pro](http://www.abit.com.tw/page/en/motherboard/motherboard_detail.php?pMODEL_NAME=IP35+Pro&fMTYPE=LGA775) to better support my new [Q9300 quad-core processor](http://www.newegg.com/Product/Product.aspx?Item=N82E16819115043) and upgraded my system memory to a total of 8GB. Since 32-bit Vista can't handle all this memory it was time to install 64-bit Vista and think about a better way to support my personal development and development I do for clients.
 
 The picture here is what my office feels like sometimes with all the various machines I have with client-specific work on them. I want to be able to consolidate into a single big desktop and run everything on the one box.
 
@@ -29,7 +29,7 @@ The problem with having so many things interdependent between multiple clients a
 
 ### The Solution
 
-[![computer](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/computer_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/computer_2.jpg)
+[![computer](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/computer_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/computer_2.jpg)
 
 Simplification! Since I was installing Vista 64 and it cannot be installed as an upgrade I knew I had the chance to really consider how I wanted to configure this system in order to better be able to support many clients in the future as well as allowing for my own personal projects.
 
@@ -50,11 +50,11 @@ More specifically, the base operating system consists of Windows Vista 64, has 8
 
 I created some pretty generic virtual machines as starter installations for new clients. I have one for Windows XP, Windows Vista and Windows 2003. Each time a client comes aboard I can copy each virtual machine to its own folder and just use it since it is just a file and a that point installations of Visual Studio, tools and a database server can be setup. These are only for development purposes so a small virtual machine works great. Having a 64-bit base operating system with 8G of memory and 4-cores helps too.
 
-[![VMWareClone](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VMWareClone_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VMWareClone_2.jpg)
+[![VMWareClone](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VMWareClone_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VMWareClone_2.jpg)
 
 Creating a copy, or clone, of the base image of any operating system is pretty easy. It is as simple as selecting the VM and choosing **Clone** from the menu and selecting a name and location for the new VM.
 
-[![VirtualMachineDirs](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VirtualMachineDirs_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VirtualMachineDirs_2.jpg)
+[![VirtualMachineDirs](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VirtualMachineDirs_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/VirtualMachineDirs_2.jpg)
 
 I have a folder on my secondary drive called *Virtual Machines* and it a folder for Clients and another for *Raw VMs*. Clones go in the Clients folder and the base VMs going in the Raw VMs folder to keep everything organized and separate.
 

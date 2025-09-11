@@ -4,7 +4,7 @@ title: 'Functional Programming Principles in Scala'
 date: '2012-10-15T09:00:04-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=822'
+guid: 'https://accidentaltechnologist.com/?p=822'
 permalink: /programming/functional-programming-principles-in-scala/
 wpgplus_message:
     - ''

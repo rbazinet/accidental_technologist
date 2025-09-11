@@ -11,7 +11,7 @@ categories:
 ---
 
   
-![ObieFernandez.jpg](http://accidentaltechnologist.com/files/media/image/ObieFernandez.jpg)
+![ObieFernandez.jpg](https://accidentaltechnologist.com/files/media/image/ObieFernandez.jpg)
 
 It has been a while since [RubyFringe](http://www.rubyfringe.com "RubyFringe"), but the first of the session videos are [up on InfoQ](http://www.infoq.com/presentations/fernandez-sales-do-the-hustle "InfoQ"). The one is with our good friend [Obie Fernandez](http://blog.obiefernandez.com/content/) titled "Do the Hustle", which basically talks about the business-side of Ruby and Rails development. The summary of the session states:
 

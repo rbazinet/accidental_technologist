@@ -4,7 +4,7 @@ title: '31 Great Days of iOS'
 date: '2013-02-04T16:50:10-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=890'
+guid: 'https://accidentaltechnologist.com/?p=890'
 permalink: /apple/31-great-days-of-ios/
 wpgplus_message:
     - ''

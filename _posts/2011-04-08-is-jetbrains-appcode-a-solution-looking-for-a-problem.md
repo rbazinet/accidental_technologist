@@ -4,7 +4,7 @@ title: 'Is JetBrains appCode a Solution Looking for a Problem?'
 date: '2011-04-08T09:30:53-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=642'
+guid: 'https://accidentaltechnologist.com/?p=642'
 permalink: /apple/is-jetbrains-appcode-a-solution-looking-for-a-problem/
 s2mail:
     - 'yes'

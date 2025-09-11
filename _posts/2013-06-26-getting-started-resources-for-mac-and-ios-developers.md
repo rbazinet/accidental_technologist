@@ -4,7 +4,7 @@ title: 'Getting Started Resources for Mac and iOS Developers'
 date: '2013-06-26T09:18:24-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=935'
+guid: 'https://accidentaltechnologist.com/?p=935'
 permalink: /objective-c-2/getting-started-resources-for-mac-and-ios-developers/
 dsq_thread_id:
     - '1438183440'

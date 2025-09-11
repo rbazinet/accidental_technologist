@@ -12,7 +12,7 @@ categories:
     - General
 ---
 
-[![goodbye](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TurningDowntheSocialNoise_6D60/goodbye_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TurningDowntheSocialNoise_6D60/goodbye_2.jpg) It was about a month ago and I was sitting here in my home office reading some Twitter tweets and catching up on some blog reading and a series of tweets came by the screen from one of the .NET folks with the loudest mouth and the least to say with just another gripefest about Microsoft and other .NET developers not as bright as he. I bet if you think not-so-hard you can figure out who this person is and I won't have to tell you.
+[![goodbye](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TurningDowntheSocialNoise_6D60/goodbye_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/TurningDowntheSocialNoise_6D60/goodbye_2.jpg) It was about a month ago and I was sitting here in my home office reading some Twitter tweets and catching up on some blog reading and a series of tweets came by the screen from one of the .NET folks with the loudest mouth and the least to say with just another gripefest about Microsoft and other .NET developers not as bright as he. I bet if you think not-so-hard you can figure out who this person is and I won't have to tell you.
 
 It was at that very moment that I had a vision or you could say a defining moment in the pattern of blogs and people I follow on Twitter. I figured it was time to weed out the "dead wood" in my blog roll, the people I follow on Twitter and the podcasts I listen to in order to stop the white noise of my day and become more focused and more productive.
 

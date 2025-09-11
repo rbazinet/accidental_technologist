@@ -4,7 +4,7 @@ title: 'Complacency kills.'
 date: '2017-10-17T09:00:11-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=1175'
+guid: 'https://accidentaltechnologist.com/?p=1175'
 permalink: /life/complacency-kills/
 link:
     - 'http://www.matthewdicks.com/matthewdicksblog/2017/10/14/complacency-kills'

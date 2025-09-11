@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![dsa](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DataStructuresandAlgorithmseBookAvailabl_8896/dsa_3.png)](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) I came across another free eBook which looks great for those interested in the details of algorithms, called [Data Structures and Algorithms](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) by [Granville Barnett](http://msmvps.com/blogs/gbarnett/) and [Luca Del Tongo](http://blogs.ugidotnet.org/wetblog/Default.aspx) and is hosted on [DotNetSlackers](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/). The book is a free PDF download.
+[![dsa](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DataStructuresandAlgorithmseBookAvailabl_8896/dsa_3.png)](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) I came across another free eBook which looks great for those interested in the details of algorithms, called [Data Structures and Algorithms](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) by [Granville Barnett](http://msmvps.com/blogs/gbarnett/) and [Luca Del Tongo](http://blogs.ugidotnet.org/wetblog/Default.aspx) and is hosted on [DotNetSlackers](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/). The book is a free PDF download.
 
 As a long-time developer this is the type of information we learned in college and don't get a lot of coverage today. I feel this is fundamental to good programming and really understanding how things in our line of work functions. I am looking forward to reading this and providing some feedback here.
 

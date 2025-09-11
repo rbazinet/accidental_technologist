@@ -4,7 +4,7 @@ title: 'And the Winner is...Ember.js'
 date: '2013-03-06T09:00:41-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=901'
+guid: 'https://accidentaltechnologist.com/?p=901'
 permalink: /javascript/and-the-winner-is-ember-js/
 wpgplus_message:
     - ''

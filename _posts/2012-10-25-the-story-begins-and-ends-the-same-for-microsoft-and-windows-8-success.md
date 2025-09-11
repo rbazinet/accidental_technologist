@@ -4,7 +4,7 @@ title: 'The Story Begins and Ends the Same for Microsoft and Windows 8 Success'
 date: '2012-10-25T09:00:15-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=832'
+guid: 'https://accidentaltechnologist.com/?p=832'
 permalink: /microsoft/the-story-begins-and-ends-the-same-for-microsoft-and-windows-8-success/
 wpgplus_message:
     - ''

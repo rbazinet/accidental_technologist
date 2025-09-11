@@ -4,7 +4,7 @@ title: "AirPrint Where You Couldn't AirPrint Before"
 date: '2014-02-03T09:00:40-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=974'
+guid: 'https://accidentaltechnologist.com/?p=974'
 permalink: /apple/airprint-where-you-couldnt-airprint-before/
 dsq_thread_id:
     - '2201681628'

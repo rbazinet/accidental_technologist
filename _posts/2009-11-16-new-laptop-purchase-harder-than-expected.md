@@ -36,7 +36,7 @@ It really came down to what I really wanted to do with the new system and what I
 
 The decision came down to a new Apple 15? MacBook Pro, 2.8Ghz, 4G RAM, 500G HD. I can continue to run VMWare Fusion with Windows VM?s and have very adequate performance.
 
-[![UnibodyMBP](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/UnibodyMBP_thumb.jpg "UnibodyMBP")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/UnibodyMBP.jpg)
+[![UnibodyMBP](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/UnibodyMBP_thumb.jpg "UnibodyMBP")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/UnibodyMBP.jpg)
 
 Additional factors which led to the MacBook Pro purchase is the ability to have a great environment for exploring other languages such as:
 
@@ -50,7 +50,7 @@ I can easily have support for these languages on the Mac OS X.
 
 One upgrade to the MacBook Pro coming in the near future will be a nice fast Intel SSD. This should top off a great, fast machine for the future.
 
-[![IntelSSD](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/IntelSSD_thumb.jpg "IntelSSD")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/IntelSSD_2.jpg)
+[![IntelSSD](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/IntelSSD_thumb.jpg "IntelSSD")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/79211b179842_81C5/IntelSSD_2.jpg)
 
 I will also be upgrading to 8GB of RAM in the future, as soon as prices come down a bit for DDR3 4GB sticks. The only time I really get tight on RAM is when running VMWare Fusion but the faster processor and SSD coming should make up a bit for some sluggishness in OS X when running a VM.
 

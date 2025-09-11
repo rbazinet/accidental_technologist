@@ -4,7 +4,7 @@ title: 'The Future is the Apple Watch'
 date: '2014-09-24T09:00:48-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=996'
+guid: 'https://accidentaltechnologist.com/?p=996'
 permalink: /apple/the-future-is-the-apple-watch/
 dsq_thread_id:
     - '3049291905'

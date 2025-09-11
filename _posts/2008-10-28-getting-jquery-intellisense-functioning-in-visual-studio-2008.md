@@ -20,15 +20,15 @@ There are no instructions included with the download but I took the time to get 
 
 2\. In my project I referenced the jquery-1.2.6-vsdoc.js file in my Master Page so I could reference it anywhere, like so:
 
-[![jQueryUse](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryUse_thumb.jpg "jQueryUse")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryUse_2.jpg)
+[![jQueryUse](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryUse_thumb.jpg "jQueryUse")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryUse_2.jpg)
 
 3\. Once this is in place a simple test of function was created and Intellisense was tested:
 
-[![jQueryIntellisense1](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense1_thumb.jpg "jQueryIntellisense1")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense1_2.jpg)
+[![jQueryIntellisense1](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense1_thumb.jpg "jQueryIntellisense1")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense1_2.jpg)
 
 The reference to jQuery can be clearly seen here.
 
-[![jQueryIntellisense2](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense2_thumb.jpg "jQueryIntellisense2")](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense2_2.jpg)
+[![jQueryIntellisense2](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense2_thumb.jpg "jQueryIntellisense2")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/GettingjQueryIntellisenseFunctioninginVi_101DB/jQueryIntellisense2_2.jpg)
 
 The list of methods available as part of the jQuery library can also be seen.
 

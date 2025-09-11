@@ -4,7 +4,7 @@ title: 'Apple Lets Developers Refine the Rules'
 date: '2011-02-24T09:00:53-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=605'
+guid: 'https://accidentaltechnologist.com/?p=605'
 permalink: /apple/apple-lets-developers-refine-the-rules/
 dsq_thread_id:
     - '239235246'
@@ -17,7 +17,7 @@ tags:
     - readability
 ---
 
-[In a recent post here](http://accidentaltechnologist.com/apple/understanding-the-apple-app-store-subscriptions/), I gave my interpretation of the new Apple App Store Subscriptions but it appears the view is not as crystal clear as at first glance. ?In recent days there has been a fairly serious developer backlash not directly against the rules but how they are being interpreted internally at Apple.
+[In a recent post here](https://accidentaltechnologist.com/apple/understanding-the-apple-app-store-subscriptions/), I gave my interpretation of the new Apple App Store Subscriptions but it appears the view is not as crystal clear as at first glance. ?In recent days there has been a fairly serious developer backlash not directly against the rules but how they are being interpreted internally at Apple.
 
 ### Go for it
 

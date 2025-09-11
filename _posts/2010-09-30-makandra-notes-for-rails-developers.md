@@ -4,7 +4,7 @@ title: 'Makandra Notes for Rails Developers'
 date: '2010-09-30T10:17:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/ruby/makandra-notes-for-rails-developers/'
+guid: 'https://accidentaltechnologist.com/ruby/makandra-notes-for-rails-developers/'
 permalink: /ruby/makandra-notes-for-rails-developers/
 dsq_thread_id:
     - '149186017'

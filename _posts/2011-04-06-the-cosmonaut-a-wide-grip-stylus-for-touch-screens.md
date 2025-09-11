@@ -4,7 +4,7 @@ title: 'The Cosmonaut: A Wide-Grip Stylus for Touch Screens'
 date: '2011-04-06T16:00:09-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=641'
+guid: 'https://accidentaltechnologist.com/?p=641'
 permalink: /mobile/the-cosmonaut-a-wide-grip-stylus-for-touch-screens/
 dsq_thread_id:
     - '272937104'

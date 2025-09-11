@@ -30,7 +30,7 @@ I have a good deal of content sitting on my Wordpress blog which I would like to
 
 I have Graffiti 1.0.1 (1.0 SP1) installed and had a small issue with importing Wordpress Export files into Graffiti. I found a nice exception when attempting the import:
 
-[![GraffitiImport](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ConvertingtoGraffitiCMSfromWordpress_C269/GraffitiImport_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ConvertingtoGraffitiCMSfromWordpress_C269/GraffitiImport_2.jpg)
+[![GraffitiImport](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ConvertingtoGraffitiCMSfromWordpress_C269/GraffitiImport_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/ConvertingtoGraffitiCMSfromWordpress_C269/GraffitiImport_2.jpg)
 
 It is important to complete a step prior to attempting to run the Graffiti Migrator:
 

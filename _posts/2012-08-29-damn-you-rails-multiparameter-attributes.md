@@ -4,7 +4,7 @@ title: 'Damn You Rails Multiparameter Attributes'
 date: '2012-08-29T11:34:03-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=793'
+guid: 'https://accidentaltechnologist.com/?p=793'
 permalink: /ruby-on-rails/damn-you-rails-multiparameter-attributes/
 wpgplus_message:
     - ''

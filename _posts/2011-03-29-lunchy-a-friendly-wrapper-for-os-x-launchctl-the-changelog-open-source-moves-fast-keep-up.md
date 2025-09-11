@@ -4,7 +4,7 @@ title: 'lunchy: A friendly wrapper for OS X launchctl - The Changelog'
 date: '2011-03-29T11:52:22-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=628'
+guid: 'https://accidentaltechnologist.com/?p=628'
 permalink: /linked/lunchy-a-friendly-wrapper-for-os-x-launchctl-the-changelog-open-source-moves-fast-keep-up/
 dsq_thread_id:
     - '265958178'

@@ -12,7 +12,7 @@ categories:
     - Apple
 ---
 
-[![TS_7K320](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/TS_7K320_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/TS_7K320_2.jpg)I have been using my MacBook Pro more and more lately and quickly finding hard drive space shrinking. The addition of [VMWare Fusion](http://www.vmware.com/products/fusion/) and some virtual machines seems to eat up hard drive space pretty quickly. The stock 160G Fujitsu 5400rpm hard drive is also a bit slower than I would like.
+[![TS_7K320](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/TS_7K320_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/TS_7K320_2.jpg)I have been using my MacBook Pro more and more lately and quickly finding hard drive space shrinking. The addition of [VMWare Fusion](http://www.vmware.com/products/fusion/) and some virtual machines seems to eat up hard drive space pretty quickly. The stock 160G Fujitsu 5400rpm hard drive is also a bit slower than I would like.
 
 I did a bit of investigating and a couple of conversations on Twitter I found out the job of upgrading the hard drive in the MacBook Pro is a doable task with the right tools and some guidance. I have been working on computers in one shape or form for the past two decades so I figured I could handle one MacBook Pro. Please note, changing the hard drive yourself probably voids the warranty but, it's my MacBook Pro so why not.
 
@@ -28,7 +28,7 @@ This backup should be a bootable backup, which I tested before installing the ne
 
 **Step 2: Remove old hard drive and install new one** - I did some homework on how difficult it would be to replace a MBP hard disk before purchasing a new one. I found a [tutorial from iFixIt](http://www.ifixit.com/Guide/Mac/MacBook-Pro-15-Inch-Core-2-Duo/Hard-Drive-Replacement/115/10/Page-1) which gives some nice details on the process. The tutorial is 6 pages with nice photos detailing the process, pretty hard to go wrong. I just took my time and double-checked everything.
 
-[![MacBookInternal](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/MacBookInternal_thumb.jpg)](http://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/MacBookInternal_2.jpg "http://blog.phatboyg.com/2008/07/18/hitachi-7k320-hard-disk-upgrade-in-macbook-pro/")
+[![MacBookInternal](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/MacBookInternal_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/UpgradingMyMacBookProHardDrive_B0EF/MacBookInternal_2.jpg "http://blog.phatboyg.com/2008/07/18/hitachi-7k320-hard-disk-upgrade-in-macbook-pro/")
 
 **Step 3: Boot from external USB drive** - this is, as before when testing, a key step and if it doesn't work then nothing will work from here. Since I tested the external backup before I replaced the drive, I knew this would work. Again, holding down the Option key while powering on which shows only the external USB as an option. Boot worked fine.
 

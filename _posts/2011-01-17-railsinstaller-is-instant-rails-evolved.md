@@ -4,7 +4,7 @@ title: 'RailsInstaller is Instant Rails Evolved'
 date: '2011-01-17T21:43:12-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=601'
+guid: 'https://accidentaltechnologist.com/?p=601'
 permalink: /ruby-on-rails/railsinstaller-is-instant-rails-evolved/
 dsq_thread_id:
     - '211499840'

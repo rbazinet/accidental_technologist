@@ -4,7 +4,7 @@ title: 'Speeding up Heroku Deploys'
 date: '2014-02-06T11:06:40-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://accidentaltechnologist.com/?p=953'
+guid: 'https://accidentaltechnologist.com/?p=953'
 permalink: /ruby-on-rails/speeding-up-heroku-deploys/
 dsq_thread_id:
     - '2229865477'
