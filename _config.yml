@@ -72,6 +72,7 @@ plugins:
   - jekyll-compose
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-reading-time
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -107,4 +108,9 @@ kramdown:
 
 paginate: 10
 paginate_path: "/page:num/"
+
+# Reading time configuration
+reading_time:
+  words_per_minute: 200
+  include_seconds: false
       
