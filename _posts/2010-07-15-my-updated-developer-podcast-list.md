@@ -25,7 +25,7 @@ tags:
     - sinatra
 ---
 
-My appetite for podcasts is always growing but my interests routinely change.? I don?t listen to many .NET-specific podcasts any longer, but more along the lines of software craftsmanship, Mac/iPhone, Python and Ruby development.? I hike about an hour a day to try to stay somewhat fit and always have my iPhone loaded up with podcasts to pass the time. I am always searching for new podcasts and from time-to-time that I come across new ones I consider worth sharing. It has been a while since I have shared any, so now seems like as good a time as any.? My last update from a few years ago titled [Software Development Podcast List](https://accidentaltechnologist.com/podcast/software-development-podcast-list/) has seen a few additions.
+My appetite for podcasts is always growing but my interests routinely change.? I don?t listen to many .NET-specific podcasts any longer, but more along the lines of software craftsmanship, Mac/iPhone, Python and Ruby development.? I hike about an hour a day to try to stay somewhat fit and always have my iPhone loaded up with podcasts to pass the time. I am always searching for new podcasts and from time-to-time that I come across new ones I consider worth sharing. It has been a while since I have shared any, so now seems like as good a time as any.? My last update from a few years ago titled [Software Development Podcast List](/podcast/software-development-podcast-list/) has seen a few additions.
 
 ### General Coding, Ruby on Rails, .NET
 

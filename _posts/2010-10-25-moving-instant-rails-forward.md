@@ -39,7 +39,7 @@ Today Instant Rails 2.0 consists of fairly old Ruby on Rails components:
 
 The goal of the next version of Instant Rails would be something really easy to install and use. ?One of the great features of Instant Rails today is the ability to extract the Instant Rails zip file to any directory you choose and have the ability to delete it later without the fancy uninstall ceremony we usually see in Windows.
 
-I wrote [here in the past about setting up to run Ruby on Rails 3 on Windows](https://accidentaltechnologist.com/ruby-on-rails/running-rails-3-on-windows/). ?The steps are not complicated but may be more than new developers are able to follow.
+I wrote [here in the past about setting up to run Ruby on Rails 3 on Windows](/ruby-on-rails/running-rails-3-on-windows/). ?The steps are not complicated but may be more than new developers are able to follow.
 
 My initial thoughts of components to be included:
 
