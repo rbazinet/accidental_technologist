@@ -97,6 +97,13 @@ plugins:
 # Google Analytics
 google_analytics: G-V8GPSLGQH0
 
+# Comments Configuration
+comments:
+  utterances:
+    repo: rbazinet/accidental_technologist
+    theme: github-light
+    issue_term: pathname
+
 # Syntax highlighting
 highlighter: rouge
 markdown: kramdown
