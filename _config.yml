@@ -26,12 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://accidentaltechnologist.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rbazinet
 github_username:  rbazinet
+linkedin_username: rbazinet
 
 # SEO Settings
 author:
   name: Rob Bazinet
   email: rbazinet@accidentaltechnologist.com
   twitter: rbazinet
+  avatar: /assets/img/author-avatar.jpg
+  bio: Entrepreneur and software developer sharing insights on technology, startups, and software development.
 
 # Social media and OpenGraph
 social:
@@ -49,7 +52,7 @@ defaults:
     values:
       layout: "post"
       author: "Rob Bazinet"
-      image: /assets/img/default-post-image.png  # Add a default image if you have one
+# image: /assets/img/default-post-image.svg  # Only uncomment if you want all posts to have a default image
   - scope:
       path: ""
       type: "pages"
@@ -112,6 +115,18 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     line_numbers: false
+
+# Sass configuration to suppress deprecation warnings
+# These warnings come from the Minima theme itself using deprecated @import syntax
+# Will be resolved when theme is updated to use modern Sass @use/@forward
+sass:
+  style: compressed
+  quiet_deps: true
+  verbose: false
+  silence_deprecations:
+    - import
+    - color-functions
+    - global-builtin
 
 paginate: 10
 paginate_path: "/page:num/"

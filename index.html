@@ -1,43 +1,61 @@
 ---
-layout: default
+layout: home
 title: "Home"
 description: "Musings about Entrepreneurship, Technology and Software Development by Rob Bazinet"
-image: /assets/img/site-logo.png
+image: /assets/img/site-logo.svg
 ---
 
 <div class="home">
-  <h1 class="page-heading">Posts</h1>
-  
-  <!-- Search -->
-  <div class="search-container">
-    <input type="text" id="search-input" placeholder="Search posts..." />
-    <ul id="results-container"></ul>
-  </div>
-
   <div class="post-list">
     {% for post in paginator.posts %}
       <article class="post-preview">
-        <header class="post-header">
-          <h2 class="post-title">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-          <p class="post-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-            {% if post.author %} • {{ post.author }}{% endif %}
-            {% if post.reading_time %} • {{ post.reading_time }} min read{% endif %}
-          </p>
-        </header>
-        
-        <div class="post-excerpt">
-          {% if post.excerpt %}
-            {{ post.excerpt | strip_html | truncatewords: 50 }}
-          {% else %}
-            {{ post.content | strip_html | truncatewords: 50 }}
+        <div class="post-card">
+          {% if post.image %}
+          <div class="post-thumbnail">
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+            </a>
+          </div>
           {% endif %}
-        </div>
-        
-        <div class="post-footer">
-          <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+          
+          <div class="post-content">
+            <header class="post-header">
+              <h2 class="post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              </h2>
+              
+              {% if post.categories.size > 0 %}
+              <div class="post-categories">
+                {% for category in post.categories limit:3 %}
+                  <a href="/category/{{ category | slugify }}" class="category-badge">{{ category }}</a>
+                {% endfor %}
+              </div>
+              {% endif %}
+              
+              <p class="post-meta">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                {% if post.author %} • {{ post.author }}{% endif %}
+                {% assign words = post.content | number_of_words %}
+                {% if words < 360 %}
+                  • 1 min read
+                {% else %}
+                  • {{ words | divided_by: 180 }} min read
+                {% endif %}
+              </p>
+            </header>
+            
+            <div class="post-excerpt">
+              {% if post.excerpt %}
+                {{ post.excerpt | strip_html | truncatewords: 50 }}
+              {% else %}
+                {{ post.content | strip_html | truncatewords: 50 }}
+              {% endif %}
+            </div>
+            
+            <div class="post-footer">
+              <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+            </div>
+          </div>
         </div>
       </article>
     {% endfor %}
@@ -94,22 +112,3 @@ image: /assets/img/site-logo.png
   {% endif %}
 </div>
 
-<!-- Simple Jekyll Search -->
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    console.log('Search script loading...');
-    
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      searchResultTemplate: '<li><a href="{url}">{title}</a> <span class="search-date">({date})</span></li>',
-      noResultsText: 'No results found',
-      limit: 10,
-      fuzzy: false
-    });
-    
-    console.log('Search initialized');
-  });
-</script>
