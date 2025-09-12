@@ -1,0 +1,19 @@
+# Production configuration overrides
+# This file excludes admin interface files from production builds
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - admin.html
+  - admin-posts.json
+  - admin-post-content.json
+  - serve.sh
+  - README.md
