@@ -1,0 +1,15 @@
+[build]
+  publish = "_site"
+  command = "JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_production.yml"
+
+[build.environment]
+  JEKYLL_ENV = "production"
+  RUBY_VERSION = "3.4.5"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"

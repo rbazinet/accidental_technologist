@@ -38,8 +38,9 @@ echo ""
 echo "Press Ctrl+C to stop the server"
 echo ""
 
-# Export the environment variable and start Jekyll
+# Export environment variables for development and start Jekyll
 export SASS_SILENCE_DEPRECATIONS="import,color-functions,global-builtin"
+export JEKYLL_ENV="development"
 
 # Try with LiveReload first, fall back to basic serve if it fails
 if ! bundle exec jekyll serve --port 4000 --host 0.0.0.0 --livereload 2>/dev/null; then
