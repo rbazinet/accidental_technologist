@@ -17,6 +17,9 @@
         <a class="page-link" href="{{ "/archives/" | relative_url }}">Archives</a>
         <a class="page-link" href="{{ "/categories/" | relative_url }}">Categories</a>
         <a class="page-link" href="{{ "/about/" | relative_url }}">About</a>
+        {% unless jekyll.environment == 'production' %}
+        <a class="page-link admin-link" href="{{ "/admin.html" | relative_url }}">🔧 Admin</a>
+        {% endunless %}
         
         <!-- Search in header -->
         <div class="header-search">
