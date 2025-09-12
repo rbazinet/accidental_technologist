@@ -1,0 +1,39 @@
+---
+layout: default
+title: Tags
+description: Browse posts by tag
+---
+
+<div class="archive-page">
+  <header class="archive-header">
+    <h1>Tags</h1>
+    <p>Browse all posts organized by tag</p>
+  </header>
+
+  <div class="archive-content">
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+      <div class="archive-section" id="{{ tag[0] | slugify }}">
+        <h2 class="archive-category">
+          {{ tag[0] }}
+          <span class="count">({{ tag[1] | size }})</span>
+        </h2>
+        
+        <div class="archive-posts">
+          {% assign posts = tag[1] | sort: 'date' | reverse %}
+          {% for post in posts %}
+            <article class="archive-post">
+              <time class="archive-date">{{ post.date | date: "%b %d, %Y" }}</time>
+              <h3 class="archive-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

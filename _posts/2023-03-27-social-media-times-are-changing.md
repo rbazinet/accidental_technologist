@@ -4,6 +4,8 @@ title: 'Social Media Times Are Changing'
 date: '2023-03-27T11:36:01-04:00'
 author: 'Rob Bazinet'
 layout: post
+categories: [Technology, Social Media]
+tags: [Twitter, Mastodon, Micro.blog, social networks]
 guid: 'https://accidentaltechnologist.com/?p=1757'
 permalink: /technology/social-media-times-are-changing/
 ---

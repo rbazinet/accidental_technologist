@@ -1,0 +1,39 @@
+---
+layout: default
+title: Categories
+description: Browse posts by category
+---
+
+<div class="archive-page">
+  <header class="archive-header">
+    <h1>Categories</h1>
+    <p>Browse all posts organized by category</p>
+  </header>
+
+  <div class="archive-content">
+    {% assign categories = site.categories | sort %}
+    {% for category in categories %}
+      <div class="archive-section" id="{{ category[0] | slugify }}">
+        <h2 class="archive-category">
+          {{ category[0] }}
+          <span class="count">({{ category[1] | size }})</span>
+        </h2>
+        
+        <div class="archive-posts">
+          {% assign posts = category[1] | sort: 'date' | reverse %}
+          {% for post in posts %}
+            <article class="archive-post">
+              <time class="archive-date">{{ post.date | date: "%b %d, %Y" }}</time>
+              <h3 class="archive-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

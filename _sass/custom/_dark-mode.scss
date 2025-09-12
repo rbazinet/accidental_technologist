@@ -1,0 +1,267 @@
+// Dark mode styles
+body.dark-mode {
+  background: #0d1117;
+  color: #c9d1d9;
+  
+  .site-header {
+    background-color: rgba(13, 17, 23, 0.98);
+    border-bottom: 1px solid #30363d;
+  }
+  
+  .site-title,
+  .page-link {
+    color: #c9d1d9;
+  }
+  
+  .theme-toggle {
+    border-color: #30363d;
+    
+    &:hover {
+      background: #161b22;
+    }
+    
+    .sun-icon {
+      display: none;
+    }
+    
+    .moon-icon {
+      display: block;
+    }
+  }
+  
+  .wrapper {
+    color: #c9d1d9;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #c9d1d9;
+  }
+  
+  .post-link, a {
+    color: #58a6ff;
+  }
+  
+  .post-meta {
+    color: #8b949e;
+  }
+  
+  .highlight {
+    background: #161b22;
+    border-color: #30363d;
+  }
+  
+  code {
+    background: #161b22;
+    border-color: #30363d;
+    color: #e6edf3;
+  }
+  
+  pre {
+    background: #161b22;
+    border-color: #30363d;
+  }
+  
+  .header-search {
+    #header-search-input {
+      background: #0d1117;
+      border-color: #30363d;
+      color: #c9d1d9;
+      
+      &:focus {
+        border-color: #58a6ff;
+      }
+    }
+    
+    #header-search-results {
+      background: #161b22;
+      border-color: #30363d;
+      
+      .search-result-item {
+        border-color: #21262d;
+        
+        &:hover {
+          background: #0d1117;
+        }
+        
+        a {
+          color: #c9d1d9;
+        }
+      }
+    }
+  }
+  
+  .pagination {
+    a, span {
+      border-color: #30363d;
+      
+      &:hover {
+        background-color: #161b22;
+      }
+    }
+    
+    .current {
+      background-color: #1f6feb;
+      border-color: #1f6feb;
+    }
+  }
+  
+  .post-list {
+    .post-preview {
+      border-color: #30363d;
+    }
+    
+    .post-excerpt {
+      color: #c9d1d9;
+    }
+    
+    .post-card {
+      background: #161b22;
+      border-color: #30363d;
+    }
+    
+    .post-categories {
+      .category-badge {
+        background: #1f6feb;
+        
+        &:hover {
+          background: #388bfd;
+        }
+      }
+    }
+    
+    .post-tags {
+      .tag {
+        background: #21262d;
+        border-color: #30363d;
+        color: #c9d1d9;
+        
+        &:hover {
+          background: #30363d;
+        }
+      }
+    }
+  }
+  
+  .site-footer {
+    background: #0d1117;
+    border-top: 1px solid #30363d;
+  }
+  
+  #search-input {
+    background: #0d1117;
+    border-color: #30363d;
+    color: #c9d1d9;
+    
+    &:focus {
+      border-color: #58a6ff;
+    }
+  }
+  
+  // Sidebar widgets
+  .sidebar-widget {
+    background: #161b22;
+    border-color: #30363d;
+    
+    h3 {
+      color: #c9d1d9;
+    }
+  }
+  
+  // Post page
+  .post {
+    .post-categories {
+      .category-badge {
+        background: #1f6feb;
+        
+        &:hover {
+          background: #388bfd;
+        }
+      }
+    }
+  }
+  
+  .toc {
+    background: #161b22;
+    border-color: #30363d;
+    
+    a {
+      color: #c9d1d9;
+      
+      &:hover {
+        color: #58a6ff;
+      }
+    }
+  }
+  
+  .post-tags-section {
+    border-color: #30363d;
+    
+    h4 {
+      color: #8b949e;
+    }
+    
+    .post-tags .tag {
+      background: #21262d;
+      border-color: #30363d;
+      color: #c9d1d9;
+      
+      &:hover {
+        background: #30363d;
+      }
+    }
+  }
+  
+  .author-bio-card {
+    background: #161b22;
+    
+    .author-details {
+      p {
+        color: #8b949e;
+      }
+      
+      .author-social a {
+        color: #58a6ff;
+      }
+    }
+  }
+  
+  .post-navigation {
+    border-color: #30363d;
+    
+    a {
+      border-color: #30363d;
+      
+      &:hover {
+        background: #161b22;
+        border-color: #1f6feb;
+      }
+    }
+    
+    .nav-label {
+      color: #8b949e;
+    }
+    
+    .nav-title {
+      color: #c9d1d9;
+    }
+  }
+  
+  .related-posts {
+    .related-post-card {
+      background: #161b22;
+      border-color: #30363d;
+      
+      h4 a {
+        color: #c9d1d9;
+        
+        &:hover {
+          color: #58a6ff;
+        }
+      }
+      
+      time {
+        color: #8b949e;
+      }
+    }
+  }
+}

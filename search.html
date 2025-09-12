@@ -1,0 +1,142 @@
+---
+layout: default
+title: Search Results
+description: Search results for your query
+---
+
+<div class="search-page">
+  <header class="search-header">
+    <h1>Search Results</h1>
+    <div class="search-form">
+      <input type="text" id="search-page-input" placeholder="Search posts..." autofocus>
+      <button type="submit" id="search-button">Search</button>
+    </div>
+    <div id="search-query-display"></div>
+  </header>
+
+  <div id="search-results-container">
+    <div id="search-loading" style="display: none;">Searching...</div>
+    <div id="search-no-results" style="display: none;">
+      <p>No posts found matching your search.</p>
+    </div>
+    <div id="search-results-list"></div>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('search-page-input');
+  const searchButton = document.getElementById('search-button');
+  const searchResults = document.getElementById('search-results-list');
+  const searchLoading = document.getElementById('search-loading');
+  const searchNoResults = document.getElementById('search-no-results');
+  const searchQueryDisplay = document.getElementById('search-query-display');
+  
+  let searchData = null;
+  
+  // Load search data
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      searchData = data;
+      console.log('Search data loaded:', data.length, 'posts');
+      // If we have an initial query, perform search now that data is loaded
+      const urlParams = new URLSearchParams(window.location.search);
+      const initialQuery = urlParams.get('q') || '';
+      if (initialQuery && searchInput.value === initialQuery) {
+        performSearch(initialQuery);
+      }
+    })
+    .catch(error => {
+      console.error('Search error:', error);
+    });
+  
+  // Set initial query from URL params
+  const urlParams = new URLSearchParams(window.location.search);
+  const initialQuery = urlParams.get('q') || '';
+  if (initialQuery) {
+    searchInput.value = initialQuery;
+  }
+  
+  // Search function
+  function performSearch(query) {
+    if (!searchData || !query || query.length < 2) {
+      searchResults.innerHTML = '';
+      searchNoResults.style.display = 'none';
+      searchQueryDisplay.innerHTML = '';
+      return;
+    }
+    
+    searchLoading.style.display = 'block';
+    searchNoResults.style.display = 'none';
+    searchQueryDisplay.innerHTML = `<p>Showing results for: <strong>"${query}"</strong></p>`;
+    
+    setTimeout(() => {
+      const results = searchData.filter(item => {
+        return item.title.toLowerCase().includes(query.toLowerCase()) ||
+               item.content.toLowerCase().includes(query.toLowerCase()) ||
+               (item.tags && item.tags.toLowerCase().includes(query.toLowerCase())) ||
+               (item.category && item.category.toLowerCase().includes(query.toLowerCase()));
+      });
+      
+      searchLoading.style.display = 'none';
+      
+      if (results.length === 0) {
+        searchNoResults.style.display = 'block';
+        searchResults.innerHTML = '';
+        return;
+      }
+      
+      searchResults.innerHTML = results.map(post => `
+        <article class="search-result-post">
+          <div class="post-card">
+            <div class="post-content">
+              <header class="post-header">
+                <h2 class="post-title">
+                  <a href="${post.url}">${post.title}</a>
+                </h2>
+                ${post.category ? `<div class="post-categories"><span class="category-badge">${post.category}</span></div>` : ''}
+                <p class="post-meta">
+                  <time>${post.date}</time>
+                </p>
+              </header>
+              <div class="post-excerpt">
+                ${post.content}
+              </div>
+              ${post.tags ? `<div class="post-tags">Tags: ${post.tags}</div>` : ''}
+            </div>
+          </div>
+        </article>
+      `).join('');
+      
+      // Update URL
+      const newUrl = new URL(window.location);
+      newUrl.searchParams.set('q', query);
+      window.history.replaceState({}, '', newUrl);
+      
+    }, 100); // Small delay for loading animation
+  }
+  
+  // Event listeners
+  searchInput.addEventListener('input', function() {
+    const query = this.value.trim();
+    if (query.length >= 2) {
+      performSearch(query);
+    } else {
+      searchResults.innerHTML = '';
+      searchNoResults.style.display = 'none';
+      searchQueryDisplay.innerHTML = '';
+    }
+  });
+  
+  searchButton.addEventListener('click', function() {
+    performSearch(searchInput.value.trim());
+  });
+  
+  searchInput.addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+      performSearch(this.value.trim());
+    }
+  });
+});
+</script>

@@ -1,0 +1,134 @@
+---
+layout: page
+title: Archives
+permalink: /archives/
+description: Browse all posts organized by date
+---
+
+<div class="archives-page">
+  {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  
+  {% for year in postsByYear %}
+    <div class="year-section">
+      <h2 class="year-title">{{ year.name }}</h2>
+      
+      {% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+      {% for month in postsByMonth %}
+        <div class="month-section">
+          <h3 class="month-title">{{ month.name }}</h3>
+          <ul class="post-list">
+            {% for post in month.items %}
+              <li class="post-item">
+                <span class="post-day">{{ post.date | date: "%d" }}</span>
+                <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
+                {% if post.categories.size > 0 %}
+                  <span class="post-categories">
+                    {% for category in post.categories %}
+                      <span class="category-tag">{{ category }}</span>
+                    {% endfor %}
+                  </span>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+  
+  {% if site.posts.size == 0 %}
+    <p class="no-posts">No posts found. Posts will appear here once published.</p>
+  {% endif %}
+</div>
+
+<style>
+.archives-page {
+  margin-top: 2rem;
+}
+
+.year-section {
+  margin-bottom: 3rem;
+}
+
+.year-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #24292f;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid #0366d6;
+}
+
+.month-section {
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+
+.month-title {
+  font-size: 1.3rem;
+  color: #424242;
+  margin-bottom: 1rem;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-item {
+  padding: 0.5rem 0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.post-day {
+  color: #6a737d;
+  font-size: 0.9rem;
+  font-family: monospace;
+  min-width: 25px;
+  text-align: right;
+}
+
+.post-link {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+  flex-grow: 1;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}
+
+.post-categories {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.category-tag {
+  background: #f6f8fa;
+  color: #586069;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  border: 1px solid #e1e4e8;
+}
+
+.no-posts {
+  color: #6a737d;
+  font-style: italic;
+}
+
+@media (max-width: 600px) {
+  .post-item {
+    flex-wrap: wrap;
+  }
+  
+  .post-categories {
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+}
+</style>

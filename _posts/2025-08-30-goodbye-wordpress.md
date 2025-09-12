@@ -2,8 +2,9 @@
 layout: post
 title: Goodbye WordPress, Hello Jekyll
 author: 'Rob Bazinet'
-layout: post
 date: 2025-08-30 21:43 -0400
+categories: [General, Technology]
+tags: [Jekyll, WordPress, blogging, static site]
 ---
 
 I have been using WordPress for many years but I never loved it. Actually, I never liked it.

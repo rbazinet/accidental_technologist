@@ -10,8 +10,14 @@ This is a Jekyll-based blog site called "Accidental Technologist" focused on ent
 
 ### Local Development
 ```bash
-# Start development server (auto-reloads on changes)
+# Start development server (auto-reloads on changes, warnings suppressed)
+./serve.sh
+
+# Alternative: Start development server with warnings
 bundle exec jekyll serve
+
+# Start with livereload and no warnings
+SASS_SILENCE_DEPRECATIONS=import,color-functions,global-builtin bundle exec jekyll serve --livereload
 
 # Build the site
 bundle exec jekyll build
