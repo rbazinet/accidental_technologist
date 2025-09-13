@@ -6,6 +6,23 @@
   JEKYLL_ENV = "production"
   RUBY_VERSION = "3.4.5"
 
+[[redirects]]
+  from = "/wp-content/uploads/2012/09/fhpc12.pdf"
+  to = "/assets/img/2012/09/fhpc12.pdf"
+  status = 301
+
+[[redirects]]
+  from = "/wp-content/uploads/2012/11/algorithms.pdf"
+  to = "/assets/img/2012/11/algorithms.pdf"
+  status = 301
+
+# Force HTTPS for all traffic
+[[redirects]]
+  from = "http://accidentaltechnologist.com/*"
+  to = "https://accidentaltechnologist.com/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]

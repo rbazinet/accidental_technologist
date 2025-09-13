@@ -76,6 +76,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-reading-time
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
