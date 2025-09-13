@@ -67,25 +67,17 @@ exclude_from_nav: true
 
       <div class="form-group">
         <label for="post-excerpt">Excerpt (Optional)</label>
-        <textarea id="post-excerpt" name="excerpt" rows="3" placeholder="Brief description of the post..."></textarea>
+        <textarea id="post-excerpt" name="excerpt" rows="2" placeholder="Brief description of the post..."></textarea>
       </div>
 
       <div class="form-group">
         <label for="post-content">Content *</label>
-        <div class="editor-toolbar">
-          <button type="button" class="editor-btn" data-action="bold">**B**</button>
-          <button type="button" class="editor-btn" data-action="italic">*I*</button>
-          <button type="button" class="editor-btn" data-action="link">Link</button>
-          <button type="button" class="editor-btn" data-action="code">Code</button>
-          <button type="button" class="editor-btn" data-action="heading">H2</button>
-          <button type="button" class="editor-btn" data-action="list">List</button>
-          <button type="button" class="editor-btn" data-action="preview">Preview</button>
-        </div>
-        <textarea id="post-content" name="content" required placeholder="Write your post content in Markdown..."></textarea>
-        <div id="content-preview" class="content-preview" style="display: none;"></div>
+        <input id="post-content-hidden" type="hidden" name="content">
+        <trix-editor input="post-content-hidden" id="post-content" class="trix-content"></trix-editor>
       </div>
 
       <div class="form-actions">
+        <button type="button" class="btn btn-success" id="preview-post">📖 Preview Post</button>
         <button type="submit" class="btn btn-primary">Generate Post File</button>
         <button type="button" class="btn btn-secondary" id="clear-form">Clear Form</button>
       </div>
@@ -122,6 +114,16 @@ exclude_from_nav: true
       <div class="modal-actions">
         <button type="button" class="btn btn-primary" id="copy-content">Copy to Clipboard</button>
         <button type="button" class="btn btn-secondary" id="download-file">Download File</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Post Preview Modal -->
+  <div id="preview-modal" class="modal">
+    <div class="modal-content preview-modal-content">
+      <span class="close preview-close">&times;</span>
+      <div id="preview-content" class="preview-render">
+        <!-- Preview will be rendered here -->
       </div>
     </div>
   </div>
@@ -220,20 +222,6 @@ function handleEditorAction(action, textarea, preview) {
   }
 }
 
-function togglePreview(textarea, preview) {
-  if (preview.style.display === 'none') {
-    // Show preview
-    preview.innerHTML = marked(textarea.value);
-    preview.style.display = 'block';
-    textarea.style.display = 'none';
-    document.querySelector('[data-action="preview"]').textContent = 'Edit';
-  } else {
-    // Show editor
-    preview.style.display = 'none';
-    textarea.style.display = 'block';
-    document.querySelector('[data-action="preview"]').textContent = 'Preview';
-  }
-}
 
 function setupTagInputs() {
   // Setup categories
@@ -353,6 +341,10 @@ function setupPostForm() {
       document.getElementById('post-date').value = new Date().toISOString().slice(0, 16);
     }
   });
+  
+  document.getElementById('preview-post').addEventListener('click', function() {
+    previewPost();
+  });
 }
 
 function generatePostFile() {
@@ -369,7 +361,12 @@ function generatePostFile() {
   const status = formData.get('status');
   const author = formData.get('author');
   const excerpt = formData.get('excerpt');
-  const content = formData.get('content');
+  
+  // Get content from Trix and convert to Markdown
+  const trixEditor = document.querySelector('trix-editor#post-content');
+  const trixHTML = trixEditor ? trixEditor.editor.getElement().innerHTML : '';
+  const turndownService = new TurndownService();
+  const content = turndownService.turndown(trixHTML);
   
   // Generate filename
   const dateStr = date.toISOString().split('T')[0];
@@ -423,7 +420,9 @@ function generatePostFile() {
 
 function setupModal() {
   const modal = document.getElementById('post-modal');
+  const previewModal = document.getElementById('preview-modal');
   const closeBtn = document.querySelector('.close');
+  const previewCloseBtn = document.querySelector('.preview-close');
   const copyBtn = document.getElementById('copy-content');
   const downloadBtn = document.getElementById('download-file');
   
@@ -431,9 +430,16 @@ function setupModal() {
     modal.style.display = 'none';
   });
   
+  previewCloseBtn.addEventListener('click', () => {
+    previewModal.style.display = 'none';
+  });
+  
   window.addEventListener('click', (e) => {
     if (e.target === modal) {
       modal.style.display = 'none';
+    }
+    if (e.target === previewModal) {
+      previewModal.style.display = 'none';
     }
   });
   
@@ -458,6 +464,77 @@ function setupModal() {
     a.click();
     URL.revokeObjectURL(url);
   });
+}
+
+function previewPost() {
+  const form = document.getElementById('post-form');
+  const formData = new FormData(form);
+  
+  // Get form data
+  const title = formData.get('title') || 'Untitled Post';
+  const date = formData.get('date') ? new Date(formData.get('date')) : new Date();
+  const author = formData.get('author') || 'Rob Bazinet';
+  const trixEditor = document.querySelector('trix-editor#post-content');
+  const trixHTML = trixEditor ? trixEditor.editor.getElement().innerHTML : '';
+  const excerpt = formData.get('excerpt') || '';
+  
+  // Convert Trix HTML to Markdown using Turndown
+  const turndownService = new TurndownService();
+  const content = turndownService.turndown(trixHTML);
+  
+  // Get selected categories and tags
+  const categories = JSON.parse(document.getElementById('post-categories').dataset.selectedItems || '[]');
+  const tags = JSON.parse(document.getElementById('post-tags').dataset.selectedItems || '[]');
+  
+  if (!title.trim() && !trixHTML.trim()) {
+    alert('Please add a title and some content to preview your post.');
+    return;
+  }
+  
+  // Format date
+  const formattedDate = date.toLocaleDateString('en-US', { 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric' 
+  });
+  
+  // Build the preview HTML using your site's post layout structure
+  let previewHTML = `
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+      <header class="post-header">
+        <h1 class="post-title p-name" itemprop="name headline">${title}</h1>
+        <p class="post-meta">
+          <time class="dt-published" datetime="${date.toISOString()}" itemprop="datePublished">
+            ${formattedDate}
+          </time>
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">by ${author}</span>
+          </span>
+        </p>
+        ${categories.length > 0 ? `
+          <div class="post-categories">
+            ${categories.map(cat => `<span class="category-badge">${cat}</span>`).join(' ')}
+          </div>
+        ` : ''}
+      </header>
+      
+      ${excerpt ? `<div class="post-excerpt"><p><em>${excerpt}</em></p></div>` : ''}
+      
+      <div class="post-content e-content" itemprop="articleBody">
+        ${marked.parse(content)}
+      </div>
+      
+      ${tags.length > 0 ? `
+        <div class="post-tags">
+          <strong>Tags:</strong> ${tags.join(', ')}
+        </div>
+      ` : ''}
+    </article>
+  `;
+  
+  // Show in preview modal
+  document.getElementById('preview-content').innerHTML = previewHTML;
+  document.getElementById('preview-modal').style.display = 'block';
 }
 
 function loadExistingPosts() {
@@ -536,7 +613,13 @@ function editPost(postPath) {
       document.getElementById('post-date').value = post.date ? new Date(post.date).toISOString().slice(0, 16) : '';
       document.getElementById('post-author').value = post.author || 'Rob Bazinet';
       document.getElementById('post-excerpt').value = post.excerpt || '';
-      document.getElementById('post-content').value = post.content || '';
+      
+      // Load content into Trix editor - convert markdown to HTML
+      const trixEditor = document.querySelector('trix-editor#post-content');
+      if (trixEditor && post.content) {
+        const htmlContent = marked.parse(post.content);
+        trixEditor.editor.loadHTML(htmlContent);
+      }
       
       // Set categories
       if (post.categories) {
@@ -661,6 +744,9 @@ function filterPosts() {
 
 <!-- Include Marked.js for markdown preview -->
 <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/trix@2.0.0/dist/trix.css">
+<script type="text/javascript" src="https://unpkg.com/trix@2.0.0/dist/trix.umd.min.js"></script>
+<script src="https://unpkg.com/turndown@7.1.2/dist/turndown.js"></script>
 
 {% else %}
 <div class="production-notice">
