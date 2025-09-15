@@ -6,14 +6,14 @@ This document explains the CI/CD pipeline setup to prevent deployment issues lik
 
 ### 1. GitHub Actions Workflows
 
-#### `.github/workflows/pre-deploy.yml` (Main Workflow)
+#### `.github/workflows/validate.yml` (Main Workflow)
 - **Triggers**: On push to `main` branch and pull requests
 - **Validates**: 
   - `netlify.toml` syntax using Python TOML parser
   - `_config.yml` syntax using Python YAML parser
   - Jekyll build process
   - Generated sitemap.xml
-  - Common configuration issues
+  - HTTP links in posts (should be HTTPS)
 - **Benefits**: Catches errors before they reach Netlify
 
 #### `.github/workflows/ci.yml` (Comprehensive Workflow)
@@ -58,18 +58,27 @@ git config core.hooksPath .githooks
 2. **Check the Actions tab** in GitHub for validation results
 3. **Fix any errors** before merging to main
 
-### Option 2: Local Validation
+### Option 2: Local CI Testing (Recommended)
 ```bash
-# Before pushing, run:
-./scripts/validate-config.sh
+# Test the entire CI pipeline locally:
+./scripts/test-ci-locally.sh
 
-# If validation passes, push:
+# Test GitHub Actions workflow locally (requires Docker):
+./scripts/test-github-actions.sh
+
+# If tests pass, push:
 git add .
 git commit -m "Your changes"
 git push origin main
 ```
 
-### Option 3: Pre-commit Hook
+### Option 3: Quick Local Validation
+```bash
+# Just validate configuration files:
+./scripts/validate-config.sh
+```
+
+### Option 4: Pre-commit Hook
 ```bash
 # Enable the hook (one-time setup)
 git config core.hooksPath .githooks
@@ -178,10 +187,41 @@ git commit --no-verify -m "Emergency fix"
 4. **Monitor the Actions tab** for any validation failures
 
 ## Files Added
-- `.github/workflows/pre-deploy.yml` - Main CI workflow
+- `.github/workflows/validate.yml` - Main CI workflow
 - `.github/workflows/ci.yml` - Comprehensive CI workflow  
-- `scripts/validate-config.sh` - Local validation script
+- `scripts/validate-config.sh` - Quick local validation script
+- `scripts/test-ci-locally.sh` - **Full CI pipeline test locally**
+- `scripts/test-github-actions.sh` - **Test GitHub Actions workflow locally**
 - `.githooks/pre-commit` - Pre-commit hook
 - `CI-CD-SETUP.md` - This documentation
+
+## Local Testing Scripts
+
+### `scripts/test-ci-locally.sh` (Recommended)
+**What it does**: Mimics the entire GitHub Actions workflow locally
+- ✅ Validates TOML and YAML syntax
+- ✅ Tests Jekyll build process
+- ✅ Verifies build artifacts
+- ✅ Checks for HTTP links
+- ✅ Validates sitemap.xml
+- ✅ Checks for common TOML issues
+
+**Usage**: `./scripts/test-ci-locally.sh`
+
+### `scripts/test-github-actions.sh`
+**What it does**: Uses `act` to run GitHub Actions workflows locally with Docker
+- ✅ Tests actual GitHub Actions workflow
+- ✅ Uses same environment as GitHub
+- ✅ Requires Docker to be running
+
+**Usage**: `./scripts/test-github-actions.sh`
+
+### `scripts/validate-config.sh`
+**What it does**: Quick validation of configuration files only
+- ✅ Validates TOML and YAML syntax
+- ✅ Tests Jekyll build
+- ✅ Checks for common issues
+
+**Usage**: `./scripts/validate-config.sh`
 
 This setup ensures that configuration errors like the TOML syntax issue are caught early and never reach production!

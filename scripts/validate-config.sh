@@ -21,7 +21,7 @@ fi
 
 if ! python3 -c "import yaml" 2>/dev/null; then
     echo "📦 Installing pyyaml package..."
-    pip3 install yaml
+    pip3 install pyyaml
 fi
 
 # Validate netlify.toml
