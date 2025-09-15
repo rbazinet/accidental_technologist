@@ -1,0 +1,213 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-config:
+    name: Validate Configuration Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install validation tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install toml pyyaml
+
+      - name: Validate netlify.toml syntax
+        run: |
+          python -c "
+          import toml
+          try:
+              with open('netlify.toml', 'r') as f:
+                  toml.load(f)
+              print('✅ netlify.toml syntax is valid')
+          except Exception as e:
+              print(f'❌ netlify.toml syntax error: {e}')
+              exit(1)
+          "
+
+      - name: Validate _config.yml syntax
+        run: |
+          python -c "
+          import yaml
+          try:
+              with open('_config.yml', 'r') as f:
+                  yaml.safe_load(f)
+              print('✅ _config.yml syntax is valid')
+          except Exception as e:
+              print(f'❌ _config.yml syntax error: {e}')
+              exit(1)
+          "
+
+      - name: Check for common TOML issues
+        run: |
+          echo "Checking for common TOML issues..."
+          
+          # Check for unescaped quotes in strings
+          if grep -n '"[^"]*"[^"]*"' netlify.toml; then
+            echo "❌ Found potential quote issues in netlify.toml"
+            exit 1
+          fi
+          
+          # Check for missing quotes around values
+          if grep -n 'from = [^"]' netlify.toml; then
+            echo "❌ Found unquoted 'from' values in netlify.toml"
+            exit 1
+          fi
+          
+          # Check for missing quotes around 'to' values
+          if grep -n 'to = [^"]' netlify.toml; then
+            echo "❌ Found unquoted 'to' values in netlify.toml"
+            exit 1
+          fi
+          
+          echo "✅ No common TOML issues found"
+
+  jekyll-build:
+    name: Build Jekyll Site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.5'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_production.yml
+          echo "✅ Jekyll build successful"
+
+      - name: Check for build artifacts
+        run: |
+          if [ ! -d "_site" ]; then
+            echo "❌ _site directory not created"
+            exit 1
+          fi
+          
+          if [ ! -f "_site/sitemap.xml" ]; then
+            echo "❌ sitemap.xml not generated"
+            exit 1
+          fi
+          
+          echo "✅ Build artifacts present"
+
+      - name: Validate sitemap.xml
+        run: |
+          python3 -c "
+          import xml.etree.ElementTree as ET
+          try:
+              tree = ET.parse('_site/sitemap.xml')
+              root = tree.getroot()
+              print(f'✅ sitemap.xml is valid XML with {len(root)} URLs')
+          except Exception as e:
+              print(f'❌ sitemap.xml validation error: {e}')
+              exit(1)
+          "
+
+  link-check:
+    name: Check Internal Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.5'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_production.yml
+
+      - name: Check for broken internal links
+        run: |
+          echo "Checking for common link issues..."
+          
+          # Check for HTTP links in posts (should be HTTPS)
+          if grep -r "http://" _posts/; then
+            echo "❌ Found HTTP links in posts (should be HTTPS)"
+            exit 1
+          fi
+          
+          # Check for broken image references
+          if find _posts/ -name "*.md" -exec grep -l "!\[.*\](" {} \; | head -5; then
+            echo "⚠️  Found image references - manual review recommended"
+          fi
+          
+          echo "✅ Link checks completed"
+
+  security-check:
+    name: Security Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check for sensitive data
+        run: |
+          echo "Checking for sensitive data..."
+          
+          # Check for potential API keys or secrets
+          if grep -r -i "api[_-]key\|secret\|password\|token" --exclude-dir=.git --exclude-dir=_site .; then
+            echo "⚠️  Found potential sensitive data - manual review recommended"
+          fi
+          
+          # Check for hardcoded URLs that might be problematic
+          if grep -r "localhost\|127\.0\.0\.1\|0\.0\.0\.0" --exclude-dir=.git --exclude-dir=_site .; then
+            echo "⚠️  Found localhost references - manual review recommended"
+          fi
+          
+          echo "✅ Security check completed"
+
+  deploy-preview:
+    name: Deploy Preview
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.5'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_production.yml
+
+      - name: Deploy to Netlify (Preview)
+        uses: nwtgck/actions-netlify@v2.0
+        with:
+          publish-dir: './_site'
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploy from GitHub Actions"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

@@ -1,0 +1,120 @@
+name: Validate Configuration
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    name: Validate Configuration Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install toml pyyaml
+
+      - name: Validate netlify.toml
+        run: |
+          echo "🔍 Validating netlify.toml..."
+          python -c "
+          import toml
+          try:
+              with open('netlify.toml', 'r') as f:
+                  config = toml.load(f)
+              print('✅ netlify.toml syntax is valid')
+              
+              # Count redirects
+              if 'redirects' in config:
+                  print(f'📋 Found {len(config[\"redirects\"])} redirect rules')
+              else:
+                  print('⚠️  No redirects found')
+                  
+          except Exception as e:
+              print(f'❌ netlify.toml error: {e}')
+              exit(1)
+          "
+
+      - name: Validate _config.yml
+        run: |
+          echo "🔍 Validating _config.yml..."
+          python -c "
+          import yaml
+          try:
+              with open('_config.yml', 'r') as f:
+                  config = yaml.safe_load(f)
+              print('✅ _config.yml syntax is valid')
+              
+              # Check URL
+              if 'url' in config:
+                  if config['url'].startswith('https://'):
+                      print('✅ URL uses HTTPS')
+                  else:
+                      print('⚠️  URL should use HTTPS')
+                      
+          except Exception as e:
+              print(f'❌ _config.yml error: {e}')
+              exit(1)
+          "
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.5'
+          bundler-cache: true
+
+      - name: Install Jekyll dependencies
+        run: bundle install
+
+      - name: Test Jekyll build
+        run: |
+          echo "🏗️  Testing Jekyll build..."
+          JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_production.yml
+          echo "✅ Jekyll build successful"
+
+      - name: Verify build output
+        run: |
+          echo "🔍 Verifying build output..."
+          
+          if [ ! -d "_site" ]; then
+            echo "❌ _site directory not created"
+            exit 1
+          fi
+          
+          if [ ! -f "_site/sitemap.xml" ]; then
+            echo "❌ sitemap.xml not generated"
+            exit 1
+          fi
+          
+          if [ ! -f "_site/index.html" ]; then
+            echo "❌ index.html not generated"
+            exit 1
+          fi
+          
+          echo "✅ Build output verified"
+
+      - name: Check for HTTP links
+        run: |
+          echo "🔍 Checking for HTTP links in posts..."
+          if grep -r "http://" _posts/ --exclude="*.md~" 2>/dev/null; then
+            echo "❌ Found HTTP links in posts (should be HTTPS)"
+            exit 1
+          else
+            echo "✅ No HTTP links found in posts"
+          fi
+
+      - name: Summary
+        run: |
+          echo ""
+          echo "🎉 All validations passed!"
+          echo "🚀 Ready for deployment!"
