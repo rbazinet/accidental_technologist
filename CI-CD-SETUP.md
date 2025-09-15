@@ -150,8 +150,22 @@ from = "/2006/04/27/architects-who-dont-write-code-are-powerpoint-architects/"
 ### If GitHub Actions Fail
 1. **Check the Actions tab** in GitHub
 2. **Look at the error message** in the failed step
-3. **Fix the issue locally** using `./scripts/validate-config.sh`
+3. **Fix the issue locally** using `./scripts/test-ci-locally.sh`
 4. **Push the fix** and monitor the Actions tab
+
+### Common GitHub Actions Issues
+
+#### Platform Mismatch Error
+```
+Your bundle only supports platforms ["arm64-darwin-24"] but your local platform is x86_64-linux
+```
+**Solution**: Run `bundle lock --add-platform x86_64-linux` and commit the updated `Gemfile.lock`
+
+#### TOML Syntax Error
+```
+Could not parse configuration file netlify.toml
+```
+**Solution**: Check for nested quotes or unquoted values in `netlify.toml`
 
 ### If Local Validation Fails
 ```bash

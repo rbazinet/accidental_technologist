@@ -131,6 +131,19 @@ if ! command -v bundle &> /dev/null; then
 fi
 print_status "success" "Bundler is available"
 
+# Step 6.5: Check Gemfile.lock platforms
+print_status "info" "Checking Gemfile.lock platforms..."
+if [ -f "Gemfile.lock" ]; then
+    if grep -q "x86_64-linux" Gemfile.lock; then
+        print_status "success" "Gemfile.lock includes Linux platform"
+    else
+        print_status "warning" "Gemfile.lock missing Linux platform (GitHub Actions may fail)"
+        print_status "info" "Run: bundle lock --add-platform x86_64-linux"
+    fi
+else
+    print_status "warning" "Gemfile.lock not found"
+fi
+
 # Step 7: Install Jekyll dependencies
 print_status "info" "Installing Jekyll dependencies..."
 if bundle install > /dev/null 2>&1; then
