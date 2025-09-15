@@ -271,6 +271,79 @@
   to = "/:splat/"
   status = 301
 
+# Redirect broken image URLs to 404
+[[redirects]]
+  from = "/*-png/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/*-jpg/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/*-jpeg/"
+  to = "/404.html"
+  status = 404
+
+# Redirect WordPress legacy URLs to 404
+[[redirects]]
+  from = "/wp-json/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/*/attachment/*"
+  to = "/404.html"
+  status = 404
+
+# Redirect specific broken URLs found in crawl data
+[[redirects]]
+  from = "/nopackagemanager-png/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/ignoredpackagemanager-png/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/2018-01-10_14-44-09-png/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/rr01-png/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/color_icon150/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/color_fullname500/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/wp7_signature_banner_sm/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/expensd_logo/"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/not_lost/"
+  to = "/404.html"
+  status = 404
+
 [[headers]]
   for = "/*"
   [headers.values]
