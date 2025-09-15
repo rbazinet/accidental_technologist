@@ -247,6 +247,30 @@
   to = "/"
   status = 301
 
+# Redirect tag pages to homepage (since they're blocked by robots.txt)
+[[redirects]]
+  from = "/tag/*"
+  to = "/"
+  status = 301
+
+# Redirect category pages to homepage (since they're blocked by robots.txt)
+[[redirects]]
+  from = "/category/*"
+  to = "/"
+  status = 301
+
+# Redirect author pages to homepage
+[[redirects]]
+  from = "/author/*"
+  to = "/"
+  status = 301
+
+# Redirect feed URLs to their parent pages
+[[redirects]]
+  from = "/*/feed/"
+  to = "/:splat/"
+  status = 301
+
 [[headers]]
   for = "/*"
   [headers.values]

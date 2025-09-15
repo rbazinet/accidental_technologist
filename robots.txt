@@ -2,8 +2,8 @@ User-agent: *
 Allow: /
 
 # Disallow non-existent WordPress legacy paths
-Disallow: /tag/
-Disallow: /category/
+# Disallow: /tag/          # Commented out - allow tag pages
+# Disallow: /category/     # Commented out - allow category pages
 Disallow: /author/
 Disallow: /*/attachment/
 
@@ -53,9 +53,11 @@ Disallow: /*.jpg$
 Disallow: /*.jpeg$
 Disallow: /*.gif$
 
-# Disallow malformed pagination URLs
-Disallow: /page[0-9]*/
-Disallow: /*/[0-9]*$
+# Allow pagination pages - they contain important content
+# Disallow: /page[0-9]*/
+
+# Disallow malformed URLs ending in numbers (but allow legitimate ones)
+# Disallow: /*/[0-9]*$
 
 # Disallow URLs with embedded parameters that cause errors
 Disallow: /*utm_source=feedburner*
