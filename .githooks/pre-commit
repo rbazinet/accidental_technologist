@@ -1,0 +1,71 @@
+#!/bin/bash
+
+# Pre-commit hook to validate configuration files
+# This runs before each commit to catch issues early
+
+echo "🔍 Running pre-commit validation..."
+
+# Check if netlify.toml was modified
+if git diff --cached --name-only | grep -q "netlify.toml"; then
+    echo "📋 netlify.toml was modified, validating..."
+    
+    # Check for Python
+    if ! command -v python3 &> /dev/null; then
+        echo "⚠️  Python3 not available, skipping TOML validation"
+    else
+        # Install toml if needed
+        if ! python3 -c "import toml" 2>/dev/null; then
+            pip3 install toml > /dev/null 2>&1
+        fi
+        
+        # Validate TOML syntax
+        if python3 -c "
+import toml
+try:
+    with open('netlify.toml', 'r') as f:
+        toml.load(f)
+    print('✅ netlify.toml syntax is valid')
+except Exception as e:
+    print(f'❌ netlify.toml syntax error: {e}')
+    exit(1)
+"; then
+            echo "✅ netlify.toml validation passed"
+        else
+            echo "❌ netlify.toml validation failed"
+            exit 1
+        fi
+    fi
+fi
+
+# Check if _config.yml was modified
+if git diff --cached --name-only | grep -q "_config.yml"; then
+    echo "📋 _config.yml was modified, validating..."
+    
+    if ! command -v python3 &> /dev/null; then
+        echo "⚠️  Python3 not available, skipping YAML validation"
+    else
+        # Install yaml if needed
+        if ! python3 -c "import yaml" 2>/dev/null; then
+            pip3 install pyyaml > /dev/null 2>&1
+        fi
+        
+        # Validate YAML syntax
+        if python3 -c "
+import yaml
+try:
+    with open('_config.yml', 'r') as f:
+        yaml.safe_load(f)
+    print('✅ _config.yml syntax is valid')
+except Exception as e:
+    print(f'❌ _config.yml syntax error: {e}')
+    exit(1)
+"; then
+            echo "✅ _config.yml validation passed"
+        else
+            echo "❌ _config.yml validation failed"
+            exit 1
+        fi
+    fi
+fi
+
+echo "✅ Pre-commit validation completed"
