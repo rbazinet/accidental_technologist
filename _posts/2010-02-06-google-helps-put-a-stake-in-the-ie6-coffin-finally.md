@@ -4,7 +4,7 @@ title: 'Google helps put a stake in the IE6 coffin, finally'
 date: '2010-02-06T02:43:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=393'
+guid: 'https://localhost/~rbazinet/?p=393'
 permalink: /programming/google-helps-put-a-stake-in-the-ie6-coffin-finally/
 dsq_thread_id:
     - '95926450'
@@ -40,4 +40,4 @@ This announcement is actually huge, in my opinion, because IE6 is the single bro
 
 The news here seems to finger IE6 but it also notes removal of support for other older browsers too. Good times ahead.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24c06005-f898-4a32-813c-4d04095a0a77" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [HTML5](http://technorati.com/tags/HTML5),[Internet Explorer 6](http://technorati.com/tags/Internet%20Explorer%206),[JavaScript](http://technorati.com/tags/Javascript)</div><div class="posttagsblock">[HTML5](http://technorati.com/tag/HTML5), [Internet Explorer 6](http://technorati.com/tag/Internet%20Explorer%206), [Javascript](http://technorati.com/tag/Javascript), [Programming](http://technorati.com/tag/Programming)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24c06005-f898-4a32-813c-4d04095a0a77" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [HTML5](https://technorati.com/tags/HTML5),[Internet Explorer 6](https://technorati.com/tags/Internet%20Explorer%206),[JavaScript](https://technorati.com/tags/Javascript)</div><div class="posttagsblock">[HTML5](https://technorati.com/tag/HTML5), [Internet Explorer 6](https://technorati.com/tag/Internet%20Explorer%206), [Javascript](https://technorati.com/tag/Javascript), [Programming](https://technorati.com/tag/Programming)</div>

@@ -4,7 +4,7 @@ title: 'Relieving the Headache of the iPhone on Windows Vista with iTunes'
 date: '2007-10-30T23:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=158'
+guid: 'https://localhost/~rbazinet/?p=158'
 permalink: /apple/relieving-the-headache-of-the-iphone-on-windows-vista-with-itunes/
 dsq_thread_id:
     - '95924416'
@@ -26,7 +26,7 @@ I was already using iTunes with my older iPod and it has worked great. I am on W
 
 Thinking I may have received a dead iPhone, I unpacked my MacBook Pro and tried the same combination and it worked just fine and I was able to activate my iPhone with AT &amp; T with no problems. I still had the issue of using the iPhone with Vista since I use Windows for my day-to-day work and the bulk of my media content resides on Vista I really needed to get it to work. So off to Google I went....
 
-It turns out this not a uncommon problem on Windows at all. The first article for the iPhone on Apple's support web site is titled "[iPhone not recognized in iTunes for Windows](http://docs.info.apple.com/article.html?artnum=305716)". This article is a good place to start but did not solve my problem. At the bottom of the article it basically says if all else fails the reinstall. Apple does give some nice [detailed instructions about uninstalling iTunes](http://docs.info.apple.com/article.html?artnum=305409).
+It turns out this not a uncommon problem on Windows at all. The first article for the iPhone on Apple's support web site is titled "[iPhone not recognized in iTunes for Windows](https://docs.info.apple.com/article.html?artnum=305716)". This article is a good place to start but did not solve my problem. At the bottom of the article it basically says if all else fails the reinstall. Apple does give some nice [detailed instructions about uninstalling iTunes](https://docs.info.apple.com/article.html?artnum=305409).
 
 The article says to try the following:
 
@@ -52,7 +52,7 @@ The article says to try the following:
 > 13. Right-click the iPod folder and select Delete and choose Yes when asked to confirm the deletion. Click Continue if Windows needs confirmation or permission to continue.
 > 14. Right-click on the Recycle Bin and on the shortcut menu, click Empty Recycle Bin.
 > 15. Restart your computer.
-> 16. Install the latest version of iTunes from [http://www.apple.com/itunes/download](http://www.apple.com/itunes/download/).
+> 16. Install the latest version of iTunes from [https://www.apple.com/itunes/download](https://www.apple.com/itunes/download/).
 > 
 > [Remove QuickTime](soh('second');) (Click for more)
 > 
@@ -73,7 +73,7 @@ The article says to try the following:
 > 12. Delete the QuickTime and QuicktimeVR files located in the C:\\Windows\\system32\\ folder. Click Continue if Windows needs confirmation or permission to continue.
 > 13. Right-click on the Recycle Bin and on the shortcut menu, click Empty Recycle Bin.
 > 14. Restart your computer.
-> 15. Install the latest version of QuickTime from [http://www.apple.com/quicktime/download](http://www.apple.com/itunes/download/).
+> 15. Install the latest version of QuickTime from [https://www.apple.com/quicktime/download](https://www.apple.com/itunes/download/).
 > 
 > [Remove Apple Software Update](soh('third');) (Click for more)
 > 
@@ -86,7 +86,7 @@ The article says to try the following:
 > 6. After the uninstallation is complete, do not restart if you are prompted to.
 > 7. If other entries were present for Apple Software Update remove those as well.
 > 8. Restart your computer.
-> 9. Install the latest version of Apple Software Update by installing the latest version of iTunes [http://www.apple.com/itunes/download](http://www.apple.com/itunes/download/).
+> 9. Install the latest version of Apple Software Update by installing the latest version of iTunes [https://www.apple.com/itunes/download](https://www.apple.com/itunes/download/).
 > 
 > [Remove Apple Mobile Device Support ](soh('fourth');)(Click for more)
 > 
@@ -105,7 +105,7 @@ The article says to try the following:
 > 12. Right-click the iTunes folder and select Delete and choose Yes when asked to confirm the deletion. Note: This folder may have already been deleted if iTunes was successfully removed in steps 1-7.
 > 13. Right-click on the Recycle Bin and on t he shortcut menu, click Empty Recycle Bin.
 > 14. Restart your computer.
-> 15. Install the latest version of iTunes from [http://www.apple.com/itunes/download](http://www.apple.com/itunes/download/).
+> 15. Install the latest version of iTunes from [https://www.apple.com/itunes/download](https://www.apple.com/itunes/download/).
 > 
 > **Notes**1. Do **not** manually delete the Mobile Device Support folder located at C:\\Program Files\\Common Files\\Apple. Use Programs and Features as described in the steps above.
 > 
@@ -124,8 +124,8 @@ I tried just uninstalling iTunes as instructed about but this did not work, so I
 
 The last piece of the puzzle was probably the root cause of the problem. It seems Vista does a lousy job of installing various USB drivers and in this case the one for the Apple USB. I needed to delete the folder beginning with USBAPPL\_ in the C:\\Windows\\System32\\DRVSTORE.
 
-I then reran the iTunes setup, [as Administrator](http://cdevroe.com/notes/vista-iphone/), rebooted and tried the iPhone connection again and it all worked.
+I then reran the iTunes setup, [as Administrator](https://cdevroe.com/notes/vista-iphone/), rebooted and tried the iPhone connection again and it all worked.
 
 I hope this save someone from a headache or two and about 2 hours of time.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [iPhone](http://technorati.com/tags/iPhone), [Vista](http://technorati.com/tags/Vista), [iTunes](http://technorati.com/tags/iTunes)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [iPhone](https://technorati.com/tags/iPhone), [Vista](https://technorati.com/tags/Vista), [iTunes](https://technorati.com/tags/iTunes)</div>

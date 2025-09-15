@@ -4,7 +4,7 @@ title: 'My Improved Rails Development Environment on the Mac'
 date: '2009-04-07T09:09:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=350'
+guid: 'https://localhost/~rbazinet/?p=350'
 permalink: /ruby/my-improved-rails-development-environment-on-the-mac/
 dsq_thread_id:
     - '95925177'
@@ -12,9 +12,9 @@ categories:
     - Ruby
 ---
 
-I use Apache and [Phusion Passenger](http://www.modrails.com/) for my production [Ruby on Rails](http://rubyonrails.org) applications, it has worked well and the deployment story couldn’t be any easier.
+I use Apache and [Phusion Passenger](https://www.modrails.com/) for my production [Ruby on Rails](https://rubyonrails.org) applications, it has worked well and the deployment story couldn’t be any easier.
 
-Most Ruby on Rails developers probably are familiar with running either WebBrick or Mongrel on their development system with the usual `script/server` command in a terminal session and access their application in the browser with `<a href="http://localhost:3000">http://localhost:3000</a>.`
+Most Ruby on Rails developers probably are familiar with running either WebBrick or Mongrel on their development system with the usual `script/server` command in a terminal session and access their application in the browser with `<a href="https://localhost:3000">https://localhost:3000</a>.`
 
 This works fine in most circumstances but it does really mimic how I setup a web server in a production environment. One application I have been working on recently makes pretty heavy use of subdomains, such as customer1.myapp.com, customer2.myapp.com, etc. and implementing this on my Mac, where I do development, is not as trivial as I had hoped. It seems creating wildcard domains on the Mac is not possible and something strange has been going on relating to sessions and ports other than 80.
 
@@ -53,7 +53,7 @@ Passenger uses configuration files much like those used by Apache2. I needed to 
 > <span class="kwrd"></</span><span class="html">VirtualHost</span><span class="kwrd">></span>
 > ```
 
-I decided to put the virtual host info in here instead of using something like [Passenger Preference Pane](http://www.fngtps.com/passenger-preference-pane). This option would be cleaner and easier to manage but it didn’t work for me, seemed to just hang and then lose all of my virtual host setup. After several attempts it hardly seemed worth the pain, maybe your mileage will vary.
+I decided to put the virtual host info in here instead of using something like [Passenger Preference Pane](https://www.fngtps.com/passenger-preference-pane). This option would be cleaner and easier to manage but it didn’t work for me, seemed to just hang and then lose all of my virtual host setup. After several attempts it hardly seemed worth the pain, maybe your mileage will vary.
 
 After the configuration file is in place, a restart of Apache will load up the configuration file:
 
@@ -77,7 +77,7 @@ One issue that needs to be addressed is how our local, customer domain will be r
 > fe80::1%lo0    localhost
 > ```
 
-This seems to work just fine but thanks to [gem named Ghost](http://github.com/bjeanes/ghost/tree/master):
+This seems to work just fine but thanks to [gem named Ghost](https://github.com/bjeanes/ghost/tree/master):
 
 > This gem is designed primarily for web developers who need to add and modify hostnames to their system for virtual hosts on their local/remote web server. However, it could be of use to other people who would otherwise modify their `/etc/hosts` file manually and flush the cache.
 
@@ -91,8 +91,8 @@ Is all that is needed to be able to browse to customer1.mywebapp.dev, without an
 
 This setup has solved my problems as far as getting these domains to resolve on my development system. There are probably many ways to solve this problem but the overall solution worked and now has me using Passenger, which is on my production systems. I have always believe developers should be writing software on the software they use for production and Apache with Passenger has me a whole lot closer.
 
-I have not addressed debugging Rails apps in this configuration yet but I did find a plug-in called [socket-debugger on GitHub](http://github.com/ddollar/socket-debugger/tree/master). It appears to allow debugging in the style we are used to with WebBrick or Mongrel. I would love to hear with others are using to debug Rails apps on the Mac using Passenger.
+I have not addressed debugging Rails apps in this configuration yet but I did find a plug-in called [socket-debugger on GitHub](https://github.com/ddollar/socket-debugger/tree/master). It appears to allow debugging in the style we are used to with WebBrick or Mongrel. I would love to hear with others are using to debug Rails apps on the Mac using Passenger.
 
-There are also a couple other good resources for running Passenger in this configuration. The first is from Railscasts called [Passenger in Development](http://railscasts.com/episodes/122-passenger-in-development), which I found after I setup my environment. The other is a [screen cast from Peepcode](http://peepcode.com/products/phusion-passenger).
+There are also a couple other good resources for running Passenger in this configuration. The first is from Railscasts called [Passenger in Development](https://railscasts.com/episodes/122-passenger-in-development), which I found after I setup my environment. The other is a [screen cast from Peepcode](https://peepcode.com/products/phusion-passenger).
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fc2e4977-8110-4bf7-a9a7-d53c0183247d" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [Ruby](http://technorati.com/tags/Ruby),[Ruby on Rails](http://technorati.com/tags/Ruby+on+Rails),[Passenger Phusion](http://technorati.com/tags/Passenger+Phusion),[Apache](http://technorati.com/tags/Apache)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fc2e4977-8110-4bf7-a9a7-d53c0183247d" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [Ruby](https://technorati.com/tags/Ruby),[Ruby on Rails](https://technorati.com/tags/Ruby+on+Rails),[Passenger Phusion](https://technorati.com/tags/Passenger+Phusion),[Apache](https://technorati.com/tags/Apache)</div>

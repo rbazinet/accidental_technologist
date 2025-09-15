@@ -36,15 +36,15 @@ The problem was mainly centered-around the Yahoo YUI JavaScript and CSS assets a
 
 ### The Solution
 
-I decided to do what every self-respected web developer does when facing a problem, Google for someone else who had the same problem and successfully solved it. ?I ran into one very [insightful post from Dan over at CollectiveIdea](http://collectiveidea.com/blog/archives/2010/11/29/ssl-with-rails/#fn2). ?The post lays out a very similar problem with some good ideas for the solution.
+I decided to do what every self-respected web developer does when facing a problem, Google for someone else who had the same problem and successfully solved it. ?I ran into one very [insightful post from Dan over at CollectiveIdea](https://collectiveidea.com/blog/archives/2010/11/29/ssl-with-rails/#fn2). ?The post lays out a very similar problem with some good ideas for the solution.
 
 Dan points out a URL like this:
 
 ```html
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 ```
 
-Will cause Mixed Content warnings when included from a secure page. ?Some of the suggested solutions include downloading all of the assets locally and the problem goes away. ?Although this is true, we lose the [benefits of using a CDN](http://www.jquerycdn.net/cdn-hosted-jquery/).
+Will cause Mixed Content warnings when included from a secure page. ?Some of the suggested solutions include downloading all of the assets locally and the problem goes away. ?Although this is true, we lose the [benefits of using a CDN](https://www.jquerycdn.net/cdn-hosted-jquery/).
 
 What works is both elegant and simple; two qualities that make my day. ?Referencing your CDN-based assets this way is only a slight change:
 

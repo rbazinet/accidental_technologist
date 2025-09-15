@@ -18,11 +18,11 @@ tags:
 
 ![GlobalImages hdrLogo](/assets/img/2011/08/globalImages.hdrLogo.jpg "globalImages.hdrLogo.jpg")
 
-I deal with a lot of companies online and in-general, they are all pretty good. ?My recent dealing with online Apple retailer, [MacMall](http://www.macmall.com/home), forced me to create an award here and present them with the Worst Customer Service on the Planet Award. ?I hope they like it because they certainly have earned it.
+I deal with a lot of companies online and in-general, they are all pretty good. ?My recent dealing with online Apple retailer, [MacMall](https://www.macmall.com/home), forced me to create an award here and present them with the Worst Customer Service on the Planet Award. ?I hope they like it because they certainly have earned it.
 
 ### Once Upon a Time
 
-I have never bought anything from MacMall before but have witnessed a barrage of email begging for my business. ?When the new Apple MacBook Airs were released I decided I might give MacMall a try because they had free shipping, $50 price tag less than Apple, an additional discount code from [AppleInsider](http://www.appleinsider.com/) and no sales tax. ?In all I would save about $175.
+I have never bought anything from MacMall before but have witnessed a barrage of email begging for my business. ?When the new Apple MacBook Airs were released I decided I might give MacMall a try because they had free shipping, $50 price tag less than Apple, an additional discount code from [AppleInsider](https://www.appleinsider.com/) and no sales tax. ?In all I would save about $175.
 
 Upon deciding to order the 13.3" MacBook Air with 4G RAM, 256G SSD and the upgraded i7 processor, MacMall's web site indicated the item would ship in 5-7 days. ?Being the inpatient person I am, that seemed too long for me but decided I would forgo the need to have it now and order any way. ? The first attempt at ordering failed when I attempted to use my Bill Me Later account. ?MacMall web site said they had a problem with my Bill Me Later account and I needed to select another source of payment. ?Fine, just use my reliable MasterCard and be done with it. ?Order placed on August 9, 2011.
 

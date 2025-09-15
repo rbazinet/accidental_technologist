@@ -4,7 +4,7 @@ title: 'First Impressions &ndash; Flip MinoHD'
 date: '2008-11-21T16:08:57-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=323'
+guid: 'https://localhost/~rbazinet/?p=323'
 permalink: /technology/first-impressions-flip-minohd/
 dsq_thread_id:
     - '96030312'
@@ -14,11 +14,11 @@ categories:
 
 [![minohd](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FirstImpressionsFlipMinoHD_84B3/minohd_thumb.jpg "minohd")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FirstImpressionsFlipMinoHD_84B3/minohd_2.jpg)
 
-I have been looking for an easy way to record short videos on the fly without having to carry around a big camcorder, which I have and rarely use. I had hoped to be able to use my iPhone but applications like [Qik](http://qik.com/) are taking some time to make it to the iTunes Store.
+I have been looking for an easy way to record short videos on the fly without having to carry around a big camcorder, which I have and rarely use. I had hoped to be able to use my iPhone but applications like [Qik](https://qik.com/) are taking some time to make it to the iTunes Store.
 
-I started to hear things about various mini all-digital cameras and began to look at them. The cameras from Flip seemed to be drawing a lot of attention and with the introduction of the high-definition version, it seemed like a good option. A side-by-side comparison by [Andy Ihnatko of the Flip MinoHD vs. its closest competitor, the Kodak Zi6](http://ihnatko.com/index.php/2008/11/16/showcase-showdown-flip-mino-hd-versus-kodak-zi6/) really helped get an idea what to expect.
+I started to hear things about various mini all-digital cameras and began to look at them. The cameras from Flip seemed to be drawing a lot of attention and with the introduction of the high-definition version, it seemed like a good option. A side-by-side comparison by [Andy Ihnatko of the Flip MinoHD vs. its closest competitor, the Kodak Zi6](https://ihnatko.com/index.php/2008/11/16/showcase-showdown-flip-mino-hd-versus-kodak-zi6/) really helped get an idea what to expect.
 
-I figured I would give it a try, ordered from Amazon the new [Flip MinoHD](http://www.theflip.com/products_flip_mino.shtml#scene=sceneMain) and had the new toy in a couple days.
+I figured I would give it a try, ordered from Amazon the new [Flip MinoHD](https://www.theflip.com/products_flip_mino.shtml#scene=sceneMain) and had the new toy in a couple days.
 
 ### Impressions
 
@@ -44,7 +44,7 @@ There is a nice piece of software that also comes with the MinoHD. It takes care
 
 ### Video Quality
 
-<object height="300" width="400"><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2307498&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1"></param><embed allowfullscreen="true" allowscriptaccess="always" height="300" src="http://vimeo.com/moogaloop.swf?clip_id=2307498&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" width="400"></embed></object>
+<object height="300" width="400"><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=2307498&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1"></param><embed allowfullscreen="true" allowscriptaccess="always" height="300" src="https://vimeo.com/moogaloop.swf?clip_id=2307498&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" width="400"></embed></object>
 
 I took this :45 second video from my front porch to get an idea of the quality I could expect from this tiny device. I am happy with the video quality but my shaking hand does not add to it. I uploaded it to Vimeo, which just worked.
 
@@ -60,4 +60,4 @@ I think the design is really nice and simple and can be compared to device desig
 
 I will report back as I use the camera over the coming weeks and post some more videos, hopefully with much more interesting content. In the meantime, if anyone has any particular questions about the camera, post them as a comment on the blog and I will do my best to reply.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:dbeaf14d-d235-43ae-bc78-94695477c7a2" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Flip MinoHD](http://technorati.com/tags/Flip+MinoHD),[Vimeo](http://technorati.com/tags/Vimeo),[Video Camera](http://technorati.com/tags/Video+Camera)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:dbeaf14d-d235-43ae-bc78-94695477c7a2" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Flip MinoHD](https://technorati.com/tags/Flip+MinoHD),[Vimeo](https://technorati.com/tags/Vimeo),[Video Camera](https://technorati.com/tags/Video+Camera)</div>

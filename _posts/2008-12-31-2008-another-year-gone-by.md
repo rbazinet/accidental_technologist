@@ -4,7 +4,7 @@ title: '2008 - Another Year Gone By'
 date: '2008-12-31T12:40:27-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=331'
+guid: 'https://localhost/~rbazinet/?p=331'
 permalink: /general/2008-another-year-gone-by/
 categories:
     - General
@@ -32,7 +32,7 @@ I reach a milestone of 2400 updates on Twitter, not sure what that means but a c
 
 I have gotten a lot out of Twitter so I will continue to use it, posting things I find interesting and have the occasional dialog with friends.
 
-Please [follow me on Twitter](http://twitter.com/rbazinet).
+Please [follow me on Twitter](https://twitter.com/rbazinet).
 
 ### Consulting
 
@@ -44,19 +44,19 @@ I can?t really point at any particular reason why .NET has lost its draw for me,
 
 I also think the .NET community has really gotten to me as well, it seems to have a lot of complainers as well as a lot of podium folks who think they are better than they really are and it shows. This is probably not limited to .NET but since I have been so into it in the past years, it is painfully there everyday. My involvement with Ruby with the community so much smaller doesn?t seem to be evident.
 
-My background in software engineering should lead me to greener pastures, hoping to be able to put .NET behind me and only work with Ruby and Rails as [Mike Gunderloy](http://afreshcup.com/) and many other have done.
+My background in software engineering should lead me to greener pastures, hoping to be able to put .NET behind me and only work with Ruby and Rails as [Mike Gunderloy](https://afreshcup.com/) and many other have done.
 
 ### Projects
 
 I have done some work this year on some open source projects and enjoyed this immensely. I plan to contribute to some Ruby-related projects this coming year, nothing concrete but plan on helping out.
 
-I am involved with a startup, that at this time I can?t say much about, but have two other folks I am working with on this. The teaser is at our future home, [UDSLR.com](http://udslr.com). Check it out and keep checking back, we are planning to launch in the Spring. I will be using this blog to write about some of the technical challenges we face once the project is more public. By the way, this is a Rails project.
+I am involved with a startup, that at this time I can?t say much about, but have two other folks I am working with on this. The teaser is at our future home, [UDSLR.com](https://udslr.com). Check it out and keep checking back, we are planning to launch in the Spring. I will be using this blog to write about some of the technical challenges we face once the project is more public. By the way, this is a Rails project.
 
 I am also working a couple other ?side? project which are not worth mentioning now but are also Rails projects.
 
 ### Writing
 
-I am have been writing for [InfoQ](http://www.infoq.com) for just over a year now, which has been a great experience. As part of my removal from .NET work I have stepped down as a .NET editor for InfoQ so my daily thoughts are not polluted by .NET writing. I am a Ruby Editor only at this point and plan to step up with more writing related to Ruby in 2009.
+I am have been writing for [InfoQ](https://www.infoq.com) for just over a year now, which has been a great experience. As part of my removal from .NET work I have stepped down as a .NET editor for InfoQ so my daily thoughts are not polluted by .NET writing. I am a Ruby Editor only at this point and plan to step up with more writing related to Ruby in 2009.
 
 The Professional IronRuby book has dragged on even with a total of 3 authors. It seems IronRuby has not evolved the way we had originally hoped, it has taken on a very Microsoft-ish feel and appears to be more of a glue language for .NET instead of a really nice Ruby implementation on the CLR. I could be wrong a year from now but not sure what Microsoft really plans with this language other than mangling it for its own use. Therefore, I don?t know the status of the book or if it will ever come out with the three of us as writers. I don?t want to write about yet more .NET.
 
@@ -69,4 +69,4 @@ I want to keep learning and keep building my network of really smart people. I w
 Also, I want to thank everyone who takes the time to listen (read) what I have to say as you have so many other choices. I am opinionated and probably come across here or on Twitter as brash at times, I am not actually, I am just passionate about doing good things and spending my time well. We only have so much time in our lives to do things that are important to us and we enjoy doing and we should be doing those things. If you hate getting up every day and doing the work you do?it is time to look for a change.
 
 <div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2c694462-e330-44cb-bf74-a110de5dc66a" style="padding-right: 0px; display: inline; paddin
-g-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Past](http://technorati.com/tags/Past),[Present](http://technorati.com/tags/Present),[Future](http://technorati.com/tags/Future)</div>
+g-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Past](https://technorati.com/tags/Past),[Present](https://technorati.com/tags/Present),[Future](https://technorati.com/tags/Future)</div>

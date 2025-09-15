@@ -4,7 +4,7 @@ title: 'New Laptop Purchase Harder Than Expected'
 date: '2009-11-16T09:15:04-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=384'
+guid: 'https://localhost/~rbazinet/?p=384'
 permalink: /apple/new-laptop-purchase-harder-than-expected/
 dsq_thread_id:
     - '95925443'
@@ -60,4 +60,4 @@ Overall the MacBook is more expensive than pretty much any comparable system but
 
 I think I knew the decision before making it but I was hoping for that latest and greatest (i7) and save some money from the prices Apple charges for the MacBook Pros but realized how good a system the MacBook Pro is compared to everyone else in flexibility and design.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d3fdb989-cb5f-40d2-97ad-eee3dbf2eb4f" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [MacBook Pro](http://technorati.com/tags/MacBook+Pro),[Dell XPS](http://technorati.com/tags/Dell+XPS)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d3fdb989-cb5f-40d2-97ad-eee3dbf2eb4f" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [MacBook Pro](https://technorati.com/tags/MacBook+Pro),[Dell XPS](https://technorati.com/tags/Dell+XPS)</div>

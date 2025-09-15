@@ -4,13 +4,13 @@ title: 'Microsoft Longhorn RSS and Attention'
 date: '2005-06-28T16:48:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=13'
+guid: 'https://localhost/~rbazinet/?p=13'
 permalink: /technology/microsoft-longhorn-rss-and-attention/
 categories:
     - Technology
 ---
 
-[Nick Bradbury](http://www.typepad.com/t/trackback/2720499) at Bradsoft has a great post on his weblog regarding the Microsoft announcement that it is [baking RSS support into Longhorn](http://www.eweek.com/article2/0,1895,1831242,00.asp). If you don't know how the announcement might effect you then Nick's post is worth the read.
+[Nick Bradbury](https://www.typepad.com/t/trackback/2720499) at Bradsoft has a great post on his weblog regarding the Microsoft announcement that it is [baking RSS support into Longhorn](https://www.eweek.com/article2/0,1895,1831242,00.asp). If you don't know how the announcement might effect you then Nick's post is worth the read.
 
 I think RSS support in Longhorn and IE7 is going to be great for all of us. As long as Microsoft doesn't try to make the current RSS standard their own and shares with the rest of the world the improvements it intends to make, then it will be good for all of us.
 

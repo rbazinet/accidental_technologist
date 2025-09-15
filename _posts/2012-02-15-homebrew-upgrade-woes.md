@@ -17,7 +17,7 @@ tags:
     - redis
 ---
 
-I ran into an interesting problem recently after updating my installation of [Homebrew](http://mxcl.github.com/homebrew/) on my Mac Pro. ? Starting with the update command, which ran successfully:
+I ran into an interesting problem recently after updating my installation of [Homebrew](https://mxcl.github.com/homebrew/) on my Mac Pro. ? Starting with the update command, which ran successfully:
 
 ```bash
 $ brew update

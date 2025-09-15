@@ -18,17 +18,17 @@ tags:
     - Google
     - iOS'
 ---
-I have been following an interesting discussion between the [Shifty Jelly](http://shiftyjelly.wordpress.com/) folks and [Marco Arment](http://www.marco.org/) of Instapaper regarding the merits of developing for iOS versus Android and whether it's worth the developer's time (read money) creating for the platform.
+I have been following an interesting discussion between the [Shifty Jelly](https://shiftyjelly.wordpress.com/) folks and [Marco Arment](https://www.marco.org/) of Instapaper regarding the merits of developing for iOS versus Android and whether it's worth the developer's time (read money) creating for the platform.
 
-[Eric Schmidt spoke recently](http://news.cnet.com/8301-30685_3-57338276-264/googles-schmidt-android-leads-the-iphone/?part=rss&subj=crave&tag=readMore) at Le Web where he said developers, like it or not, will target Android. ?As someone who writes iOS applications, it seemed like an arrogant statement and [Marco had his thoughts](http://www.marco.org/2011/12/07/eric-schmidt-android-leads-the-iphone), which seem reasonable to me:
+[Eric Schmidt spoke recently](https://news.cnet.com/8301-30685_3-57338276-264/googles-schmidt-android-leads-the-iphone/?part=rss&subj=crave&tag=readMore) at Le Web where he said developers, like it or not, will target Android. ?As someone who writes iOS applications, it seemed like an arrogant statement and [Marco had his thoughts](https://www.marco.org/2011/12/07/eric-schmidt-android-leads-the-iphone), which seem reasonable to me:
 
 > Android devices have been selling in large quantities for a long time. That?s not new. Yet today, compared to iOS, Android is much less profitable for developers (especially for paid apps), its users are less influential for expanding new services, and its app development is much more painful and expensive. And in the rapidly growing and increasingly influential tablet market, Android has an extremely low marketshare.
 
-Shify Jelly creators of applications for both iOS and Android [took offense to Marco statements](http://shiftyjelly.wordpress.com/2011/12/08/standing-up-for-android/) and wrote some elegant dialog as to the contrary:
+Shify Jelly creators of applications for both iOS and Android [took offense to Marco statements](https://shiftyjelly.wordpress.com/2011/12/08/standing-up-for-android/) and wrote some elegant dialog as to the contrary:
 
-> First some background. We?ve been in the iOS app store since August of 2008, which for those that are counting is only a month or so after it first launched. We?ve been on Android now for about a year. We make serious apps like Pocket Casts and Pocket Weather AU, things that take a lot of development effort and involve serious server back-ends. We?ve made enough money since then to support 2 full time staff, and 2 part time designers. Yes we?re the guys who had the [run in with Amazon](http://shiftyjelly.wordpress.com/2011/08/02/amazon-app-store-rotten-to-the-core/), the [email from Steve Jobs](http://shiftyjelly.wordpress.com/2010/06/01/sentence-first-verdict-afterwards/), and [we?re not millionaires](http://shiftyjelly.wordpress.com/2011/11/22/you-guys-are-millionaires-right/).
+> First some background. We?ve been in the iOS app store since August of 2008, which for those that are counting is only a month or so after it first launched. We?ve been on Android now for about a year. We make serious apps like Pocket Casts and Pocket Weather AU, things that take a lot of development effort and involve serious server back-ends. We?ve made enough money since then to support 2 full time staff, and 2 part time designers. Yes we?re the guys who had the [run in with Amazon](https://shiftyjelly.wordpress.com/2011/08/02/amazon-app-store-rotten-to-the-core/), the [email from Steve Jobs](https://shiftyjelly.wordpress.com/2010/06/01/sentence-first-verdict-afterwards/), and [we?re not millionaires](https://shiftyjelly.wordpress.com/2011/11/22/you-guys-are-millionaires-right/).
 
-Finally, since neither of these developers allow comments on their blog, [Marco's rebuttal](http://www.marco.org/2011/12/07/standing-up-for-android) to the challenge by Shifty Jelly:
+Finally, since neither of these developers allow comments on their blog, [Marco's rebuttal](https://www.marco.org/2011/12/07/standing-up-for-android) to the challenge by Shifty Jelly:
 
 > If you make the first great Android Instapaper client that:
 > 

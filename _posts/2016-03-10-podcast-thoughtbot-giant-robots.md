@@ -16,7 +16,7 @@ tags:
     - thoughtbot
 ---
 
-I have an addiction to podcasts. There, I said it. According to my podcast player, I am subscribed to 38 podcasts. Definitely too many to keep up with very easily. I am constantly rotating new ones in and old ones out but always keeping my favorites queued up. One of my favorites of late is [The Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/) from Thoughtbot. It's not a new podcast but recently has taken on a new format, where the topics focus more on building and running Saas products within Thoughtbot. Recent episodes chronicle [Upcase](https://upcase.com/join) and [FormKeep](https://formkeep.com/). Topics include:
+I have an addiction to podcasts. There, I said it. According to my podcast player, I am subscribed to 38 podcasts. Definitely too many to keep up with very easily. I am constantly rotating new ones in and old ones out but always keeping my favorites queued up. One of my favorites of late is [The Giant Robots Smashing into Other Giant Robots](https://giantrobots.fm/) from Thoughtbot. It's not a new podcast but recently has taken on a new format, where the topics focus more on building and running Saas products within Thoughtbot. Recent episodes chronicle [Upcase](https://upcase.com/join) and [FormKeep](https://formkeep.com/). Topics include:
 
 - Pricing
 - Customer acquisition and retention

@@ -4,7 +4,7 @@ title: 'Rob Conery and team release SubSonic 2.1 Beta'
 date: '2008-02-03T23:54:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=224'
+guid: 'https://localhost/~rbazinet/?p=224'
 permalink: /net/rob-conery-and-team-release-subsonic-2-1-beta/
 dsq_thread_id:
     - '95925930'
@@ -12,9 +12,9 @@ categories:
     - .NET
 ---
 
-![subsonicsmall.png](http://rbazinet.files.wordpress.com/2008/02/subsonicsmall.png)
+![subsonicsmall.png](https://rbazinet.files.wordpress.com/2008/02/subsonicsmall.png)
 
-[Ron Conery](http://blog.wekeroad.com/), who recently joined Microsoft has somehow found time to release a new [version of SubSonic](http://blog.wekeroad.com/2008/02/01/subsonic-21-beta-is-up/), 2.1 in beta.
+[Ron Conery](https://blog.wekeroad.com/), who recently joined Microsoft has somehow found time to release a new [version of SubSonic](https://blog.wekeroad.com/2008/02/01/subsonic-21-beta-is-up/), 2.1 in beta.
 
 I have been using SubSonic since the 2.0 release and find it is a really nice OR/M tool for .NET applications. It offers some of the things I find particularly attractive in Ruby on Rails, things like Migrations.
 
@@ -46,4 +46,4 @@ The SubSonic 2.1 beta 1 offers so much more:
 
 These features are great additions to what is already a great set of tools. I plan to post about a project I am working on using the ASP.NET MVC Framework with SubSonic handling my models. This project should be a great jump-off point for readers wanting to get into the Microsoft ASP.NET MVC Framework and not sure what to do about the back end.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [SubSonic](http://technorati.com/tags/SubSonic)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [SubSonic](https://technorati.com/tags/SubSonic)</div>

@@ -4,13 +4,13 @@ title: 'Web Strategy: What to do when Web Developers get stale'
 date: '2008-01-22T12:16:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=216'
+guid: 'https://localhost/~rbazinet/?p=216'
 permalink: /programming/web-strategy-what-to-do-when-web-developers-get-stale/
 categories:
     - Programming
 ---
 
-Jeremiah Owyang has a [post with great advice to developers](http://www.web-strategist.com/blog/2008/01/22/what-to-do-when-web-developers-get-stale/) who are getting older and having a hard time keeping up with the younger crowd. The advice includes:
+Jeremiah Owyang has a [post with great advice to developers](https://www.web-strategist.com/blog/2008/01/22/what-to-do-when-web-developers-get-stale/) who are getting older and having a hard time keeping up with the younger crowd. The advice includes:
 
 > **What specific steps did I tell him to take?**
 > 
@@ -31,4 +31,4 @@ So much of this is true and as developers with many years of experience there ar
 
 I have been in the same position and it's hard to admit we are getting older but with age comes wisdom. If we have been in the industry for 10, 15, 20 or more years we have great knowledge that can help younger developers and teams. Sure, times have changed not all of the techniques we once used apply today but patterns of knowledge do and will help others.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Programming](http://technorati.com/tags/Programming),[Consulting](http://technorati.com/tags/Consulting)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Programming](https://technorati.com/tags/Programming),[Consulting](https://technorati.com/tags/Consulting)</div>

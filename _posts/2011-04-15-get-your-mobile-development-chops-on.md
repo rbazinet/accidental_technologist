@@ -15,7 +15,7 @@ tags:
     - mobile
 ---
 
-It appears companies are having a difficult time finding enough mobile developers to suite their needs. ?[As reported by the Wall Street Journal](http://online.wsj.com/article/SB10001424052748704547604576263200170918660.html?mod=WSJ_Tech_LEFTTopNews):
+It appears companies are having a difficult time finding enough mobile developers to suite their needs. ?[As reported by the Wall Street Journal](https://online.wsj.com/article/SB10001424052748704547604576263200170918660.html?mod=WSJ_Tech_LEFTTopNews):
 
 > The intense competition for mobile engineers, which affects large companies and fast-growing start-ups alike, is emerging as a key bottleneck as companies scramble to capitalize on the fast growth of smartphones and other mobile devices.
 
@@ -43,15 +43,15 @@ The exception here is BlackBerry, which seems to be declining. ?I think Windows 
 
 So, where to find out more about important mobile platforms today:
 
-- Microsoft -?<http://msdn.microsoft.com/en-us/ff380145>
-- Apple -?<http://developer.apple.com/devcenter/ios/index.action>
-- Android -?<http://developer.android.com/index.html>
+- Microsoft -?<https://msdn.microsoft.com/en-us/ff380145>
+- Apple -?<https://developer.apple.com/devcenter/ios/index.action>
+- Android -?<https://developer.android.com/index.html>
 - webOS -?<https://developer.palm.com/>
 
 ### Do Something
 
 So, instead of watching re-runs of Gilligan's Island this weekend, get out and read about these platforms and explore some code. ? If demand is growing at the pace we see here, there is no time like the present to bettering yourself.
 
-I know I will be spending some extra time learning a bit more about the [new updates to Windows Phone 7 announced at Mix 11](http://windowsteamblog.com/windows_phone/b/wpdev/archive/2011/04/13/be-what-s-next-with-mango-developer-tools-and-platform.aspx).
+I know I will be spending some extra time learning a bit more about the [new updates to Windows Phone 7 announced at Mix 11](https://windowsteamblog.com/windows_phone/b/wpdev/archive/2011/04/13/be-what-s-next-with-mango-developer-tools-and-platform.aspx).
 
 ?

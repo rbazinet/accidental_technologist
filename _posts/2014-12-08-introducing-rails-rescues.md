@@ -15,7 +15,7 @@ tags:
     - 'Ruby on Rails'
 ---
 
-[![RR01](/assets/img/2014/12/RR01.png "RR01.png")](http://www.railsrescues.com) Today I?m happy to introduce [Rails Rescues](http://www.railsrescues.com). [Rails Rescues](http://www.railsrescues.com)?is?a service representing years of Ruby on Rails experience organized to help companies who have a Rails application but may be having some problems. Rails Rescues aren?t limited to a fixed set of services but can include: - Scaling your website
+[![RR01](/assets/img/2014/12/RR01.png "RR01.png")](https://www.railsrescues.com) Today I?m happy to introduce [Rails Rescues](https://www.railsrescues.com). [Rails Rescues](https://www.railsrescues.com)?is?a service representing years of Ruby on Rails experience organized to help companies who have a Rails application but may be having some problems. Rails Rescues aren?t limited to a fixed set of services but can include: - Scaling your website
 - Resolving site stability problems
 - Upgrading from an old version of Rails to current versions
 - Fixing Broken Code

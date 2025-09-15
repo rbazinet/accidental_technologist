@@ -22,7 +22,7 @@ My solution is simple, add an alias to my .profile like this:
 alias be='bundle exec '
 ```
 
-Keen observers will notice the trailing space after the command. This space allows for [alias chaining](http://en.wikipedia.org/wiki/Alias_(command)#Chaining) and can be helpful. The resulting shortcut allows this:
+Keen observers will notice the trailing space after the command. This space allows for [alias chaining](https://en.wikipedia.org/wiki/Alias_(command)#Chaining) and can be helpful. The resulting shortcut allows this:
 
 ```bash
 bundle exec rspec

@@ -4,7 +4,7 @@ title: 'Data Structures and Algorithms: Annotated Reference with Examples eBook 
 date: '2008-08-28T09:50:33-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=304'
+guid: 'https://localhost/~rbazinet/?p=304'
 permalink: /programming/data-structures-and-algorithms-annotated-reference-with-examples-ebook-available/
 dsq_thread_id:
     - '95924863'
@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![dsa](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DataStructuresandAlgorithmseBookAvailabl_8896/dsa_3.png)](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) I came across another free eBook which looks great for those interested in the details of algorithms, called [Data Structures and Algorithms](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) by [Granville Barnett](http://msmvps.com/blogs/gbarnett/) and [Luca Del Tongo](http://blogs.ugidotnet.org/wetblog/Default.aspx) and is hosted on [DotNetSlackers](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/). The book is a free PDF download.
+[![dsa](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/DataStructuresandAlgorithmseBookAvailabl_8896/dsa_3.png)](https://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) I came across another free eBook which looks great for those interested in the details of algorithms, called [Data Structures and Algorithms](https://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) by [Granville Barnett](https://msmvps.com/blogs/gbarnett/) and [Luca Del Tongo](https://blogs.ugidotnet.org/wetblog/Default.aspx) and is hosted on [DotNetSlackers](https://dotnetslackers.com/projects/Data-Structures-And-Algorithms/). The book is a free PDF download.
 
 As a long-time developer this is the type of information we learned in college and don't get a lot of coverage today. I feel this is fundamental to good programming and really understanding how things in our line of work functions. I am looking forward to reading this and providing some feedback here.
 
@@ -28,4 +28,4 @@ From the Granville's blog:
 
 I think this is certainly worth checking out.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:52b9c18d-5bd9-462c-96ad-52892fc294fd" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [eBook](http://technorati.com/tags/eBook),[Algorithms](http://technorati.com/tags/Algorithms),[Data Structures](http://technorati.com/tags/Data%20Structures)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:52b9c18d-5bd9-462c-96ad-52892fc294fd" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [eBook](https://technorati.com/tags/eBook),[Algorithms](https://technorati.com/tags/Algorithms),[Data Structures](https://technorati.com/tags/Data%20Structures)</div>

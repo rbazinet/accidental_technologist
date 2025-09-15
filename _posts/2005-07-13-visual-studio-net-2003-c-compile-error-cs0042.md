@@ -4,7 +4,7 @@ title: 'Visual Studio .NET 2003 C# Compile Error CS0042'
 date: '2005-07-13T08:07:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=14'
+guid: 'https://localhost/~rbazinet/?p=14'
 permalink: /visual-studio/visual-studio-net-2003-c-compile-error-cs0042/
 dsq_thread_id:
     - '95923699'
@@ -25,9 +25,9 @@ Starting with a Google search led me to many developers having the same or simil
 
 I followed all of the guidance of the experiences I saw in my Google search with #1 working every time. The only problem with this solution was exiting and restarting VS.NET all the time. In case you haven't had the pleasure, it takes a long time to load. Although this worked, it didn't seem the greatest solution to me and was a poor way to fix a deeper problem.
 
-Further sluething using [Process Explorer](http://www.sysinternals.com/Utilities/ProcessExplorer.html) from Sysinternals revealed Devenv.exe was holding my PDB file open. A post to the [MSDN .NET General Newsgroup](http://msdn.microsoft.com/newsgroups/default.aspx?dg=microsoft.public.dotnet.general&lang=en&cr=US) let to some further clues.
+Further sluething using [Process Explorer](https://www.sysinternals.com/Utilities/ProcessExplorer.html) from Sysinternals revealed Devenv.exe was holding my PDB file open. A post to the [MSDN .NET General Newsgroup](https://msdn.microsoft.com/newsgroups/default.aspx?dg=microsoft.public.dotnet.general&lang=en&cr=US) let to some further clues.
 
-As I pointed out, I am not the only one having this problem, and it seems Microsoft is well aware of these issues. KnowledgeBase articles [313512](http://support.microsoft.com/default.aspx?scid=kb;en-us;313512) and [887818](http://support.microsoft.com/default.aspx?scid=kb;en-us;887818) show occurances of the bug and a hotfix that is available by request-only. I don't think this is the right approach to such an annoying problem and either does [Frans Bouma](http://weblogs.asp.net/fbouma/archive/2005/07/13/419205.aspx) who has a great post on his blog about this very problem and the lack of service pack for VS.NET 2003.
+As I pointed out, I am not the only one having this problem, and it seems Microsoft is well aware of these issues. KnowledgeBase articles [313512](https://support.microsoft.com/default.aspx?scid=kb;en-us;313512) and [887818](https://support.microsoft.com/default.aspx?scid=kb;en-us;887818) show occurances of the bug and a hotfix that is available by request-only. I don't think this is the right approach to such an annoying problem and either does [Frans Bouma](https://weblogs.asp.net/fbouma/archive/2005/07/13/419205.aspx) who has a great post on his blog about this very problem and the lack of service pack for VS.NET 2003.
 
 I called Microsoft to request this hotfix and the person I spoke with fromt he VS.NET 2003 C# Support Team told me I was the third person requesting this hotfix THIS MORNING. So, why don't we see a service pack before now? We have seen multiple hotfixes for Windows XP already and VS.NET 2003 has been in use just as long. If I recall correctly we had six service packs for Visual Studio 6.
 

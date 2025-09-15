@@ -4,7 +4,7 @@ title: 'Introducing CustomerFu'
 date: '2009-06-19T13:30:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=357'
+guid: 'https://localhost/~rbazinet/?p=357'
 permalink: /customerfu/introducing-customerfu/
 dsq_thread_id:
     - '95926284'
@@ -14,7 +14,7 @@ categories:
 
 [![CustomerFu-logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/CustomerFu-logo_thumb.jpg "CustomerFu-logo")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/CustomerFu-logo_2.jpg)
 
-I have been spending a lot of my free time lately working on a new web application that I wanted to announce today, [CustomerFu](http://customerfu.com). CustomerFu is:
+I have been spending a lot of my free time lately working on a new web application that I wanted to announce today, [CustomerFu](https://customerfu.com). CustomerFu is:
 
 > CustomerFu is the simple solution for tracking customer complaints. A central place where all your complaints can be entered, actioned, monitored and closed.
 > 
@@ -36,6 +36,6 @@ Users of CustomerFu have a centralized dashboard to track complaints coming in f
 
 [![cf_categories_sm](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_categories_sm_thumb.jpg "cf_categories_sm")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IntroducingCustomerFu_E7A6/cf_categories_sm_2.jpg)
 
-Please email me at <rbazinet@customerfu.com> with questions or more details. Free accounts are available on the [CustomerFu.com](http://customerfu.com/) web site.
+Please email me at <rbazinet@customerfu.com> with questions or more details. Free accounts are available on the [CustomerFu.com](https://customerfu.com/) web site.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d08538da-e05b-4a73-abdc-409812f56867" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [CustomerFu](http://technorati.com/tags/CustomerFu),[Customer Complaints](http://technorati.com/tags/Customer+Complaints),[Rails](http://technorati.com/tags/Rails)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d08538da-e05b-4a73-abdc-409812f56867" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [CustomerFu](https://technorati.com/tags/CustomerFu),[Customer Complaints](https://technorati.com/tags/Customer+Complaints),[Rails](https://technorati.com/tags/Rails)</div>

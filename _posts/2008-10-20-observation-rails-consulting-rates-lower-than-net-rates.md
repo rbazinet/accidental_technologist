@@ -4,7 +4,7 @@ title: 'Observation : Rails Consulting Rates Lower Than .NET Rates'
 date: '2008-10-20T14:43:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=315'
+guid: 'https://localhost/~rbazinet/?p=315'
 permalink: /technology/observation-rails-consulting-rates-lower-than-net-rates/
 dsq_thread_id:
     - '95924959'
@@ -42,4 +42,4 @@ I would like to know more about the companies choosing .NET compared to Rails an
 
 I would appreciate some feedback.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3969f9c2-5494-4c11-8e18-028aeb2bab03" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Microsoft](http://technorati.com/tags/Microsoft),[Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails),[.NET](http://technorati.com/tags/.NET),[ASP.NET](http://technorati.com/tags/ASP.NET),[Consulting](http://technorati.com/tags/Consulting)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3969f9c2-5494-4c11-8e18-028aeb2bab03" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Microsoft](https://technorati.com/tags/Microsoft),[Ruby on Rails](https://technorati.com/tags/Ruby%20on%20Rails),[.NET](https://technorati.com/tags/.NET),[ASP.NET](https://technorati.com/tags/ASP.NET),[Consulting](https://technorati.com/tags/Consulting)</div>

@@ -4,7 +4,7 @@ title: 'Professional IronRuby - Coming to a bookstore near you'
 date: '2008-03-14T15:12:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=247'
+guid: 'https://localhost/~rbazinet/?p=247'
 permalink: /ironruby/professional-ironruby-coming-to-a-bookstore-near-you/
 dsq_thread_id:
     - '95925969'
@@ -12,11 +12,11 @@ categories:
     - IronRuby
 ---
 
-I finally found a bit of time to blog about a book I am writing with a friend of mine, Aaron Junod. You may be familiar with Aaron from the [RubyDoes.NET web site](http://rubydoes.net/). The title of the book is, you guessed it, Professional IronRuby and is being published by [Wrox](http://www.wrox.com)/Wiley Press. The topic is of course, [IronRuby](http://www.ironruby.com/). Since the RTM of IronRuby will likely be the end of the year you should see the book in stores in the November time frame.
+I finally found a bit of time to blog about a book I am writing with a friend of mine, Aaron Junod. You may be familiar with Aaron from the [RubyDoes.NET web site](https://rubydoes.net/). The title of the book is, you guessed it, Professional IronRuby and is being published by [Wrox](https://www.wrox.com)/Wiley Press. The topic is of course, [IronRuby](https://www.ironruby.com/). Since the RTM of IronRuby will likely be the end of the year you should see the book in stores in the November time frame.
 
 I don't really know what made me take the plunge to write a book let along strive for a good. I have enjoyed writing on the blog here and also for InfoQ which I am both a .NET and Ruby editor, so I guess the topic of Ruby on .NET really made sense to me. I will post an image of the book cover once we have it, which will contain the usual author photos. Yes, you get to see my ugly mug.
 
-The goal of the book will be to discuss Ruby on .NET, not be an introduction to [Ruby](http://www.ruby-lang.org). We will take the time to give a short overview of Ruby, an overview which will be enough for experienced .NET developers to know how to create the same constructs in IronRuby as they do in their native .NET language of choice. We will discuss all of those things important to developers interested in exploring and creating great applications using dynamic language.
+The goal of the book will be to discuss Ruby on .NET, not be an introduction to [Ruby](https://www.ruby-lang.org). We will take the time to give a short overview of Ruby, an overview which will be enough for experienced .NET developers to know how to create the same constructs in IronRuby as they do in their native .NET language of choice. We will discuss all of those things important to developers interested in exploring and creating great applications using dynamic language.
 
 ### Draft Table of Contents
 
@@ -47,4 +47,4 @@ I would be interested to hear some feedback on what topic details readers might 
 
 I am really looking forward to the whole experience. So many people write books and say they will never do it again. I am certainly not doing for the money but instead, the experience. Writing this book so far has been eye-opening to the publishing process as well as gotten us closer to the Dynamic Language team and seeing the development of this important technology a bit closer than we normally would have.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [IronRuby](http://technorati.com/tags/IronRuby),[Microsoft](http://technorati.com/tags/Microsoft),[Dynamic Language](http://technorati.com/tags/Dynamic%20Language)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [IronRuby](https://technorati.com/tags/IronRuby),[Microsoft](https://technorati.com/tags/Microsoft),[Dynamic Language](https://technorati.com/tags/Dynamic%20Language)</div>

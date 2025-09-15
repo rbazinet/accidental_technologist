@@ -4,7 +4,7 @@ title: 'What I want in the Microsoft ASP.NET MVC Framework'
 date: '2008-01-27T16:11:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=221'
+guid: 'https://localhost/~rbazinet/?p=221'
 permalink: /asp-net-mvc/what-i-want-in-the-microsoft-asp-net-mvc-framework/
 dsq_thread_id:
     - '95924627'
@@ -12,11 +12,11 @@ categories:
     - 'ASP.NET MVC'
 ---
 
-[![505585_96069773](http://rbazinet.files.wordpress.com/2008/01/505585-96069773-thumb.jpg)](http://rbazinet.files.wordpress.com/2008/01/505585-96069773.jpg)Rob Conery's recent post, [Ramble: ASP.NET MVC Is A Geek Chisel](http://blog.wekeroad.com/2008/01/25/ramble-aspnet-mvc-is-a-geek-chisel/) started me thinking again about the Microsoft ASP.NET MVC Framework. I develop software targeting the .NET framework as well as Ruby web applications using Ruby on Rails. The .NET applications I manage have clients ranging from small shops to enterprise-wide complex pieces of software. When I have a choice, I choose [Ruby on Rails](http://www.rubyonrails.org). Why? Because it is so much simpler to turn out software fast.
+[![505585_96069773](https://rbazinet.files.wordpress.com/2008/01/505585-96069773-thumb.jpg)](https://rbazinet.files.wordpress.com/2008/01/505585-96069773.jpg)Rob Conery's recent post, [Ramble: ASP.NET MVC Is A Geek Chisel](https://blog.wekeroad.com/2008/01/25/ramble-aspnet-mvc-is-a-geek-chisel/) started me thinking again about the Microsoft ASP.NET MVC Framework. I develop software targeting the .NET framework as well as Ruby web applications using Ruby on Rails. The .NET applications I manage have clients ranging from small shops to enterprise-wide complex pieces of software. When I have a choice, I choose [Ruby on Rails](https://www.rubyonrails.org). Why? Because it is so much simpler to turn out software fast.
 
 I have not given much thought to the MVC Framework lately after watching Scott Hanselman's screencast on its usage. No offense to Scott but the video left a really bad taste in my mouth. I saw too much of the overly cumbersome things ASP.NET developers have to go through to make things line up. Sure, you can drop a few controls on a page, hook up a database and wire-up your data bound controls, but that is not a realistic approach.
 
-As most developers know, Microsoft has [released an early CTP](http://www.asp.net/downloads/3.5-extensions/) of the Microsoft ASP.NET MVC Framework which implements the Model-View-Controller pattern, the same pattern implemented by Ruby on Rails.
+As most developers know, Microsoft has [released an early CTP](https://www.asp.net/downloads/3.5-extensions/) of the Microsoft ASP.NET MVC Framework which implements the Model-View-Controller pattern, the same pattern implemented by Ruby on Rails.
 
 Rob's post can be summed up here:
 
@@ -24,7 +24,7 @@ Rob's post can be summed up here:
 > 
 > As a developer you build things- just like any contractor building a house, or artist creating a work of art. Often times artists will choose not to use tools that save them time, preferring to build something that they can (literally) work with their hands so they can ?feel the art inside the medium?.
 > 
-> In the same way that [Big Z showed Cody how to shape a board](http://www.imdb.com/title/tt0423294/) (?looong, easy strokes?) - many people just want the machinery to get out of their way when building a web site so they can create their HTML how THEY want to, and use JavaScript and form tags as they see fit.
+> In the same way that [Big Z showed Cody how to shape a board](https://www.imdb.com/title/tt0423294/) (?looong, easy strokes?) - many people just want the machinery to get out of their way when building a web site so they can create their HTML how THEY want to, and use JavaScript and form tags as they see fit.
 > 
 > Some people see this as tedious, repetitive work - others see the process as creationary and artistic. I think they?re both right and I love how ASP, now, supports both.
 > 
@@ -55,4 +55,4 @@ Powerful frameworks without a simple and default implementation lead to slow ado
 
 So, if Microsoft is looking for a story for the MVC Framework, make it drop-dead easy to create web applications. Don't make me work any harder than I do to create a Ruby on Rails applications and give me all the same tools the Rails team gives its developers. I don't really think I need to be pointing this out, it should be as obvious to other developers as it is to me. I guess maybe not if you never used Rails before.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [ASP.NET](http://technorati.com/tags/ASP.NET), [MVC Framework](http://technorati.com/tags/MVC%20Framework), [Microsoft](http://technorati.com/tags/Microsoft)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [ASP.NET](https://technorati.com/tags/ASP.NET), [MVC Framework](https://technorati.com/tags/MVC%20Framework), [Microsoft](https://technorati.com/tags/Microsoft)</div>

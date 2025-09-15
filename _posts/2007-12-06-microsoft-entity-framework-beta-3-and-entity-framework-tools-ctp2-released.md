@@ -4,15 +4,15 @@ title: 'Microsoft Entity Framework Beta 3 and Entity Framework Tools CTP2 Releas
 date: '2007-12-06T13:50:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=181'
+guid: 'https://localhost/~rbazinet/?p=181'
 permalink: /net/microsoft-entity-framework-beta-3-and-entity-framework-tools-ctp2-released/
 categories:
     - .NET
 ---
 
-The latest versions of the [Entity Framework Beta](http://blogs.msdn.com/adonet/archive/2007/12/05/ado-net-entity-framework-beta-3-rleased.aspx) and [Entity Framework Tools CTP](http://blogs.msdn.com/adonet/archive/2007/12/05/entity-framework-beta-3-breaking-changes.aspx) are available according to the ADO.NET Team Blog.
+The latest versions of the [Entity Framework Beta](https://blogs.msdn.com/adonet/archive/2007/12/05/ado-net-entity-framework-beta-3-rleased.aspx) and [Entity Framework Tools CTP](https://blogs.msdn.com/adonet/archive/2007/12/05/entity-framework-beta-3-breaking-changes.aspx) are available according to the ADO.NET Team Blog.
 
-[Entity Framework Beta 3 includes](http://blogs.msdn.com/adonet/archive/2007/12/05/ado-net-entity-framework-beta-3-rleased.aspx):
+[Entity Framework Beta 3 includes](https://blogs.msdn.com/adonet/archive/2007/12/05/ado-net-entity-framework-beta-3-rleased.aspx):
 
 > **Performance improvements**
 > 
@@ -44,7 +44,7 @@ The latest versions of the [Entity Framework Beta](http://blogs.msdn.com/adonet/
 > - Connection management refinements
 > - Provider interface allows better reasoning about primitive types
 
-[Entity Framework Tools CTP2 includes](http://blogs.msdn.com/adonet/archive/2007/12/06/entity-designer-ctp2.aspx):
+[Entity Framework Tools CTP2 includes](https://blogs.msdn.com/adonet/archive/2007/12/06/entity-designer-ctp2.aspx):
 
 > ? **Map using stored procedures:** you can now map entities to insert/update/delete stored procedures in the mapping details window in the designer
 > 
@@ -78,4 +78,4 @@ This version has support for Visual Studio 2008 RTM, which the last releases did
 
 I plan on installing on two of my development systems and will report any problems later.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Entity Framework](http://technorati.com/tags/Entity%20Framework), [Entity Framework Tools](http://technorati.com/tags/Entity%20Framework%20Tools), [Visual Studio 2008](http://technorati.com/tags/Visual%20Studio%202008)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Entity Framework](https://technorati.com/tags/Entity%20Framework), [Entity Framework Tools](https://technorati.com/tags/Entity%20Framework%20Tools), [Visual Studio 2008](https://technorati.com/tags/Visual%20Studio%202008)</div>

@@ -4,7 +4,7 @@ title: 'Career Crossroads and Deciding What is Next'
 date: '2008-06-12T16:36:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=281'
+guid: 'https://localhost/~rbazinet/?p=281'
 permalink: /general/career-crossroads-and-deciding-what-is-next/
 dsq_thread_id:
     - '95911911'
@@ -12,7 +12,7 @@ categories:
     - General
 ---
 
-[![Signs](http://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/CareerCrossroadsandDecidingWhatisNext_C158/Signs_thumb.jpg)](http://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/CareerCrossroadsandDecidingWhatisNext_C158/Signs_2.jpg)
+[![Signs](https://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/CareerCrossroadsandDecidingWhatisNext_C158/Signs_thumb.jpg)](https://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/CareerCrossroadsandDecidingWhatisNext_C158/Signs_2.jpg)
 
 I have had a pretty good career so far, gone from college to running my own technology company for 10-years, selling it and taking on some interesting software development and lead roles for a few companies and fast-forwarding to now where I am an independent software developer.
 
@@ -30,9 +30,9 @@ I do have a diverse and solid technology background:
 
 I have acted as a software architect on many projects as well as the project manager on others managing completely new development. Running a company also provides this type of experience as well.
 
-In the past couple years I have gotten more involved in writing, mostly technical, for this blog and for [InfoQ](http://www.infoq.com) as well as a [book on IronRuby](http://www.accidentaltechnologist.com/ruby/ironruby/professional-ironruby-coming-to-a-bookstore-near-you/). I enjoy the writing a lot more than I thought I would and want to keep it up. The downside, it does not pay as well as coding or at least I haven't found a way to make a living with it just yet.
+In the past couple years I have gotten more involved in writing, mostly technical, for this blog and for [InfoQ](https://www.infoq.com) as well as a [book on IronRuby](https://www.accidentaltechnologist.com/ruby/ironruby/professional-ironruby-coming-to-a-bookstore-near-you/). I enjoy the writing a lot more than I thought I would and want to keep it up. The downside, it does not pay as well as coding or at least I haven't found a way to make a living with it just yet.
 
-I don't really maintain a resume any longer, the [post by Rob Walling](http://www.softwarebyrob.com/2008/05/08/why-have-a-resume-pixar-on-innovation-myths-of-innovation-startup-school-videos-and-legendary-programming-style-tips/) on the subject rang true to me. I don't think it's necessary as I never plan to go work for a mainstream company who requires one.
+I don't really maintain a resume any longer, the [post by Rob Walling](https://www.softwarebyrob.com/2008/05/08/why-have-a-resume-pixar-on-innovation-myths-of-innovation-startup-school-videos-and-legendary-programming-style-tips/) on the subject rang true to me. I don't think it's necessary as I never plan to go work for a mainstream company who requires one.
 
 ### What I want to do
 
@@ -43,8 +43,8 @@ So with my biggest client going away I need to make some decisions. I need to de
 - Get a new big client to write code for and stop thinking about it - this is probably the easiest option I have as writing code by the hour for a single company is not that hard to find. The drawback is that I am little more than just an employee with no benefits. The plus side of things, the pay is usually really good.
 - Get a bunch of small clients to write code for - this option is a bit tougher to land a bunch of smaller clients an be able to juggle all of the demands of the work. These types of clients usually pay by the projects and from experience, are feast or famine. The upside, you are really your own boss and have more control of the work you want to do.
 - Stop contracting all together and create the software product company I have always wanted - this is very attractive but very risky. I am full of ideas but ideas are cheap and it really comes down to the execution. The cost in time up front and the amount of time it may take to make a living could be very long.
-- Get hired by a large company to help get a product off the ground, evangelize and manage - I have thought working for a company like Microsoft would be a great experience. I have seen folks like [Scott Hanselman](http://www.hanselman.com/blog/), [Rob Conery](http://blog.wekeroad.com/) and [Phil Haack](http://haacked.com/) move from smaller companies to Microsoft and appear to be having a great time doing it. I would think being involved in ASP.NET MVC or IronRuby would be a really cool way to spend the day.
-- Get hired by a small company to have a bigger impact to get a something cool going - I have done this already and it is very rewarding but has drawbacks. The pay is usually not as good and the funds to do a project are less, which is understandable. I think this is less appealing but getting in the ground level of a company like [HashRocket](http://www.hashrocket.com/) or [Engine Yard](http://www.engineyard.com/) would be a great time. It would be good to have some equity, which really makes the challenge that much more rewarding.
+- Get hired by a large company to help get a product off the ground, evangelize and manage - I have thought working for a company like Microsoft would be a great experience. I have seen folks like [Scott Hanselman](https://www.hanselman.com/blog/), [Rob Conery](https://blog.wekeroad.com/) and [Phil Haack](https://haacked.com/) move from smaller companies to Microsoft and appear to be having a great time doing it. I would think being involved in ASP.NET MVC or IronRuby would be a really cool way to spend the day.
+- Get hired by a small company to have a bigger impact to get a something cool going - I have done this already and it is very rewarding but has drawbacks. The pay is usually not as good and the funds to do a project are less, which is understandable. I think this is less appealing but getting in the ground level of a company like [HashRocket](https://www.hashrocket.com/) or [Engine Yard](https://www.engineyard.com/) would be a great time. It would be good to have some equity, which really makes the challenge that much more rewarding.
 
 **Some things important to me when thinking ahead:**
 
@@ -57,10 +57,10 @@ I am too old and have too much experience to be starting at the ground-floor of 
 
 ### So, what to do?
 
-I this point I don't know what will be next. My large client contract ends around the middle-to-late July. I am [attending RubyFringe](http://www.accidentaltechnologist.com/ruby/heading-to-rubyfringe-july-18-20-and-looking-to-interview-speakers/) the third week of July and plan to take vacation time with the family the first two or three weeks of August, haven't really decided yet.
+I this point I don't know what will be next. My large client contract ends around the middle-to-late July. I am [attending RubyFringe](https://www.accidentaltechnologist.com/ruby/heading-to-rubyfringe-july-18-20-and-looking-to-interview-speakers/) the third week of July and plan to take vacation time with the family the first two or three weeks of August, haven't really decided yet.
 
 I am looking my readers thoughts on this as well, I am sure you have a lot of experience with this. If you want to pass along something either leave a comment here or send an email to rbazinet AT gmail dot com.
 
 If anyone has an interesting project they would like to pass along, please do that as well. I am open to hear about possible partnerships or just about anything. The good thing is I am not desperate for work and see this as an opportunity to step back and take on something important, something that will have an impact on the world. Suggestions welcome.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:6052f785-544f-478d-b373-b511e2428edd" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Career](http://technorati.com/tags/Career)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:6052f785-544f-478d-b373-b511e2428edd" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Career](https://technorati.com/tags/Career)</div>

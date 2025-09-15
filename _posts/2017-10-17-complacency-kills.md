@@ -7,7 +7,7 @@ layout: post
 guid: 'https://accidentaltechnologist.com/?p=1175'
 permalink: /life/complacency-kills/
 link:
-    - 'http://www.matthewdicks.com/matthewdicksblog/2017/10/14/complacency-kills'
+    - 'https://www.matthewdicks.com/matthewdicksblog/2017/10/14/complacency-kills'
 dsq_thread_id:
     - '6221278447'
 categories:

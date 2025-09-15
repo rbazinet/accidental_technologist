@@ -27,7 +27,7 @@ I have lived a long time with the iPhone, buying the 2G first and then later the
 
 I also waited a long time for the rumors of iPhone on Verizon to appear but they have yet to materialize.
 
-So, I have bid a farewell to the iPhone for the time being and moved to a Google Android-based [Motorola Droid X](http://www.motorola.com/Consumers/US-EN/Consumer-Product-and-Services/Mobile-Phones/Motorola-DROID-X-US-EN) on Verizon.
+So, I have bid a farewell to the iPhone for the time being and moved to a Google Android-based [Motorola Droid X](https://www.motorola.com/Consumers/US-EN/Consumer-Product-and-Services/Mobile-Phones/Motorola-DROID-X-US-EN) on Verizon.
 
 [](/assets/img/2010/10/droidx.jpg)
 
@@ -37,7 +37,7 @@ When the Motorola Droid X finally arrived (3 weeks after ordering), I spent a lo
 
 #### Size
 
-I was told how large the Droid X was and listening to [podcasts from Android Central](http://www.androidcentral.com/podcast), I had definite doubts that I was getting into a phone too big to be useful. I often carry my iPhone in my pants pocket and this was something I still wanted to be able to do.
+I was told how large the Droid X was and listening to [podcasts from Android Central](https://www.androidcentral.com/podcast), I had definite doubts that I was getting into a phone too big to be useful. I often carry my iPhone in my pants pocket and this was something I still wanted to be able to do.
 
 I took a trip to my local Best Buy so I could compare the Droid X to my iPhone. I was surprised to discover the Droid X was only slightly longer, maybe 3/8?. This is a big phone, no doubt but the 4.3" screen makes it worth it.
 

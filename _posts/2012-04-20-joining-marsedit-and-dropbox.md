@@ -16,7 +16,7 @@ tags:
     - WordPress
 ---
 
-I use [MarsEdit from Red Sweater Software](http://www.red-sweater.com/marsedit/) as my exclusive blogging tool on the Mac and have over the last couple years. ?I tend to write lots of draft posts on my desktop Mac Pro that never get published or I work on them when I can before pushing out to my Wordpress blog.
+I use [MarsEdit from Red Sweater Software](https://www.red-sweater.com/marsedit/) as my exclusive blogging tool on the Mac and have over the last couple years. ?I tend to write lots of draft posts on my desktop Mac Pro that never get published or I work on them when I can before pushing out to my Wordpress blog.
 
 I also use MarsEdit on my MacBook Air when I travel or even if I am working on the couch in the evenings. ?All of the drafts in MarsEdit are saved locally on the computer I am going the writing and once I want to be able to edit from the other computer I end up pushing as a draft to the blog and pulling it down via MarsEdit. ?This is a tedious task and has problems. ?I don't know how many times I pushed up a draft and forgot I did a few days later only to work on an old draft locally.
 

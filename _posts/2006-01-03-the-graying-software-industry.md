@@ -4,13 +4,13 @@ title: 'The Graying Software Industry'
 date: '2006-01-03T17:40:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=42'
+guid: 'https://localhost/~rbazinet/?p=42'
 permalink: /technology/the-graying-software-industry/
 categories:
     - Technology
 ---
 
-[Sahil Malik has a great post](http://codebetter.com/blogs/sahil.malik/archive/2006/01/02/136092.aspx) on the aging of the people in the software industry. The gist of the post is how the ambition and drive of the developer changes as they get older. I had [posted](http://rbazinet.typepad.com/weblog/2005/09/information_ove.html) about this and Information overload back in September 2005
+[Sahil Malik has a great post](https://codebetter.com/blogs/sahil.malik/archive/2006/01/02/136092.aspx) on the aging of the people in the software industry. The gist of the post is how the ambition and drive of the developer changes as they get older. I had [posted](https://rbazinet.typepad.com/weblog/2005/09/information_ove.html) about this and Information overload back in September 2005
 
 I am a software developer and have been for over 20 years now. I started with a software company while still in high school writing Microsoft BASIC business applications. I didn't understand most of the business logic I was implementing but it was fun and I was getting paid to do something fun. I work 60+ hours a week and when not getting paid I still played around with BASIC on my Kaypro "portable" running CPM.
 
@@ -26,4 +26,4 @@ The simple answer is setting your sights on a manager position in a company and 
 
 Thoughts??
 
-Technorati Tags : [Tech Consultants](http://technorati.com/tag/Tech%20Consultants)
+Technorati Tags : [Tech Consultants](https://technorati.com/tag/Tech%20Consultants)

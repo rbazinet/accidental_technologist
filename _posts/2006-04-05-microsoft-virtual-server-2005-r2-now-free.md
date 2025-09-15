@@ -4,13 +4,13 @@ title: 'Microsoft Virtual Server 2005 R2 now free'
 date: '2006-04-05T15:45:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=70'
+guid: 'https://localhost/~rbazinet/?p=70'
 permalink: /microsoft/microsoft-virtual-server-2005-r2-now-free/
 categories:
     - Microsoft
 ---
 
-I am sure I am not the first person to report this and I won’t be the last but yes…[Virtual Server is now free](http://www.microsoft.com/windowsserversystem/virtualserver/default.mspx).
+I am sure I am not the first person to report this and I won’t be the last but yes…[Virtual Server is now free](https://www.microsoft.com/windowsserversystem/virtualserver/default.mspx).
 
 It’s not earth shattering news since VMWare is giving away their latest virtual server environment. The real nice thing here is how well Virtual Server works and what you can do with it.
 
@@ -22,4 +22,4 @@ If you are a developer you can host a bunch of different operating systems that 
 
 I have used Microsoft Virtual PC in the past and use it on Windows XP all the time to test various operating systems and such. I just started using Virtual Server and from what I have seen so far it works better than Virtual PC, handles memory better and better hardware integration to maximize performance.
 
-Technorati Tags : [Virtual Server](http://technorati.com/tag/Virtual%20Server), [Microsoft](http://technorati.com/tag/Microsoft)
+Technorati Tags : [Virtual Server](https://technorati.com/tag/Virtual%20Server), [Microsoft](https://technorati.com/tag/Microsoft)

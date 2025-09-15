@@ -24,9 +24,9 @@ tags:
 
 ![CS193P 225x225 75](/assets/img/2012/11/CS193P.225x225-75.jpg "CS193P.225x225-75.jpg")
 
-The [Stanford University course for iPhone Application Development](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/) (CS 193P) is a really great course and one all new iOS developers should check out. ?
+The [Stanford University course for iPhone Application Development](https://www.stanford.edu/class/cs193p/cgi-bin/drupal/) (CS 193P) is a really great course and one all new iOS developers should check out. ?
 
-[Daniel Steinberg](http://dimsumthinking.com) has recently [released a companion text for the Stanford course under his Editor's Cut series](http://editorscut.com/Books/003ipadiphone/003ipadiphone-details.html):
+[Daniel Steinberg](https://dimsumthinking.com) has recently [released a companion text for the Stanford course under his Editor's Cut series](https://editorscut.com/Books/003ipadiphone/003ipadiphone-details.html):
 
 > This is the official companion text for the popular iTunes U series from Stanford University taught by Paul Hegarty in Fall 2011. The book is full of code examples and animated walkthroughs designed to teach experienced programmers how to write iPad and iPhone applications.
 

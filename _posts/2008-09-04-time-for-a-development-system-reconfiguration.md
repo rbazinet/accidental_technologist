@@ -4,7 +4,7 @@ title: 'Time for a Development System Reconfiguration'
 date: '2008-09-04T08:00:44-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=307'
+guid: 'https://localhost/~rbazinet/?p=307'
 permalink: /technology/time-for-a-development-system-reconfiguration/
 dsq_thread_id:
     - '95926170'
@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-[![WallOfComputers](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_2.jpg) The time has come for me to reconfigure my Windows Vista development system after it has been running very well for months. I lately upgraded my motherboard to an [ABit IP35 Pro](http://www.abit.com.tw/page/en/motherboard/motherboard_detail.php?pMODEL_NAME=IP35+Pro&fMTYPE=LGA775) to better support my new [Q9300 quad-core processor](http://www.newegg.com/Product/Product.aspx?Item=N82E16819115043) and upgraded my system memory to a total of 8GB. Since 32-bit Vista can't handle all this memory it was time to install 64-bit Vista and think about a better way to support my personal development and development I do for clients.
+[![WallOfComputers](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/Test_F33A/WallOfComputers_2.jpg) The time has come for me to reconfigure my Windows Vista development system after it has been running very well for months. I lately upgraded my motherboard to an [ABit IP35 Pro](https://www.abit.com.tw/page/en/motherboard/motherboard_detail.php?pMODEL_NAME=IP35+Pro&fMTYPE=LGA775) to better support my new [Q9300 quad-core processor](https://www.newegg.com/Product/Product.aspx?Item=N82E16819115043) and upgraded my system memory to a total of 8GB. Since 32-bit Vista can't handle all this memory it was time to install 64-bit Vista and think about a better way to support my personal development and development I do for clients.
 
 The picture here is what my office feels like sometimes with all the various machines I have with client-specific work on them. I want to be able to consolidate into a single big desktop and run everything on the one box.
 
@@ -33,7 +33,7 @@ The problem with having so many things interdependent between multiple clients a
 
 Simplification! Since I was installing Vista 64 and it cannot be installed as an upgrade I knew I had the chance to really consider how I wanted to configure this system in order to better be able to support many clients in the future as well as allowing for my own personal projects.
 
-I decided a very simple approach; install as little as necessary for client support on the main Vista 64 installation and use [VMWare Workstation](http://www.vmware.com/products/ws/overview.html) Virtual Machines (VM) for clients. The idea will be to have a separate VM for each client which will allow for:
+I decided a very simple approach; install as little as necessary for client support on the main Vista 64 installation and use [VMWare Workstation](https://www.vmware.com/products/ws/overview.html) Virtual Machines (VM) for clients. The idea will be to have a separate VM for each client which will allow for:
 
 - Choice of operating system needed by the client; Window XP, Windows Vista, Windows Server 2003/2008 or Linux
 - Choice of development tools; Visual Studio 2003/2005/2008
@@ -66,7 +66,7 @@ I ran into an interesting problem along the way with an error when installing Vi
 
 > Error 1718. File <var>FileName</var> was rejected by digital signature policy.
 
-The solution was pretty straightforward and was [available as a patch](http://support.microsoft.com/kb/925336) from Microsoft:
+The solution was pretty straightforward and was [available as a patch](https://support.microsoft.com/kb/925336) from Microsoft:
 
 > FIX: Error message when you try to install a large Windows Installer package or a large Windows Installer patch package in Windows Server 2003 or in Windows XP: "Error 1718. File was rejected by digital signature policy"
 
@@ -77,4 +77,4 @@ I think this overall setup will work very well and will let me support many clie
 There has been too many times in the past years that constantly updating my development system(s) with so many different application just makes a real mess before too long and has often times made updating tough with clients on different versions of certain libraries. This configuration should solve that problem as well.
 
 <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:7c9649a4-3346-4ad2-882a-85991b3594c7" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px;
-padding-top: 0px">Technorati Tags: [VMWare](http://technorati.com/tags/VMWare),[Vista](http://technorati.com/tags/Vista)</div>
+padding-top: 0px">Technorati Tags: [VMWare](https://technorati.com/tags/VMWare),[Vista](https://technorati.com/tags/Vista)</div>

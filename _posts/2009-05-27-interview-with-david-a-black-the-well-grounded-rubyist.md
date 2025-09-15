@@ -4,7 +4,7 @@ title: 'Interview with David A. Black, The Well-Grounded Rubyist'
 date: '2009-05-27T13:18:23-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=361'
+guid: 'https://localhost/~rbazinet/?p=361'
 permalink: /infoq/interview-with-david-a-black-the-well-grounded-rubyist/
 dsq_thread_id:
     - '20594789'
@@ -12,9 +12,9 @@ categories:
     - InfoQ
 ---
 
-[![black2_cover150](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewTheWellGroundedRubyist_871E/black2_cover150_3.jpg "black2_cover150")](http://www.manning.com/black2/)
+[![black2_cover150](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/InterviewTheWellGroundedRubyist_871E/black2_cover150_3.jpg "black2_cover150")](https://www.manning.com/black2/)
 
-I recently had the opportunity to review a copy of [David A. Black?s](http://dablog.rubypal.com/) new book, [The Well-Grounded Rubyist](http://www.manning.com/black2/). I interviewed David for InfoQ, [which is now live on the site](http://www.infoq.com/articles/interview-david-black). Please take a moment to give the interview a read, I think it was pretty insightful.
+I recently had the opportunity to review a copy of [David A. Black?s](https://dablog.rubypal.com/) new book, [The Well-Grounded Rubyist](https://www.manning.com/black2/). I interviewed David for InfoQ, [which is now live on the site](https://www.infoq.com/articles/interview-david-black). Please take a moment to give the interview a read, I think it was pretty insightful.
 
 David covers many topics including how he got started with Ruby, suggestions on how developers should learn Ruby to his views on moving to Ruby 1.9.1:
 
@@ -26,4 +26,4 @@ Although the piece is an interview and not a review of the book, I had to hold b
 
 I will likely give a detailed review at another time so look for it here in the future.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:864f8ee6-954c-46a5-8d83-f90c363b7071" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Ruby](http://technorati.com/tags/Ruby),[Well-Grounded Rubyist](http://technorati.com/tags/Well-Grounded+Rubyist),[David A. Black](http://technorati.com/tags/David+A.+Black)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:864f8ee6-954c-46a5-8d83-f90c363b7071" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Ruby](https://technorati.com/tags/Ruby),[Well-Grounded Rubyist](https://technorati.com/tags/Well-Grounded+Rubyist),[David A. Black](https://technorati.com/tags/David+A.+Black)</div>

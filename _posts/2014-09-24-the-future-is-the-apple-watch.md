@@ -15,7 +15,7 @@ tags:
     - 'apple watch'
 ---
 
-I?ve been anticipating the official announcement of the [Apple Watch](http://www.apple.com/watch/) since rumors surfaced many months ago. ?I?ve spent much time thinking about the features I?d like to see based on my day-to-day routine. ?Since I am an avid runner, my main use cases revolved around what I want related to running; no phone required, GPS built in, great fitness application to track my pace, distance and heart rate built in. ?I didn?t get many of the things I had hoped.
+I?ve been anticipating the official announcement of the [Apple Watch](https://www.apple.com/watch/) since rumors surfaced many months ago. ?I?ve spent much time thinking about the features I?d like to see based on my day-to-day routine. ?Since I am an avid runner, my main use cases revolved around what I want related to running; no phone required, GPS built in, great fitness application to track my pace, distance and heart rate built in. ?I didn?t get many of the things I had hoped.
 
 I don?t even wear a watch today, except when I run. ?After the Apple announcement of the Watch, I upgraded my running watch since the Apple Watch met almost none of my running needs and wouldn?t be available until 2015. ?The last thing I want to do is run with my new iPhone 6 and a watch.
 
@@ -33,7 +33,7 @@ Today we see many people with their smartphones out everywhere, checking Twitter
 
 Applications being available the day the Apple Watch is released is important. ?There are plenty developers already chomping at the bit to get started with the Watch. These are the developers who will make a difference, have the ideas that will drive the platform into the future.?
 
-Jeremy Olson of [Tapity](http://tapity.com) is one of the those outspoken developers who has described his vision for using the Watch with their [Hours application](http://www.hourstimetracking.com).
+Jeremy Olson of [Tapity](https://tapity.com) is one of the those outspoken developers who has described his vision for using the Watch with their [Hours application](https://www.hourstimetracking.com).
 
 > The ?Watch takes this to a whole new level. It means you can switch timers without even taking your phone out of your pocket. Just glance at your wrist and tap. Boom.
 > 

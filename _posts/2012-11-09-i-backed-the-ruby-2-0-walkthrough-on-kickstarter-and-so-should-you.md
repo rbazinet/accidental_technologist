@@ -22,11 +22,11 @@ tags:
 
 ![Ruby20](/assets/img/2012/11/ruby20.jpg "ruby20.jpg")
 
-It was announced at RubyConf that [Ruby 2.0 would be released in February 2013](http://www.infoq.com/news/2012/11/ruby-20-preview1) and a preview available immediately. ?If you use rvm, you can try it out pretty easily.
+It was announced at RubyConf that [Ruby 2.0 would be released in February 2013](https://www.infoq.com/news/2012/11/ruby-20-preview1) and a preview available immediately. ?If you use rvm, you can try it out pretty easily.
 
 The problem is, there are many changes coming. ?How are you going to know what's different from Ruby 1.9.x? ?What about all the way back to 1.8.x? ?I think it will take any one of us a significant amount of time to sort it all out, but it doesn't have to.
 
-There really is a rather simple answer; it's a Kickstarter project by our Ruby friend [Peter Cooper](http://peterc.org) called [The Ruby 2.0 Walkthrough](http://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough). ?Peter is looking for a small sum of money to help pay for his time to create this valuable asset.
+There really is a rather simple answer; it's a Kickstarter project by our Ruby friend [Peter Cooper](https://peterc.org) called [The Ruby 2.0 Walkthrough](https://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough). ?Peter is looking for a small sum of money to help pay for his time to create this valuable asset.
 
 What do you get?
 
@@ -39,4 +39,4 @@ I am backing this project and so should you. ?Why? ?
 - Peter would like your support. ?He provides so much value to our community with his weekly newsletters for Ruby, JavaScript, HTML5 and others, that when someone so giving asks for support..it's a no-brainer.
 - Peter needs the pressure from us, by raising the money to get it done.
 
-<div>Head over to [Kickstarter and support The Ruby 2.0 Walkthrough](http://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough). ?Many less worthy projects have been funded.</div>?
+<div>Head over to [Kickstarter and support The Ruby 2.0 Walkthrough](https://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough). ?Many less worthy projects have been funded.</div>?

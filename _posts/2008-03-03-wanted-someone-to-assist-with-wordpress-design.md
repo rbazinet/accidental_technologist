@@ -4,7 +4,7 @@ title: 'Wanted: Someone to assist with WordPress Design'
 date: '2008-03-03T12:18:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=243'
+guid: 'https://localhost/~rbazinet/?p=243'
 permalink: /general/wanted-someone-to-assist-with-wordpress-design/
 categories:
     - General
@@ -22,4 +22,4 @@ Please reach me at rbazinet at gmail dot com.
 
 If Wordpress is listening, I would pay a reasonable annual fee to have my own theme hosted on Wordpress.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Wordpress](http://technorati.com/tags/Wordpress),[Design](http://technorati.com/tags/Design),[CSS](http://technorati.com/tags/CSS)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Wordpress](https://technorati.com/tags/Wordpress),[Design](https://technorati.com/tags/Design),[CSS](https://technorati.com/tags/CSS)</div>

@@ -18,7 +18,7 @@ tags:
 
 Anyone who deploys their Rails 3.x or 4.x utilizing the asset pipeline and doesn?t precompile those assets yet deploys to Heroku, knows it can take a really long time for your deployment.
 
-I searched around a bit and found a great article on how to shave some time off my Heroku deployments. ?[Alex MacCaw has a nice write up about the process](http://blog.alexmaccaw.com/faster-deploys):
+I searched around a bit and found a great article on how to shave some time off my Heroku deployments. ?[Alex MacCaw has a nice write up about the process](https://blog.alexmaccaw.com/faster-deploys):
 
 > If you're using Heroku, the first step is enabling a Memcache addon. I've gone with the `memcachier` service, as they've got a generous free plan (which is all we need at this stage).
 > 

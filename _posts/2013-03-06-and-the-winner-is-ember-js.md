@@ -29,9 +29,9 @@ I have been spending a lot of time investigating various JavaScript frameworks o
 
 The frameworks differ in various ways, some are opinionated while others give a few key parts that you have to spend more time architecting and piecing together. ?
 
-It came to my attention that [Jeff Atwood](http://www.codinghorror.com/blog/) recently announced the project he's been working on over the past few months after leaving [StackOverflow](http://stackoverflow.com); [Discourse](http://www.discourse.org), which is a new approach to forum software.
+It came to my attention that [Jeff Atwood](https://www.codinghorror.com/blog/) recently announced the project he's been working on over the past few months after leaving [StackOverflow](https://stackoverflow.com); [Discourse](https://www.discourse.org), which is a new approach to forum software.
 
-It turns out Discourse is based on a Ruby on Rails backend (API) and an [Ember.js](http://emberjs.com) front end. ?Ember.js happens to be one of the client frameworks on my radar for our company products. ?One of the Discourse co-founders, [Robin Ward](http://eviltrout.com), [recently wrote about why Ember.js was chosen over other JavaScript MVC frameworks](http://eviltrout.com/2013/02/10/why-discourse-uses-emberjs.html). ?
+It turns out Discourse is based on a Ruby on Rails backend (API) and an [Ember.js](https://emberjs.com) front end. ?Ember.js happens to be one of the client frameworks on my radar for our company products. ?One of the Discourse co-founders, [Robin Ward](https://eviltrout.com), [recently wrote about why Ember.js was chosen over other JavaScript MVC frameworks](https://eviltrout.com/2013/02/10/why-discourse-uses-emberjs.html). ?
 
 I love to see articles released like this from Robin where the aspects of the decision are compared and contrasted with other frameworks. ? One aspect of using a MVC framework in particular which was eye-opening is comparing a task in jQuery with the Ember.js way of doing things:
 
@@ -61,6 +61,6 @@ One of advantage of a rich client interface like this is the API you create is a
 
 The article goes on and talks about why Ember.js was chosen over other MVC frameworks. ?I won't bother to explain those here but feel free to give the article a read and see for yourself. ?Some very good reasoning.
 
-Sometimes making choices like this are the result of subtle differences in frameworks that favor the taste of the developer. ?Ember.js is definitely a framework of opinions, not surprising since one of its creators is [Yehuda Katz](http://yehudakatz.com/). ?Yehuda was the lead architect on the Rails 3 rewrite and Rails is a very opinionated framework.
+Sometimes making choices like this are the result of subtle differences in frameworks that favor the taste of the developer. ?Ember.js is definitely a framework of opinions, not surprising since one of its creators is [Yehuda Katz](https://yehudakatz.com/). ?Yehuda was the lead architect on the Rails 3 rewrite and Rails is a very opinionated framework.
 
 This is definitely worth a read if you are considering Ember.js. ?Also, there are some gems in the comments worth taking a look.

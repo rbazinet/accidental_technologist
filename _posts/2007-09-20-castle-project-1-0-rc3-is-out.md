@@ -4,13 +4,13 @@ title: 'Castle Project 1.0 RC3 is out'
 date: '2007-09-20T22:04:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=147'
+guid: 'https://localhost/~rbazinet/?p=147'
 permalink: /software-architecture/castle-project-1-0-rc3-is-out/
 categories:
     - 'Software Architecture'
 ---
 
-[The Castle Project](http://castleproject.org/) has finally released its [version 1.0 RC3 today](http://castleproject.org/castle/download.html). It has been a long time coming but not for lack of work. I am on the development discussion list and there is a lot of activity, much work has gone into this release.
+[The Castle Project](https://castleproject.org/) has finally released its [version 1.0 RC3 today](https://castleproject.org/castle/download.html). It has been a long time coming but not for lack of work. I am on the development discussion list and there is a lot of activity, much work has gone into this release.
 
 Details on the release from the blog of the Castle Project founder:
 
@@ -72,8 +72,8 @@ Details on the release from the blog of the Castle Project founder:
 > 
 > Well, basically that was it. We?ve been busy.
 
-For those who don't know what the Castle Project is, it is a set of libraries for implementing a [Model-View-Controller](http://en.wikipedia.org/wiki/Model-view-controller) (MVC) framework in .NET. The key piece for this is [MonoRail](http://castleproject.org/monorail/index.html) with [ActiveRecord](http://castleproject.org/activerecord/index.html) handling the models. Most of the time we hear about Ruby on Rails and its MVC implementation but Castle does this on .NET.
+For those who don't know what the Castle Project is, it is a set of libraries for implementing a [Model-View-Controller](https://en.wikipedia.org/wiki/Model-view-controller) (MVC) framework in .NET. The key piece for this is [MonoRail](https://castleproject.org/monorail/index.html) with [ActiveRecord](https://castleproject.org/activerecord/index.html) handling the models. Most of the time we hear about Ruby on Rails and its MVC implementation but Castle does this on .NET.
 
-[I did an interview](http://www.infoq.com/news/2007/09/castleproject) with [Hamilton Verissimo](http://hammett.castleproject.org/), founder of the Castle Project, for [InfoQ](http://www.infoq.com) last week. Hamilton is a sharp guy and has lead the core team to produce a great open-source project. I am working on a project using MonoRail and it is very nice to produce a web application this way.
+[I did an interview](https://www.infoq.com/news/2007/09/castleproject) with [Hamilton Verissimo](https://hammett.castleproject.org/), founder of the Castle Project, for [InfoQ](https://www.infoq.com) last week. Hamilton is a sharp guy and has lead the core team to produce a great open-source project. I am working on a project using MonoRail and it is very nice to produce a web application this way.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Castle Project](http://technorati.com/tags/Castle%20Project), [.NET](http://technorati.com/tags/.NET), [MVC](http://technorati.com/tags/MVC)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Castle Project](https://technorati.com/tags/Castle%20Project), [.NET](https://technorati.com/tags/.NET), [MVC](https://technorati.com/tags/MVC)</div>

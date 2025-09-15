@@ -4,13 +4,13 @@ title: 'ASP.NET MVC Framework Preview 2 - Changes for the Better'
 date: '2008-03-17T14:50:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=250'
+guid: 'https://localhost/~rbazinet/?p=250'
 permalink: /asp-net-mvc/asp-net-mvc-framework-preview-2-changes-for-the-better/
 categories:
     - 'ASP.NET MVC'
 ---
 
-The team providing us with the [ASP.NET MVC Framework made available the 2nd preview release](http://www.microsoft.com/downloads/details.aspx?FamilyId=38CC4CF1-773A-47E1-8125-BA3369BF54A3&displaylang=en) during the [MIX08 Conference March 5-7, 2008](http://visitmix.com/2008/default.aspx) in Las Vegas, NV. This release has many great changes as they team works toward an RTM maybe later in the year, but no promises were made.
+The team providing us with the [ASP.NET MVC Framework made available the 2nd preview release](https://www.microsoft.com/downloads/details.aspx?FamilyId=38CC4CF1-773A-47E1-8125-BA3369BF54A3&displaylang=en) during the [MIX08 Conference March 5-7, 2008](https://visitmix.com/2008/default.aspx) in Las Vegas, NV. This release has many great changes as they team works toward an RTM maybe later in the year, but no promises were made.
 
 I just wanted to point out some of the bigger changes in the Preview 2 release.
 
@@ -60,7 +60,7 @@ Helper methods were limited in the first release of the framework, where a separ
 
 > Next month we are also going to start to talk about some of the new enhancements to the client-side ASP.NET AJAX libraries we are making, as well as some of the AJAX helper methods we will build to enable it to easily integrate with ASP.NET MVC.
 
-These were the HTML helper methods developed by [Rob Conery](http://blog.wekeroad.com/2007/12/05/aspnet-mvc-preview-using-the-mvc-ui-helpers/).
+These were the HTML helper methods developed by [Rob Conery](https://blog.wekeroad.com/2007/12/05/aspnet-mvc-preview-using-the-mvc-ui-helpers/).
 
 ### Lots of Refactoring and Design Improvements
 
@@ -86,17 +86,17 @@ Following the lead of downloadable .NET Framework source code, the team will be 
 
 ### Screencasts Showing-off Features
 
-[Scott Hanselman](http://www.computerzen.com/) has put out some great screencasts to show off how the ASP.NET MVC works in its current iteration. At the time I write this there are 4 screencasts available showing increased complexity while working on the same sample code base.
+[Scott Hanselman](https://www.computerzen.com/) has put out some great screencasts to show off how the ASP.NET MVC works in its current iteration. At the time I write this there are 4 screencasts available showing increased complexity while working on the same sample code base.
 
-- **[Part 1 - Displaying Data](http://asp.net/learn/3.5-extensions-videos/video-269.aspx)**
-- **[Part 2 - Editing Data and Making Forms](http://asp.net/learn/3.5-extensions-videos/video-268.aspx)**
-- **[Part 3 - Advanced Techniques](http://asp.net/learn/3.5-extensions-videos/video-270.aspx)**
-- **[Part 4 - Testing](http://asp.net/learn/3.5-extensions-videos/video-271.aspx)**
+- **[Part 1 - Displaying Data](https://asp.net/learn/3.5-extensions-videos/video-269.aspx)**
+- **[Part 2 - Editing Data and Making Forms](https://asp.net/learn/3.5-extensions-videos/video-268.aspx)**
+- **[Part 3 - Advanced Techniques](https://asp.net/learn/3.5-extensions-videos/video-270.aspx)**
+- **[Part 4 - Testing](https://asp.net/learn/3.5-extensions-videos/video-271.aspx)**
 
 Also available is Scott's session at MIX08
 
-[Developing ASP.NET Applications Using the Model View Controller Pattern](http://visitmix.com/blogs/2008Sessions/T22/)
+[Developing ASP.NET Applications Using the Model View Controller Pattern](https://visitmix.com/blogs/2008Sessions/T22/)
 
 I have taken the time to work with this Preview 2 of the ASP.NET MVC Framework and developed some simple applications, which worked wonderful. My experience with Ruby on Rails really helps in understanding this framework. Comparing the first CTP to this one is really a night and day difference, in my opinion. I am looking forward to future releases and building real applications this way on .NET.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Microsoft](http://technorati.com/tags/Microsoft),[ASP.NET MVC Framework](http://technorati.com/tags/ASP.NET%20MVC%20Framework)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Microsoft](https://technorati.com/tags/Microsoft),[ASP.NET MVC Framework](https://technorati.com/tags/ASP.NET%20MVC%20Framework)</div>

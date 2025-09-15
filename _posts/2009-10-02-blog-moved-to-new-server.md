@@ -4,7 +4,7 @@ title: 'Blog Moved to New Server'
 date: '2009-10-02T23:48:18-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=375'
+guid: 'https://localhost/~rbazinet/?p=375'
 permalink: /general/blog-moved-to-new-server/
 dsq_thread_id:
     - '96565894'
@@ -18,4 +18,4 @@ Today I moved this blog to a new server to provide some expansion and additional
 
 Thank you.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3415598d-38b9-4ac6-9ac0-af1c57830bc6" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Blog](http://technorati.com/tags/Blog),[Accidental Technologist](http://technorati.com/tags/Accidental+Technologist)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3415598d-38b9-4ac6-9ac0-af1c57830bc6" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Blog](https://technorati.com/tags/Blog),[Accidental Technologist](https://technorati.com/tags/Accidental+Technologist)</div>

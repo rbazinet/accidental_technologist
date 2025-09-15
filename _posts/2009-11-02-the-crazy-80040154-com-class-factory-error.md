@@ -4,7 +4,7 @@ title: 'The Crazy 80040154 COM Class Factory Error'
 date: '2009-11-02T12:00:33-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=381'
+guid: 'https://localhost/~rbazinet/?p=381'
 permalink: /microsoft/the-crazy-80040154-com-class-factory-error/
 dsq_thread_id:
     - '95925388'
@@ -18,7 +18,7 @@ While attempting to connect to QuickBooks online from my ASP.NET C# application,
 
 > Retrieving the COM class factory for component with CLSID {3C801F08-CDC5-4129-AAE8-CCC4F116B5BE} failed due to the following error: 80040154.
 
-Searching the various Intuit Developer Forums led me nowhere. I was thinking it may be the fact I am funning on Windows 7 and figured it might be an incompatibility with Windows 7 and the COM components from Intuit in their [QuickBooks SDK](http://developer.intuit.com/). After various Google searches I picked up a few clues to the source of the problem, which in hindsight should have been a bit more obvious to me.
+Searching the various Intuit Developer Forums led me nowhere. I was thinking it may be the fact I am funning on Windows 7 and figured it might be an incompatibility with Windows 7 and the COM components from Intuit in their [QuickBooks SDK](https://developer.intuit.com/). After various Google searches I picked up a few clues to the source of the problem, which in hindsight should have been a bit more obvious to me.
 
 ### 64-Bit Friend and Foe
 
@@ -30,4 +30,4 @@ By changing the choice of the Platform Target to x86 and rerunning my applicatio
 
 If anyone wants to add the technical details as to why this behaves as it does, I will update this post with those technical details. I hope this helps someone else with the same problem so they won?t waste the time that I did.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:0c2c6987-6d68-499b-ab4b-284ce04e7c9f" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Intuit](http://technorati.com/tags/Intuit),[QuickBooks Online](http://technorati.com/tags/QuickBooks+Online),[COM Interop](http://technorati.com/tags/COM+Interop),[64-Bit](http://technorati.com/tags/64-Bit)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:0c2c6987-6d68-499b-ab4b-284ce04e7c9f" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Intuit](https://technorati.com/tags/Intuit),[QuickBooks Online](https://technorati.com/tags/QuickBooks+Online),[COM Interop](https://technorati.com/tags/COM+Interop),[64-Bit](https://technorati.com/tags/64-Bit)</div>

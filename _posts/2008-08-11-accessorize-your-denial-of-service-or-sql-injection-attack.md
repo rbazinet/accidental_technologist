@@ -4,13 +4,13 @@ title: 'Accessorize your Denial of Service or SQL Injection Attack'
 date: '2008-08-11T08:43:35-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=301'
+guid: 'https://localhost/~rbazinet/?p=301'
 permalink: /iis/accessorize-your-denial-of-service-or-sql-injection-attack/
 categories:
     - IIS
 ---
 
- I was reading some posts on Twitter the past couple days and noticed some Tweets from [Phil Haack](http://twitter.com/haacked) and [Scott Hanselman](http://twitter.com/shanselman) regarding an attack on their web[![Hacked](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AccessorizeyourDenialofServiceorSQLInjec_9683/Hacked_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AccessorizeyourDenialofServiceorSQLInjec_9683/Hacked_2.jpg) servers for their blogs which caused a large spike in traffic. They determined it was some type of [Distributed Denial of Service (DDOS) attack](http://en.wikipedia.org/wiki/Denial_of_service_attack). I decided to check out my own server which I host this site and to my surprise, the same thing had been happening to me all day with an increase in traffic 10x.
+ I was reading some posts on Twitter the past couple days and noticed some Tweets from [Phil Haack](https://twitter.com/haacked) and [Scott Hanselman](https://twitter.com/shanselman) regarding an attack on their web[![Hacked](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AccessorizeyourDenialofServiceorSQLInjec_9683/Hacked_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AccessorizeyourDenialofServiceorSQLInjec_9683/Hacked_2.jpg) servers for their blogs which caused a large spike in traffic. They determined it was some type of [Distributed Denial of Service (DDOS) attack](https://en.wikipedia.org/wiki/Denial_of_service_attack). I decided to check out my own server which I host this site and to my surprise, the same thing had been happening to me all day with an increase in traffic 10x.
 
 I reviewed my server logs and saw some really large QueryStrings being sent which looked like this:
 
@@ -27,12 +27,12 @@ I reviewed my server logs and saw some really large QueryStrings being sent whic
 > F437572736F72%20AS%20CHAR(4000));EXEC(@S); 80 - 69.180.0.90 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;   
 > +Zango+10.3.74.0) - - accidentaltechnologist.com 200 0 0 27171 1514 3328</font>
 
-It appears this is more of a SQL Injection attack and not just simply a DDOS. You can see the EXEC(@S) where they are trying to execute some nasty SQL on my server. [Rick Strahl has also had some similar problems](http://www.west-wind.com/weblog/posts/447503.aspx) and he addresses the issue in IIS 7.0.
+It appears this is more of a SQL Injection attack and not just simply a DDOS. You can see the EXEC(@S) where they are trying to execute some nasty SQL on my server. [Rick Strahl has also had some similar problems](https://www.west-wind.com/weblog/posts/447503.aspx) and he addresses the issue in IIS 7.0.
 
-Not being what to do, I went to Twitter, pinged Scott to see what he did to stop the attack and he suggested [URLScan from Microsoft](http://technet.microsoft.com/en-us/security/cc242650.aspx). Of course, this is tool I used to use back in the day of supporting clients web servers to help ward off unfriendly visitors. I had forgotten all about this tool until Scott mentioned it.
+Not being what to do, I went to Twitter, pinged Scott to see what he did to stop the attack and he suggested [URLScan from Microsoft](https://technet.microsoft.com/en-us/security/cc242650.aspx). Of course, this is tool I used to use back in the day of supporting clients web servers to help ward off unfriendly visitors. I had forgotten all about this tool until Scott mentioned it.
 
-I downloaded URLScan from Microsoft and promptly installed it on my web server and the DDOS attack stopped almost instantly. The current version of URLScan is 2.5 which says it only works on IIS 6.0, but a beta version of [URLScan 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=EE41818F-3363-4E24-9940-321603531989&displaylang=en) is available for IIS 5.1, 6.0, and 7.0.
+I downloaded URLScan from Microsoft and promptly installed it on my web server and the DDOS attack stopped almost instantly. The current version of URLScan is 2.5 which says it only works on IIS 6.0, but a beta version of [URLScan 3.0](https://www.microsoft.com/downloads/details.aspx?familyid=EE41818F-3363-4E24-9940-321603531989&displaylang=en) is available for IIS 5.1, 6.0, and 7.0.
 
-Thank you [Scott](http://www.hanselman.com/blog/) for the quick reply and suggestion to fix my problem.
+Thank you [Scott](https://www.hanselman.com/blog/) for the quick reply and suggestion to fix my problem.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:c061bd53-e034-4a9a-bf2b-1578f591c863" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Hackers](http://technorati.com/tags/Hackers),[DDOS](http://technorati.com/tags/DDOS),[URLScan](http://technorati.com/tags/URLScan),[IIS](http://technorati.com/tags/IIS),[SQL Injection](http://technorati.com/tags/SQL%20Injection)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:c061bd53-e034-4a9a-bf2b-1578f591c863" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Hackers](https://technorati.com/tags/Hackers),[DDOS](https://technorati.com/tags/DDOS),[URLScan](https://technorati.com/tags/URLScan),[IIS](https://technorati.com/tags/IIS),[SQL Injection](https://technorati.com/tags/SQL%20Injection)</div>

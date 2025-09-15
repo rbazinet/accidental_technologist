@@ -4,7 +4,7 @@ title: 'Object Relational Mapping (O/RM) is Manageable'
 date: '2007-06-04T13:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=110'
+guid: 'https://localhost/~rbazinet/?p=110'
 permalink: /software-architecture/object-relational-mapping-orm-is-manageable/
 dsq_thread_id:
     - '95924267'
@@ -12,13 +12,13 @@ categories:
     - 'Software Architecture'
 ---
 
-The topic of Object Relational Mapping or [O/RM](http://en.wikipedia.org/wiki/Object-relational_mapping) can be found all over the web in various weblogs and forums debating whether O/R-M was a useable technology or not and the pros and cons to using it.
+The topic of Object Relational Mapping or [O/RM](https://en.wikipedia.org/wiki/Object-relational_mapping) can be found all over the web in various weblogs and forums debating whether O/R-M was a useable technology or not and the pros and cons to using it.
 
-[Ted Neward](http://blogs.tedneward.com/) always has great posts on technology from both the .NET and Java perspective. Ted knows both sides very well and it is refreshing to see someone is not an anti-Microsoft person arguing against a non-Java person, which gets very old.
+[Ted Neward](https://blogs.tedneward.com/) always has great posts on technology from both the .NET and Java perspective. Ted knows both sides very well and it is refreshing to see someone is not an anti-Microsoft person arguing against a non-Java person, which gets very old.
 
 O/RM holds the promise of encapsulating our entire database schema into objects, which is much easier to understand from an object hierarchy perspective.
 
-Ted has had some interesting posts on O/RM in the past, one in particular relating O/RM as the [Vietnam of Computer Science](http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx). [.NET Rocks](http://www.dotnetrocks.com/) recently had a show dedicated to O/RM call the "ORM Smackdown" where Ted Neward and [Oren Eini](http://www.ayende.com/Blog/) had a debate about O/RM. It was a good show and Ted had a [follow-up post](http://blogs.tedneward.com/2007/05/28/The+ORM+Smackdown.aspx) to the show, which is worth a read.
+Ted has had some interesting posts on O/RM in the past, one in particular relating O/RM as the [Vietnam of Computer Science](https://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx). [.NET Rocks](https://www.dotnetrocks.com/) recently had a show dedicated to O/RM call the "ORM Smackdown" where Ted Neward and [Oren Eini](https://www.ayende.com/Blog/) had a debate about O/RM. It was a good show and Ted had a [follow-up post](https://blogs.tedneward.com/2007/05/28/The+ORM+Smackdown.aspx) to the show, which is worth a read.
 
 **Successful O/RM Project**
 
@@ -42,4 +42,4 @@ Granted, this is not a solution for all situations but it does work in ours and 
 
 Overall our implementation is very clean and works very well. I know we would change some of the implementation but the overall design would pretty much be the same. I welcome questions about our implementation or suggestions how you had a successful O/RM deployment and successfully maintain that deployment.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [.NET](http://technorati.com/tags/.NET), [ORM](http://technorati.com/tags/ORM)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [.NET](https://technorati.com/tags/.NET), [ORM](https://technorati.com/tags/ORM)</div>

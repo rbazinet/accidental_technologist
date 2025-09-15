@@ -4,7 +4,7 @@ title: 'Experiencing Pragmatic Programmers on the iPhone'
 date: '2009-04-01T13:36:08-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=349'
+guid: 'https://localhost/~rbazinet/?p=349'
 permalink: /iphone/experiencing-pragmatic-programmers-on-the-iphone/
 dsq_thread_id:
     - '95926260'
@@ -12,16 +12,16 @@ categories:
     - iPhone
 ---
 
-The recent announcement by the Pragmatic Programmers that they would have their [books available in other formats besides PDF](http://www.pragprog.com/frequently-asked-questions/ebooks) piqued my interest because I have a lot of their books in PDF today. I was particularly encouraged by the iPhone support and wanted to give it a shot.
+The recent announcement by the Pragmatic Programmers that they would have their [books available in other formats besides PDF](https://www.pragprog.com/frequently-asked-questions/ebooks) piqued my interest because I have a lot of their books in PDF today. I was particularly encouraged by the iPhone support and wanted to give it a shot.
 
-One of my latest projects it to learn Objective-C and become proficient as an iPhone developer, both for freelance work and some product ideas of my own. So one book I wanted to try was the [iPhone SDK Development](http://www.pragprog.com/titles/amiphd/iphone-sdk-development) book by Bill Dudney, Chris Adamson and Marcel Molina. This is a great book with so much practical advice for the aspiring iPhone developer. A word about the book, it does seem to lean toward folks who have had background in C++, C# or Java, which is perfect for me.
+One of my latest projects it to learn Objective-C and become proficient as an iPhone developer, both for freelance work and some product ideas of my own. So one book I wanted to try was the [iPhone SDK Development](https://www.pragprog.com/titles/amiphd/iphone-sdk-development) book by Bill Dudney, Chris Adamson and Marcel Molina. This is a great book with so much practical advice for the aspiring iPhone developer. A word about the book, it does seem to lean toward folks who have had background in C++, C# or Java, which is perfect for me.
 
 ### Setting Up
 
 Pragmatic is providing three types of downloadable formats now; PDF, epub (iPhone) and mobi (Kindle). Getting setup to read documents on the iPhone is pretty simple.
 
-1. The first thing to do is to install [Stanza](http://www.lexcycle.com/), the free ebook reader, on the [iPhone from the Apple App Store](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284956128&mt=8).
-2. Browse to the [Pragmatic Programmers site](http://pragprog.com/) from the iPhone and login to your account.
+1. The first thing to do is to install [Stanza](https://www.lexcycle.com/), the free ebook reader, on the [iPhone from the Apple App Store](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284956128&mt=8).
+2. Browse to the [Pragmatic Programmers site](https://pragprog.com/) from the iPhone and login to your account.
 3. Download the ebook you want from the site.
 4. Run Stanza on the iPhone and it will pick up the newly downloaded book.
 5. Done.
@@ -46,4 +46,4 @@ I am curious what type of battery life I will get with reading for long periods 
 
 One nice thing about Stanza is they have over 100,000 books and periodicals available. Sure, it is not a Kindle but the iPhone is already paid.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:eb7c03cb-ced2-437b-b449-931234396668" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [iPhone](http://technorati.com/tags/iPhone),[eBooks](http://technorati.com/tags/eBooks),[Stanza](http://technorati.com/tags/Stanza),[Pragmatic Programmers](http://technorati.com/tags/Pragmatic+Programmers)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:eb7c03cb-ced2-437b-b449-931234396668" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [iPhone](https://technorati.com/tags/iPhone),[eBooks](https://technorati.com/tags/eBooks),[Stanza](https://technorati.com/tags/Stanza),[Pragmatic Programmers](https://technorati.com/tags/Pragmatic+Programmers)</div>

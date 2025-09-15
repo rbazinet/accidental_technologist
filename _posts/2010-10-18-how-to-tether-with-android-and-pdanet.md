@@ -19,15 +19,15 @@ tags:
 
 One of the annoying things with a non-jailbroken iPhone is the lack of tethering. Tethering is the ability to use your 3G-enabled phone and its Internet connection with a computer. When I am on the road I find times it would be helpful to be able to tether my Droid X to my laptop but not for the $20/month Verizon changes.
 
-I was put onto the application known as PdaNet. The application consists of a piece of software that runs on the Android phone and a client which runs on the computer you want to make use of tethering, [both Mac and Windows clients](http://junefabrics.com/android/download.php).
+I was put onto the application known as PdaNet. The application consists of a piece of software that runs on the Android phone and a client which runs on the computer you want to make use of tethering, [both Mac and Windows clients](https://junefabrics.com/android/download.php).
 
-The [directions from the June Fabrics web site](http://junefabrics.com/android/mac.php) are pretty good but were missing a few details I stumbled over the first time I tried to set this up. Maybe if I was a long-time Android user I might have not had any issues.
+The [directions from the June Fabrics web site](https://junefabrics.com/android/mac.php) are pretty good but were missing a few details I stumbled over the first time I tried to set this up. Maybe if I was a long-time Android user I might have not had any issues.
 
 ### Setup
 
 So, the steps I used to setup tethering of my Motorola Droid X to my MacBook Pro.
 
-1\. **Install the Desktop Client** - visit the June Fabrics web site and [download the Mac client](http://www.junefabrics.com/bin/PdaNetA242.pkg). I am on a Mac, as I said, but a client is available for Windows as well. The installation was fairy straight forward, requiring a reboot to complete the installation.
+1\. **Install the Desktop Client** - visit the June Fabrics web site and [download the Mac client](https://www.junefabrics.com/bin/PdaNetA242.pkg). I am on a Mac, as I said, but a client is available for Windows as well. The installation was fairy straight forward, requiring a reboot to complete the installation.
 
 2\. **Install the Android Client** ? install on the phone, grab the app from [the Android Marketplace](market://search?q=pname:com.pdanet).
 

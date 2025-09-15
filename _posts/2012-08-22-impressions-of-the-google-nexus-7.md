@@ -21,7 +21,7 @@ tags:
 
 ![Nexus7](/assets/img/2012/08/nexus7.jpeg "nexus7.jpeg")
 
-I watched the [Google I/O keynote](http://www.youtube.com/watch?v=dJGiEQgaZYs), suspecting the leaks were right about the Nexus 7 tablet and they turned out to be true.
+I watched the [Google I/O keynote](https://www.youtube.com/watch?v=dJGiEQgaZYs), suspecting the leaks were right about the Nexus 7 tablet and they turned out to be true.
 
 I got in the queue for one of these and have been using mine since the middle of July. ?The short version is; this is a fantastic device that I love to use.
 

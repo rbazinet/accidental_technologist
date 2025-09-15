@@ -4,7 +4,7 @@ title: 'A Serious Windows Home Server Pain Point'
 date: '2009-10-19T12:25:20-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=380'
+guid: 'https://localhost/~rbazinet/?p=380'
 permalink: /technology/a-serious-windows-home-server-pain-point/
 dsq_thread_id:
     - '95926414'
@@ -50,4 +50,4 @@ After some searching around the web and there are many reports of this issue bac
 
 If anyone has a better solution than the one I have found, I would love to hear it. If there is a released fix for this, I would like to hear about it as well. I am running on Windows 7 Ultimate RTM, if that matters.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:f7a2c48d-8ec6-4ad3-b6ac-7cdd9cc0d4d5" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Windows Home Server](http://technorati.com/tags/Windows+Home+Server),[Microsoft](http://technorati.com/tags/Microsoft),[Windows 7](http://technorati.com/tags/Windows+7)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:f7a2c48d-8ec6-4ad3-b6ac-7cdd9cc0d4d5" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Windows Home Server](https://technorati.com/tags/Windows+Home+Server),[Microsoft](https://technorati.com/tags/Microsoft),[Windows 7](https://technorati.com/tags/Windows+7)</div>

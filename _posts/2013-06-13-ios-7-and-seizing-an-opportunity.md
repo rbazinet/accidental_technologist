@@ -25,9 +25,9 @@ tags:
 
 ![IOS7](/assets/img/2013/06/iOS7.jpg "iOS7.jpg")
 
-The past few days have been filled with all things Apple and I have been drinking from the firehose all things iOS 7. ?[Apple announced an anticipated upgrade to iOS on Monday](http://www.apple.com/ios/ios7/) but not just any upgrade. ?The new operating system changes the way users will interact with their iOS devices and will change the way developers approach developing applications for these devices.
+The past few days have been filled with all things Apple and I have been drinking from the firehose all things iOS 7. ?[Apple announced an anticipated upgrade to iOS on Monday](https://www.apple.com/ios/ios7/) but not just any upgrade. ?The new operating system changes the way users will interact with their iOS devices and will change the way developers approach developing applications for these devices.
 
-I started a post yesterday with my thoughts on how this new update would greatly affect developers and designers as they created new applications and how existing applications would be facing a difficult path. ?I felt good about my thoughts until [Marco Arment posted an eerily similar post as mine](http://www.marco.org/2013/06/11/fertile-ground). ??
+I started a post yesterday with my thoughts on how this new update would greatly affect developers and designers as they created new applications and how existing applications would be facing a difficult path. ?I felt good about my thoughts until [Marco Arment posted an eerily similar post as mine](https://www.marco.org/2013/06/11/fertile-ground). ??
 
 iOS 7 is very different and I'm very skeptical the upgrade path for applications will be smooth. ?As Marco says:
 
@@ -45,7 +45,7 @@ Developers will be tasked with porting their applications to iOS 7 but it will b
 
 iOS 7 is a great opportunity to create new applications, taking advantage of the new way of doing things. Maybe this is the opportunity and \*not\* upgrade applications but start all over and build new experiences in iOS 7. ?Can we convince clients this is different enough that apps are worthy of rethinking the user experience, leveraging what's new and building great experiences? ?Some will fight the idea. ? Some will refuse. ?Those looking not where the puck is but where it's going to be, will embrace a rebuild.
 
-I for one, am devouring all the material I can get my hands on for iOS7 include the new Human Interface Guidelines and the Transition Guide. ?I also have Xcode 5 running and installed iOS 7 beta on an old device. ? If you're interested in a really detailed article on iO7 user interface differences, [go read Matt Gemmell's article](http://mattgemmell.com/2013/06/12/ios-7/).
+I for one, am devouring all the material I can get my hands on for iOS7 include the new Human Interface Guidelines and the Transition Guide. ?I also have Xcode 5 running and installed iOS 7 beta on an old device. ? If you're interested in a really detailed article on iO7 user interface differences, [go read Matt Gemmell's article](https://mattgemmell.com/2013/06/12/ios-7/).
 
 I will be ready to help clients move forward from older versions of iOS as well as ready to guide them on new applications. ?As far as my applications, I will see how the transition goes. ?This could be an opportune time to redesign, retool and rebuild for the paradigm shift to iOS 7. ?
 

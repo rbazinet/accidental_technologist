@@ -4,13 +4,13 @@ title: 'MacHeist - 11 Mac Applications at a Great Price for Charity'
 date: '2008-01-11T12:49:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=206'
+guid: 'https://localhost/~rbazinet/?p=206'
 permalink: /apple/macheist-11-mac-applications-at-a-great-price-for-charity/
 categories:
     - Apple
 ---
 
-In the event you are a Mac user and [didn't know about MacHeist](http://www.macheist.com/), here it is:
+In the event you are a Mac user and [didn't know about MacHeist](https://www.macheist.com/), here it is:
 
 > #### The MacHeist bundle is back!
 > 
@@ -46,4 +46,4 @@ CSSEdit, Snapz Pro X and Pixelmator unlock once there is a pre-determined level 
 
 Head over and [buy the bundle](https://www.macheist.com/) for charity.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Apple Mac](http://technorati.com/tags/Apple%20Mac),[MacHeist](http://technorati.com/tags/MacHeist)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Apple Mac](https://technorati.com/tags/Apple%20Mac),[MacHeist](https://technorati.com/tags/MacHeist)</div>

@@ -4,7 +4,7 @@ title: 'Reminder: Write For Those Who You Want to Influence'
 date: '2009-02-13T16:56:12-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=340'
+guid: 'https://localhost/~rbazinet/?p=340'
 permalink: /general/reminder-write-for-those-who-you-want-to-influence/
 dsq_thread_id:
     - '95928991'
@@ -12,15 +12,15 @@ categories:
     - General
 ---
 
-A recent post by Dave Winer over on Scripting News about [how he made $2 Million Dollars](http://www.scripting.com/stories/2009/02/11/howIMadeOver2MillionWithTh.html) with his blog has really gotten me thinking. Dave has always stood his ground that he does not put advertising on his blog, so how could he possibly make that sort of money?
+A recent post by Dave Winer over on Scripting News about [how he made $2 Million Dollars](https://www.scripting.com/stories/2009/02/11/howIMadeOver2MillionWithTh.html) with his blog has really gotten me thinking. Dave has always stood his ground that he does not put advertising on his blog, so how could he possibly make that sort of money?
 
-Dave?s post was really a response to what Dan Lyons of Newsweek [reported as saying](http://www.newsweek.com/id/183666):
+Dave?s post was really a response to what Dan Lyons of Newsweek [reported as saying](https://www.newsweek.com/id/183666):
 
 > I learned the hard way: while blogs can do many wonderful things, making huge amounts of money isn't one of them.
 
 Dan reveals he tried to get rich with his blog, often post 10-20 items a day but barely made anything from his use of the Google Adsense program:
 
-> My first epiphany occurred in August 2007, when The New York Times ran a story revealing my identity, which until then I'd kept secret. On that day more than 500,000 people hit my site?by far the biggest day I'd ever had?and through Google's AdSense program I earned about a hundred bucks. Over the course of that entire month, in which my site was visited by 1.5 million people, I earned a whopping total of $1,039.81. Soon after this I struck an [advertising](http://www.newsweek.com/related.aspx?subject=Advertising) deal that paid better wages. But I never made enough to quit my day job. Eventually I shut down?not for financial reasons, but because Steve Jobs appeared to be in poor health.
+> My first epiphany occurred in August 2007, when The New York Times ran a story revealing my identity, which until then I'd kept secret. On that day more than 500,000 people hit my site?by far the biggest day I'd ever had?and through Google's AdSense program I earned about a hundred bucks. Over the course of that entire month, in which my site was visited by 1.5 million people, I earned a whopping total of $1,039.81. Soon after this I struck an [advertising](https://www.newsweek.com/related.aspx?subject=Advertising) deal that paid better wages. But I never made enough to quit my day job. Eventually I shut down?not for financial reasons, but because Steve Jobs appeared to be in poor health.
 
 Dave tells the tale of how he made $2 million dollars with his blog, not by advertising, but by using the brand that he has and to speak about what interests him. He audience is THE people he is trying to influence and he is not writing about what he THINKS people want to read about, but what is important to him. This post by Dave has probably got me thinking more about my blogging, which has been sporadic at best, and how I can best effect and enlighten my audience:
 
@@ -40,4 +40,4 @@ It is really just commonsense and great advice but it rings true and many of us 
 
 So, dear reader, I thank you for reading my blog all this time, it is truly appreciated. I promise to write about things that of of interest to me from now on and I hope you will become engaged and interact here. All the talk about blogs going away is bogus, how could I write all of this in 140 characters on Twitter? This blog and Twitter go hand-in-hand as a way to develop my identity.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:750ac64e-4893-4778-b3db-b776b9436710" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Blogging](http://technorati.com/tags/Blogging),[writing](http://technorati.com/tags/writing)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:750ac64e-4893-4778-b3db-b776b9436710" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Blogging](https://technorati.com/tags/Blogging),[writing](https://technorati.com/tags/writing)</div>

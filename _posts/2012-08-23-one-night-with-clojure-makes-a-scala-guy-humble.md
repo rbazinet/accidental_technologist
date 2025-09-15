@@ -11,7 +11,7 @@ wpgplus_message:
 wpgplus_publish:
     - 'yes'
 redirect:
-    - 'http://agile.dzone.com/news/one-night-clojure-makes-scala'
+    - 'https://agile.dzone.com/news/one-night-clojure-makes-scala'
 dsq_thread_id:
     - '815732281'
 categories:
@@ -22,7 +22,7 @@ tags:
     - scala
 ---
 
-Really interesting take on using [Clojure?from a long-time Scala developer over on DZone](http://agile.dzone.com/news/one-night-clojure-makes-scala)
+Really interesting take on using [Clojure?from a long-time Scala developer over on DZone](https://agile.dzone.com/news/one-night-clojure-makes-scala)
 
 The lines of code (LOC) metric is the most interesting to me:
 

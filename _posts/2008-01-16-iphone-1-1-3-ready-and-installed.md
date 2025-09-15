@@ -4,7 +4,7 @@ title: 'iPhone 1.1.3 Ready and Installed'
 date: '2008-01-16T08:36:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=207'
+guid: 'https://localhost/~rbazinet/?p=207'
 permalink: /apple/iphone-1-1-3-ready-and-installed/
 categories:
     - Apple
@@ -20,7 +20,7 @@ The update is delivered through the usual method of iTunes, version 7.5 or above
 - Home screen icon customization via drag and drop
 - GMail IMap now part of iPhone Mail
 
-LifeHacker has a nice [overview of the each feature](http://lifehacker.com/345114/iphone-ipod-touch-firmware-update-adds-faux+gps-multi+sms-and-more).
+LifeHacker has a nice [overview of the each feature](https://lifehacker.com/345114/iphone-ipod-touch-firmware-update-adds-faux+gps-multi+sms-and-more).
 
 The feature I have been waiting for is the location awareness using cell tower triangulation to find my location on Google Maps. No, this is not GPS but it is similar and should get you pretty close to your true location.
 
@@ -32,10 +32,10 @@ After upgrading iTunes and starting iTunes the iPhone was immediately recognized
 
 After poking around a bit and giving the location-aware Google Maps a try, I was pleasantly surprised how fast my location was show, similar to below:
 
-[![gmaps-gps](http://rbazinet.files.wordpress.com/2008/01/gmaps-gps-thumb.png)](http://rbazinet.files.wordpress.com/2008/01/gmaps-gps.png)
+[![gmaps-gps](https://rbazinet.files.wordpress.com/2008/01/gmaps-gps-thumb.png)](https://rbazinet.files.wordpress.com/2008/01/gmaps-gps.png)
 
 Notice the small icon in the lower left-hand corner, choosing this will ask Google Maps to find my location. It worked great!
 
 The upgrade and installation was really easy and I am happy with the results. Apple, now I would like voice activated dialing please.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Apple](http://technorati.com/tags/Apple), [iPhone](http://technorati.com/tags/iPhone)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Apple](https://technorati.com/tags/Apple), [iPhone](https://technorati.com/tags/iPhone)</div>

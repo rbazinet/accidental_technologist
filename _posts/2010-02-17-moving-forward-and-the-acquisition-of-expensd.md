@@ -4,7 +4,7 @@ title: "Moving Forward and the Acquisition of Expens'd"
 date: '2010-02-17T09:00:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=392'
+guid: 'https://localhost/~rbazinet/?p=392'
 permalink: /general/moving-forward-and-the-acquisition-of-expensd/
 dsq_thread_id:
     - '95969137'
@@ -13,11 +13,11 @@ categories:
 ---
 I mentioned my lofty goals for 2010 in a [previous blog post](https://accidentaltechnologist.com/general/2010-the-year-ahead/). One of the goals is moving some efforts from freelancing work to products which can happen in a couple of ways; either by developing products yourself or by acquisition. Acquisition is how we are introducing the first product in our company.
 
-[![logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MovingForwardandtheAcquisitionofExpensd_E31E/logo_5.png "logo")](http://expensd.com/)
+[![logo](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/MovingForwardandtheAcquisitionofExpensd_E31E/logo_5.png "logo")](https://expensd.com/)
 
 ### Why Expens’d?
 
-We welcome [Expens'd](http://expensd.com/) as our first product. Expens’d is an application for tracking expenses, which sounds a bit boring but is a task many salespeople, consultants, freelances and just about anyone in business needs to do. I personally think so many applications which are accounting systems also track expenses but do it in a way which is cumbersome and ordinary, we want to change this.
+We welcome [Expens'd](https://expensd.com/) as our first product. Expens’d is an application for tracking expenses, which sounds a bit boring but is a task many salespeople, consultants, freelances and just about anyone in business needs to do. I personally think so many applications which are accounting systems also track expenses but do it in a way which is cumbersome and ordinary, we want to change this.
 
 In the weeks and month ahead we will be introducing many new features to the application and changing some that already exist. Thanks to our users feedback we have some clear guidance on what they want to see and plenty we want to explore.
 
@@ -31,6 +31,6 @@ This is a huge advantage when building from scratch wasn’t really an option du
 
 I see many great things that can be done in this market. Things that can make the task of data entry much more streamlined that can be extended to other applications.
 
-Readers can follow what is happening with [Expens’d on my company blog](http://blog.stillriversoftware.com/) which will be updated as new features come out. Thank you and stay tuned.
+Readers can follow what is happening with [Expens’d on my company blog](https://blog.stillriversoftware.com/) which will be updated as new features come out. Thank you and stay tuned.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:ff7a9369-8b75-42de-8c5b-c8009dbe57ef" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [expensd](http://technorati.com/tags/expensd),[expense tracking](http://technorati.com/tags/expense+tracking),[still river software](http://technorati.com/tags/still+river+software)</div>"
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:ff7a9369-8b75-42de-8c5b-c8009dbe57ef" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [expensd](https://technorati.com/tags/expensd),[expense tracking](https://technorati.com/tags/expense+tracking),[still river software](https://technorati.com/tags/still+river+software)</div>"

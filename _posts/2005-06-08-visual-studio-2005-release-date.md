@@ -4,7 +4,7 @@ title: 'Visual Studio 2005 Release Date'
 date: '2005-06-08T04:25:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=8'
+guid: 'https://localhost/~rbazinet/?p=8'
 permalink: /visual-studio/visual-studio-2005-release-date/
 categories:
     - 'Visual Studio'

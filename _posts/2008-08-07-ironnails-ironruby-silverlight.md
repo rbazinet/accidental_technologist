@@ -4,7 +4,7 @@ title: 'IronNails = IronRuby + Silverlight'
 date: '2008-08-07T13:33:34-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=299'
+guid: 'https://localhost/~rbazinet/?p=299'
 permalink: /ironruby/ironnails-ironruby-silverlight/
 dsq_thread_id:
     - '95926133'
@@ -14,9 +14,9 @@ categories:
 
 [![Nails](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Nails_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Nails_2.jpg)
 
-**UPDATE:** I had the chance to talk with Ivan about IronNails. Please read the [interview over on InfoQ](http://www.infoq.com/news/2008/08/ironnails).
+**UPDATE:** I had the chance to talk with Ivan about IronNails. Please read the [interview over on InfoQ](https://www.infoq.com/news/2008/08/ironnails).
 
-As we see [IronRuby](http://www.ironruby.com) make progress within Microsoft, we are also seeing new projects pop-up as well. One such project I have noticed and wanted to share is [![Silverlight](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_2.jpg)[IronNails](http://flanders.co.nz/2008/08/07/ironnails-introduction/), created and [opensourced by Ivan Porto Carrero](http://github.com/casualjim/ironnails). IronNails brings IronRuby and [Silverlight](http://silverlight.net/default.aspx) together implementing an MVC pattern, much like [Ruby on Rails](http://www.rubyonrails.org).
+As we see [IronRuby](https://www.ironruby.com) make progress within Microsoft, we are also seeing new projects pop-up as well. One such project I have noticed and wanted to share is [![Silverlight](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/IronNailsIronRubySilverlight_BA0F/Silverlight_2.jpg)[IronNails](https://flanders.co.nz/2008/08/07/ironnails-introduction/), created and [opensourced by Ivan Porto Carrero](https://github.com/casualjim/ironnails). IronNails brings IronRuby and [Silverlight](https://silverlight.net/default.aspx) together implementing an MVC pattern, much like [Ruby on Rails](https://www.rubyonrails.org).
 
 > IronNails   
 > =========
@@ -33,6 +33,6 @@ As we see [IronRuby](http://www.ironruby.com) make progress within Microsoft, we
 > The framework then generates a proxy for the view which will be used to transparently wire up the commands in the   
 > behaviors to controller actions.
 
-IronNails is in its infancy and is showing some good promise. [Follow the announcement](http://flanders.co.nz/2008/08/07/ironnails-introduction/) on Ivan's blog for more details and future updates.
+IronNails is in its infancy and is showing some good promise. [Follow the announcement](https://flanders.co.nz/2008/08/07/ironnails-introduction/) on Ivan's blog for more details and future updates.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:38a2bc9c-7768-4cd4-b7c6-ff053b32a320" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [IronNails](http://technorati.com/tags/IronNails),[IronRuby](http://technorati.com/tags/IronRuby),[Silverlight](http://technorati.com/tags/Silverlight),[WPF](http://technorati.com/tags/WPF)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:38a2bc9c-7768-4cd4-b7c6-ff053b32a320" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [IronNails](https://technorati.com/tags/IronNails),[IronRuby](https://technorati.com/tags/IronRuby),[Silverlight](https://technorati.com/tags/Silverlight),[WPF](https://technorati.com/tags/WPF)</div>

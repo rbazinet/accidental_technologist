@@ -4,7 +4,7 @@ title: 'Instant Rails 2.0 Update, Instant Rails 2.0 Lite Coming...'
 date: '2008-01-11T17:57:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=208'
+guid: 'https://localhost/~rbazinet/?p=208'
 permalink: /instant-rails/instant-rails-2-0-update-instant-rails-2-0-lite-coming/
 dsq_thread_id:
     - '95924593'
@@ -12,9 +12,9 @@ categories:
     - 'Instant Rails'
 ---
 
-Since taking over the [Instant Rails project](http://rubyforge.org/projects/instantrails/) from Curt Hibbs, I have been able to get Instant Rails 2.0 out the door before the end of 2007, not by much but it did happen. Thank you to everyone who gave me support and to readers for the comments. So, I wanted to take a moment to let everyone know what is coming with Instant Rails in the near term.
+Since taking over the [Instant Rails project](https://rubyforge.org/projects/instantrails/) from Curt Hibbs, I have been able to get Instant Rails 2.0 out the door before the end of 2007, not by much but it did happen. Thank you to everyone who gave me support and to readers for the comments. So, I wanted to take a moment to let everyone know what is coming with Instant Rails in the near term.
 
-I have gotten over the learning curve of the whole build and update process on [RubyForge](http://rubyforge.org), it was pretty painless. Those guys over there do a great job! I have received a fair amount of feedback on the current release and I have stepped back and thought about them and how to proceed.
+I have gotten over the learning curve of the whole build and update process on [RubyForge](https://rubyforge.org), it was pretty painless. Those guys over there do a great job! I have received a fair amount of feedback on the current release and I have stepped back and thought about them and how to proceed.
 
 I am planning a introduce a second version of Instant Rails 2.0, to be called Instant Rails 2.0 Lite. This version will similar to the standard version but will have the following removed:
 
@@ -46,4 +46,4 @@ I hope this makes some users happy. The standard version of Instant Rails 2.0 wi
 
 Please let me know what you think.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Instant Rails](http://technorati.com/tags/Instant%20Rails),[Ruby](http://technorati.com/tags/Ruby),[Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Instant Rails](https://technorati.com/tags/Instant%20Rails),[Ruby](https://technorati.com/tags/Ruby),[Ruby on Rails](https://technorati.com/tags/Ruby%20on%20Rails)</div>

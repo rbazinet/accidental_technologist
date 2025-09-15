@@ -4,7 +4,7 @@ title: 'When Refactoring Code is a Waste of Time'
 date: '2008-09-10T10:30:36-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=309'
+guid: 'https://localhost/~rbazinet/?p=309'
 permalink: /programming/when-refactoring-code-is-a-waste-of-time/
 dsq_thread_id:
     - '95924914'
@@ -24,4 +24,4 @@ This is one thing really annoys me and makes it really hard to justify to the cl
 
 Please don't do this....you know who you are. I would like to hear from all the refactoring fan-boys out there that insist on this behavior and why they feel the need.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:07cb6ff6-a9ef-4d74-98a8-067d9c171769" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Refactoring](http://technorati.com/tags/Refactoring)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:07cb6ff6-a9ef-4d74-98a8-067d9c171769" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Refactoring](https://technorati.com/tags/Refactoring)</div>

@@ -4,13 +4,13 @@ title: 'How I Got Started in Software Development'
 date: '2008-06-06T16:37:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=279'
+guid: 'https://localhost/~rbazinet/?p=279'
 permalink: /programming/how-i-got-started-in-software-development/
 categories:
     - Programming
 ---
 
-Following up from [Matt Blodgett's post](http://www.mattblodgett.com/2008/06/how-i-got-started-in-software.html) who was responding to [Mike Eaton's challenge](http://michaeleatonconsulting.com/blog/archive/2008/06/04/how-did-you-get-started-in-software-development.aspx) about how we got started in software development and answer some questions about my background.
+Following up from [Matt Blodgett's post](https://www.mattblodgett.com/2008/06/how-i-got-started-in-software.html) who was responding to [Mike Eaton's challenge](https://michaeleatonconsulting.com/blog/archive/2008/06/04/how-did-you-get-started-in-software-development.aspx) about how we got started in software development and answer some questions about my background.
 
 **How old were you when you started programming?**
 
@@ -18,7 +18,7 @@ I was 16, a sophomore in high school.
 
 **How did you get started in programming?**
 
-I got started at a time when desktop computers where finally coming to school systems in little bits. I attended a small high school in rural CT (1981-1985) and we had one Radio Shack TRS-80 which we had to share in our computer course. There were probably a half dozen of us who would spend our extra time taking turns and what was actually pair programming, writing simple games in the version of Microsoft Basic that came with those systems. The games were either text or used the simple ASCII graphics to make the game look more "graphical" than it really was. [![trs80m4](http://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HowIGotStartedinSoftwareDevelopment_95E2/trs80m4_thumb.jpg)](http://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HowIGotStartedinSoftwareDevelopment_95E2/trs80m4_2.jpg)
+I got started at a time when desktop computers where finally coming to school systems in little bits. I attended a small high school in rural CT (1981-1985) and we had one Radio Shack TRS-80 which we had to share in our computer course. There were probably a half dozen of us who would spend our extra time taking turns and what was actually pair programming, writing simple games in the version of Microsoft Basic that came with those systems. The games were either text or used the simple ASCII graphics to make the game look more "graphical" than it really was. [![trs80m4](https://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HowIGotStartedinSoftwareDevelopment_95E2/trs80m4_thumb.jpg)](https://www.accidentaltechnologist.com/files/media/image/WindowsLiveWriter/HowIGotStartedinSoftwareDevelopment_95E2/trs80m4_2.jpg)
 
 This went on for three years of high school with each year getting additional TRS-80 systems.
 
@@ -56,4 +56,4 @@ The job lasted about 3 years and was the best time I have ever had working with 
 
 If I could create a software company with a group of people with the same level of passion I think I would really have something. Anyone truly passionate and want to create a company out there??? Please email me.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:00b63610-de4a-4f0e-a38f-e190a209b3e1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Programming](http://technorati.com/tags/Programming),[Passion](http://technorati.com/tags/Passion)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:00b63610-de4a-4f0e-a38f-e190a209b3e1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Programming](https://technorati.com/tags/Programming),[Passion](https://technorati.com/tags/Passion)</div>

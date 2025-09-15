@@ -4,7 +4,7 @@ title: 'RubyGems 1.0 Released, Helps Windows Developers'
 date: '2007-12-20T11:18:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=192'
+guid: 'https://localhost/~rbazinet/?p=192'
 permalink: /ruby/rubygems-1-0-released-helps-windows-developers/
 dsq_thread_id:
     - '95924545'
@@ -12,7 +12,7 @@ categories:
     - Ruby
 ---
 
-**UPDATE**: Make that [RubyGems 1.0.1](http://blog.segment7.net/articles/2007/12/20/rubygems-1-0-1), released tonight.
+**UPDATE**: Make that [RubyGems 1.0.1](https://blog.segment7.net/articles/2007/12/20/rubygems-1-0-1), released tonight.
 
 The great folks at the RubyGems project have released RubyGems 1.0. This release fixes a bunch of issues, including some important ones for Windows developers. Updates include:
 
@@ -50,6 +50,6 @@ It's pretty simple to update your current RubyGems installation, simply type:
 > gem update --system
 > ```
 
-The upcoming release of Instant Rails 2.0 will include this new version of RubyGems, primarily because of the issues 0.95 users experienced on Windows. Please read the [official announcement on this RubyGems release](http://blog.segment7.net/articles/2007/12/20/rubygems-1-0-0) which will help with other ways to update or install RubyGems on your system.
+The upcoming release of Instant Rails 2.0 will include this new version of RubyGems, primarily because of the issues 0.95 users experienced on Windows. Please read the [official announcement on this RubyGems release](https://blog.segment7.net/articles/2007/12/20/rubygems-1-0-0) which will help with other ways to update or install RubyGems on your system.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [RubyGems](http://technorati.com/tags/RubyGems),[Instant Rails](http://technorati.com/tags/Instant%20Rails)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [RubyGems](https://technorati.com/tags/RubyGems),[Instant Rails](https://technorati.com/tags/Instant%20Rails)</div>

@@ -4,7 +4,7 @@ title: 'Fear of the Start'
 date: '2009-02-27T11:53:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=343'
+guid: 'https://localhost/~rbazinet/?p=343'
 permalink: /general/fear-of-the-start/
 dsq_thread_id:
     - '95925111'
@@ -12,9 +12,9 @@ categories:
     - General
 ---
 
-[![war_art_pb](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/da8f07380598_8171/war_art_pb_thumb.gif "war_art_pb")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/da8f07380598_8171/war_art_pb_2.gif) I attended [Nathaniel Talbott’s talk titled Fear of Programming](http://aac2009.confreaks.com/06-feb-2009-17-00-keynote-nathaniel-talbott.html) at [acts\_as\_conference 2009 in Orlando](http://www.actsasconference.com/) a few weeks ago. Nathaniel’s talk was about how we may have good ideas for a product or project but for some reason we rationalize why we can’t do them. I think we all have this type of behavior in one aspect or another in our daily lives. We tend to procrastinate about fixing the roof, writing that article, or working on that software idea.
+[![war_art_pb](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/da8f07380598_8171/war_art_pb_thumb.gif "war_art_pb")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/da8f07380598_8171/war_art_pb_2.gif) I attended [Nathaniel Talbott’s talk titled Fear of Programming](https://aac2009.confreaks.com/06-feb-2009-17-00-keynote-nathaniel-talbott.html) at [acts\_as\_conference 2009 in Orlando](https://www.actsasconference.com/) a few weeks ago. Nathaniel’s talk was about how we may have good ideas for a product or project but for some reason we rationalize why we can’t do them. I think we all have this type of behavior in one aspect or another in our daily lives. We tend to procrastinate about fixing the roof, writing that article, or working on that software idea.
 
-During the talk Nathaniel mentioned a book he recommended called [War of Art](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1235400963&sr=8-1) by [Steven Pressfield](http://www.killingrommel.com/content/index.asp?id=short), which is about inspiration and getting beyond those things that stop us from doing the things we really want to accomplish. I picked up a copy of this book from a used book seller associated with Amazon. The book is an easy read at only 165 pages.
+During the talk Nathaniel mentioned a book he recommended called [War of Art](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1235400963&sr=8-1) by [Steven Pressfield](https://www.killingrommel.com/content/index.asp?id=short), which is about inspiration and getting beyond those things that stop us from doing the things we really want to accomplish. I picked up a copy of this book from a used book seller associated with Amazon. The book is an easy read at only 165 pages.
 
 ### The Book
 
@@ -48,7 +48,7 @@ One of the most interesting points made in the book, is when someone is diagnose
 
 I think we often asks ourselves what we would do if we only had 3 months to live but we never really consider the answer because it is not happening to us. So why shouldn't we actually treat every day like it is our last and do the things that are important to us, to live out the dreams we have?
 
-One of my favorite motivators is [Gary Vaynerchuk](http://garyvaynerchuk.com/) who runs Wine Library TV and is an entrepreneur who is constantly telling everyone to get out there and hustle and do the things you really love, quit that crappy job and do something you want to get up and do everyday. He is right, as is Steven. Checkout [Gary's talk from Future of Web Apps - Miami](http://garyvaynerchuk.com/post/81884788/fowa-2009-keynote) for a 13 minute sample of exactly what I am talking about.
+One of my favorite motivators is [Gary Vaynerchuk](https://garyvaynerchuk.com/) who runs Wine Library TV and is an entrepreneur who is constantly telling everyone to get out there and hustle and do the things you really love, quit that crappy job and do something you want to get up and do everyday. He is right, as is Steven. Checkout [Gary's talk from Future of Web Apps - Miami](https://garyvaynerchuk.com/post/81884788/fowa-2009-keynote) for a 13 minute sample of exactly what I am talking about.
 
 ### Answers Given
 
@@ -64,4 +64,4 @@ This book was an incredible read for me, well beyond most books I read. I get ti
 
 2009 will be a life changing year for me. I am going to make positive changes in my work and the things I am going to get out of it. Stay tuned and thank you for taking the time out of your busy day to read what I have to say.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:0fdb2121-3ba8-4e2d-ab1c-7b2990e82c60" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [Fear](http://technorati.com/tags/Fear),[Startup](http://technorati.com/tags/Startup),[Motivation](http://technorati.com/tags/Motivation),[Passion](http://technorati.com/tags/Passion)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:0fdb2121-3ba8-4e2d-ab1c-7b2990e82c60" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [Fear](https://technorati.com/tags/Fear),[Startup](https://technorati.com/tags/Startup),[Motivation](https://technorati.com/tags/Motivation),[Passion](https://technorati.com/tags/Passion)</div>

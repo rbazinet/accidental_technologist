@@ -47,7 +47,7 @@ And their response on April 12th:
 > 
 > <span style="font-size: medium;">You can fin the explanation on the link below:</span>
 > 
-> <span style="font-size: medium;"><http://www.mobeetechnology.com/support/faq/view-article/7-why-the-battery-level-displayed-in-osx-is-only-70-to-80-after-several-hours-on-the-base-station-.html></span>
+> <span style="font-size: medium;"><https://www.mobeetechnology.com/support/faq/view-article/7-why-the-battery-level-displayed-in-osx-is-only-70-to-80-after-several-hours-on-the-base-station-.html></span>
 > 
 > <span style="font-size: medium;">Thank you</span>
 > 

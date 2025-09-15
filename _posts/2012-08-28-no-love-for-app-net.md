@@ -19,7 +19,7 @@ tags:
     - twitter
 ---
 
-There has been a huge buzz around the Kickstarter project, [App.net](http://app.net/), on the web these days. ?I have no intention of supporting them, ever.
+There has been a huge buzz around the Kickstarter project, [App.net](https://app.net/), on the web these days. ?I have no intention of supporting them, ever.
 
 It's a valiant effort but that's all it really is. ?I think of this project is just designed to make a statement, one against Twitter. ?Sure, they raised some money but who from, folks angry with Twitter. ?It raised over $500K on Kickstarter, but as we all know money does not ensure success.
 
@@ -27,12 +27,12 @@ I like Twitter, I don't agree with everything they do and [I certainly don't thi
 
 This should say it all. ?If you want to be heard, you come to the place all the people who matter are hanging out.
 
-MG Sieger, who is a respected journalist in our industry [put in his 2 cents and it sums up](http://massivegreatness.com/walter-white) what I have been thinking since the beginning of App.net.?
+MG Sieger, who is a respected journalist in our industry [put in his 2 cents and it sums up](https://massivegreatness.com/walter-white) what I have been thinking since the beginning of App.net.?
 
 > App.net is not going to succeed because we don?t really want it to succeed. Deep down, we all know that it?s much better as an idea, rather than a reality. Because the reality of the situation is that if App.net ever was successful, it would face many of the same hard choices that Twitter now does. Or it would fade away.
 
-[As pointed out on TechCrunch](http://techcrunch.com/2012/08/12/app-net-reaches-its-500k-funding-goal-with-38-hours-to-spare/), another project to create a clone of Facebook, never quite took off:
+[As pointed out on TechCrunch](https://techcrunch.com/2012/08/12/app-net-reaches-its-500k-funding-goal-with-38-hours-to-spare/), another project to create a clone of Facebook, never quite took off:
 
-> App.net, of course, isn?t the first company trying to disrupt Twitter and/or Facebook. The most prominent recent entrant in this market is probably [Diaspora](http://diasporaproject.org/), which ran a Kickstarter campaign to get started. While it?s still under active development, the project never quite took off.
+> App.net, of course, isn?t the first company trying to disrupt Twitter and/or Facebook. The most prominent recent entrant in this market is probably [Diaspora](https://diasporaproject.org/), which ran a Kickstarter campaign to get started. While it?s still under active development, the project never quite took off.
 
 App.net wants to be the next Twitter but faces all the challenges and so much more. ?They also want $50/year for the privilege. ? Why? ?Not me, I'm happy right where I am. ?Maybe Twitter is angering some developers because it effects their tool or maybe angering users because their tool of choice may face some struggles but all-in-all, Twitter is good for what it does.

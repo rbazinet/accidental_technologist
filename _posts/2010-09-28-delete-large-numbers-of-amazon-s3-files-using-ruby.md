@@ -16,11 +16,11 @@ tags:
     - S3Nukem
 ---
 
-I recently found I problem I needed to solve; remove hundreds of thousands of files from [Amazon S3](http://aws.amazon.com/s3/). I mean, it had to be a common problem, right? Well, it certainly be a common problem but the solution was less than common.
+I recently found I problem I needed to solve; remove hundreds of thousands of files from [Amazon S3](https://aws.amazon.com/s3/). I mean, it had to be a common problem, right? Well, it certainly be a common problem but the solution was less than common.
 
 I tried a few tools available, both the tool from the Amazon S3 site but it keep erroring out and I was never sure why. I then went to third-party tools used for managing S3 buckets but their either errored-out or behaved as if they worked but later determined did nothing.
 
-I posted my need on Twitter and was pointed to a solution (thanks [@Kishfy](http://twitter.com/Kishfy/)) I had not thought of, use Ruby. There is a great open-source [project named S3Nukem](http://github.com/lathanh/s3nukem) which its sole purpose is to remove Amazon S3 buckets.
+I posted my need on Twitter and was pointed to a solution (thanks [@Kishfy](https://twitter.com/Kishfy/)) I had not thought of, use Ruby. There is a great open-source [project named S3Nukem](https://github.com/lathanh/s3nukem) which its sole purpose is to remove Amazon S3 buckets.
 
 ### S3Nukem
 
@@ -28,7 +28,7 @@ This is an open source project hosted on Github. Installation and setup is prett
 
 #### For Ruby &gt;= 1.9:
 
-> `sudo gem install dmarkow-right_aws --source <a href="http://gems.github.com">http://gems.github.com</a>`
+> `sudo gem install dmarkow-right_aws --source <a href="https://gems.github.com">https://gems.github.com</a>`
 
 The docs don?t mention it but I needed to install the right\_http\_connection gem, the above command fails unless it is installed.
 
@@ -38,7 +38,7 @@ The docs don?t mention it but I needed to install the right\_http\_connection ge
 
 #### Install S3Nukum:
 
-> `curl -O <a href="http://github.com/lathanh/s3nukem/raw/master/s3nukem">http://github.com/lathanh/s3nukem/raw/master/s3nukem</a>`
+> `curl -O <a href="https://github.com/lathanh/s3nukem/raw/master/s3nukem">https://github.com/lathanh/s3nukem/raw/master/s3nukem</a>`
 
 #### Make it executable:
 

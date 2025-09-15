@@ -4,7 +4,7 @@ title: 'Finding Work as a Freelance Software Developer'
 date: '2009-07-22T09:30:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=367'
+guid: 'https://localhost/~rbazinet/?p=367'
 permalink: /general/finding-work-as-a-freelance-software-developer/
 dsq_thread_id:
     - '95925283'
@@ -14,13 +14,13 @@ categories:
 
 The recent downturn in the economy has turned many more developers who were full-time employees into consultants to help pay the bills. This increased competition has led freelancers and contractors to find business in new ways we have not seen in many years, since the bubble in 2000, to be exact.
 
-[![Get-Clients-Now-2ed](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindingWorkasaFreelanceSoftwareDeveloper_12A8B/Get-Clients-Now-2ed_thumb.jpg "Get-Clients-Now-2ed")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindingWorkasaFreelanceSoftwareDeveloper_12A8B/Get-Clients-Now-2ed_2.jpg) I was introduced to a book a short time ago called [Get Clients Now!(TM): A 28-Day Marketing Program for Professionals, Consultants, and Coaches](http://www.amazon.com/Get-Clients-Now-Professionals-Consultants/dp/0814473741/ref=sr_1_1?ie=UTF8&s=books&qid=1248225126&sr=8-1) by C. J. Hayden. My original thought was this was a bit of a gimmick but since it came recommended, I would give it a try.
+[![Get-Clients-Now-2ed](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindingWorkasaFreelanceSoftwareDeveloper_12A8B/Get-Clients-Now-2ed_thumb.jpg "Get-Clients-Now-2ed")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindingWorkasaFreelanceSoftwareDeveloper_12A8B/Get-Clients-Now-2ed_2.jpg) I was introduced to a book a short time ago called [Get Clients Now!(TM): A 28-Day Marketing Program for Professionals, Consultants, and Coaches](https://www.amazon.com/Get-Clients-Now-Professionals-Consultants/dp/0814473741/ref=sr_1_1?ie=UTF8&s=books&qid=1248225126&sr=8-1) by C. J. Hayden. My original thought was this was a bit of a gimmick but since it came recommended, I would give it a try.
 
 In the past several months I had been trying both Google Adwords and Facebook Ads with miserable results. The ads are shown a lot but gave little or no results. I used different types of ads with different copy targeted at various markets with little difference. I wasn?t really sure why until I read this book and it made a lot of sense.
 
 The program outlined in this book offers much flexibility to the person taking on the marketing program based on their comfort level and their expected rate of return (new leads and new clients).
 
-Referring to the [worksheet provided](http://getclientsnow.com/GCN-Action-Worksheet.pdf) by the [Get Clients Now! website](http://getclientsnow.com/) and referred to in the book, you can see 6 ways of finding new clients:
+Referring to the [worksheet provided](https://getclientsnow.com/GCN-Action-Worksheet.pdf) by the [Get Clients Now! website](https://getclientsnow.com/) and referred to in the book, you can see 6 ways of finding new clients:
 
 [![ActionWorksheet](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindingWorkasaFreelanceSoftwareDeveloper_12A8B/ActionWorksheet_thumb.jpg "ActionWorksheet")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/FindingWorkasaFreelanceSoftwareDeveloper_12A8B/ActionWorksheet_2.jpg)The worksheet defines these 6 different strategies by order of effectiveness, with **Direct Contact and Follow-Up** being the most effective and **Advertising** being the least effective. So my new approach to finding clients was the least effect of the 6 and likely explains my lack of lead generation.
 
@@ -63,7 +63,7 @@ There are other ways I have been using Direct Contact to find leads other than f
 
 I am always listening to my fellow consultants, maybe they need help on a new project or an old project they are behind on. Maybe they have leads they just can?t follow-up on or are not their expertise. Taking a lead from them is a really easy way to get direct contact. I have even offered to pay a finders fee for leads if I get the job, maybe a flat-fee or some amount per hour for each hour I bill. This is a great incentive for them to give you the lead over someone else.
 
-One of the single best ways I have found new direct contact leads is using Twitter, [Twitter Search](http://search.twitter.com/) to be exact. People are talking and finding the topic you are interested in is a search away. If you were looking for ASP.NET work, you could search to see who is talking about ASP.NET and their projects. You can reply to them or possibly get an email address from their Twitter profile and send them an email. This works great!
+One of the single best ways I have found new direct contact leads is using Twitter, [Twitter Search](https://search.twitter.com/) to be exact. People are talking and finding the topic you are interested in is a search away. If you were looking for ASP.NET work, you could search to see who is talking about ASP.NET and their projects. You can reply to them or possibly get an email address from their Twitter profile and send them an email. This works great!
 
 It is surprising to me to see people publicizing they need some help with their project. They are asking to be contacted?perfect.
 
@@ -75,4 +75,4 @@ If you do a good job that client will tell others and getting new business will 
 
 **Disclaimer:** I am not a marketing expert, just someone honing their skills after many years of consulting. I wanted to write up a bit about what works for me, not a recipe for everyone.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e747bfaa-a5e8-4140-876b-15a725cf9f95" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Get Clients Now](http://technorati.com/tags/Get+Clients+Now),[Marketing](http://technorati.com/tags/Marketing),[Freelancing](http://technorati.com/tags/Freelancing)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e747bfaa-a5e8-4140-876b-15a725cf9f95" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Get Clients Now](https://technorati.com/tags/Get+Clients+Now),[Marketing](https://technorati.com/tags/Marketing),[Freelancing](https://technorati.com/tags/Freelancing)</div>

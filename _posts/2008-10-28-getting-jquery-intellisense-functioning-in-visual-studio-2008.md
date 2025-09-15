@@ -4,7 +4,7 @@ title: 'Getting jQuery Intellisense Functioning in Visual Studio 2008'
 date: '2008-10-28T18:39:06-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=319'
+guid: 'https://localhost/~rbazinet/?p=319'
 permalink: /visual-studio/getting-jquery-intellisense-functioning-in-visual-studio-2008/
 dsq_thread_id:
     - '95926188'
@@ -12,7 +12,7 @@ categories:
     - 'Visual Studio'
 ---
 
-It was announced today at the Microsoft Professional Developers Conference that Visual Studio 2008 supports Intellisense for jQuery with an additional file available from jQuery. The file is [available from Google Code](http://code.google.com/p/jqueryjs/downloads/detail?name=jquery-1.2.6-vsdoc.js&can=2&q=).
+It was announced today at the Microsoft Professional Developers Conference that Visual Studio 2008 supports Intellisense for jQuery with an additional file available from jQuery. The file is [available from Google Code](https://code.google.com/p/jqueryjs/downloads/detail?name=jquery-1.2.6-vsdoc.js&can=2&q=).
 
 There are no instructions included with the download but I took the time to get jQuery Intellisense to work in one of my ASP.NET MVC projects. In order to get this to work I did the following:
 
@@ -36,4 +36,4 @@ This was pretty easy, the key part is making sure you have the proper path set f
 
 I hope this helps someone else trying to get this going.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:6433b519-222e-4217-b8cc-06f213f0ade3" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [jQuery](http://technorati.com/tags/jQuery),[ASP.NET](http://technorati.com/tags/ASP.NET),[Visual Studio 2008](http://technorati.com/tags/Visual+Studio+2008),[Microsoft](http://technorati.com/tags/Microsoft)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:6433b519-222e-4217-b8cc-06f213f0ade3" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [jQuery](https://technorati.com/tags/jQuery),[ASP.NET](https://technorati.com/tags/ASP.NET),[Visual Studio 2008](https://technorati.com/tags/Visual+Studio+2008),[Microsoft](https://technorati.com/tags/Microsoft)</div>

@@ -4,7 +4,7 @@ title: 'I Need to Stop Volunteering'
 date: '2009-01-21T11:45:32-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=338'
+guid: 'https://localhost/~rbazinet/?p=338'
 permalink: /general/i-need-to-stop-volunteering/
 dsq_thread_id:
     - '95925088'
@@ -18,4 +18,4 @@ I have done this more times than I care to admit to but I keep doing it. I need 
 
 I know others take on volunteer work, how do you do it? Do you just commit to it and the heck with the work that pays the bills? I work a lot and the free time I have ends up being spent with the family. I don?t want to give up time with them.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:746a8e66-82a9-4e8f-987d-26feacb8eaee" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Volunteering](http://technorati.com/tags/Volunteering)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:746a8e66-82a9-4e8f-987d-26feacb8eaee" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Volunteering](https://technorati.com/tags/Volunteering)</div>

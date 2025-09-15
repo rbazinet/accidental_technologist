@@ -32,7 +32,7 @@ Today we have mainly 3 ways to make money in the app store:
 
 IAP is an approach I am considering for my current apps and future ones. The idea would be to give the basic software away and charge for "Pro" features. ?These pro features need to be real value to the user, no just take a crippled lite version of the app and enabling features users expect.
 
-I have experimented pricing for my apps. My main app is [Palette Pro](http://paletteproapp.com/),?started out for $1.99 and did fine at release. I later changed the price to free for a short period of time to test the results, which were astonishing. Downloads for the free app was 1000x that of paid. This is pretty powerful and says a lot. Just like most developers, I can't work for free.
+I have experimented pricing for my apps. My main app is [Palette Pro](https://paletteproapp.com/),?started out for $1.99 and did fine at release. I later changed the price to free for a short period of time to test the results, which were astonishing. Downloads for the free app was 1000x that of paid. This is pretty powerful and says a lot. Just like most developers, I can't work for free.
 
 [Joel Spolsky from Hacker News](https://news.ycombinator.com/item?id=6462737):
 
@@ -48,13 +48,13 @@ I have experimented pricing for my apps. My main app is [Palette Pro](http://pal
 
 Apple has so far refused to listen to the developer community for app upgrades. Today, when a developer releases a new version of their app they are not compensated. Small updates are fine and expected, but full an upgrade that takes developers weeks or months are hard to justify spending the precious development time and see no immediate return. If a user purchases an app, they receive free-for-life upgrades.?
 
-The only way today to get paid for upgrades is to create an entirely new app in the app store. People have to pay the full-price for the mew features. This is great for developers but not appreciated by users.?[Realmac Software](http://realmacsoftware.com/), developers of the [Clear](http://realmacsoftware.com/clear) to-do app for iOS and the Mac, attempted this recently and it was not well-accepted. So,?[Realmac back peddled on their decision](http://realmacsoftware.com/blog/some-changes-for-clear).
+The only way today to get paid for upgrades is to create an entirely new app in the app store. People have to pay the full-price for the mew features. This is great for developers but not appreciated by users.?[Realmac Software](https://realmacsoftware.com/), developers of the [Clear](https://realmacsoftware.com/clear) to-do app for iOS and the Mac, attempted this recently and it was not well-accepted. So,?[Realmac back peddled on their decision](https://realmacsoftware.com/blog/some-changes-for-clear).
 
-David Smith has a [great episode of Developing Perspective](http://developingperspective.com/2013/09/27/app-store-pricing/) where he talks with a Clear user (his wife) about her thoughts on the Clear upgrade attempt. If her thoughts represent how most users view software on their mobile device; upgrades are not worth pursuing.
+David Smith has a [great episode of Developing Perspective](https://developingperspective.com/2013/09/27/app-store-pricing/) where he talks with a Clear user (his wife) about her thoughts on the Clear upgrade attempt. If her thoughts represent how most users view software on their mobile device; upgrades are not worth pursuing.
 
 Personally, I think this is a great way to get paid for upgrades. Users don't have to buy, if their current version does what they need then just keep using what you have. This is how software has been sold over the years; you have version, here's an upgrade, don't buy it if you don't want it. Users don't favor this approach.
 
-Marco Arment recently discussed his new podcasting app, Overcast, [on his blog and thoughts on pricing](http://www.marco.org/2013/09/28/underscore-price-dynamics). He's right:
+Marco Arment recently discussed his new podcasting app, Overcast, [on his blog and thoughts on pricing](https://www.marco.org/2013/09/28/underscore-price-dynamics). He's right:
 
 > I?ve gone back and forth on what Overcast?s business model should be. I?m definitely charging customers directly (rather than venture-capital or ads), but I?m still debating where, how, and for what.
 > 

@@ -28,17 +28,17 @@ I recently spent a good amount of time finding a RAID solution for my home offic
 - Gigabit Ethernet
 - Supports at least 4 drives
 
-My original intention was to purchase a Drobo but several conversations with Drobo users [I found out they use a proprietary disk format](http://www.google.com/search?aq=1&oq=drobo+propr&sourceid=chrome&ie=UTF-8&q=drobo+proprietary+format) that would require drives sent back to Drobo to pull data from in the event of a failure. ?I have also heard of issues with the devices, so after a bit of research I found QNAP.
+My original intention was to purchase a Drobo but several conversations with Drobo users [I found out they use a proprietary disk format](https://www.google.com/search?aq=1&oq=drobo+propr&sourceid=chrome&ie=UTF-8&q=drobo+proprietary+format) that would require drives sent back to Drobo to pull data from in the event of a failure. ?I have also heard of issues with the devices, so after a bit of research I found QNAP.
 
 The price of the Drobo with the ability to support connecting wirelessly AND via ethernet was pretty high compared the QNAP.
 
-QNAP has a ton of options for storage, too many really but their site is good and pretty easy to match requirements to features. ?I ended up with the [QNAP TS-419P](http://qnap.com/pro_detail_feature.asp?p_id=183).
+QNAP has a ton of options for storage, too many really but their site is good and pretty easy to match requirements to features. ?I ended up with the [QNAP TS-419P](https://qnap.com/pro_detail_feature.asp?p_id=183).
 
 This device supports Time Machine as well as integration with Windows networks and Linux.
 
 ### Feature Frenzy
 
-QNAP does exactly what I need but offers so much more, [including a huge list of possible supported uses](http://qnap.com/pro_detail_software.asp?p_id=183), including:
+QNAP does exactly what I need but offers so much more, [including a huge list of possible supported uses](https://qnap.com/pro_detail_software.asp?p_id=183), including:
 
 - Apache server
 - MySQL Server
@@ -64,9 +64,9 @@ The QNAP-419P hold up to 4 drives and with RAID 6 a minimum of 4 drives is neede
 
 ### Hard Disk Choices
 
-QNAP makes it very clear which hard drives they recommend and support. ?It's [important to pay attention to this list](http://qnap.com/pro_compatibility.asp) as the drives they recommend are not your run-of-mill drives you might find at BestBuy but more mission-critical drives with high mean-time between failures (MBTF).
+QNAP makes it very clear which hard drives they recommend and support. ?It's [important to pay attention to this list](https://qnap.com/pro_compatibility.asp) as the drives they recommend are not your run-of-mill drives you might find at BestBuy but more mission-critical drives with high mean-time between failures (MBTF).
 
-The specifications for the QNAP say up to 3TB drives are supported in each bay. ?I could only find 2TB varieties and they were a bit pricey so I went with a [Western Digital 1TB WD1002FBYS from NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822136313&cm_re=WD1002FBYS-_-22-136-313-_-Product). ?The description indicates it is a drive for server or storage applications.
+The specifications for the QNAP say up to 3TB drives are supported in each bay. ?I could only find 2TB varieties and they were a bit pricey so I went with a [Western Digital 1TB WD1002FBYS from NewEgg](https://www.newegg.com/Product/Product.aspx?Item=N82E16822136313&cm_re=WD1002FBYS-_-22-136-313-_-Product). ?The description indicates it is a drive for server or storage applications.
 
 Bottom line, this is for backups and you want something fast and reliable so don't skimp on the hard drives.
 

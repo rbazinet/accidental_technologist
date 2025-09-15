@@ -18,7 +18,7 @@ tags:
     - rubygem
 ---
 
-I?ve been using the [PostgreSQL Mac OS X app from Mattt Thompson and Heroku](http://postgresapp.com/) for quite some time now. ?If you don?t know what it is, it?s a drop in app bundle for the PostgreSQL database. ?There are many ways that work, this just happens to be really simple.
+I?ve been using the [PostgreSQL Mac OS X app from Mattt Thompson and Heroku](https://postgresapp.com/) for quite some time now. ?If you don?t know what it is, it?s a drop in app bundle for the PostgreSQL database. ?There are many ways that work, this just happens to be really simple.
 
 I use PostgreSQL with my Ruby on Rails projects and combine that with the [pg ruby gem](https://bitbucket.org/ged/ruby-pg/wiki/Home). ?
 

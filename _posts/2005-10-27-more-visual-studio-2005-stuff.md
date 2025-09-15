@@ -4,13 +4,13 @@ title: 'More Visual Studio 2005 Stuff'
 date: '2005-10-27T17:47:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=30'
+guid: 'https://localhost/~rbazinet/?p=30'
 permalink: /visual-studio/more-visual-studio-2005-stuff/
 categories:
     - 'Visual Studio'
 ---
 
-[Dan Fernandez](http://blogs.msdn.com/danielfe/archive/2005/10/27/485863.aspx) pointed out in his blog about a tool from Microsoft to do an Automatic Uninstall of the pre-RTM bits of VS2005. It's unsupported but will probably be better than going through the mound of steps required to perform before doing other VS2005 updates.
+[Dan Fernandez](https://blogs.msdn.com/danielfe/archive/2005/10/27/485863.aspx) pointed out in his blog about a tool from Microsoft to do an Automatic Uninstall of the pre-RTM bits of VS2005. It's unsupported but will probably be better than going through the mound of steps required to perform before doing other VS2005 updates.
 
 Also released today on the MSDN site is RTM versions of SQL Server 2005 and the .NET 2.0 Runtime.
 

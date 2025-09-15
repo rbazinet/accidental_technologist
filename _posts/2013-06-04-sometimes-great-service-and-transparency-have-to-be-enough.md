@@ -21,7 +21,7 @@ tags:
     - saas
 ---
 
-Yesterday [DNSimple](http://dnsimple.com), my DNS provider and domain registrar of choice, suffered from a [Denial of Service (DoS) attack](http://www.us-cert.gov/ncas/tips/ST04-015) and as a result their service went down. ?This affected my sites and the sites of many people I know.
+Yesterday [DNSimple](https://dnsimple.com), my DNS provider and domain registrar of choice, suffered from a [Denial of Service (DoS) attack](https://www.us-cert.gov/ncas/tips/ST04-015) and as a result their service went down. ?This affected my sites and the sites of many people I know.
 
 DNSimple is a bit of a different provider of services for people on the Internet since they are an infrastructure provider. ?This means they provide a fundamental service which I and others rely to deliver services to our customers. ?This makes a company like DNSimple that much more responsible for being up moire than most. Their outage yesterday, and actually going back a some period of time before yesterday,
 
@@ -81,4 +81,4 @@ Offering details to an audience that would otherwise be in the dark cost them ve
 
 Running a business where you have customers who rely on the product or service you provide is a very rewarding experience, but it doesn't always go smoothly. ?Customers will remember how you reacted when things got tough. ?What image do you want them to have of you?
 
-**UPDATE (6/4/2013 @ 5:00pm EST):** [Anthony Eden of DNSimple posted a great overview](http://blog.dnsimple.com/incident-report-dns-outage-due-to-ddos-attack/) of the problem and the actions taken to resolve and prevent future attacks. ?A really nice way for anyone not following the drama as it occurred.
+**UPDATE (6/4/2013 @ 5:00pm EST):** [Anthony Eden of DNSimple posted a great overview](https://blog.dnsimple.com/incident-report-dns-outage-due-to-ddos-attack/) of the problem and the actions taken to resolve and prevent future attacks. ?A really nice way for anyone not following the drama as it occurred.

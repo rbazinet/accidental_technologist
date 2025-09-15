@@ -23,6 +23,230 @@
   status = 301
   force = true
 
+# Redirect www to non-www
+[[redirects]]
+  from = "https://www.accidentaltechnologist.com/*"
+  to = "https://accidentaltechnologist.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.accidentaltechnologist.com/*"
+  to = "https://accidentaltechnologist.com/:splat"
+  status = 301
+  force = true
+
+# Redirect URLs without trailing slash to trailing slash for directories
+[[redirects]]
+  from = "/category/*"
+  to = "/category/:splat/"
+  status = 301
+
+[[redirects]]
+  from = "/tag/*"
+  to = "/tag/:splat/"
+  status = 301
+
+[[redirects]]
+  from = "/page/*"
+  to = "/page/:splat/"
+  status = 301
+
+# Redirect old WordPress-style URLs to new Jekyll URLs
+[[redirects]]
+  from = "/?p=*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/?cat=*"
+  to = "/"
+  status = 301
+
+# Redirect malformed URLs with double slashes
+[[redirects]]
+  from = "/*//*"
+  to = "/:splat"
+  status = 301
+
+# Redirect URLs with UTM parameters to clean versions
+[[redirects]]
+  from = "/*?utm_source=*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/*?shared=*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/*?share=*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/*?source=*"
+  to = "/:splat"
+  status = 301
+
+# Redirect truncated URLs to their full versions
+[[redirects]]
+  from = "/ruby-on-rails/dead-simple-mode"
+  to = "/ruby-on-rails/dead-simple-model-diagrams-for-your-rails-project/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby-on-rails/running-rails-3-on-wi"
+  to = "/ruby-on-rails/running-rails-3-on-windows/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby-on-rails/running-rails-3-on-wi."
+  to = "/ruby-on-rails/running-rails-3-on-windows/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby/10-alternative-ruby"
+  to = "/ruby/10-alternative-ruby-web-frameworks/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby/10-alternative-ruby-web-framewo"
+  to = "/ruby/10-alternative-ruby-web-frameworks/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby/10-alternative-ruby-web-framew"
+  to = "/ruby/10-alternative-ruby-web-frameworks/"
+  status = 301
+
+[[redirects]]
+  from = "/apple/macmall-winner-of-the-worst-customer-service-on-the-planet-a."
+  to = "/apple/macmall-winner-of-the-worst-customer-service-on-the-planet-award/"
+  status = 301
+
+[[redirects]]
+  from = "/apple/fixing-"
+  to = "/apple/"
+  status = 301
+
+[[redirects]]
+  from = "/asp-net/application_start-not"
+  to = "/asp-net/application_start-not-firing-and-the-global-asax/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby/programmatically-creating-website-th"
+  to = "/ruby/programmatically-creating-website-thumbnails/"
+  status = 301
+
+[[redirects]]
+  from = "/software-architecture/architects-who-don"
+  to = "/software-architecture/architects-who-dont-write-code-are-powerpoint-architects/"
+  status = 301
+
+[[redirects]]
+  from = "/ruby-on-rails/11-ruby-on-rails-podcasts-"
+  to = "/ruby-on-rails/11-ruby-on-rails-podcasts-worth-your-time/"
+  status = 301
+
+[[redirects]]
+  from = "/entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your"
+  to = "/entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your-business-today/"
+  status = 301
+
+[[redirects]]
+  from = "/entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your&"
+  to = "/entrepreneurship/7-great-bootstrapping-podcasts-to-jumpstart-your-business-today/"
+  status = 301
+
+[[redirects]]
+  from = "/objective-c-2/7-great-ios"
+  to = "/objective-c-2/7-great-ios-and-mac-developer-podcasts-to-learn-from-today/"
+  status = 301
+
+[[redirects]]
+  from = "/technology/dell-mini-bios"
+  to = "/technology/dell-mini-bios-upgrade-without-windows-xp-installed/"
+  status = 301
+
+[[redirects]]
+  from = "/microsoft/the-crazy-80040154"
+  to = "/microsoft/the-crazy-80040154-com-class-factory-error/"
+  status = 301
+
+[[redirects]]
+  from = "/programming/app-inventor-for-android-vb..."
+  to = "/programming/app-inventor-for-android-vb-revisited/"
+  status = 301
+
+# Redirect URLs with /1000 suffix (likely pagination artifacts)
+[[redirects]]
+  from = "/*/1000"
+  to = "/:splat/"
+  status = 301
+
+# Redirect URLs with trackback/comment-page suffixes
+[[redirects]]
+  from = "/*/trackback/"
+  to = "/:splat/"
+  status = 301
+
+[[redirects]]
+  from = "/*/comment-page-*"
+  to = "/:splat/"
+  status = 301
+
+# Redirect specific problematic URLs from Google's report
+[[redirects]]
+  from = "/m/ruby/fixing-nokogiri-installation-macos-sierra/"
+  to = "/ruby/fixing-nokogiri-installation-macos-sierra/"
+  status = 301
+
+[[redirects]]
+  from = "/mobile/apple/work-hard-work-smart-and-dont-play-the-lottery/"
+  to = "/apple/work-hard-work-smart-and-dont-play-the-lottery/"
+  status = 301
+
+# Redirect old WordPress date-based URLs to new Jekyll URLs
+[[redirects]]
+  from = "/2007/12/20/setting-up-sqlite3-for-ruby-on-rails-development/"
+  to = "/ruby-on-rails/setting-up-sqlite3-for-ruby-on-rails-development/"
+  status = 301
+
+[[redirects]]
+  from = "/2008/03/10/time-capsule-up-and-running/"
+  to = "/apple/time-capsule-up-and-running/"
+  status = 301
+
+[[redirects]]
+  from = "/2006/04/27/architects-who-don't-write-code-are-"powerpoint-architects"/"
+  to = "/software-architecture/architects-who-dont-write-code-are-powerpoint-architects/"
+  status = 301
+
+# Redirect feed URLs to main pages
+[[redirects]]
+  from = "/category/instant-rails/feed/"
+  to = "/category/instant-rails/"
+  status = 301
+
+[[redirects]]
+  from = "/author/rbazinet/feed/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/comments/feed/"
+  to = "/"
+  status = 301
+
+# Redirect URLs with specific query parameters that cause issues
+[[redirects]]
+  from = "/?ak_action=reject_mobile"
+  to = "/"
+  status = 301
+
 [[headers]]
   for = "/*"
   [headers.values]

@@ -4,7 +4,7 @@ title: 'Learn iPhone Development for Free'
 date: '2009-05-20T09:06:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=354'
+guid: 'https://localhost/~rbazinet/?p=354'
 permalink: /iphone/learn-iphone-development-for-free/
 dsq_thread_id:
     - '95925249'
@@ -14,7 +14,7 @@ categories:
 
 **UPDATE**: I have been adding new sessions below as they have been posted from Stanford.
 
-[![stanford-learning](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearniPhoneDevelopmentforFree_9802/stanford-learning_thumb.png "stanford-learning")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearniPhoneDevelopmentforFree_9802/stanford-learning_2.png) My recent journey to learn some iPhone development, like what seems to be half the population of the planet, I came across a great resource for learning. Many universities are putting their courses on-line and making them free these days and Stanford University is no different, offering a totally free course on iPhone development aptly titled [iPhone Application Programming](http://deimos3.apple.com/WebObjects/Core.woa/Browse/itunes.stanford.edu.2024353965.02024353968). The [syllabus is available for the 10-week course](http://www.stanford.edu/class/cs193p/cgi-bin/syllabus.php) on the Stanford site as well.
+[![stanford-learning](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearniPhoneDevelopmentforFree_9802/stanford-learning_thumb.png "stanford-learning")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/LearniPhoneDevelopmentforFree_9802/stanford-learning_2.png) My recent journey to learn some iPhone development, like what seems to be half the population of the planet, I came across a great resource for learning. Many universities are putting their courses on-line and making them free these days and Stanford University is no different, offering a totally free course on iPhone development aptly titled [iPhone Application Programming](https://deimos3.apple.com/WebObjects/Core.woa/Browse/itunes.stanford.edu.2024353965.02024353968). The [syllabus is available for the 10-week course](https://www.stanford.edu/class/cs193p/cgi-bin/syllabus.php) on the Stanford site as well.
 
 As the time I am writing this there are 13 lectures available to download from the iTunes store:
 
@@ -46,6 +46,6 @@ A few bonus talks were also included from some folks who already have iPhone app
 - **From Upstart to Startup to Grownup: Lessons Learned in the First Year of an iPhone Company** : Jessica Kahn, the Director of Engineering at Tapulous, describes her experience at an iPhone application development company.
 - **Optimizing OpenGL for iPhone** : Tim Omernick from the popular gaming company, ngmoco, provides a broad overview of OpenGL on the iPhone.
 
-All of the materials from the course are available from the [class site at Stanford](http://www.stanford.edu/class/cs193p/cgi-bin/index.php). This seems like a great resource to anyone starting out in iPhone development and either cannot get the time away.
+All of the materials from the course are available from the [class site at Stanford](https://www.stanford.edu/class/cs193p/cgi-bin/index.php). This seems like a great resource to anyone starting out in iPhone development and either cannot get the time away.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:67d7c325-61d3-49b5-a4ab-fc34288c3604" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [iPhone](http://technorati.com/tags/iPhone),[Training](http://technorati.com/tags/Training),[Stanford](http://technorati.com/tags/Stanford)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:67d7c325-61d3-49b5-a4ab-fc34288c3604" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [iPhone](https://technorati.com/tags/iPhone),[Training](https://technorati.com/tags/Training),[Stanford](https://technorati.com/tags/Stanford)</div>
