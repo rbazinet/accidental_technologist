@@ -221,7 +221,7 @@
   status = 301
 
 [[redirects]]
-  from = "/2006/04/27/architects-who-don't-write-code-are-"powerpoint-architects"/"
+  from = "/2006/04/27/architects-who-dont-write-code-are-powerpoint-architects/"
   to = "/software-architecture/architects-who-dont-write-code-are-powerpoint-architects/"
   status = 301
 
