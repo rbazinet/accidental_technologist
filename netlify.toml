@@ -344,6 +344,18 @@
   to = "/404.html"
   status = 404
 
+# Redirect truncated URLs found in 5xx errors
+[[redirects]]
+  from = "/tips/rediscommanderror-misconf-redis-is-configured-to-save-r"
+  to = "/tips/rediscommanderror-misconf-redis-is-configured-to-save-rdb-snapshots/"
+  status = 301
+
+# Redirect search URLs
+[[redirects]]
+  from = "/?s=*"
+  to = "/"
+  status = 301
+
 [[headers]]
   for = "/*"
   [headers.values]
