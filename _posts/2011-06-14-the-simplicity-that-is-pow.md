@@ -25,11 +25,11 @@ Ruby on Rails has made the life of the web developer much more pleasurable over 
 
 ### Enter Pow
 
-[Pow](http://pow.cx/) is a Rack server developed by the folks at 37Signals to help alleviate the pain of serving local Rails applications. ?Using Pow allows the developer to go from accessing their local Rails application using localhost:3000 to something like myrailsapp.dev. ?For example, my expense tracking software, [Expens'd](http://expensd.com) uses subdomains quite a bit, so we get URLs like rbazinet.expensd.com and when using Pow I can simply use the URL rbazinet.expensd.dev. ?This is perfect and simplifies the process.
+[Pow](https://pow.cx/) is a Rack server developed by the folks at 37Signals to help alleviate the pain of serving local Rails applications. ?Using Pow allows the developer to go from accessing their local Rails application using localhost:3000 to something like myrailsapp.dev. ?For example, my expense tracking software, [Expens'd](https://expensd.com) uses subdomains quite a bit, so we get URLs like rbazinet.expensd.com and when using Pow I can simply use the URL rbazinet.expensd.dev. ?This is perfect and simplifies the process.
 
 ### Setting Up Pow for Serving Rails Applications
 
-Installing Pow is pretty easy and shown on the [Pow web site](http://pow.cx/) but for those not interested in heading over there you can open up a terminal session and enter the following:
+Installing Pow is pretty easy and shown on the [Pow web site](https://pow.cx/) but for those not interested in heading over there you can open up a terminal session and enter the following:
 
 ```bash
 $ curl get.pow.cx | sh
@@ -86,7 +86,7 @@ $ tail -f ~/Library/Logs/Pow/access.log
 
 ### Potential Issue
 
-When I setup Pow on my Mac Pro it all worked perfectly from the get-go but on my MacBook Pro I ran into a problem when I tried to browse a URL served by Pow such as expensd.dev. ?DNS seemed to think I wanted to go to the Internet to find the site and I received a 404 error when I tried. ? ?The problem was known and is [outlined on Rob Conery's site](http://wekeroad.com/post/4430429941/fixing-the-dev-resolution-on-snow-leopard-for-pow). ?The first part of the solution involved running the scutil to see if .dev resolver was being used:
+When I setup Pow on my Mac Pro it all worked perfectly from the get-go but on my MacBook Pro I ran into a problem when I tried to browse a URL served by Pow such as expensd.dev. ?DNS seemed to think I wanted to go to the Internet to find the site and I received a 404 error when I tried. ? ?The problem was known and is [outlined on Rob Conery's site](https://wekeroad.com/post/4430429941/fixing-the-dev-resolution-on-snow-leopard-for-pow). ?The first part of the solution involved running the scutil to see if .dev resolver was being used:
 
 ```bash
 $ scutil --dns
@@ -105,7 +105,7 @@ I don't know if Pow uses the same port all the time, so that may change. ?The ke
 
 ### A Better Pow?
 
-I think Pow is pretty awe some just as it is but it seems someone has stepped up to make it even better with a [gem named Powder](https://github.com/Rodreegez/powder). ?I haven't had the chance to play around with this tool yet but a [blog post by one of it's creators](http://logicalfriday.com/2011/05/25/powder-making-pow-even-easier/) says they wanted to make Pow "ridiculously easy". ?The commands supported help make Pow that much easier:
+I think Pow is pretty awe some just as it is but it seems someone has stepped up to make it even better with a [gem named Powder](https://github.com/Rodreegez/powder). ?I haven't had the chance to play around with this tool yet but a [blog post by one of it's creators](https://logicalfriday.com/2011/05/25/powder-making-pow-even-easier/) says they wanted to make Pow "ridiculously easy". ?The commands supported help make Pow that much easier:
 
 ```bash
 $ powder applog
@@ -128,7 +128,7 @@ $ powder open
 # aliased as powder -o
 
 $ powder open bacon
-=> Opens http://bacon.dev in a browser
+=> Opens https://bacon.dev in a browser
 # if you have set up alternative top level domains in .powconfig,
 # then the first listed domain will be opened.
 
@@ -146,7 +146,7 @@ $ powder version
 
 ### More Than Rails Applications
 
-Since Pow is serves up Rack apps the possibilities are pretty endless. ?I found one bit to share where someone is [using Pow to serve his PHP apps](http://stuff-things.net/2011/05/16/legacy-development-with-pow/), pretty clever. ?I would imagine this technique could be used in many applications like this.
+Since Pow is serves up Rack apps the possibilities are pretty endless. ?I found one bit to share where someone is [using Pow to serve his PHP apps](https://stuff-things.net/2011/05/16/legacy-development-with-pow/), pretty clever. ?I would imagine this technique could be used in many applications like this.
 
 ### Finally
 

@@ -23,7 +23,7 @@ tags:
 
 I really love the efforts being put forward by people in our developer community, lots of cool new tools and especially screen casts. ?Screen casts are a great way to spend some time and learn something new.
 
-One new screen cast that has quickly become one of my favorites is [RubyTapas](http://devblog.avdi.org/rubytapas/) by [Avdi Grimm](http://devblog.avdi.org/). ?Avdi is a speaker, writer and a [Ruby Rouge](http://rubyrogues.com/).
+One new screen cast that has quickly become one of my favorites is [RubyTapas](https://devblog.avdi.org/rubytapas/) by [Avdi Grimm](https://devblog.avdi.org/). ?Avdi is a speaker, writer and a [Ruby Rouge](https://rubyrogues.com/).
 
 ## What's RubyTapas?
 
@@ -31,7 +31,7 @@ These are short, 2.5 to 7 minutes in length, but are laser focused on a very spe
 
 > RubyTapas is for the busy Ruby or Rails developer who is ready to reach the next level of code mastery. Short screencasts three times a week will introduce you to a wide variety of intermediate to advanced Ruby concepts and techniques, as well as core Object-Oriented design principles. Lead by head chef Avdi Grimm (author of Exceptional Ruby and Objects on Rails), you?ll go from journeyman to master, one small, tasty plate at a time.
 
-As I write this Avdi has published his 13th episode which covers singleton objects. ?The [growing list of episodes can be found on the RubyTapas site](http://devblog.avdi.org/rubytapas-episode-list/). ? Subscribing to the full list requires a subscription, only $9 per month..so a great deal.
+As I write this Avdi has published his 13th episode which covers singleton objects. ?The [growing list of episodes can be found on the RubyTapas site](https://devblog.avdi.org/rubytapas-episode-list/). ? Subscribing to the full list requires a subscription, only $9 per month..so a great deal.
 
 ## What's to love about these?
 

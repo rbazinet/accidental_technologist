@@ -22,11 +22,11 @@ tags:
 ---
 ![Helpful apps](/assets/img/2012/11/helpful_apps.jpg "helpful_apps.jpg")
 
-The New York Times had a great article this past weekend titled?[As Boom Lures App Creators, Tough Part Is Making a Living](http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?smid=tw-share&_r=0). ?As the title indicates, the life of a mobile developer is not often the glamor we hear about. ?The million-dollar jackpots are few and far between and are more difficult now than in the early days of the Apple App Store.
+The New York Times had a great article this past weekend titled?[As Boom Lures App Creators, Tough Part Is Making a Living](https://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?smid=tw-share&_r=0). ?As the title indicates, the life of a mobile developer is not often the glamor we hear about. ?The million-dollar jackpots are few and far between and are more difficult now than in the early days of the Apple App Store.
 
 The article chronicles the two very different levels of success; one, Ethan Nicholas who created the iShoot game and made over $1 million in 2009. ?The other part of the story is a couple who worked full-time on a handful of applications focused on children.
 
-It saddens me when I see smart people treating the app store akin to [The California Gold Rush](http://en.wikipedia.org/wiki/California_Gold_Rush); same state and the same dreams of getting rich and too often a very similar outcome:
+It saddens me when I see smart people treating the app store akin to [The California Gold Rush](https://en.wikipedia.org/wiki/California_Gold_Rush); same state and the same dreams of getting rich and too often a very similar outcome:
 
 > The Grimeses? quest cost them more than $200,000 in lost income and savings. So far this year, their eight apps have earned $4,964. When the newest iPhone came out at the end of September, the couple immediately bought two.?
 
@@ -42,7 +42,7 @@ The better approach is solving real problems for someone who is willing to give 
 
 Refer back to Ethan Nicholas and the direction he has taken since his million-dollar application idea:
 
-> Mr. Nicholas and a friend, Brent Miller, were inspired to form a company. ?We were going to make another million or two,? said Mr. Miller, 38. But when none of their new games sold like iShoot, the pair moved in an entirely new direction. They founded [echoBase](http://www.echobasesoftware.com/), a start-up with 14 employees that is developing apps to allow doctors and nurses to view and update medical records across different computer systems. They brought in Mr. Miller?s father, Rod, a former I.B.M. sales manager, as chief executive.
+> Mr. Nicholas and a friend, Brent Miller, were inspired to form a company. ?We were going to make another million or two,? said Mr. Miller, 38. But when none of their new games sold like iShoot, the pair moved in an entirely new direction. They founded [echoBase](https://www.echobasesoftware.com/), a start-up with 14 employees that is developing apps to allow doctors and nurses to view and update medical records across different computer systems. They brought in Mr. Miller?s father, Rod, a former I.B.M. sales manager, as chief executive.
 
 This is an example of a solution to a real problem, making the life of doctors better and at the same time providing accurate and reliable care to the patient. ?The application is [free on the App Store](https://itunes.apple.com/us/app/resonate/id343681401?mt=8) but it's very clear in the description that a server piece is also needed. ?I am sure THIS part is not free. ?This is someone who has made it in the App Store but realizes it's not easily reproducible. ?This should be the type of applications we are creating, ones that create a revenue stream for developers but also add real value to users.?
 

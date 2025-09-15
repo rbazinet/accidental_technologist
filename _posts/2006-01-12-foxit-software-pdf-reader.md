@@ -4,7 +4,7 @@ title: 'Foxit Software PDF Reader'
 date: '2006-01-12T10:44:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=43'
+guid: 'https://localhost/~rbazinet/?p=43'
 permalink: /technology/foxit-software-pdf-reader/
 dsq_thread_id:
     - '95923736'
@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-I recently read a post over on [Scott Hanselman's blog](http://www.hanselman.com/blog/TheEndOfAdobeAcrobatThankYouFoxit.aspx) about [Foxit Software's PDF reader](http://www.foxitsoftware.com/default.htm). This is a PDF reader to replace Adobe Acrobat Reader. I have to admit, I HATE Adobe Acrobat Reader. It's slow, it's bloated, it stays in memory after use and it's unpredictable.
+I recently read a post over on [Scott Hanselman's blog](https://www.hanselman.com/blog/TheEndOfAdobeAcrobatThankYouFoxit.aspx) about [Foxit Software's PDF reader](https://www.foxitsoftware.com/default.htm). This is a PDF reader to replace Adobe Acrobat Reader. I have to admit, I HATE Adobe Acrobat Reader. It's slow, it's bloated, it stays in memory after use and it's unpredictable.
 
 I have used Acrobat Reader for years and was relatively happy with it until after v3.0. Upon discovering the Foxit Software PDF Reader I decided to give it a try. I uninstalled my Adobe Acrobat Reader 6.02 with a small ceremony and unzipped my new Foxit PDF Reader looking for the install, and there was none. All that was enclosed in the zip was an .exe file. I copied the .exe to my path and gave it a shot by clicking on an existing PDF file.
 
@@ -22,6 +22,6 @@ It just worked. Windows recognized the .PDF was associated with the Foxit Reader
 
 I recommend replacing your bloated Adobe Acrobat as soon as possible and use the Foxit Reader. I am not affiliated with Foxit Software in any way, just thrilled to have found some great software.
 
-[You can download it from here.](http://www.foxitsoftware.com/foxitreader/foxitreader_setup.exe)
+[You can download it from here.](https://www.foxitsoftware.com/foxitreader/foxitreader_setup.exe)
 
-Technorati Tags : [Foxit Software](<http://technorati.com/tag/Foxit Softwarwe>)
+Technorati Tags : [Foxit Software](<https://technorati.com/tag/Foxit Softwarwe>)

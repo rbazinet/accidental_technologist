@@ -4,7 +4,7 @@ title: 'Ruby 1.9 Released - Should you use it today?'
 date: '2007-12-30T01:40:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=197'
+guid: 'https://localhost/~rbazinet/?p=197'
 permalink: /ruby/ruby-1-9-released-should-you-use-it-today/
 dsq_thread_id:
     - '95924568'
@@ -12,13 +12,13 @@ categories:
     - Ruby
 ---
 
-[![Ruby Logo](http://rbazinet.files.wordpress.com/2007/12/ruby-logo.jpg)](http://rbazinet.files.wordpress.com/2007/12/ruby-logo.jpg "Ruby Logo")
+[![Ruby Logo](https://rbazinet.files.wordpress.com/2007/12/ruby-logo.jpg)](https://rbazinet.files.wordpress.com/2007/12/ruby-logo.jpg "Ruby Logo")
 
-[Ruby 1.9 was released on Christmas](http://www.ruby-lang.org/en/news/2007/12/25/ruby-1-9-0-released/), announced on the Ruby web site. Matz made the announcement we all expected, as Matz seems to enjoy giving all the Rubyists a nice Christmas present.
+[Ruby 1.9 was released on Christmas](https://www.ruby-lang.org/en/news/2007/12/25/ruby-1-9-0-released/), announced on the Ruby web site. Matz made the announcement we all expected, as Matz seems to enjoy giving all the Rubyists a nice Christmas present.
 
 Many developers probably were anxious for the release and wanted to download it, get it setup and start using their Ruby or Rails applications with some new found speed improvements. Anyone who has been around the computer industry for any amount of time knows it is rarely easy just to take a new release of a programming language and just use it with existing code or framework.
 
-Dave Thomas has some [nice insight](http://pragdave.blogs.pragprog.com/pragdave/2007/12/ruby-19right-fo.html) on the topic of using Ruby 1.9 and whether it is right for you.
+Dave Thomas has some [nice insight](https://pragdave.blogs.pragprog.com/pragdave/2007/12/ruby-19right-fo.html) on the topic of using Ruby 1.9 and whether it is right for you.
 
 The Good:
 
@@ -62,6 +62,6 @@ This method will give you a sandbox or Ruby 1.9 to write code with and explore.
 
 The answer is yes and no. Yes, so you can play around with it, get to know it and update your libraries or gems if you maintain any. The other side of the argument is that you should not expect to use it for production code, it's not meant for that today.
 
-Ruby has come a long way and the future is bright. The [performance improvements](http://antoniocangiano.com/2007/02/19/ruby-implementations-shootout-ruby-vs-yarv-vs-jruby-vs-gardens-point-ruby-net-vs-rubinius-vs-cardinal/) alone is reason enough to want to get it and learn it.
+Ruby has come a long way and the future is bright. The [performance improvements](https://antoniocangiano.com/2007/02/19/ruby-implementations-shootout-ruby-vs-yarv-vs-jruby-vs-gardens-point-ruby-net-vs-rubinius-vs-cardinal/) alone is reason enough to want to get it and learn it.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails),[Ruby](http://technorati.com/tags/Ruby)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby on Rails](https://technorati.com/tags/Ruby%20on%20Rails),[Ruby](https://technorati.com/tags/Ruby)</div>

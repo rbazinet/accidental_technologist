@@ -4,7 +4,7 @@ title: 'I Am Not a Master but a Solutionist'
 date: '2010-01-11T12:01:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=390'
+guid: 'https://localhost/~rbazinet/?p=390'
 permalink: /programming/i-am-not-a-master-but-a-solutionist/
 dsq_thread_id:
     - '96036262'
@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-I stumbled upon an interesting essay by Zed Shaw recently titled ["The Master, The Expert, The Programmer](http://zedshaw.com/essays/master_and_expert.html)" [pointed out by Avdi Grimm](http://avdi.org/devblog/2009/12/29/wax-on-wax-off/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+VirtuousCode+%28Virtuous+Code%29&utm_content=Google+Reader). One part that stuck out in my mind was this excerpt:
+I stumbled upon an interesting essay by Zed Shaw recently titled ["The Master, The Expert, The Programmer](https://zedshaw.com/essays/master_and_expert.html)" [pointed out by Avdi Grimm](https://avdi.org/devblog/2009/12/29/wax-on-wax-off/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+VirtuousCode+%28Virtuous+Code%29&utm_content=Google+Reader). One part that stuck out in my mind was this excerpt:
 
 > What I notice is that my peers are progressing to more and more complicated and convoluted designs. They are impressed with the flashiest APIs, the biggest buzzwords, and the most intricate of useless features. They are more than happy to write endless unit tests to test their endless refactoring all the while claiming that they follow XP’s “the simplest thing that works” mantra. I’ve actually seen a guy take a single class that did nothing more than encapsulate the addition of two strings, and somehow “refactor” it to be four classes and two interfaces. How is this improving things? How can more somehow equal simpler? This should never be the case.
 > 
@@ -36,4 +36,4 @@ We are solutionists and we do the best job we can from the experience we have ga
 
 I think we should be creating the simplest solutions we can to fit the needs, and budget of the client. If simple is a one form application, then do it. If simple is a 20 form application with full test suite, then do it. Simple is what gets the job done.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24c06005-f898-4a32-813c-4d04095a0a77" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [TDD](http://technorati.com/tags/TDD),[Freelancing](http://technorati.com/tags/freelancing),[Ruby on Rails](http://technorati.com/tags/Ruby+on+Rails)</div><div class="posttagsblock"> </div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24c06005-f898-4a32-813c-4d04095a0a77" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [TDD](https://technorati.com/tags/TDD),[Freelancing](https://technorati.com/tags/freelancing),[Ruby on Rails](https://technorati.com/tags/Ruby+on+Rails)</div><div class="posttagsblock"> </div>

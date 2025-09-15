@@ -4,7 +4,7 @@ title: 'Losing Intellisense on Visual Studio'
 date: '2005-12-07T04:25:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=36'
+guid: 'https://localhost/~rbazinet/?p=36'
 permalink: /visual-studio/losing-intellisense-on-visual-studio/
 dsq_thread_id:
     - '95923727'
@@ -35,4 +35,4 @@ I was not even aware Visual Studio cached anything under my profile. Well, after
 
 Wow, what a way to fix a problem that should not be a problem in the first place. I would expect this to be a bug fixed in Visual Studio but there doesn't seem to be a hotfix available. Let's hope this is not an issue in Visual Studio 2005.
 
-Technorati Tags : [ASP.NET](http://technorati.com/tag/ASP.NET), [Visual Studio 2005](http://technorati.com/tag/Visual%20Studio%202005), [Microsoft](http://technorati.com/tag/Microsoft)
+Technorati Tags : [ASP.NET](https://technorati.com/tag/ASP.NET), [Visual Studio 2005](https://technorati.com/tag/Visual%20Studio%202005), [Microsoft](https://technorati.com/tag/Microsoft)

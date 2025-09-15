@@ -16,11 +16,11 @@ tags:
     - 'Ruby on Rails'
 ---
 
-The Ruby Rails consulting shop [Makandra](http://makandra.com/) recently opened their [internal knowledge base](http://makandra.com/notes/) of how-tos and code snippets for all to see and use. [The announcement about the project indicates 500+ links](http://gem-session.com/2010/09/in-which-we-open-source-our-knowledge-base):
+The Ruby Rails consulting shop [Makandra](https://makandra.com/) recently opened their [internal knowledge base](https://makandra.com/notes/) of how-tos and code snippets for all to see and use. [The announcement about the project indicates 500+ links](https://gem-session.com/2010/09/in-which-we-open-source-our-knowledge-base):
 
-> This September we decided to take our in-house knowledge base and publish it for everyone to see. [makandra notes](http://makandra.com/notes/) contains some 200 HOWTOs and 500+ links for Ruby, Rails, RSpec, Cucumber and Javascript and is growing every day.
+> This September we decided to take our in-house knowledge base and publish it for everyone to see. [makandra notes](https://makandra.com/notes/) contains some 200 HOWTOs and 500+ links for Ruby, Rails, RSpec, Cucumber and Javascript and is growing every day.
 > 
-> Whether you're looking to [deliver Paperclip attachments securely](http://makandra.com/notes/734-deliver-paperclip-attachments-to-authorized-users-only), [test concurrent Ruby code](http://makandra.com/notes/556-test-concurrent-ruby-code) or [marry Capybara with SSL-enabled applications](http://makandra.com/notes/628-marry-capybara-with-ssl-enabled-applications), chances are we already solved your problem for you.
+> Whether you're looking to [deliver Paperclip attachments securely](https://makandra.com/notes/734-deliver-paperclip-attachments-to-authorized-users-only), [test concurrent Ruby code](https://makandra.com/notes/556-test-concurrent-ruby-code) or [marry Capybara with SSL-enabled applications](https://makandra.com/notes/628-marry-capybara-with-ssl-enabled-applications), chances are we already solved your problem for you.
 
 The reality is as of this writing, 718 notes are listed. It?s a good resource and one I hope they add to and either let others contribute to or open source the application for others to use to build internal/external knowledge bases.
 

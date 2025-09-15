@@ -17,7 +17,7 @@ tags:
     - Windows
 ---
 
-It has been a long time since [InstantRails](http://rubyforge.org/projects/instantrails/) has been brought up-to-date and I had been wondering if the community had any continued interest in the project.
+It has been a long time since [InstantRails](https://rubyforge.org/projects/instantrails/) has been brought up-to-date and I had been wondering if the community had any continued interest in the project.
 
 Well, recently I had been contacted about the project and moving it forward and bring it to Rails 3 and Ruby 1.9.2.
 

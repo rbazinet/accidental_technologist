@@ -18,7 +18,7 @@ tags:
     - MobileMe
 ---
 
-Today [Apple released iOS 4.2.1 for all their mobile devices including iPhone, iPod Touch and the iPad](http://www.apple.com/pr/library/2010/11/22ios.html?aosid=p204&siteid=1503186&program_id=2554&cid=OAS-EMEA-AFF&tduid=ad3041428f8a0cae85a90f5c1c131f03). One of the last-minute features announced was the Fine My iPhone features which allows users to track down a stolen or misplaced iPhone. Until today you had to have a [MobileMe](http://me.com) account costing $99 per year. Today?s release gave iOS users a free MobileMe account which they can use for Find My iPhone.
+Today [Apple released iOS 4.2.1 for all their mobile devices including iPhone, iPod Touch and the iPad](https://www.apple.com/pr/library/2010/11/22ios.html?aosid=p204&siteid=1503186&program_id=2554&cid=OAS-EMEA-AFF&tduid=ad3041428f8a0cae85a90f5c1c131f03). One of the last-minute features announced was the Fine My iPhone features which allows users to track down a stolen or misplaced iPhone. Until today you had to have a [MobileMe](https://me.com) account costing $99 per year. Today?s release gave iOS users a free MobileMe account which they can use for Find My iPhone.
 
 I downloaded and installed iOS 4.2.1 for both my iPad and iPhone 3GS through iTunes. Installation went without a hitch.
 
@@ -38,7 +38,7 @@ I then decided to give it shot on the iPhone 3GS one last time and viola..worked
 
 Easiest fix if you experience the same problem, add your iPad or other device first. If no other device exists..well, then I?m not sure.
 
-**UPDATE:** A reader here and confirmed on Twitter points out this behavior is by-design and you must have a current generation device to setup the free MobileMe account and then register your older devices. The very [fine print on the Apple web site](http://www.apple.com/ios/) states:
+**UPDATE:** A reader here and confirmed on Twitter points out this behavior is by-design and you must have a current generation device to setup the free MobileMe account and then register your older devices. The very [fine print on the Apple web site](https://www.apple.com/ios/) states:
 
 > 3\. You can create a free Find My iPhone account on any iPhone 4, iPad, or iPod touch (4th generation) running iOS 4.2. Once you create an account on a qualifying device, use your Apple ID and password to enable Find My iPhone on your other devices running iOS 4.2. Find My iPhone is not available in all countries.
 

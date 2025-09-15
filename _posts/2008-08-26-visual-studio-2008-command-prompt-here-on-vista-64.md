@@ -4,7 +4,7 @@ title: 'Visual Studio 2008 Command Prompt Here on Vista 64'
 date: '2008-08-26T10:38:50-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=303'
+guid: 'https://localhost/~rbazinet/?p=303'
 permalink: /programming/visual-studio-2008-command-prompt-here-on-vista-64/
 dsq_thread_id:
     - '95924859'
@@ -12,7 +12,7 @@ categories:
     - Programming
 ---
 
-[![CommandPromptHere](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_thumb_2.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_6.jpg) One of the first things I do when setting up a new system is to add the ability to right click on any folder and have a new command prompt with all of the Visual Studio environment variables setup properly. I have used the one referenced by [Scott Hanselman for Visual Studio 2005](http://www.hanselman.com/blog/content/binary/vsnet2005cmdhere.inf) but with Visual Studio 2008 and Vista 64 installed I had to make a few tweaks to the file and making it available.
+[![CommandPromptHere](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_thumb_2.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/VisualStudio2008CommandPromptHereonVista_8C21/CommandPromptHere_6.jpg) One of the first things I do when setting up a new system is to add the ability to right click on any folder and have a new command prompt with all of the Visual Studio environment variables setup properly. I have used the one referenced by [Scott Hanselman for Visual Studio 2005](https://www.hanselman.com/blog/content/binary/vsnet2005cmdhere.inf) but with Visual Studio 2008 and Vista 64 installed I had to make a few tweaks to the file and making it available.
 
 The new command file looks like this:
 
@@ -61,4 +61,4 @@ The real changes were the new location of Visual Studio, in particular the fact 
 
 </div>I hope it helps out.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3f455242-2f73-41df-98ca-dc64f53289ba" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Visual Studio 2008](http://technorati.com/tags/Visual%20Studio%202008),[Command Here](http://technorati.com/tags/Command%20Here)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3f455242-2f73-41df-98ca-dc64f53289ba" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Visual Studio 2008](https://technorati.com/tags/Visual%20Studio%202008),[Command Here](https://technorati.com/tags/Command%20Here)</div>

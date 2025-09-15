@@ -4,7 +4,7 @@ title: 'Finally getting Twitter'
 date: '2008-01-22T11:05:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=214'
+guid: 'https://localhost/~rbazinet/?p=214'
 permalink: /technology/finally-getting-twitter/
 dsq_thread_id:
     - '95924611'
@@ -12,9 +12,9 @@ categories:
     - Technology
 ---
 
-[![twitter](http://rbazinet.files.wordpress.com/2008/01/twitter.gif)](http://www.twitter.com/)
+[![twitter](https://rbazinet.files.wordpress.com/2008/01/twitter.gif)](https://www.twitter.com/)
 
-I have been on [Twitter](http://www.twitter.com/) for quite a while now and was very uninvolved in the whole experience. I just didn't get it, but watching others and being more involved has a bell going off in my mind.
+I have been on [Twitter](https://www.twitter.com/) for quite a while now and was very uninvolved in the whole experience. I just didn't get it, but watching others and being more involved has a bell going off in my mind.
 
 Twitter says they are:
 
@@ -28,4 +28,4 @@ I write for InfoQ as both a Ruby and .NET editor and I have gotten article ideas
 
 Come visit Twitter and follow me, I am on as rbazinet. Twitter is very convenient and productive for so many reasons but it is not about what I am doing.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Twitter](http://technorati.com/tags/Twitter)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Twitter](https://technorati.com/tags/Twitter)</div>

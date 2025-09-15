@@ -4,13 +4,13 @@ title: 'Ruby on Rails 2.0.1 Available now'
 date: '2007-12-07T16:17:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=183'
+guid: 'https://localhost/~rbazinet/?p=183'
 permalink: /ruby-on-rails/ruby-on-rails-2-0-1-available-now/
 categories:
     - 'Ruby on Rails'
 ---
 
-According to a post today on the Ruby on Rails blog, [Ruby on Rails 2.0 has been released](http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done) after almost a year in the making.
+According to a post today on the Ruby on Rails blog, [Ruby on Rails 2.0 has been released](https://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done) after almost a year in the making.
 
 This release is full of new features, lots of fixes and a large amount of polish. David (DHH) said about the release:
 
@@ -103,7 +103,7 @@ The list of What's New with this release is long. The major ones which will inte
 > 
 > We?ve also made it easier to deal with XSS attacks while still allowing users to embed HTML in your pages. The old TextHelper#sanitize method has gone from a black list (very hard to keep secure) approach to a white list approach. If you?re already using sanitize, you?ll automatically be granted better protection. You can tweak the tags that are allowed by default with sanitize as well. See TextHelper#sanitize for details.
 > 
-> Finally, we?ve added support for [HTTP only cookies](http://msdn2.microsoft.com/en-us/library/ms533046.aspx). They are not yet supported by all browsers, but you can use them where they are.
+> Finally, we?ve added support for [HTTP only cookies](https://msdn2.microsoft.com/en-us/library/ms533046.aspx). They are not yet supported by all browsers, but you can use them where they are.
 
 - **Action Pack: Exception handling**
 
@@ -239,10 +239,10 @@ and had a Rails 2.0.1 up and running. I tried later to upgrade a couple other de
 
 **Resources**
 
-Ryan Daigle has a [very good post on his blog Ryan's Scraps](http://ryandaigle.com/articles/2007/12/7/rails-2-0-final-released-summary-of-features) where he has been documenting the changes coming in Rails over the last few months. Ryan also has a nice [PDF you can pick up from Peepcode for only $9](http://peepcode.com/products/rails2-pdf), well worth the 146 or so pages.
+Ryan Daigle has a [very good post on his blog Ryan's Scraps](https://ryandaigle.com/articles/2007/12/7/rails-2-0-final-released-summary-of-features) where he has been documenting the changes coming in Rails over the last few months. Ryan also has a nice [PDF you can pick up from Peepcode for only $9](https://peepcode.com/products/rails2-pdf), well worth the 146 or so pages.
 
-Two other resources to get you going on Rails 2.0 is a book from long-time Rails guy Obie Fernandez, his book is [The Rails Way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321445619) and the other is [Advanced Rails Recipes : 72 New Ways to Build Stunning Rails Apps](http://www.pragprog.com/titles/fr_arr) published by the Pragmatic Programmers and written by Mike Clark.
+Two other resources to get you going on Rails 2.0 is a book from long-time Rails guy Obie Fernandez, his book is [The Rails Way](https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321445619) and the other is [Advanced Rails Recipes : 72 New Ways to Build Stunning Rails Apps](https://www.pragprog.com/titles/fr_arr) published by the Pragmatic Programmers and written by Mike Clark.
 
 I am looking forward to getting up-to-speed on the latest Rails features. I have a few applications I plan to start upgrading and one I will be starting clean with Rails 2.0.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails)</div></blockquot>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby on Rails](https://technorati.com/tags/Ruby%20on%20Rails)</div></blockquot>

@@ -4,7 +4,7 @@ title: 'Consulting on Different Platforms and Varying Requirements'
 date: '2009-04-17T13:51:35-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=352'
+guid: 'https://localhost/~rbazinet/?p=352'
 permalink: /technology/consulting-on-different-platforms-and-varying-requirements/
 dsq_thread_id:
     - '95925211'
@@ -24,7 +24,7 @@ The gigs and jobs I have pursued and taken in the past have included many .NET r
 
 ### Ruby on Rails
 
-This community, and probably like any community centered around open-source, doesn?t care a lot about resumes but wants to see your list of of open-source projects you have committed to via your [GitHub](http://github.com) page. This seems to make sense to people who are heavily into open-source projects, giving their time to the good of the open-source cause.
+This community, and probably like any community centered around open-source, doesn?t care a lot about resumes but wants to see your list of of open-source projects you have committed to via your [GitHub](https://github.com) page. This seems to make sense to people who are heavily into open-source projects, giving their time to the good of the open-source cause.
 
 So what if you use Ruby on Rails to make a living and you *don?t* spend your free time writing code to commit to freely available software? I certainly don?t have the time to commit to open-source and I find the measure of someone?s worth is how much they commit as total bullshit! I guess some folks have the time to sit around all night writing code to freely giveaway, which is awesome. What about those with families that actually work to live, not live to work?
 
@@ -46,4 +46,4 @@ While I agree with the way .NET and iPhone folks are hiring people, I find the w
 
 I do find it interesting how each separate community judges and rates its contributors. Each has a very different way they feel is the best way to bring people on projects.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fdd2ad8f-b0dd-4f5e-8cc0-74ed52f39c38" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [iPhone](http://technorati.com/tags/iPhone),[.NET](http://technorati.com/tags/.NET),[Open Source](http://technorati.com/tags/Open+Source),[Freelance](http://technorati.com/tags/Freelance)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fdd2ad8f-b0dd-4f5e-8cc0-74ed52f39c38" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [iPhone](https://technorati.com/tags/iPhone),[.NET](https://technorati.com/tags/.NET),[Open Source](https://technorati.com/tags/Open+Source),[Freelance](https://technorati.com/tags/Freelance)</div>

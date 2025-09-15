@@ -21,7 +21,7 @@ tags:
 
 ![SimpleMailr med](/assets/img/2013/12/SimpleMailr-med.png "SimpleMailr-med.png")
 
-I?ve been working on a SaaS application for the past number of months named [SimpleMailr](http://simplemailr.com/). It has gone through several iterations as I try to convey my intentions for the service. ?In a one-liner, SimpleMailr is intended to ?Get your newsletter in the hands of your readers easier.?
+I?ve been working on a SaaS application for the past number of months named [SimpleMailr](https://simplemailr.com/). It has gone through several iterations as I try to convey my intentions for the service. ?In a one-liner, SimpleMailr is intended to ?Get your newsletter in the hands of your readers easier.?
 
 I?ve tried and used several services such as MailChimp, Constant Contact, Campaign Monitor and others but there is a certain amount of barrier to entry. ?I want something simple to setup, simple to get that first newsletter to readers and simple to do over and over. ?The end goal is getting content to readers and make it easy.
 

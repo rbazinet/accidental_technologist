@@ -14,9 +14,9 @@ tags:
     - 'r?sum'
 ---
 
-I'm sure like so many people I used to keep a [r?sum?](http://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9) up-to-date but no longer. ?I don't think with social media and blogging that we need them today. ?The traditional r?sum? was a document which gave a history of the skills you posses, the jobs you've held, some banter about where I went to school and maybe a bit about the things I like to do when I am not working.
+I'm sure like so many people I used to keep a [r?sum?](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9) up-to-date but no longer. ?I don't think with social media and blogging that we need them today. ?The traditional r?sum? was a document which gave a history of the skills you posses, the jobs you've held, some banter about where I went to school and maybe a bit about the things I like to do when I am not working.
 
-The traditional r?sum? seems like something I did a dozen years ago but not today. ?Do you? ?I [write a blog](https://accidentaltechnologist.com/), it has an [About Me page](https://accidentaltechnologist.com/about/), in fact you are reading it now. ?I also keep a [LinkedIn profile](http://www.linkedin.com/in/rbazinet) updated with new skills and that profile pulls in content from sites such as [Twitter](https://twitter.com/#!/rbazinet). ?The profile also shows the interests I have by the groups I belong, both professional and personal.
+The traditional r?sum? seems like something I did a dozen years ago but not today. ?Do you? ?I [write a blog](https://accidentaltechnologist.com/), it has an [About Me page](https://accidentaltechnologist.com/about/), in fact you are reading it now. ?I also keep a [LinkedIn profile](https://www.linkedin.com/in/rbazinet) updated with new skills and that profile pulls in content from sites such as [Twitter](https://twitter.com/#!/rbazinet). ?The profile also shows the interests I have by the groups I belong, both professional and personal.
 
 So why do I or anyone else for the matter need to keep a r?sum? updated? ?I think all of the relevant information can be had right on the Internet with much more dynamic content than a?r?sum? in Word document format.
 

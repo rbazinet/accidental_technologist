@@ -9,7 +9,7 @@ permalink: /infoq/infoq-datamapper-turns-the-big-1-0/
 jd_tweet_this:
     - 'yes'
 wp_jd_bitly:
-    - 'http://bit.ly/ap0ySM'
+    - 'https://bit.ly/ap0ySM'
 wp_jd_target:
     - 'https://accidentaltechnologist.com/infoq/infoq-datamapper-turns-the-big-1-0/'
 dsq_thread_id:
@@ -23,11 +23,11 @@ tags:
     - 'Ruby on Rails'
 ---
 
-[Since my visit to RailsConf in June](https://accidentaltechnologist.com/ruby-on-rails/railsconf-2010/) I have been pursuing various topics to write about for InfoQ. I have been particularly interested in [DataMapper](http://datamapper.org/) and the fact that [version 1.0 has been released](http://datamapper.org/articles/datamapper-100-released.html).
+[Since my visit to RailsConf in June](https://accidentaltechnologist.com/ruby-on-rails/railsconf-2010/) I have been pursuing various topics to write about for InfoQ. I have been particularly interested in [DataMapper](https://datamapper.org/) and the fact that [version 1.0 has been released](https://datamapper.org/articles/datamapper-100-released.html).
 
-I had the chance to talk with [Dan Kubb](http://github.com/dkubb/), the lead on the project, about version 1.0 and it went out this morning on InfoQ, titled [DataMapper Reaches 1.0 Milestone](http://www.infoq.com/news/2010/07/datamapper-1.0). It was interesting to see the details of this project while thinking how Rails uses ActiveRecord.
+I had the chance to talk with [Dan Kubb](https://github.com/dkubb/), the lead on the project, about version 1.0 and it went out this morning on InfoQ, titled [DataMapper Reaches 1.0 Milestone](https://www.infoq.com/news/2010/07/datamapper-1.0). It was interesting to see the details of this project while thinking how Rails uses ActiveRecord.
 
-One of the more impressive aspects of this project is the number of plugins available. From the [DataMapper web site](http://datamapper.org/docs/dm_more/):
+One of the more impressive aspects of this project is the number of plugins available. From the [DataMapper web site](https://datamapper.org/docs/dm_more/):
 
 > #### Resource Plugins
 > 
@@ -95,7 +95,7 @@ One of the more impressive aspects of this project is the number of plugins avai
 > 
 > ##### DM-CouchDB-Adapter
 > 
-> An adapter for the JSON based document database [couch-db](http://incubator.apache.org/couchdb/). The adaptor has support for both defining models backed by a couch-db store and also for couch-db views.
+> An adapter for the JSON based document database [couch-db](https://incubator.apache.org/couchdb/). The adaptor has support for both defining models backed by a couch-db store and also for couch-db views.
 > 
 > ##### DM-Rest-Adapter
 > 
@@ -107,11 +107,11 @@ One of the more impressive aspects of this project is the number of plugins avai
 > 
 > ##### merb\_datamapper
 > 
-> Integration with the [merb](http://www.merbivore.com/) web framework. The plugin takes care of setting up the DataMapper connection when the framework starts, provides several useful rake tasks as well as generators for Models, ResourceControllers and Migrations.
+> Integration with the [merb](https://www.merbivore.com/) web framework. The plugin takes care of setting up the DataMapper connection when the framework starts, provides several useful rake tasks as well as generators for Models, ResourceControllers and Migrations.
 > 
 > ##### rails\_datamapper
 > 
-> Integration with [Rails](http://www.rubyonrails.org/). It provides a Model generator and also takes care of connecting to the data-store through DataMapper.
+> Integration with [Rails](https://www.rubyonrails.org/). It provides a Model generator and also takes care of connecting to the data-store through DataMapper.
 > 
 > #### Utility Plugins
 > 

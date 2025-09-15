@@ -25,7 +25,7 @@ tags:
 
 ![Gr logo](/assets/img/2013/03/gr-logo.jpeg "gr-logo.jpeg")
 
-I bet by now you have heard the news [Google Reader will be shutting down on July 1, 2013](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html):
+I bet by now you have heard the news [Google Reader will be shutting down on July 1, 2013](https://googlereader.blogspot.com/2013/03/powering-down-google-reader.html):
 
 > We have just announced on the Official Google Blog that we will soon retire Google Reader (the actual date is July 1, 2013). We know Reader has a devoted following who will be very sad to see it go. We?re sad too.
 > 
@@ -39,15 +39,15 @@ That's it..thank all of you for signing up for our service, relying on it but we
 
 What happens now when Google Reader has its plugged pulled this summer? ?We lose all of the conveniences afforded to us by Google Reader and we have no where to turn to at this point.
 
-[Marco Arment points out](http://www.marco.org/2013/03/13/google-reader-sunset) this may not be a bad thing:
+[Marco Arment points out](https://www.marco.org/2013/03/13/google-reader-sunset) this may not be a bad thing:
 
 > Now, we?ll be forced to fill the hole that Reader will leave behind, and there?s no immediately obvious alternative. We?re finally likely to see substantial innovation and competition in RSS desktop apps and sync platforms for the first time in almost a decade.?
 
 I think he's right but at a cost. ?All the RSS reader applications who use Google Reader will now need to scramble and retool with their own sync platform or work with others to create one that many can use. ?It won't be free to build, support and maintain.
 
-Possible solutions do exist today but not really 100% replacements for Reader; both [NewsBlur](http://newsblur.com/) and [Feedly](http://feedly.com/) have been mentioned but they seem to be having some scaling issues at the moment.?
+Possible solutions do exist today but not really 100% replacements for Reader; both [NewsBlur](https://newsblur.com/) and [Feedly](https://feedly.com/) have been mentioned but they seem to be having some scaling issues at the moment.?
 
-It seems others, such as David Smith, envisioned something should be available that is not run by Google. ?[David announced last night that he is working on such a platform and has for months](http://david-smith.org/blog/2013/03/13/my-secret-project-feed-wrangler/):
+It seems others, such as David Smith, envisioned something should be available that is not run by Google. ?[David announced last night that he is working on such a platform and has for months](https://david-smith.org/blog/2013/03/13/my-secret-project-feed-wrangler/):
 
 > Feed Wrangler will be a paid, subscription based service. I believe the reason that Google turned its back on Reader and left its users hanging is that they were users not customers. I?m not interested in building a platform designed to attract as many users as possible and then work out how to sustain it later. I want to instead build something that is sustainable from Day 1. I want my customers to feel confident that they can expect this to be around long into the future. I want to build a relationship with them and make something they really, really love.?
 

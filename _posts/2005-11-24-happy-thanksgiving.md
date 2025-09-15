@@ -4,7 +4,7 @@ title: 'Happy Thanksgiving'
 date: '2005-11-24T17:39:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=33'
+guid: 'https://localhost/~rbazinet/?p=33'
 permalink: /general/happy-thanksgiving/
 categories:
     - General

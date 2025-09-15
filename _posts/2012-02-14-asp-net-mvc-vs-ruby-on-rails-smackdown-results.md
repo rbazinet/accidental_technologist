@@ -7,7 +7,7 @@ layout: post
 guid: 'https://accidentaltechnologist.com/?p=696'
 permalink: /ruby-on-rails/asp-net-mvc-vs-ruby-on-rails-smackdown-results/
 redirect:
-    - 'http://redlinesoftware.com/blog/2012/01/26/asp-dot-net-mvc-vs-ruby-on-rails-smackdown-results/'
+    - 'https://redlinesoftware.com/blog/2012/01/26/asp-dot-net-mvc-vs-ruby-on-rails-smackdown-results/'
 s2mail:
     - 'yes'
 dsq_thread_id:

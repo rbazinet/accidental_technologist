@@ -19,7 +19,7 @@ tags:
 ---
 Our household has several iPads and iPhones. I use my iPad all the time to surf the web, reply to emails and view my Twitter stream, among other things. ?Occasionally I find it would be nice to print from the iPad, since it has AirPrint and all, but our Canon MX860 printer doesn?t support AirPrint.
 
-Enter [handyPrint](http://www.netputing.com/applications/handyprint-v5/)?.
+Enter [handyPrint](https://www.netputing.com/applications/handyprint-v5/)?.
 
 > handyPrint? v5 is a 64 bit Mac OSX application that allow you to print from your iPods, iPads and iPhones on printers that do not support the AirPrint protocol. v5 has been re-designed as a standard application similar to the ones you would find in the Apple App Store. You simply copy it to the Applications folder and run it from there. Once you turn the application switch to ON it will start on its own every time you login to you user account. No need to manually start the application.
 

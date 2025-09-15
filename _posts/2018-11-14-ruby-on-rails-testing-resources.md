@@ -28,10 +28,10 @@ When taking the plunge into Ruby on Rails it’s really easy to get carried away
  
 ## Podcasts
 
- You can’t really learn testing from a podcast but you can learn how others approach the craft. The first is a podcast dedicated to testing Ruby applications. The rest is a list of a few episodes of podcasts that discussed testing. - [The Ruby Testing Podcast](http://www.rubytestingpodcast.com/)
+ You can’t really learn testing from a podcast but you can learn how others approach the craft. The first is a podcast dedicated to testing Ruby applications. The rest is a list of a few episodes of podcasts that discussed testing. - [The Ruby Testing Podcast](https://www.rubytestingpodcast.com/)
 - [Ruby Rogues 385: “Ruby/Rails Testing” with Jason Swett](https://devchat.tv/ruby-rogues/rr-385-ruby-rails-testing-with-jason-swett/)
 - [Ruby Rogues 269 Testing](https://devchat.tv/ruby-rogues/269-rr-testing/)
-- [Full Stack Radio 46: Joe Ferris - Test Driven Rails](http://www.fullstackradio.com/46)
+- [Full Stack Radio 46: Joe Ferris - Test Driven Rails](https://www.fullstackradio.com/46)
  
  I’ve been listening to The Ruby Testing Podcast and picked up some nice tidbits so far. ## Training
 

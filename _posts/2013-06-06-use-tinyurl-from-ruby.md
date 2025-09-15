@@ -20,7 +20,7 @@ tags:
     - tinyurl
 ---
 
-I recently found myself needing to use [TinyURL](http://tinyurl.com/) on a client project. ?I did a bit of scouring the web for some Ruby code to solve the problem but with little success. ?Much to my surprise they don't have an available API, but they do have a way to access over HTTP.
+I recently found myself needing to use [TinyURL](https://tinyurl.com/) on a client project. ?I did a bit of scouring the web for some Ruby code to solve the problem but with little success. ?Much to my surprise they don't have an available API, but they do have a way to access over HTTP.
 
 This is a simple Ruby class to use TinyURL. ?Note: this depends on [HTTParty](https://github.com/jnunemaker/httparty), so add to your project.
 

@@ -4,7 +4,7 @@ title: 'Hiding User Accounts on Windows 7'
 date: '2010-04-01T11:26:36-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=398'
+guid: 'https://localhost/~rbazinet/?p=398'
 permalink: /microsoft/hiding-user-accounts-on-windows-7/
 dsq_thread_id:
     - '95968764'
@@ -44,4 +44,4 @@ You can repeat step 3 above for each user to hide.
 
 And that?s all there is too it. If done correctly, the user will not show up on a logon screen or even when managing user accounts.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:acb85da3-b05a-40c5-b77c-bbfe23278806" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Windows 7](http://technorati.com/tags/Windows+7),[Microsoft](http://technorati.com/tags/Microsoft),[eConnect](http://technorati.com/tags/eConnect)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:acb85da3-b05a-40c5-b77c-bbfe23278806" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Windows 7](https://technorati.com/tags/Windows+7),[Microsoft](https://technorati.com/tags/Microsoft),[eConnect](https://technorati.com/tags/eConnect)</div>

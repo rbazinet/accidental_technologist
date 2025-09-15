@@ -31,4 +31,4 @@ It's interesting to see the three languages compared for their abilities in para
 
 I like the fact that the comparison is based on a Java VM language, Scala, a .NET language, F#, and a native language of Haskell. ?Running on a rich runtime such as the JVM or .NET gives the developer a library of which to draw from, it also adds some overhead. ?The results are pretty much what I expected with Scala doing better than I would have envisioned. ?The JVM seems to be well-tuned.?
 
-You can download a PDF version of the paper [here](/assets/img/2012/09/fhpc12.pdf). ? The code used in the benchmarks [are also available](http://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/fhpc12.html).
+You can download a PDF version of the paper [here](/assets/img/2012/09/fhpc12.pdf). ? The code used in the benchmarks [are also available](https://www.macs.hw.ac.uk/~dsg/gph/papers/abstracts/fhpc12.html).

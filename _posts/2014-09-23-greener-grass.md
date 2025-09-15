@@ -16,7 +16,7 @@ tags:
     - objective-c
 ---
 
-I ran across an [interesting post this morning from Frans Bouma](http://weblogs.asp.net/fbouma/greener-grass), of [LLBLGen](http://www.llblgen.com) fame. ?He is a long-time .NET developer who felt a bit complacent in the work he had been doing on .NET and ORM development. Frans decided to explore some of the recent cool technologies to see how green the grass was on the other side of the technology fence.
+I ran across an [interesting post this morning from Frans Bouma](https://weblogs.asp.net/fbouma/greener-grass), of [LLBLGen](https://www.llblgen.com) fame. ?He is a long-time .NET developer who felt a bit complacent in the work he had been doing on .NET and ORM development. Frans decided to explore some of the recent cool technologies to see how green the grass was on the other side of the technology fence.
 
 > After I finished LLBLGen Pro v4.2 this summer, I fell into the usual 'post-project' dip, where everything feels 'meh' and uninteresting. Needless to say I was completely empty and after 12-13 years of doing nothing but .NET / C# / ORM development, I didn't see myself continuing on this path.
 

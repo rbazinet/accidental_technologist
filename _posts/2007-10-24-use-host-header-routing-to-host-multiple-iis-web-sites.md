@@ -4,7 +4,7 @@ title: 'Use Host-Header Routing to Host Multiple IIS Web Sites'
 date: '2007-10-24T11:46:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=153'
+guid: 'https://localhost/~rbazinet/?p=153'
 permalink: /iis/use-host-header-routing-to-host-multiple-iis-web-sites/
 dsq_thread_id:
     - '95928415'
@@ -24,14 +24,14 @@ Much of my work is from the development side of things, creating ASP.NET web sit
 
 You can access this information by going to Internet Information Services and right-clicking on your website and choose Properties and go to the Web Site tab and click the **Advanced** button and see a screen like below:
 
-[![IISAdvanced](http://rbazinet.files.wordpress.com/2007/10/iisadvanced-thumb.jpg)](http://rbazinet.files.wordpress.com/2007/10/iisadvanced.jpg)
+[![IISAdvanced](https://rbazinet.files.wordpress.com/2007/10/iisadvanced-thumb.jpg)](https://rbazinet.files.wordpress.com/2007/10/iisadvanced.jpg)
 
 Choose the **Edit** button which will reveal a dialog like this:
 
-[![IISHostHeader](http://rbazinet.files.wordpress.com/2007/10/iishostheader-thumb.jpg)](http://rbazinet.files.wordpress.com/2007/10/iishostheader.jpg)
+[![IISHostHeader](https://rbazinet.files.wordpress.com/2007/10/iishostheader-thumb.jpg)](https://rbazinet.files.wordpress.com/2007/10/iishostheader.jpg)
 
-Simply enter your host like "[www.microsoft.com](http://www.microsoft.com)" into the **Host Header Name** field and select OK. You can now do the same thing for additional web sites using the (All Unassigned) IP Address but vary the **Host Header Name**. This will save your IP addresses and is an nice way to host multiple web sites.
+Simply enter your host like "[www.microsoft.com](https://www.microsoft.com)" into the **Host Header Name** field and select OK. You can now do the same thing for additional web sites using the (All Unassigned) IP Address but vary the **Host Header Name**. This will save your IP addresses and is an nice way to host multiple web sites.
 
 The only caveat is the browser needs to support HTTP 1.1, which almost all do today.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [IIS](http://technorati.com/tags/IIS), [Host-Header Routing](http://technorati.com/tags/Host-Header%20Routing), [Microsoft](http://technorati.com/tags/Microsoft)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [IIS](https://technorati.com/tags/IIS), [Host-Header Routing](https://technorati.com/tags/Host-Header%20Routing), [Microsoft](https://technorati.com/tags/Microsoft)</div>

@@ -36,7 +36,7 @@ After using the Droid X for these months I can safely say it was a suffering exp
 
 I am happy to report that I have come to my last ounce of patients with Android and am returning to the iPhone. ?Oh how I have missed you. ?I had hoped to wait until the iPhone 5 was available but resolved that life is too short to have to have a sub-par mobile experience.
 
-I ran into an article recently titled, "[Android Isn?t About Building a Mobile Platform](http://www.tightwind.net/2011/01/android-isnt-about-building-a-mobile-platform/)", which really explains a lot about Google's drive behind creating Android:
+I ran into an article recently titled, "[Android Isn?t About Building a Mobile Platform](https://www.tightwind.net/2011/01/android-isnt-about-building-a-mobile-platform/)", which really explains a lot about Google's drive behind creating Android:
 
 > Google is building Android not so they can make great mobile devices and sell them to consumers. Rather, they are making them for these two simple reasons: (1) to disrupt Apple?s growing dominance of mobile devices, both so Google doesn?t have to rely on Apple for access to their users and to eliminate their paid-for application model; and (2) so Google can control the mobile industry and thus secure advertising from it.
 

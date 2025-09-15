@@ -28,7 +28,7 @@ Maybe it's a browser-specific issue. I usually use Firefox so I tried Chrome and
 Inspecting the console in Firefox revealed this ugly message:
 
 ```
-Access to fetch at 'https://api.twitter.com/oauth/authenticate?oauth_token=<my secret token>' (redirected from 'http://127.0.0.1:3000/auth/twitter') from origin 'http://127.0.0.1:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+Access to fetch at 'https://api.twitter.com/oauth/authenticate?oauth_token=<my secret token>' (redirected from 'https://127.0.0.1:3000/auth/twitter') from origin 'https://127.0.0.1:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
 ```
 
 I started to search around for the error, and many solutions had me trying the [rack-cors gem](https://github.com/cyu/rack-cors) and other methods to satisfy what needed to be done. Nothing worked. I spent a couple of hours going down this path to no avail. The error is deceiving and not indicative of the real problem.

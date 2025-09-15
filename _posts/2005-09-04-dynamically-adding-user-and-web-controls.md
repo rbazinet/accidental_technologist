@@ -4,7 +4,7 @@ title: 'Dynamically Adding User and Web Controls'
 date: '2005-09-04T18:20:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=21'
+guid: 'https://localhost/~rbazinet/?p=21'
 permalink: /asp-net/dynamically-adding-user-and-web-controls/
 dsq_thread_id:
     - '95923715'

@@ -31,7 +31,7 @@ Objective-C isn?t going away any time soon. Apple realizes Objective-C has bagga
 
 Apple releasing this new language says a lot; it expresses Apple?s intentions. ?Swift will be important in the future, whether that?s a year or five, we just don?t know.
 
-Yes, I think you should learn Swift. ?If you are new to Apple then you have a choice, Swift or Objective-C. ?[Aaron Hillegas, long-time Objective-C proponent, thinks developers need to know Objective-C](http://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/). ?He has some valid points:
+Yes, I think you should learn Swift. ?If you are new to Apple then you have a choice, Swift or Objective-C. ?[Aaron Hillegas, long-time Objective-C proponent, thinks developers need to know Objective-C](https://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/). ?He has some valid points:
 
 > **You can't do everything in Swift.** For example, if you want to use a library of C++ code in your application, you will need to talk to the C++ objects from Objective-C. Swift can call C functions, but I believe that if you are working with a lot of C functions and types, you will want to code in Objective-C.
 
@@ -43,7 +43,7 @@ He claims Objective-C is easier to learn than Swift. ?I?m not sure I agree with 
 > 
 > **Swift has a bunch of constructs that Objective-C doesn't have.** For example, generics make type checking better in Swift, but it makes that language considerably more complex.
 
-[Marco Arment had a good follow-up to Aaron?s post](http://www.marco.org/2014/06/12/ios-developers-need-to-know-objective-c) and I tend to agree with him:
+[Marco Arment had a good follow-up to Aaron?s post](https://www.marco.org/2014/06/12/ios-developers-need-to-know-objective-c) and I tend to agree with him:
 
 > The time will come when knowing Objective-C will be like knowing C, C++, or assembly ? it?ll be a plumbing layer beneath your application code that almost all working developers will never need to know or interact with. And I bet that time is less than five years away ? possibly just two or three.
 

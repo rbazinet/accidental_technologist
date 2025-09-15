@@ -62,4 +62,4 @@ The result will be a PDF file in the root of your project that looks something l
 
 As you can see, it gives a very nice model diagram with all the relations and properties. Just what I was looking for.
 
-The tool is very customizable and the [web site outlines everything that can be changed](http://rails-erd.rubyforge.org/customise.html). ?I haven't looked very much at this aspect since it produced everything I needed the first time.
+The tool is very customizable and the [web site outlines everything that can be changed](https://rails-erd.rubyforge.org/customise.html). ?I haven't looked very much at this aspect since it produced everything I needed the first time.

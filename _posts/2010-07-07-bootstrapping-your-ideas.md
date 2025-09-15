@@ -9,7 +9,7 @@ permalink: /business/bootstrapping-your-ideas/
 jd_tweet_this:
     - 'yes'
 wp_jd_bitly:
-    - 'http://bit.ly/dhesT5'
+    - 'https://bit.ly/dhesT5'
 wp_jd_target:
     - ''
 dsq_thread_id:
@@ -23,7 +23,7 @@ tags:
 
 [![bootstrap](/assets/img/2010/07/bootstrap_thumb.jpg "bootstrap")](/assets/img/2010/07/bootstrap.jpg) As an individual entrepreneur it is sometimes hard to get things done with our limited time in a day and limited financial resources. I find it helpful to have a large base of contacts which I know well and can reach out to when I need a hand, but timing may not always be right.
 
-Derek Sivers had a great post recently titled "[How to hire a programmer to make your ideas happen](http://sivers.org/how2hire)?". Derek discusses some great points when looking to bring your idea to fruition and suggests using services such as oDesk, elancer, guru.com and vworker:
+Derek Sivers had a great post recently titled "[How to hire a programmer to make your ideas happen](https://sivers.org/how2hire)?". Derek discusses some great points when looking to bring your idea to fruition and suggests using services such as oDesk, elancer, guru.com and vworker:
 
 > Go to the following sites to open an account at each: elance.com, guru.com, odesk.com, vworker.com
 > 
@@ -37,7 +37,7 @@ Derek Sivers had a great post recently titled "[How to hire a programmer to make
 > 
 > Each of these sites has its quirks, so sorry I can't recommend specifics for everyone. But be considerate and nice, once they've mentioned your VERY IMPORTANT phrase to prove they really read your requirements. That's cold enough. Once they've passed that test, be very responsive and friendly.
 
-I have worked with a couple of these sites and have had the best experiences with [oDesk](http://www.odesk.com/home), of course your mileage may vary. Taking slow, careful steps when working with these resources can lead big jumps toward your goals.
+I have worked with a couple of these sites and have had the best experiences with [oDesk](https://www.odesk.com/home), of course your mileage may vary. Taking slow, careful steps when working with these resources can lead big jumps toward your goals.
 
 ### Personal Experience
 

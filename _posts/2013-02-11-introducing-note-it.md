@@ -24,7 +24,7 @@ tags:
 
 ![Screenshot 1afaa9c247a71c1346fa2d51bf413fae](/assets/img/2013/02/screenshot-1afaa9c247a71c1346fa2d51bf413fae.png "screenshot-1afaa9c247a71c1346fa2d51bf413fae.png")
 
-I'm happy to introduce my latest application for iOS devices, [Note-It](http://noteitapp.com/), is now available in the [Apple App Store](https://itunes.apple.com/us/app/note-it/id594839708?ls=1&mt=8). This is a productivity utility I wrote for myself with the hopes others might find it useful as well.
+I'm happy to introduce my latest application for iOS devices, [Note-It](https://noteitapp.com/), is now available in the [Apple App Store](https://itunes.apple.com/us/app/note-it/id594839708?ls=1&mt=8). This is a productivity utility I wrote for myself with the hopes others might find it useful as well.
 
 The idea for Note-It was born as a solution to the way I research on the web on my iPad. I read articles in Google Reader, visit links from tweets on Twitter and copy URLs from the sites I visit in Safari. I often take these links and paste them in an email which I send to myself to be viewed later.
 

@@ -27,7 +27,7 @@ I decided to go with an in-ear earphone with the hopes seating in the ear canal 
 
 My requirements seemed really simple, let me listen to podcasts, stay in my ear and let me take/make calls on my iPhone. ?
 
-The first set of new earphones I tried were the [Logitech Ultimate Ears](http://www.logitech.com/en-us/ue/ue-earphones). ?These came as a recommendation so I figured I would give them a try. ?Upon receiving them I immediately thought how great the design was and trying them for fit, they felt great. ?Listening to a podcast with these was amazing, great noise-cancelling sound that was above and beyond what I expected.
+The first set of new earphones I tried were the [Logitech Ultimate Ears](https://www.logitech.com/en-us/ue/ue-earphones). ?These came as a recommendation so I figured I would give them a try. ?Upon receiving them I immediately thought how great the design was and trying them for fit, they felt great. ?Listening to a podcast with these was amazing, great noise-cancelling sound that was above and beyond what I expected.
 
 The real test was using them on a hike. ?At first these felt really good and I thought my problem was solved but as I started to sweat the very soft silicone earphones started to get slippery and nothing I could do would make them stay in my ears. ?As I dried them off and reseated them, as I walked I could feel them slowly moving and eventually they fell out.
 
@@ -35,7 +35,7 @@ I did give these a fair shake over the next couple weeks, trying different thing
 
 I decided to ask around on Twitter again and got a single suggestion for Bose earphones. ?Describing my dilemma the person said their wife used them and were very happy with them. ?Unfortunately, they are pretty expensive at $130 but my frustrations seemed larger. ?I ordered a pair and at first site they look pretty strange.
 
-The model I ordered were the [Bose MIE2i Mobile Headset](http://www.bose.com/controller?url=/shop_online/headphones/audio_headphones/in_ear_headphones/index.jsp). ?You can see from the image that they are different looking. ?They have a very unique way of partially going into the ear canal as well as hooking to the ear itself. ?Very easy to put in and the Bose sound is incredible. ?
+The model I ordered were the [Bose MIE2i Mobile Headset](https://www.bose.com/controller?url=/shop_online/headphones/audio_headphones/in_ear_headphones/index.jsp). ?You can see from the image that they are different looking. ?They have a very unique way of partially going into the ear canal as well as hooking to the ear itself. ?Very easy to put in and the Bose sound is incredible. ?
 
 ![Mie2i headset bw lg](/assets/img/2012/07/mie2i_headset_bw_lg.jpeg "mie2i_headset_bw_lg.jpeg")
 

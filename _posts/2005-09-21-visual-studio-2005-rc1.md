@@ -4,7 +4,7 @@ title: 'Visual Studio 2005 RC1'
 date: '2005-09-21T18:52:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=25'
+guid: 'https://localhost/~rbazinet/?p=25'
 permalink: /visual-studio/visual-studio-2005-rc1/
 categories:
     - 'Visual Studio'

@@ -21,7 +21,7 @@ tags:
     - mobile
 ---
 
-[Marco Arment had a great and timely post](http://www.marco.org/4295159845) about the future of Android over the weekend. ?It's timely because I had just gone through the whole iPhone on AT&amp;T to Android on Verizon to iPhone on Verizon journey and his words rang true. ?I had just [wrote about the experience](https://accidentaltechnologist.com/mobile/the-android-hubbub/) last week.
+[Marco Arment had a great and timely post](https://www.marco.org/4295159845) about the future of Android over the weekend. ?It's timely because I had just gone through the whole iPhone on AT&amp;T to Android on Verizon to iPhone on Verizon journey and his words rang true. ?I had just [wrote about the experience](https://accidentaltechnologist.com/mobile/the-android-hubbub/) last week.
 
 I had experienced the exact pain points Marco mentions:
 
@@ -29,7 +29,7 @@ I had experienced the exact pain points Marco mentions:
 
 Google reports fantastic adoption of Android devices across all the major carriers, which is great but where are the influential tech people cheering for Android from the rooftops? ?Well, nobody I can recall but iOS on the other hand...
 
-Marco's post was a response to [Fred Wilson's post of last week about Android](http://www.avc.com/a_vc/2011/04/android-continued.html):
+Marco's post was a response to [Fred Wilson's post of last week about Android](https://www.avc.com/a_vc/2011/04/android-continued.html):
 
 > It looks like the Verizon iPhone launch is helping iOS hold its own with 25% of the market. I expect (and hope) that iOS will remain a strong competitor to Android. But as I've been saying for several years now, I believe the mobile OS market will play out very similarly to Windows and Macintosh, with Android in the role of Windows. And so if you want to be in front of the largest number of users, you need to be on Android.
 
@@ -43,7 +43,7 @@ Marco thinks as I do:
 
 I am one of those buyers and I did not like the Android phone one bit. ?Battery life alone was enough for me to take issue with it.
 
-Google seems to recognize fragmentation is an issue with Android because they have [decided to hold back the source to Honeycomb](http://www.businessweek.com/technology/content/mar2011/tc20110324_269784.htm). ?Wait, I thought Android was open? ?Well, not so fast all you developer out there..it's only open as long as Google says it is.
+Google seems to recognize fragmentation is an issue with Android because they have [decided to hold back the source to Honeycomb](https://www.businessweek.com/technology/content/mar2011/tc20110324_269784.htm). ?Wait, I thought Android was open? ?Well, not so fast all you developer out there..it's only open as long as Google says it is.
 
 So, who can champion Android to real success? Amazon maybe? They have the infrastructure and ability to make it happen and the opening of their Android app store is probably a good sign they have intentions. ?Amazon has a great device in the Kindle, so how hard would it be for them to produce a tablet with great hardware like the Kindle? ?They certainly have the distribution channel, lots of books, MP3s and now apps.
 

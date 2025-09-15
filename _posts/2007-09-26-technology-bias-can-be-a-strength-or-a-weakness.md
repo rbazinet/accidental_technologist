@@ -4,7 +4,7 @@ title: 'Technology Bias Can Be a Strength or a Weakness'
 date: '2007-09-26T19:46:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=148'
+guid: 'https://localhost/~rbazinet/?p=148'
 permalink: /technology/technology-bias-can-be-a-strength-or-a-weakness/
 dsq_thread_id:
     - '95911922'
@@ -12,7 +12,7 @@ categories:
     - Technology
 ---
 
-I have been reading a number of posts around the web about Derek Sivers of [CD Baby](http://www.cdbaby.com) dumping Ruby on Rails to return to PHP. I am sure just about every Ruby enthusiast has read the [post over on the O'Reilly Ruby blog](http://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html).
+I have been reading a number of posts around the web about Derek Sivers of [CD Baby](https://www.cdbaby.com) dumping Ruby on Rails to return to PHP. I am sure just about every Ruby enthusiast has read the [post over on the O'Reilly Ruby blog](https://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html).
 
 In case you missed it the post is about how CD Baby spent the last two years converting their PHP-based web application to Ruby on Rails only to have the project fail and Derek going back to PHP and doing it himself in two months. Here is an except from the O'Reilly web site:
 
@@ -36,7 +36,7 @@ In case you missed it the post is about how CD Baby spent the last two years con
 > 
 > Then **in a mere TWO MONTHS, by myself, not even telling anyone I was doing this, using nothing but vi, and no frameworks, I rewrote CD Baby from scratch in PHP. Done! Launched! And it works amazingly well.**
 > 
-> It?s the most beautiful PHP I?ve ever written, all wonderfully [MVC](http://en.wikipedia.org/wiki/Model-view-controller) and [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself), and and I owe it all to Rails.
+> It?s the most beautiful PHP I?ve ever written, all wonderfully [MVC](https://en.wikipedia.org/wiki/Model-view-controller) and [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), and and I owe it all to Rails.
 
 Projects fail and this won't be the last one. What I find most interesting is not that the project failed, failed using Rails or even went back to PHP, but the number of comments from Derek's post, 333 as of the time of this writing. What amazes me beyond the number of comments but the number of comments by people taking the time to piss and moan about either how PHP sucks, the CD Baby site sucks or how Rails sucks and Derek should have known better.
 
@@ -46,15 +46,15 @@ You can see what I mean from a few of the comments:
 
 > Your website looks like a spam site.
 > 
-> **Anonymous** | [September 22, 2007 07:11 PM](http://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html#comment-1273385)
+> **Anonymous** | [September 22, 2007 07:11 PM](https://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html#comment-1273385)
 
 > Haha at the Rail Kiddies...
 > 
-> **No** | [September 23, 2007 01:46 AM](http://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html#comment-1275829)
+> **No** | [September 23, 2007 01:46 AM](https://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html#comment-1275829)
 
 > PHP is a super slow language that not even ruby can beat for performance.
 > 
-> **Joe** | [September 23, 2007 07:54 AM](http://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html#comment-1278396)
+> **Joe** | [September 23, 2007 07:54 AM](https://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html#comment-1278396)
 
 Why bother to post at all if just to attack? I always find this interesting, many people take time out of their day just to post a negative comment instead of something constructive and useful. Not all comments are negative and some are very useful, still showing a bias toward a language. I think people who can successfully communicate why their language is better in solid technical reasons from a background of real experience really give value to a post. Why waste time posting a comment it is not going to be constructive?
 
@@ -69,8 +69,8 @@ I try to follow some rules of thumb:
 - Leverage what you do know - be able to effectively communicate why your technology is best for the job. Do it in a calm and intelligent way.
 - Keep in mind the real goal, solving business problems. When all is said and done this is what we are paid to do so just do it. If your technology is not best for this particular business case then accept it and move on.
 
-Here is [another post on a different blog](http://blog.bwtaylor.com/java/ruby_meet_erlang) that shows a similar attack on Ruby on Rails by someone who just met Erlang and decided it was "the" technology for him. Instead of a good list of technical reasons against Rails and how Erlang solves problems better, the author just attacks Rails and the Rails community with little technical reasons for anything. This is another great example of a bias without thought and without real experience. The post did receive a fair amount of comments pointing out holes in the anti-Rails arguments.
+Here is [another post on a different blog](https://blog.bwtaylor.com/java/ruby_meet_erlang) that shows a similar attack on Ruby on Rails by someone who just met Erlang and decided it was "the" technology for him. Instead of a good list of technical reasons against Rails and how Erlang solves problems better, the author just attacks Rails and the Rails community with little technical reasons for anything. This is another great example of a bias without thought and without real experience. The post did receive a fair amount of comments pointing out holes in the anti-Rails arguments.
 
 So, if you are going to comment on blogs, make the comments positive and have it add value to the conversation. You will look more authoritative and will spark better quality comments from other readers.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby on Rails](http://technorati.com/tags/Ruby%20on%20Rails), [CDBaby](http://technorati.com/tags/CDBaby)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby on Rails](https://technorati.com/tags/Ruby%20on%20Rails), [CDBaby](https://technorati.com/tags/CDBaby)</div>

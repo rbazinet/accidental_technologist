@@ -4,7 +4,7 @@ title: 'The Dell Mini Arrives - First Impressions'
 date: '2008-09-24T12:47:47-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=312'
+guid: 'https://localhost/~rbazinet/?p=312'
 permalink: /technology/the-dell-mini-arrives-first-impressions/
 dsq_thread_id:
     - '95940136'
@@ -64,4 +64,4 @@ I am curious how the battery will last during regular use, it is advertised with
 
 The boot-up time of Windows XP off the SSD is pretty fast and overall disk access seems snappy with the installs and uninstalls I performed.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fc6e80d8-dde2-4cdd-836a-a4b72b3ca703" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Dell Mini](http://technorati.com/tags/Dell%20Mini)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fc6e80d8-dde2-4cdd-836a-a4b72b3ca703" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Dell Mini](https://technorati.com/tags/Dell%20Mini)</div>

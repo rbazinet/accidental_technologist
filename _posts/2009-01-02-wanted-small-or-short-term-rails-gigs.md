@@ -4,7 +4,7 @@ title: 'Wanted: Small or Short-Term Rails Gigs'
 date: '2009-01-02T15:18:09-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=333'
+guid: 'https://localhost/~rbazinet/?p=333'
 permalink: /general/wanted-small-or-short-term-rails-gigs/
 categories:
     - General
@@ -20,4 +20,4 @@ So please send an email to rbazinet at stillriversoftware dot com if you are int
 
 Thank you.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:a1b2f9ed-f5e6-459b-a027-482f3fb0dd22" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Ruby on Rails](http://technorati.com/tags/Ruby+on+Rails),[Contract](http://technorati.com/tags/Contract),[Opportunity](http://technorati.com/tags/Opportunity)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:a1b2f9ed-f5e6-459b-a027-482f3fb0dd22" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Ruby on Rails](https://technorati.com/tags/Ruby+on+Rails),[Contract](https://technorati.com/tags/Contract),[Opportunity](https://technorati.com/tags/Opportunity)</div>

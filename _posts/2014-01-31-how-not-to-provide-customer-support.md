@@ -18,7 +18,7 @@ tags:
 
 I recently had an interesting interaction with a company?s support team and the results were less than spectacular. Originally, I had a much longer post planned that better detailed the problem, brought attention to the company and gave details of how poorly they handled it. ?I felt the approach was less than constructive.
 
-The bottom-line is I had a need to contact a well-reputed company and faced several of the hurdles [outlined by Ian Landsman of HelpSpot recently in his post about customer support](http://ianlandsman.com/landsmans-10-rules-customer-support/). ?I won?t rehash them here, so you should go read his post right now.?[Scott Watermasysk of KickoffLabs had bit of follow-up](http://scottw.com/do-not-reply-all-time-low/) to Ian?s post that you should also read.
+The bottom-line is I had a need to contact a well-reputed company and faced several of the hurdles [outlined by Ian Landsman of HelpSpot recently in his post about customer support](https://ianlandsman.com/landsmans-10-rules-customer-support/). ?I won?t rehash them here, so you should go read his post right now.?[Scott Watermasysk of KickoffLabs had bit of follow-up](https://scottw.com/do-not-reply-all-time-low/) to Ian?s post that you should also read.
 
 I came out of my experience with two additional rules that we follow and you should consider reviewing your work as a person who supports ?customers?:
 

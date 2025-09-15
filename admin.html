@@ -168,59 +168,12 @@ function setupTabs() {
 }
 
 function setupEditor() {
-  const toolbar = document.querySelector('.editor-toolbar');
-  const textarea = document.getElementById('post-content');
-  const preview = document.getElementById('content-preview');
-  
-  toolbar.addEventListener('click', (e) => {
-    if (e.target.classList.contains('editor-btn')) {
-      const action = e.target.dataset.action;
-      handleEditorAction(action, textarea, preview);
-    }
-  });
+  // Trix editor handles its own toolbar, so we don't need to set up a custom one
+  // The Trix editor is already initialized when the page loads
+  console.log('Trix editor is ready for use');
 }
 
-function handleEditorAction(action, textarea, preview) {
-  const start = textarea.selectionStart;
-  const end = textarea.selectionEnd;
-  const selectedText = textarea.value.substring(start, end);
-  let replacement = '';
-  
-  switch (action) {
-    case 'bold':
-      replacement = `**${selectedText || 'bold text'}**`;
-      break;
-    case 'italic':
-      replacement = `*${selectedText || 'italic text'}*`;
-      break;
-    case 'link':
-      const url = prompt('Enter URL:');
-      replacement = `[${selectedText || 'link text'}](${url || 'http://'})`;
-      break;
-    case 'code':
-      replacement = selectedText.includes('\n') ? 
-        `\`\`\`\n${selectedText || 'code block'}\n\`\`\`` : 
-        `\`${selectedText || 'code'}\``;
-      break;
-    case 'heading':
-      replacement = `## ${selectedText || 'Heading'}`;
-      break;
-    case 'list':
-      replacement = selectedText ? 
-        selectedText.split('\n').map(line => `- ${line}`).join('\n') :
-        '- List item 1\n- List item 2\n- List item 3';
-      break;
-    case 'preview':
-      togglePreview(textarea, preview);
-      return;
-  }
-  
-  if (replacement) {
-    textarea.value = textarea.value.substring(0, start) + replacement + textarea.value.substring(end);
-    textarea.focus();
-    textarea.setSelectionRange(start, start + replacement.length);
-  }
-}
+// handleEditorAction function removed - Trix editor handles formatting internally
 
 
 function setupTagInputs() {

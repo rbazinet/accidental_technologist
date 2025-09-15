@@ -16,9 +16,9 @@ tags:
     - mobile
 ---
 
-When [Apple announced](http://www.apple.com/pr/library/2011/02/15appstore.html) the ability of content providers to offer in-app purchases of their goods, newspapers and magazines breathed a small sigh of relief. ?The Internet age has left traditional print a bit in the dust.
+When [Apple announced](https://www.apple.com/pr/library/2011/02/15appstore.html) the ability of content providers to offer in-app purchases of their goods, newspapers and magazines breathed a small sigh of relief. ?The Internet age has left traditional print a bit in the dust.
 
-Over the recent weeks I have noticed several old-school publishers, [The Economist in particular](http://www.economist.com/digital/apps), offering their magazine to subscribers as iOS application. ?A user [grabs the app from the Apple App Store](itms://itunes.apple.com/us/app/the-economist-on-ipad/id400660644?mt=8) and when running it they can purchase a single issue or become a subscriber right while in the app. ?How convenient is this? ?I love it.
+Over the recent weeks I have noticed several old-school publishers, [The Economist in particular](https://www.economist.com/digital/apps), offering their magazine to subscribers as iOS application. ?A user [grabs the app from the Apple App Store](itms://itunes.apple.com/us/app/the-economist-on-ipad/id400660644?mt=8) and when running it they can purchase a single issue or become a subscriber right while in the app. ?How convenient is this? ?I love it.
 
 The issue is downloaded to the iOS device for later consumption. ? Here is the kicker, it appears to be downloaded and probably most of the content is, ?but the cord is not cut back to the mothership. ?I received this email today:
 

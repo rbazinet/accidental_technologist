@@ -4,7 +4,7 @@ title: 'Easy Dynamic Style Sheets in HMTL Pages using ASP.NET'
 date: '2008-10-21T15:55:07-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=316'
+guid: 'https://localhost/~rbazinet/?p=316'
 permalink: /programming/easy-dynamic-style-sheets-in-hmtl-pages-using-asp-net/
 dsq_thread_id:
     - '95924975'
@@ -51,4 +51,4 @@ When our HTML page is loaded in the browser the Customstyle.aspx page will retur
 
 There may be several ways to solve this same problem but after many tries this seemed to be the simplest approach. In all of my years of ASP.NET development, this is the first time I needed to use it this way.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:001b252f-8ec3-4830-99e3-6ee0a90c8234" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [ASP.NET](http://technorati.com/tags/ASP.NET),[Legacy Systems](http://technorati.com/tags/Legacy%20Systems),[HTML](http://technorati.com/tags/HTML),[CSS](http://technorati.com/tags/CSS)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:001b252f-8ec3-4830-99e3-6ee0a90c8234" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [ASP.NET](https://technorati.com/tags/ASP.NET),[Legacy Systems](https://technorati.com/tags/Legacy%20Systems),[HTML](https://technorati.com/tags/HTML),[CSS](https://technorati.com/tags/CSS)</div>

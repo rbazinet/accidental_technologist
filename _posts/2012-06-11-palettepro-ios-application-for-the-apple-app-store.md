@@ -20,11 +20,11 @@ tags:
     - palettepro
 ---
 
-[![PalettePro](/assets/img/2012/06/PalettePro.png "PalettePro.png")](http://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4)
+[![PalettePro](/assets/img/2012/06/PalettePro.png "PalettePro.png")](https://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4)
 
-I recently finished up and submitted my first personal iOS application to Apple for sale in the App Store and have it approved. ?It is the first application developed for [Still River Software](http://stillriversoftware.com/) and not specifically for one of our clients.
+I recently finished up and submitted my first personal iOS application to Apple for sale in the App Store and have it approved. ?It is the first application developed for [Still River Software](https://stillriversoftware.com/) and not specifically for one of our clients.
 
-The application is named [PalettePro and is available now](http://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4).
+The application is named [PalettePro and is available now](https://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4).
 
 ## Background
 
@@ -52,8 +52,8 @@ Later copy the hex values into your web application or take the device to your l
 
 ## Check It Out
 
-[PalettePro is available now in the Apple App Store](http://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4) and I would really appreciate any feedback people may have. ?The cost is $0.99 and I think well worth the cost of a cheap cup of coffee.
+[PalettePro is available now in the Apple App Store](https://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4) and I would really appreciate any feedback people may have. ?The cost is $0.99 and I think well worth the cost of a cheap cup of coffee.
 
 I have already gotten feedback and suggestions for additional features which I am working on for the next point release.
 
-[![Badge appstore lrg](/assets/img/2012/06/badge_appstore-lrg.gif "badge_appstore-lrg.gif")](http://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4)
+[![Badge appstore lrg](/assets/img/2012/06/badge_appstore-lrg.gif "badge_appstore-lrg.gif")](https://itunes.apple.com/us/app/palettepro/id524724140?mt=8&ign-mpt=uo%3D4)

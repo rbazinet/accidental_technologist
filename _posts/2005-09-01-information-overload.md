@@ -4,7 +4,7 @@ title: 'Information Overload'
 date: '2005-09-01T11:27:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=20'
+guid: 'https://localhost/~rbazinet/?p=20'
 permalink: /technology/information-overload/
 dsq_thread_id:
     - '95923705'
@@ -16,9 +16,9 @@ This is a subject that has been haunting me of late. I see so many new technolog
 
 There have been several great posts lately from people in the industry that I view as some of the more prominent figures in our field regarding information overload.
 
-- [Clemens Vasters](http://staff.newtelligence.net/clemensv/PermaLink,guid,fdf5f8bf-199c-47c3-8cbb-838fab12f83e.aspx)
-- [Craig Andera](http://pluralsight.com/blogs/craig/archive/2005/09/01/14452.aspx) - Plurasight
-- [Sahil Malik](http://codebetter.com/blogs/sahil.malik/archive/2005/09/01/131532.aspx)
+- [Clemens Vasters](https://staff.newtelligence.net/clemensv/PermaLink,guid,fdf5f8bf-199c-47c3-8cbb-838fab12f83e.aspx)
+- [Craig Andera](https://pluralsight.com/blogs/craig/archive/2005/09/01/14452.aspx) - Plurasight
+- [Sahil Malik](https://codebetter.com/blogs/sahil.malik/archive/2005/09/01/131532.aspx)
 
 Each of these gentlemen have their own individual views on the current flow of information coming in from Microsoft alone, never mind Sun, IBM and everyone else.
 

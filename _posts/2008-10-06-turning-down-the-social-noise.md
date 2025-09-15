@@ -4,7 +4,7 @@ title: 'Turning Down the Social Noise'
 date: '2008-10-06T08:39:19-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=313'
+guid: 'https://localhost/~rbazinet/?p=313'
 permalink: /general/turning-down-the-social-noise/
 dsq_thread_id:
     - '95924929'
@@ -28,4 +28,4 @@ The folks I continue to follow are mostly Ruby folks or those talking about soft
 
 I have to say I feel great, I feel liberated and I feel like I made some good decisions for my personal well-being. Sorry to those I don't follow any longer, nothing personal, but you need to say some more interesting things and make it worth my time.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:7ea136f2-88a7-41ff-809f-e5c7ba7def8a" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Dead Wood](http://technorati.com/tags/Dead%20Wood),[Efficiency](http://technorati.com/tags/Efficiency),[Time Management](http://technorati.com/tags/Time%20Management)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:7ea136f2-88a7-41ff-809f-e5c7ba7def8a" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Dead Wood](https://technorati.com/tags/Dead%20Wood),[Efficiency](https://technorati.com/tags/Efficiency),[Time Management](https://technorati.com/tags/Time%20Management)</div>

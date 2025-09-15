@@ -18,7 +18,7 @@ tags:
 format: link
 ---
 
-I watched the [Apple Special Event](http://www.apple.com/apple-events/september-2015/) on September 9th with excitement. The iPad Pro was announced and has been on my wish list for a long time.
+I watched the [Apple Special Event](https://www.apple.com/apple-events/september-2015/) on September 9th with excitement. The iPad Pro was announced and has been on my wish list for a long time.
 
 Ben Thompson had an [excellent piece on Stratechery](https://stratechery.com/2015/from-products-to-platforms/), which highlights some points about the event and iPad?s future that I hadn?t considered.
 
@@ -46,7 +46,7 @@ As an iOS developer, I can attest first-hand how hard it is to make a living on 
 
 The introduction of the iPad Pro is an opportunity for developers and for Apple. It?s a chance to truly be able to develop pro-level applications, but it won?t happen if things don?t change for developers. We have to be able to charge a reasonable amount for our hard work and allow users to try it out. We need to be able to charge for upgrades without having to resort to obscure tactics.
 
-[Ben also discusses this in more detail on his Exponent podcast](http://exponent.fm/episode-051-segue/) with James Allworth in the Segue episode.
+[Ben also discusses this in more detail on his Exponent podcast](https://exponent.fm/episode-051-segue/) with James Allworth in the Segue episode.
 
 Apple, it?s obvious you need the support developers to continue to grow the iOS platform. ?Apple it has to be more about getting developers to write software for free so you can sell more hardware.?
 

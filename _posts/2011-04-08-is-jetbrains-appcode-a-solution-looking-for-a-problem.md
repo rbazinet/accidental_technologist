@@ -22,11 +22,11 @@ tags:
 
 ![Bottle](/assets/img/2011/04/bottle.png "bottle.png")
 
-Sometimes when a company releases a new product I sit back and think if I would use it. ?If not, I try to understand who the customer might be and the reasons they use it. ?When I first saw the announcement for the new Objective-C IDE from JetBrains, [appCode](http://confluence.jetbrains.net/display/OBJC/appCode+EAP), I asked myself those questions.
+Sometimes when a company releases a new product I sit back and think if I would use it. ?If not, I try to understand who the customer might be and the reasons they use it. ?When I first saw the announcement for the new Objective-C IDE from JetBrains, [appCode](https://confluence.jetbrains.net/display/OBJC/appCode+EAP), I asked myself those questions.
 
 As a user of Apple's XCode IDE for writing Objective-C, I tried to imagine the reasons why I might use it and none came to mind. ?I also tried to imagine who might use it and I couldn't think of anyone. ?OK, maybe there are folks out there who use XCode and hate it, they may use it but I think the market is far too small to consider putting efforts into writing an IDE to target those people.
 
-[InfoQ has an interview with Maxim Shafirov of JetBrains](http://www.infoq.com/news/2011/04/jetbrains-appCode) about the project and after reading the article, I am still scratching my head. ?From the article, appCode features include:
+[InfoQ has an interview with Maxim Shafirov of JetBrains](https://www.infoq.com/news/2011/04/jetbrains-appCode) about the project and after reading the article, I am still scratching my head. ?From the article, appCode features include:
 
 > Main features of the IDE are:
 > 

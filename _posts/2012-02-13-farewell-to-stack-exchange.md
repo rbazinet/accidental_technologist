@@ -7,7 +7,7 @@ layout: post
 guid: 'https://accidentaltechnologist.com/?p=694'
 permalink: /business/farewell-to-stack-exchange/
 redirect:
-    - 'http://www.codinghorror.com/blog/2012/02/farewell-stack-exchange.html'
+    - 'https://www.codinghorror.com/blog/2012/02/farewell-stack-exchange.html'
 s2mail:
     - 'yes'
 dsq_thread_id:

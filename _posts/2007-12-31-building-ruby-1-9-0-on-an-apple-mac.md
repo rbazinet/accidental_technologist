@@ -4,7 +4,7 @@ title: 'Building Ruby 1.9.0 on an Apple Mac'
 date: '2007-12-31T13:14:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=196'
+guid: 'https://localhost/~rbazinet/?p=196'
 permalink: /ruby/building-ruby-1-9-0-on-an-apple-mac/
 dsq_thread_id:
     - '95924553'
@@ -12,9 +12,9 @@ categories:
     - Ruby
 ---
 
-I decided to start playing around with the latest Ruby, 1.9.0, which was [released on Christmas Day](http://www.ruby-lang.org/en/news/2007/12/25/ruby-1-9-0-released/). I am on a MacBook Pro running OSX Tiger 10.4.11.
+I decided to start playing around with the latest Ruby, 1.9.0, which was [released on Christmas Day](https://www.ruby-lang.org/en/news/2007/12/25/ruby-1-9-0-released/). I am on a MacBook Pro running OSX Tiger 10.4.11.
 
-I [previously blogged about what to do with Ruby 1.9](http://rbazinet.wordpress.com/2007/12/30/ruby-19-released-should-you-use-it-today/) to get up-to-speed. Anyone using Ruby today probably shouldn't be considering overwriting their Ruby 1.8.6 installation if they do any real coding or have an existing code base. Many of the gems and libraries you use may not work with 1.9, Rails 2.0.2 for one does not.
+I [previously blogged about what to do with Ruby 1.9](https://rbazinet.wordpress.com/2007/12/30/ruby-19-released-should-you-use-it-today/) to get up-to-speed. Anyone using Ruby today probably shouldn't be considering overwriting their Ruby 1.8.6 installation if they do any real coding or have an existing code base. Many of the gems and libraries you use may not work with 1.9, Rails 2.0.2 for one does not.
 
 #### **Getting Started**
 
@@ -47,7 +47,7 @@ Of course nothing always works as planned. During the build I received the follo
 
 It appears readline is the problem here and needs to be updated. After a bit of searching around the net I can across some information about this and determine readline needs to be updated to readline 5.2.
 
-Readline can be [downloaded from Gnu.org](http://ftp.gnu.org/gnu/readline/). I created a directory in my standard Source folder called readline-5.2 and then performed a build:
+Readline can be [downloaded from Gnu.org](https://ftp.gnu.org/gnu/readline/). I created a directory in my standard Source folder called readline-5.2 and then performed a build:
 
 > ```bash
 > $ cd /User/rbazinet/Source/readline-5.2
@@ -78,4 +78,4 @@ Success!
 
 We could add our new ruby/bin to path if we wanted, to make it a big easier to test, but for now this works. I am running Tiger so I don't know if this same procedure works on Leopard. If someone can confirm if this works or can comment on how to build Ruby 1.9 on Leopard, I will update this post to reflect what is needed to be done.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby](http://technorati.com/tags/Ruby),[Apple Mac](http://technorati.com/tags/Apple%20Mac),[OSX](http://technorati.com/tags/OSX)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Ruby](https://technorati.com/tags/Ruby),[Apple Mac](https://technorati.com/tags/Apple%20Mac),[OSX](https://technorati.com/tags/OSX)</div>

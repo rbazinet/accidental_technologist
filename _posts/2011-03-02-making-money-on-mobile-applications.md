@@ -16,7 +16,7 @@ tags:
     - iOS
 ---
 
-[Tim Bray had an interesting and timely post](http://www.tbray.org/ongoing/When/201x/2011/02/26/Mobile-Money) recently regarding his view on a developer's ability to make money creating mobile applications.
+[Tim Bray had an interesting and timely post](https://www.tbray.org/ongoing/When/201x/2011/02/26/Mobile-Money) recently regarding his view on a developer's ability to make money creating mobile applications.
 
 As a developer who is in the process of publishing my first application to the App Store, I have spent some time examining the various mobile platforms and looking at paid vs. ad supported applications. ?I am in no-way suggesting Tim is wrong nor am I supporting his view. ?He brings up great points and I wanted to give a bit of my own feedback from the perspective of a developer who did a bit of research to choose a platform to support.
 

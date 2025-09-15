@@ -4,7 +4,7 @@ title: 'Apple Becoming the New Microsoft?'
 date: '2010-04-09T11:35:25-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=399'
+guid: 'https://localhost/~rbazinet/?p=399'
 permalink: /apple/apple-becoming-the-new-microsoft/
 dsq_thread_id:
     - '95926478'
@@ -12,7 +12,7 @@ categories:
     - Apple
 ---
 
-Apple?s announcement of the iPhone OS 4.0 and the release of the iPhone OS 4.0 SDK gives a lot of new things developers should be excited about but falls short in the big picture. One such nugget of information [pointed out by John Gruber](http://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler) in the iPhone Developer Agreement:
+Apple?s announcement of the iPhone OS 4.0 and the release of the iPhone OS 4.0 SDK gives a lot of new things developers should be excited about but falls short in the big picture. One such nugget of information [pointed out by John Gruber](https://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler) in the iPhone Developer Agreement:
 
 > In the new version of the iPhone Developer Program License Agreement released by Apple today (and which developers must agree to before downloading the 4.0 SDK beta), section 3.3.1 now reads:
 > 
@@ -20,7 +20,7 @@ Apple?s announcement of the iPhone OS 4.0 and the release of the iPhone OS 4.0 S
 
 This wording clearly states that unless you are using Objective-C, C, C++ or JavaScript than your applications are not welcome on the iPhone and iPad. Although many will read into this as a shot at Adobe and their upcoming CS5 product which offers a Flash to iPhone conversion tool, it does effect others as well.
 
-In the case of .NET developers who mainly use C# to create applications, they cannot use [MonoTouch](http://monotouch.net/) to target the iPhone.
+In the case of .NET developers who mainly use C# to create applications, they cannot use [MonoTouch](https://monotouch.net/) to target the iPhone.
 
 ### Anti-Competitive Behavior
 
@@ -30,10 +30,10 @@ This is clearly anti-competitive behavior by Apple. If developers don?t take a s
 
 I have been on and off of the iPhone development bandwagon and with the iPad coming along I see much opportunity for business applications but being forced to use a language such as Objective-C, no thanks.
 
-Miguel de Icaza, creator of [Mono](http://www.mono-project.com/Main_Page) and the lead on Monotouch is clearly anticipating Apple will let developers use Monotouch and therefore C# to create iPhone and iPad apps as seen in a [recent tweet on Twitter](http://twitter.com/migueldeicaza/status/11836097616).
+Miguel de Icaza, creator of [Mono](https://www.mono-project.com/Main_Page) and the lead on Monotouch is clearly anticipating Apple will let developers use Monotouch and therefore C# to create iPhone and iPad apps as seen in a [recent tweet on Twitter](https://twitter.com/migueldeicaza/status/11836097616).
 
 [![monotouch](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AppleBecomingtheNewMicrosoft_8EC1/monotouch_thumb.png "monotouch")](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/AppleBecomingtheNewMicrosoft_8EC1/monotouch_2.png)
 
 We should be critical of Apple here and nip this now, before iPhone OS 4.0 comes out and we are forced to change programming languages to what Apple requires or be out of the game.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4f8c0c4b-e960-469d-b78f-67e8f7a5734f" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Apple](http://technorati.com/tags/Apple),[Microsoft](http://technorati.com/tags/Microsoft),[iPhone](http://technorati.com/tags/iPhone),[iPad](http://technorati.com/tags/iPad)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4f8c0c4b-e960-469d-b78f-67e8f7a5734f" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Apple](https://technorati.com/tags/Apple),[Microsoft](https://technorati.com/tags/Microsoft),[iPhone](https://technorati.com/tags/iPhone),[iPad](https://technorati.com/tags/iPad)</div>

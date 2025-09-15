@@ -4,7 +4,7 @@ title: 'Microsoft SQL Server 2005 Replication Automation Resources for SQL Manag
 date: '2007-08-22T23:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=133'
+guid: 'https://localhost/~rbazinet/?p=133'
 permalink: /sql-server/microsoft-sql-server-2005-replication-automation-resources-for-sql-management-objects-smo/
 categories:
     - 'SQL Server'
@@ -30,7 +30,7 @@ So, the way I approached this problem was to be able to easily remove replicated
 
 I started looking at using SQL Management Objects (SMO), which I had used on another project for automating other SQL tasks. I discovered SMO has a subset of classes call Replication Management Objects (RMO) that are designed just for this task. The only problem I faced was learning how to use them in a timely manner and be able to write the code to do all that was needed.
 
-The key part to learning to use RMO is to learn how SQL Server Replication is designed and [how it works](http://msdn2.microsoft.com/en-us/library/ms151847.aspx). Once this is understood, it is pretty easy to see how RMO maps to how SQL implements replication.
+The key part to learning to use RMO is to learn how SQL Server Replication is designed and [how it works](https://msdn2.microsoft.com/en-us/library/ms151847.aspx). Once this is understood, it is pretty easy to see how RMO maps to how SQL implements replication.
 
 It took a bit of effort to find the right resources on the web to learn how RMO works and locate the resources to turn to if I had a question. The main point of this post is not what I did but more of the resources I used to build my solution.
 
@@ -38,18 +38,18 @@ It took a bit of effort to find the right resources on the web to learn how RMO 
 
 Most of the information I found and used was directly from Microsoft's MSDN web site but provided here to help group them together.
 
-[Transactional Replication Overview](http://msdn2.microsoft.com/en-us/library/ms151176.aspx) - learn what it is all about.
+[Transactional Replication Overview](https://msdn2.microsoft.com/en-us/library/ms151176.aspx) - learn what it is all about.
 
-[Configuring Replication (RMO Programming)](http://msdn2.microsoft.com/en-us/library/ms146930.aspx) - probably the best resource for writing an RMO application based on C# or VB.NET.
+[Configuring Replication (RMO Programming)](https://msdn2.microsoft.com/en-us/library/ms146930.aspx) - probably the best resource for writing an RMO application based on C# or VB.NET.
 
-[Microsoft SQL Server Replication Forums](http://forums.microsoft.com/MSDN/ShowForum.aspx?ForumID=90&SiteID=1) - good to read about those who have done it and get answers relatively fast.
+[Microsoft SQL Server Replication Forums](https://forums.microsoft.com/MSDN/ShowForum.aspx?ForumID=90&SiteID=1) - good to read about those who have done it and get answers relatively fast.
 
-[MSDN Magazine Article](http://msdn.microsoft.com/msdnmag/issues/07/06/DataPoints/) - great way to get started.
+[MSDN Magazine Article](https://msdn.microsoft.com/msdnmag/issues/07/06/DataPoints/) - great way to get started.
 
-[Making Schema Changes on Publication Databases](http://technet.microsoft.com/en-us/library/ms151870.aspx) - what you need to understand.
+[Making Schema Changes on Publication Databases](https://technet.microsoft.com/en-us/library/ms151870.aspx) - what you need to understand.
 
-The tool I use for comparing databases is [SQL Compare](http://www.red-gate.com/products/SQL_Compare/index.htm) from Red Gate Software. This tool is great, easy to use and allows the user to save it's results in a SQL script. Red Gate has released [SQL Toolkit](http://www.red-gate.com/products/SQL_Toolkit/index.htm) which allows for managing replication and some other things. I have not looked extensively at this product but it may wrap RMO and make it a bit easier to automate your RMO tasks.
+The tool I use for comparing databases is [SQL Compare](https://www.red-gate.com/products/SQL_Compare/index.htm) from Red Gate Software. This tool is great, easy to use and allows the user to save it's results in a SQL script. Red Gate has released [SQL Toolkit](https://www.red-gate.com/products/SQL_Toolkit/index.htm) which allows for managing replication and some other things. I have not looked extensively at this product but it may wrap RMO and make it a bit easier to automate your RMO tasks.
 
 All in all RMO is a great way to programmatically manage replication in your application. It does have a bit of a learning curve, as does any new technology, but once over the curve it works really well.
 
-<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Microsoft](http://technorati.com/tags/Microsoft), [SQL Server 2005](http://technorati.com/tags/SQL%20Server%202005), [.NET](http://technorati.com/tags/.NET)</div>
+<div class="wlWriterSmartContent" style="display:inline;margin:0;padding:0;">Technorati Tags: [Microsoft](https://technorati.com/tags/Microsoft), [SQL Server 2005](https://technorati.com/tags/SQL%20Server%202005), [.NET](https://technorati.com/tags/.NET)</div>

@@ -68,7 +68,7 @@ extconf failed, exit code 1
 
 After a bit of trying to install the gem by setting the `C_INCLUDE_PATH` to the location of the MagickWand.h file, the gem could still not be installed. A Google search revealed the solution. It seems the RMagick gem (v 2.16.0 as of this writing) is not compatible with ImageMagick 7.
 
-The [StackOverflow article points out](http://stackoverflow.com/questions/41647979/imagemagick-7-with-rmagick-2-16-on-macos-sierra-cant-find-magickwand-h) the necessary steps to get it to work:
+The [StackOverflow article points out](https://stackoverflow.com/questions/41647979/imagemagick-7-with-rmagick-2-16-on-macos-sierra-cant-find-magickwand-h) the necessary steps to get it to work:
 
 > Install version 6 (uninstall existing imagemagick if needed):
 > 

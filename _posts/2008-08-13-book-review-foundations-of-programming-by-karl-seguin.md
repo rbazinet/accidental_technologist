@@ -4,7 +4,7 @@ title: 'Book Review : Foundations of Programming by Karl Seguin'
 date: '2008-08-13T09:00:02-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=291'
+guid: 'https://localhost/~rbazinet/?p=291'
 permalink: /book-reviews/book-review-foundations-of-programming-by-karl-seguin/
 dsq_thread_id:
     - '95913300'
@@ -12,7 +12,7 @@ categories:
     - 'Book Reviews'
 ---
 
-I [blogged recently](https://accidentaltechnologist.com/programming/karl-seguin-giving-away-foundations-of-programming-ebook/) about [Karl Seguin's](http://codebetter.com/blogs/karlseguin/default.aspx) free eBook titled [Foundations of Programming](http://codebetter.com/blogs/karlseguin/archive/2008/06/24/foundations-of-programming-ebook.aspx). I took some time recently to give it a read and wanted to share a few thoughts about this fundamental book. [![cover](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BookReviewFoundationofProgrammbyKarlSegu_BFD6/cover_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BookReviewFoundationofProgrammbyKarlSegu_BFD6/cover_2.jpg)
+I [blogged recently](https://accidentaltechnologist.com/programming/karl-seguin-giving-away-foundations-of-programming-ebook/) about [Karl Seguin's](https://codebetter.com/blogs/karlseguin/default.aspx) free eBook titled [Foundations of Programming](https://codebetter.com/blogs/karlseguin/archive/2008/06/24/foundations-of-programming-ebook.aspx). I took some time recently to give it a read and wanted to share a few thoughts about this fundamental book. [![cover](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BookReviewFoundationofProgrammbyKarlSegu_BFD6/cover_thumb.jpg)](https://accidentaltechnologist.com/files/media/image/WindowsLiveWriter/BookReviewFoundationofProgrammbyKarlSegu_BFD6/cover_2.jpg)
 
 I have to say it was well worth the time, I was pleasantly surprised how well laid out each chapter was and the depth of the content. This book is perfectly suited toward those developers curious what ALT.NET is, the tools used by the ALT.NET crowd or just simply a solid foundation for software development today. The first chapter goes into what ALT.NET is, the goals and the future which should clear up any confusion by people first hearing the term.
 
@@ -156,4 +156,4 @@ I cannot say enough good things about what Karl has put into his ebook. I don't 
 
 I hope Karl continues to write some additional ebooks, maybe a few with more details of NHibernate, Unit Testing and Dependency Injection frameworks.
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d748d4e4-856d-4ac1-b3b0-134830fea249" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [ALT.NET](http://technorati.com/tags/ALT.NET),[Book Review](http://technorati.com/tags/Book%20Review),[.NET](http://technorati.com/tags/.NET),[NHiberate](http://technorati.com/tags/NHiberate),[StructureMap](http://technorati.com/tags/StructureMap)</div>
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d748d4e4-856d-4ac1-b3b0-134830fea249" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [ALT.NET](https://technorati.com/tags/ALT.NET),[Book Review](https://technorati.com/tags/Book%20Review),[.NET](https://technorati.com/tags/.NET),[NHiberate](https://technorati.com/tags/NHiberate),[StructureMap](https://technorati.com/tags/StructureMap)</div>

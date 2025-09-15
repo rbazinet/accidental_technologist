@@ -16,9 +16,9 @@ tags:
     - Tapity
 ---
 
-Jeremy over at [Tapity](http://tapity.com/) had a great post yesterday talking about the [very same topic I blogged about](https://accidentaltechnologist.com/apple/digging-the-gold-from-the-apple-app-store/); paid apps. Tapity makes much of its living on paid applications like Languages, Grades and Hours and they face the reality.
+Jeremy over at [Tapity](https://tapity.com/) had a great post yesterday talking about the [very same topic I blogged about](https://accidentaltechnologist.com/apple/digging-the-gold-from-the-apple-app-store/); paid apps. Tapity makes much of its living on paid applications like Languages, Grades and Hours and they face the reality.
 
-[Yep, paid apps are dead ? Tapity](http://tapity.com/yep-paid-apps-are-dead/).
+[Yep, paid apps are dead ? Tapity](https://tapity.com/yep-paid-apps-are-dead/).
 
 > By piecing together a few anecdotes I have heard, the top ten best-selling apps are selling roughly 25% as many copies as they did a year ago. If a #5 app sold 16,000 copies a day a year ago, #5 might only sell 4000 copies a day today. Now, that may still sound like a lot but apps are lucky to be #5 for a few days before dropping back into the abyss of obscurity. I?m not saying those statistics are by any means exact or even accurate but this is the kind of scale we are talking about. It is pretty drastic.
 > 

@@ -17,7 +17,7 @@ tags:
 
 I recently had a need to setup a new instance of MySQL on my Mac. ?I decided to use MySQL 5.5.x since it was, you know, the latest and greatest. ?Only to later find out I needed to use MySQL 5.1 instead. ?Time to downgrade.
 
-Since I had used the 64-bit DMG from the [MySQL Community Server site](http://www.mysql.com/downloads/mysql/), the files were installed to default locations, [the Oracle documents indicate simply installing right over the current install will work fine](http://download.oracle.com/docs/cd/E17952_01/refman-5.5-en/downgrading.html):
+Since I had used the 64-bit DMG from the [MySQL Community Server site](https://www.mysql.com/downloads/mysql/), the files were installed to default locations, [the Oracle documents indicate simply installing right over the current install will work fine](https://download.oracle.com/docs/cd/E17952_01/refman-5.5-en/downgrading.html):
 
 > If you are downgrading within the same release series (for example, from 5.1.13 to 5.1.12) the general rule is that you just have to install the new binaries on top of the old ones. There is no need to do anything with the databases. As always, however, it is always a good idea to make a backup.
 

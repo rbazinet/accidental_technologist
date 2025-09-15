@@ -19,7 +19,7 @@ tags:
     - iOS
 ---
 
-Apple announced yesterday they [launched subscriptions in the App Store](http://www.apple.com/pr/library/2011/02/15appstore.html). ?It's not entirely a surprise to most developers ever since the release of The Daily by News Corp which offers in-app purchasing.
+Apple announced yesterday they [launched subscriptions in the App Store](https://www.apple.com/pr/library/2011/02/15appstore.html). ?It's not entirely a surprise to most developers ever since the release of The Daily by News Corp which offers in-app purchasing.
 
 ### Interpretation
 

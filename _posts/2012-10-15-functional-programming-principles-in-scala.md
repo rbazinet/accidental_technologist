@@ -24,7 +24,7 @@ tags:
 
 I subscribe to the school of thought that learning should never end, and I also believe that as a software developer it's important to learn new programming languages yearly. ?
 
-After learning about [Coursera](https://www.coursera.org/) and hearing that Martin Odersky was going to be teach a course covering functional programming titled?[**Functional Programming Principles in Scala**](https://www.coursera.org/course/progfun), I had to sign up. ?The class is a 7 week long introduction to functional programming principals using the [Scala](http://www.scala-lang.org/) programming language.
+After learning about [Coursera](https://www.coursera.org/) and hearing that Martin Odersky was going to be teach a course covering functional programming titled?[**Functional Programming Principles in Scala**](https://www.coursera.org/course/progfun), I had to sign up. ?The class is a 7 week long introduction to functional programming principals using the [Scala](https://www.scala-lang.org/) programming language.
 
 > ### Course Syllabus
 > 

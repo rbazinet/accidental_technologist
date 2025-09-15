@@ -4,7 +4,7 @@ title: 'Installing Ubuntu 8.10 on the Dell Mini'
 date: '2008-11-28T21:08:26-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=324'
+guid: 'https://localhost/~rbazinet/?p=324'
 permalink: /technology/installing-ubuntu-8-10-on-the-dell-mini/
 dsq_thread_id:
     - '96001909'
@@ -18,15 +18,15 @@ After working with this netbook for a month or so I decided I really wanted some
 
 There are a few logistical challenges with putting a new operating system on the Dell Mini, primarily because the Mini does not have a CDROM drive, which makes it a bit of a challenge. I had read about some people using a USB key as an external hard drive, boot off of it and install an operating system. I had never done this, so I was a little lost as how to make this happen.
 
-As usual, Google to the rescue, found this great utility called [UNetbootin](http://unetbootin.sourceforge.net/). The UNetbootin site says:
+As usual, Google to the rescue, found this great utility called [UNetbootin](https://unetbootin.sourceforge.net/). The UNetbootin site says:
 
 > UNetbootin allows for the installation of various Linux/BSD distributions to a partition or USB drive, so it's no different from a standard install, only it doesn't need a CD. It can create a dual-boot install, or replace the existing OS entirely.
 
 This sounded like it would fit the need perfectly. I wanted to install Ubuntu 8.10 and the latest version handles it and many others:
 
-> The current version has built-in support for the following distributions, though [installing other distributions](http://unetbootin.sourceforge.net/#other) is also supported:
+> The current version has built-in support for the following distributions, though [installing other distributions](https://unetbootin.sourceforge.net/#other) is also supported:
 > 
-> - [Ubuntu](http://www.ubuntu.com/) (and official derivatives) 
+> - [Ubuntu](https://www.ubuntu.com/) (and official derivatives) 
 >     - 6.06 LTS
 >     - 6.10
 >     - 7.04
@@ -34,63 +34,63 @@ This sounded like it would fit the need perfectly. I wanted to install Ubuntu 8.
 >     - 8.04 LTS
 >     - 8.10
 >     - Daily CD Images
-> - [Debian](http://www.debian.org/)
+> - [Debian](https://www.debian.org/)
 >     - Stable/Etch
 >     - Testing/Lenny
 >     - Unstable/Sid
-> - [Linux Mint](http://linuxmint.com/)
+> - [Linux Mint](https://linuxmint.com/)
 >     - 3.1
 >     - 4.0
 >     - 5-r1
-> - [openSUSE](http://www.opensuse.org/)
+> - [openSUSE](https://www.opensuse.org/)
 >     - 10.2
 >     - 10.3
 >     - 11.0
 >     - Factory
-> - [Arch Linux](http://www.archlinux.org/)
+> - [Arch Linux](https://www.archlinux.org/)
 >     - 2007.08
-> - [Damn Small Linux](http://www.damnsmalllinux.org/)
+> - [Damn Small Linux](https://www.damnsmalllinux.org/)
 >     - 4.4
-> - [SliTaz](http://www.slitaz.org/en/)
+> - [SliTaz](https://www.slitaz.org/en/)
 >     - Stable
 >     - Cooking
-> - [Puppy Linux](http://www.puppylinux.org/)
+> - [Puppy Linux](https://www.puppylinux.org/)
 >     - 4.00
-> - [FreeBSD](http://www.freebsd.org/)
+> - [FreeBSD](https://www.freebsd.org/)
 >     - 6.3
 >     - 7.0
-> - [NetBSD](http://www.netbsd.org/)
+> - [NetBSD](https://www.netbsd.org/)
 >     - 4.0
 >  
-> - [Fedora](http://fedoraproject.org/)
+> - [Fedora](https://fedoraproject.org/)
 >     - 7
 >     - 8
 >     - 9
 >     - Rawhide
-> - [PCLinuxOS](http://www.pclinuxos.com/)
+> - [PCLinuxOS](https://www.pclinuxos.com/)
 >     - 2007
 >     - 2008
-> - [Gentoo](http://www.gentoo.org/)
+> - [Gentoo](https://www.gentoo.org/)
 >     - 2007.0
 >     - 2008.0
-> - [Zenwalk](http://www.zenwalk.org/)
+> - [Zenwalk](https://www.zenwalk.org/)
 >     - 5.2
-> - [Slax](http://www.slax.org/)
+> - [Slax](https://www.slax.org/)
 >     - 6
-> - [Dreamlinux](http://www.dreamlinux.com.br/)
+> - [Dreamlinux](https://www.dreamlinux.com.br/)
 >     - 3.2
-> - [Elive](http://www.elivecd.org/)
+> - [Elive](https://www.elivecd.org/)
 >     - Development
-> - [CentOS](http://www.centos.org/)
+> - [CentOS](https://www.centos.org/)
 >     - 4
 >     - 5
-> - [Mandriva](http://www.mandriva.com/)
+> - [Mandriva](https://www.mandriva.com/)
 >     - 2007.1
 >     - 2008.0
 >     - 2008.1
-> - [FaunOS](http://www.faunos.com/)
+> - [FaunOS](https://www.faunos.com/)
 >     - 0.5.4
-> - [Frugalware Linux](http://frugalware.org/)
+> - [Frugalware Linux](https://frugalware.org/)
 >     - Stable
 >     - Testing
 >     - Current
@@ -112,9 +112,9 @@ Well, this is not a tutorial on installing Ubuntu so I won?t get into it actuall
  
 There is many how-tos popping up relating to Ubuntu on the Dell Mini. A couple of tutorials which I think help out quite a bit are:
 
-- [Installing Ubuntu Netbook Remix](http://www.ubuntumini.com/2008/10/installing-ubuntu-netbook-remix.html)
-- [Customizing Firefox for Netbooks](http://www.ubuntumini.com/2008/11/customizing-firefox-for-netbooks.html)
-- [Configure Synaptics Touchpad Ubuntu 8.10](http://www.ubuntumini.com/2008/11/configure-synaptics-touchpad-ubuntu-810.html)
+- [Installing Ubuntu Netbook Remix](https://www.ubuntumini.com/2008/10/installing-ubuntu-netbook-remix.html)
+- [Customizing Firefox for Netbooks](https://www.ubuntumini.com/2008/11/customizing-firefox-for-netbooks.html)
+- [Configure Synaptics Touchpad Ubuntu 8.10](https://www.ubuntumini.com/2008/11/configure-synaptics-touchpad-ubuntu-810.html)
  
 ### Conclusion
 
@@ -122,4 +122,4 @@ I could not be happier with this process, UNetbootin worked great and Ubuntu rec
 
 I plan to use the Dell Mini this way for writing and for some development work with Ruby and Rails. This system should have plenty of power for this using SQLite and either Vim or Emacs as my editor. This is still up in the air.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:51298a08-5011-498c-81a5-063c1aabb1f4" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Dell Mini](http://technorati.com/tags/Dell+Mini),[Ubuntu](http://technorati.com/tags/Ubuntu),[UNetbootin](http://technorati.com/tags/UNetbootin),[USB](http://technorati.com/tags/USB)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:51298a08-5011-498c-81a5-063c1aabb1f4" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [Dell Mini](https://technorati.com/tags/Dell+Mini),[Ubuntu](https://technorati.com/tags/Ubuntu),[UNetbootin](https://technorati.com/tags/UNetbootin),[USB](https://technorati.com/tags/USB)</div>

@@ -16,7 +16,7 @@ tags:
     - Gruber
 ---
 
-The latest episode of the [The Talk Show](http://www.muleradio.net/thetalkshow/64/), Gruber discusses his distaste for apps that ask for a rating. I found the view a bit disappointing. He has a lot of influence and is both a user and an app developer.
+The latest episode of the [The Talk Show](https://www.muleradio.net/thetalkshow/64/), Gruber discusses his distaste for apps that ask for a rating. I found the view a bit disappointing. He has a lot of influence and is both a user and an app developer.
 
 I can?t understand this adversity. A developer works hard and wants to know what a user thinks of their work. Is our time too much in demand to leave a bit of feedback? Ratings are supposed to have an effect how apps appear in the store, their rank and eventually their placement. An app without ratings is an app that may never be found, a possible lost soul.
 
@@ -24,11 +24,11 @@ I have responded in every way to the rating dialogs. If I don?t have time or hav
 
 This is but one problem with the App Store and users. Giving an application a rating or a review is not easy. ?A user has to go to iTunes and the App Store, find the app and rate it. ?It?s too much work.
 
-David Smith [has a thoughtful piece](http://david-smith.org/blog/2013/12/16/degradation-or-aspiration/) on his hopes for the future of the app store. I wish I had the same positive view of the future:
+David Smith [has a thoughtful piece](https://david-smith.org/blog/2013/12/16/degradation-or-aspiration/) on his hopes for the future of the app store. I wish I had the same positive view of the future:
 
 > I want to believe that the App Store is a special place. I want for it to be the singularly best venue for customers to come and find innovative, well designed, quality software. Software that pushes the boundaries of what is possible and continually amazes and delights its customers. I want for there to be an aspirational pull upwards on my own development. I want to feel like I need to work extra hard to make sure my apps meet the high standards my customers have been trained to expect.
 
-Gruber [had a follow-up to David?s post](http://daringfireball.net/linked/2013/12/16/degradation-or-aspiration) agreeing the App Store *and* iOS should feel special.
+Gruber [had a follow-up to David?s post](https://daringfireball.net/linked/2013/12/16/degradation-or-aspiration) agreeing the App Store *and* iOS should feel special.
 
 > It?s not just the App Store that we want to feel like a special place ? it?s iOS itself. Using iOS, on both the iPhone and iPad, dozens of times every day, for stretches long and short, should feel like a platform in pursuit of perfection. Having a de facto standard practice where apps badger you at seemingly random moments with pop-up ads prompting you to rate them is in contradiction to this ideal.
 

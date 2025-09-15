@@ -4,7 +4,7 @@ title: 'Fixing Uninitialized Constant MysqlCompat::MysqlRes Error on Snow Leopar
 date: '2009-11-25T17:01:00-05:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=388'
+guid: 'https://localhost/~rbazinet/?p=388'
 permalink: /apple/fixing-uninitialized-constant-mysqlcompatmysqlres-error-on-snow-leopard/
 dsq_thread_id:
     - '95925491'
@@ -20,7 +20,7 @@ Recently I ran into a problem on my MacBook Pro running Snow Leopard when trying
 uninitialized constant MysqlCompat::MysqlRes
 ```
 
-When trying to spin up a Rails application on my Mac. I am running Snow Leopard and already had the MySQL gem installed. A bit of searching around the web led to some information that this is an issue to do with the MySQL driver, in particular mysql-2.8.1. The explanation came from a [thread on StackOverflow.com](http://stackoverflow.com/questions/1332207/uninitialized-constant-mysqlcompatmysqlres-using-mms2r-gem):
+When trying to spin up a Rails application on my Mac. I am running Snow Leopard and already had the MySQL gem installed. A bit of searching around the web led to some information that this is an issue to do with the MySQL driver, in particular mysql-2.8.1. The explanation came from a [thread on StackOverflow.com](https://stackoverflow.com/questions/1332207/uninitialized-constant-mysqlcompatmysqlres-using-mms2r-gem):
 
 > As it turns out, that class should not exist; the error message is caused by a problem with the latest Mysql driver. mysql-2.8.1 looked for my libraries in a directory named with an extra level of 'mysql' at the end. For instance, my libraries (under MacOS X 10.5.8), are in /usr/local/mysql/lib, but the mysql.bundle library looks for the MySQL libraries at /usr/local/mysql/lib/mysql ... which is wrong.
 
@@ -39,4 +39,4 @@ sudo gem install --no-rdoc --no-ri -v=2.7 mysql -- \
   --with-mysql-config=/usr/local/mysql/bin/mysql_config
 ```
 
-<div>Firing up the Rails application worked like a champ after the gem installed. I would imagine there will be a fix for the MySQL gem 2.8.1 or maybe there is already a workaround I did not come across in my search. MySQL is working Snow Leopard for my Rails applications, so I am happy.</div><div> </div><div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24c06005-f898-4a32-813c-4d04095a0a77" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [MySQL](http://technorati.com/tags/MySQL),[MySQL Gem](http://technorati.com/tags/MySQL+Gem),[Ruby on Rails](http://technorati.com/tags/Ruby+on+Rails)</div>
+<div>Firing up the Rails application worked like a champ after the gem installed. I would imagine there will be a fix for the MySQL gem 2.8.1 or maybe there is already a workaround I did not come across in my search. MySQL is working Snow Leopard for my Rails applications, so I am happy.</div><div> </div><div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24c06005-f898-4a32-813c-4d04095a0a77" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [MySQL](https://technorati.com/tags/MySQL),[MySQL Gem](https://technorati.com/tags/MySQL+Gem),[Ruby on Rails](https://technorati.com/tags/Ruby+on+Rails)</div>

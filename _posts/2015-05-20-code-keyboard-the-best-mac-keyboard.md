@@ -31,13 +31,13 @@ I used to love the original IBM PC keyboard. You know the one, it was loud and h
 
 Apple once made a keyboard very similar the one from IBM, but those are also a thing of the past. I understand you can still find them from time-to-time on eBay.
 
-I remembered a [post by Jeff Atwood where he talked about his dissatisfaction with keyboards](http://blog.codinghorror.com/the-code-keyboard/), the solution?create his own. I never thought of creating my own but since Jeff is a developer, then maybe his wants were similar to mine. The result is [The Code Keyboard](https://codekeyboards.com/).
+I remembered a [post by Jeff Atwood where he talked about his dissatisfaction with keyboards](https://blog.codinghorror.com/the-code-keyboard/), the solution?create his own. I never thought of creating my own but since Jeff is a developer, then maybe his wants were similar to mine. The result is [The Code Keyboard](https://codekeyboards.com/).
 
 ## The Hardware
 
 ![code keyboard](/assets/img/2015/05/IMG_2669.jpg "IMG_2669.jpg")
 
-The keyboard is actually manufactured by?[WASD Keyboards](http://www.wasdkeyboards.com/), a company known for great keyboards with very flexible configurations.
+The keyboard is actually manufactured by?[WASD Keyboards](https://www.wasdkeyboards.com/), a company known for great keyboards with very flexible configurations.
 
 This keyboard is **HEAVY**. It feels like the IBM PC keyboards of old. A solid, beefy and well-built keyboard. The CODE website says it weighs 2.42 pounds, but I don?t know which version it refers to.
 

@@ -23,7 +23,7 @@ tags:
 
 ![9780262011532 medium](/assets/img/2012/08/9780262011532-medium.jpeg "9780262011532-medium.jpeg")
 
-I found out recently that one of the all-time classic book in computer science,?[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/), is [available in ePub format for free](http://mjtsai.com/blog/2010/07/03/sicp-epub/). ?The book is truly a classic but has been out of print for a long time now.
+I found out recently that one of the all-time classic book in computer science,?[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/), is [available in ePub format for free](https://mjtsai.com/blog/2010/07/03/sicp-epub/). ?The book is truly a classic but has been out of print for a long time now.
 
 For those unfamiliar with the text, from Amazon's site:
 
@@ -35,4 +35,4 @@ For those unfamiliar with the text, from Amazon's site:
 
 The contents of the book are timeless and give computer scientists young and old a solid level of knowledge. ?It uses Scheme, a dialect of Lisp, but that should not deter readers as the lessons are universal.
 
-The [full text is also available to be read online](http://mitpress.mit.edu/sicp/full-text/book/book.html) for those not able to read in ePub format. ?Great stuff!
+The [full text is also available to be read online](https://mitpress.mit.edu/sicp/full-text/book/book.html) for those not able to read in ePub format. ?Great stuff!

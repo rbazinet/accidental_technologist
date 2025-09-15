@@ -4,7 +4,7 @@ title: 'Reflections on Ruby for Projects'
 date: '2009-06-22T09:00:00-04:00'
 author: 'Rob Bazinet'
 layout: post
-guid: 'http://localhost/~rbazinet/?p=365'
+guid: 'https://localhost/~rbazinet/?p=365'
 permalink: /ruby/reflections-on-ruby-for-projects/
 dsq_thread_id:
     - '95925276'
@@ -12,13 +12,13 @@ categories:
     - Ruby
 ---
 
-[Martin Fowler recently published an article](http://rethink.unspace.ca/2009/6/12/ruby-at-thoughtworks) recently looking back at projects which ThoughtWorks chose to use Ruby as the programming language.
+[Martin Fowler recently published an article](https://rethink.unspace.ca/2009/6/12/ruby-at-thoughtworks) recently looking back at projects which ThoughtWorks chose to use Ruby as the programming language.
 
-The article reminded me of path I have traveled, coming from a background in C/C++ but moving to using ASP.NET/C# and [Ruby on Rails](http://rubyonrails.org) for various projects. Running a small software consultancy I don’t always have the opportunity to choose the platform or language to use, the decision is often made by the technology the company has standardized on, which could be Windows or Linux.
+The article reminded me of path I have traveled, coming from a background in C/C++ but moving to using ASP.NET/C# and [Ruby on Rails](https://rubyonrails.org) for various projects. Running a small software consultancy I don’t always have the opportunity to choose the platform or language to use, the decision is often made by the technology the company has standardized on, which could be Windows or Linux.
 
 Many of Martin’s points ring true in what I have found working on projects in Ruby versus other languages.
 
-It’s often the case that projects we take on have very small teams, sometimes 2-3 developers, sometimes 1. When teams are small it can be hard to feel like huge leaps in progress are being made. The tools and frameworks we use at [Still River Software](http://stillriversoftware.com), often are what makes the difference.
+It’s often the case that projects we take on have very small teams, sometimes 2-3 developers, sometimes 1. When teams are small it can be hard to feel like huge leaps in progress are being made. The tools and frameworks we use at [Still River Software](https://stillriversoftware.com), often are what makes the difference.
 
 Over the years of creating websites for clients we initially used ASP.NET and C# as our tool of choice because of its broad support and my personal experience. This has changed over the past couple years with us moving projects to Ruby on Rails. As Martin puts it:
 
@@ -46,7 +46,7 @@ This is not a knock on ASP.NET. ASP.NET allows the developers and architects wid
 
 ASP.NET has little support for this, even though the community is growing the ability to easily grab third-party open tools is very limited.
 
-**Deployment** – the deployment story on Rails is pretty much one-sided using [Capistrano](http://www.capify.org/). Capistrano is a great tool to allow developers to create scripts in Ruby to manage all deployment aspects with a simple command. The script takes a bit to create but a wide range of examples are easily available.
+**Deployment** – the deployment story on Rails is pretty much one-sided using [Capistrano](https://www.capify.org/). Capistrano is a great tool to allow developers to create scripts in Ruby to manage all deployment aspects with a simple command. The script takes a bit to create but a wide range of examples are easily available.
 
 Deploying an ASP.NET application has always been painful and way too manual for my taste, maybe I am doing it wrong. If there existed a tool like Capistrano I would have used it.
 
@@ -58,4 +58,4 @@ This not a Ruby on Rails vs. ASP.NET argument and I don’t want to turn it into
 
 Martin’s article raises some very good and healthy points as it stands today. The conversation may change in 5 years, who knows, but today the story is very clear to us, using Ruby on Rails we can get results to our clients faster. Faster to convey intent, faster to iterate and faster to deploy, all for less money because we are spending less time on things that shouldn’t matter.
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:1b9b3f5b-c6e2-4426-9e55-5ee1a6d3a547" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [Ruby](http://technorati.com/tags/Ruby),[Ruby on Rails](http://technorati.com/tags/Ruby+on+Rails),[ThoughtWorks](http://technorati.com/tags/ThoughtWorks)</div>
+<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:1b9b3f5b-c6e2-4426-9e55-5ee1a6d3a547" style="margin: 0px; padding: 0px; display: inline; float: none;">Technorati Tags: [Ruby](https://technorati.com/tags/Ruby),[Ruby on Rails](https://technorati.com/tags/Ruby+on+Rails),[ThoughtWorks](https://technorati.com/tags/ThoughtWorks)</div>

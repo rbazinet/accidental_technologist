@@ -15,9 +15,9 @@ tags:
     - 'Apple iPad'
 ---
 
-When [Apple announced the iPad Air 2 at it?s press event on October 16, 2014](http://www.apple.com/apple-events/2014-oct-event/), I watched with interest to see what the new device had under the hood. ?My current iPad Air constantly crashed (out-of-memory errors) running Safari with iOS 7 and I had been hoping they would bump the memory some. ?The event disappointed and did not mention anything about more memory.
+When [Apple announced the iPad Air 2 at it?s press event on October 16, 2014](https://www.apple.com/apple-events/2014-oct-event/), I watched with interest to see what the new device had under the hood. ?My current iPad Air constantly crashed (out-of-memory errors) running Safari with iOS 7 and I had been hoping they would bump the memory some. ?The event disappointed and did not mention anything about more memory.
 
-No where on the [iPad Air 2 Tech Specs page](http://www.apple.com/ipad-air-2/specs/) can I find a single mention of memory. I decided to order one anyway. ?The updated processor, Touch ID and other sensors made it hard to refuse. ?I order the 128G space gray model with only WiFi this time, no cellular service. ?If I need, I can use my iPhone cell service and save $20 a month.
+No where on the [iPad Air 2 Tech Specs page](https://www.apple.com/ipad-air-2/specs/) can I find a single mention of memory. I decided to order one anyway. ?The updated processor, Touch ID and other sensors made it hard to refuse. ?I order the 128G space gray model with only WiFi this time, no cellular service. ?If I need, I can use my iPhone cell service and save $20 a month.
 
 It came in only 6 days after the announcement and it?s a beautiful device and does not disappoint in the hardware department. Just so other can confirm what rumors have mentioned:
 

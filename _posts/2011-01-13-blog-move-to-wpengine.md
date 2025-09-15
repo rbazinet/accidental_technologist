@@ -33,6 +33,6 @@ These are all the things I don?t want to have to worry about and don?t have the 
 
 So as of January 12th, this blog now runs on WPEngine.? Oh, they also offer expert support and I can vouch for it.? I took full advantage of it after totally hosing up importing my current blog into the new site.? They helped me quickly and I was up and running in a matter of a couple hours, it actually took the longest for the DNS changes to take effect.
 
-The [company consists of industry veterans](http://wpengine.com/about/) who are WordPress experts indeed.
+The [company consists of industry veterans](https://wpengine.com/about/) who are WordPress experts indeed.
 
 The site seems much snappier now and I don?t have to worry about CPU utilization on it any longer.

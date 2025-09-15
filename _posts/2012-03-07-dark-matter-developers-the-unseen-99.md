@@ -7,7 +7,7 @@ layout: post
 guid: 'https://accidentaltechnologist.com/?p=702'
 permalink: /programming/dark-matter-developers-the-unseen-99/
 redirect:
-    - 'http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx'
+    - 'https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx'
 s2mail:
     - 'yes'
 dsq_thread_id:
@@ -20,7 +20,7 @@ tags:
     - programmers
 ---
 
-A really interesting and true [post today by Scott Hanselman](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) as he explains what Dark Matter Developers are and how a large percentage of developers can be classified this way:
+A really interesting and true [post today by Scott Hanselman](https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) as he explains what Dark Matter Developers are and how a large percentage of developers can be classified this way:
 
 > My coworker Damian Edwards and I hypothesize that there is another kind of developer than the ones we meet all the time. We call them Dark Matter Developers. They don't read a lot of blogs, they never write blogs, they don't go to user groups, they don't tweet or facebook, and you you don't often see them at large conferences. Where are these dark matter developers online?
 
