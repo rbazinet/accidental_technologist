@@ -11,7 +11,7 @@ layout: default
     {%- if page.categories.size > 0 -%}
     <div class="post-categories">
       {% for category in page.categories %}
-        <a href="/category/{{ category | slugify }}/" class="category-badge">{{ category }}</a>
+        <a href="/category/{{ category | category_slug }}/" class="category-badge">{{ category }}</a>
       {% endfor %}
     </div>
     {%- endif -%}
