@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Posts in Tips"
+---
+
+<div class="archive-page">
+  <header class="archive-header">
+    <h1>Tips</h1>
+    <p>All posts in the Tips category</p>
+  </header>
+
+  <div class="archive-content">
+    <div class="archive-posts">
+      {% for post in site.categories['Tips'] %}
+        <article class="archive-post">
+          <time class="archive-date">{{ post.date | date: "%b %d, %Y" }}</time>
+          <h3 class="archive-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          {% if post.excerpt %}
+            <p class="archive-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</div>
