@@ -2,7 +2,11 @@
 (function() {
   // Check if URL has unwanted parameters
   var url = window.location.href;
-  var params = ['share', 'nb', 'utm_source', 'utm_medium', 'utm_campaign', 'fbclid'];
+  var params = [
+    'share', 'nb', 'utm_source', 'utm_medium', 'utm_campaign',
+    'fbclid', 'ref', 'ak_action', 'shared', 'msg', 'cat', 'p',
+    'wptouch_switch', 'hmsr', 'source', 'buffer'
+  ];
   var hasParams = false;
 
   for (var i = 0; i < params.length; i++) {
@@ -16,7 +20,12 @@
     // Get the clean URL without parameters
     var cleanUrl = url.split('?')[0];
 
-    // Redirect to clean URL
-    window.location.replace(cleanUrl);
+    // Use replaceState to maintain history
+    if (window.history && window.history.replaceState) {
+      window.history.replaceState({}, document.title, cleanUrl);
+    } else {
+      // Fallback for older browsers
+      window.location.replace(cleanUrl);
+    }
   }
 })();
