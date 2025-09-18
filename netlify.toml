@@ -247,16 +247,42 @@
   to = "/"
   status = 301
 
-# Redirect tag pages to homepage (since they're blocked by robots.txt)
+# Fix malformed pagination URLs from 500 errors
 [[redirects]]
-  from = "/tag/*"
-  to = "/"
+  from = "/page14/"
+  to = "/page/14/"
   status = 301
 
-# Redirect category pages to homepage (since they're blocked by robots.txt)
 [[redirects]]
-  from = "/category/*"
-  to = "/"
+  from = "/page37/"
+  to = "/page/37/"
+  status = 301
+
+[[redirects]]
+  from = "/page56/"
+  to = "/page/56/"
+  status = 301
+
+[[redirects]]
+  from = "/page32/"
+  to = "/page/32/"
+  status = 301
+
+[[redirects]]
+  from = "/page47/"
+  to = "/page/47/"
+  status = 301
+
+# Fix general malformed pagination pattern
+[[redirects]]
+  from = "/page:num/"
+  to = "/page/:num/"
+  status = 301
+
+# Fix specific 500 errors - WordPress search
+[[redirects]]
+  from = "/?s=*"
+  to = "/search/?q=:splat"
   status = 301
 
 # Redirect author pages to homepage
